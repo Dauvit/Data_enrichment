@@ -4,6 +4,8 @@ This git repository is intended to hold my contributions (code, data, docs, etc)
 
 ## Folders ##
 
+**data_visualisation:** e-mail and files from Jeremy setting out the use case for this task
+
 **visualisation_of_expertise:** work before the hackathon to prepare a matrix showing attendees’ skills
 
 **photos:** taken during the hackathon 
