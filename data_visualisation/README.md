@@ -1,7 +1,9 @@
 # Data visualisation #
 
-[Task group 1](http://wiki.pro-ibiosphere.eu/wiki/Task_Groups#Task_Group_1:_Data_Visualization) is working on data visualisation to meet Jeremy’s use case. His vision is set out in  `useCase.txt`, which guides you to the other files with sample data and outputs. Our task is to write the code that will automate that process.
+This git repository is for the [data visualisation task’s](http://wiki.pro-ibiosphere.eu/wiki/Task_Groups#Task_Group_1:_Data_Visualization) output from the [Data enrichment hackathon](http://wiki.pro-ibiosphere.eu/wiki/Hackathon_%22Pimp_my_Data%22,_March_17-21_2014) at Naturalis, Monday 17 March 2014 to Friday 21 March 2014.
 
-## Other information ##
+## Folders ##
 
-See [our wiki page](http://wiki.pro-ibiosphere.eu/wiki/Data_visualisation) for more information, currently being written during the hackathon so subject to change!
+**use_case:** e-mail and files from Jeremy setting out the use case for this task
+
+**test_pages:** experiments with JQPlot
