@@ -1,0 +1,2485 @@
+﻿<document ENCODING="UTF-8" checkinTime="1388918433157" checkinUser="jeremy" checkoutTime="1389011722212" checkoutUser="jeremy" docId="6F84371B5A7B1F5F50C7FC7C8426CB78" docName="zt02739p050.xml" updateTime="1388918433157" updateUser="jeremy">
+<mods:mods>
+<mods:titleInfo>
+<mods:title>Reuniting males and females: redescriptions of Nuisiana arboris (Marples 1959) and Cambridgea reinga Forster &amp; Wilton 1973 (Araneae: Desidae, Stiphidiidae)</mods:title>
+</mods:titleInfo>
+<mods:name>
+<mods:role>
+<mods:roleTerm>Author</mods:roleTerm>
+</mods:role>
+<mods:namePart>Cor J. Vink</mods:namePart>
+</mods:name>
+<mods:name>
+<mods:role>
+<mods:roleTerm>Author</mods:roleTerm>
+</mods:role>
+<mods:namePart>Brian M. Fitzgerald</mods:namePart>
+</mods:name>
+<mods:name>
+<mods:role>
+<mods:roleTerm>Author</mods:roleTerm>
+</mods:role>
+<mods:namePart>Phil J. Sirvid</mods:namePart>
+</mods:name>
+<mods:name>
+<mods:role>
+<mods:roleTerm>Author</mods:roleTerm>
+</mods:role>
+<mods:namePart>Nadine Dupérré</mods:namePart>
+</mods:name>
+<mods:typeOfResource>text</mods:typeOfResource>
+<mods:relatedItem>
+<mods:titleInfo>
+<mods:title>Zootaxa</mods:title>
+</mods:titleInfo>
+<mods:part>
+<mods:date>2011</mods:date>
+<mods:detail>
+<mods:number>2739</mods:number>
+</mods:detail>
+<mods:extent>
+<mods:start>41</mods:start>
+<mods:end>50</mods:end>
+</mods:extent>
+</mods:part>
+</mods:relatedItem>
+<mods:location>
+<mods:url>http://www.mapress.com/zootaxa/2011/f/zt02739p050.pdf</mods:url>
+</mods:location>
+<mods:classification>journal article</mods:classification>
+<mods:identifier>zt02739p050</mods:identifier>
+</mods:mods>
+<subSection _generate="added" pageId="0" pageNumber="41" type="multiple">
+<paragraph pageId="0" pageNumber="41" type="mainText">
+<pageBreakToken pageId="0" pageNumber="41" start="start">Reuniting</pageBreakToken>
+males and females: redescriptions of 
+<taxonomicName _rankHash="470922650" genus="Nuisiana" pageId="0" pageNumber="41" rank="species" species="arboris">Nuisiana arboris</taxonomicName>
+(Marples 1959)<br/>
+and 
+<taxonomicName _evidence="lexicon" _rankHash="139839699" authority="Forster &amp; Wilton" authorityName="Forster &amp; Wilton" genus="Cambridgea" pageId="0" pageNumber="41" rank="species" species="reinga">Cambridgea reinga Forster &amp; Wilton</taxonomicName>
+1973 (
+<taxonomicName _rankHash="914879051" higher="Araneae" pageId="0" pageNumber="41" rank="higher">Araneae</taxonomicName>
+: 
+<taxonomicName _rankHash="-1073282703" family="Desidae" pageId="0" pageNumber="41" rank="family">Desidae</taxonomicName>
+, 
+<taxonomicName _rankHash="-1664115667" family="Stiphidiidae" pageId="0" pageNumber="41" rank="family">Stiphidiidae</taxonomicName>
+)
+</paragraph>
+</subSection>
+<subSection _generate="added" pageId="0" pageNumber="41" type="multiple">
+<paragraph pageId="0" pageNumber="41" type="mainText">
+COR J. VINK 
+<sup pageId="0" pageNumber="41">125</sup>
+, BRIAN M. FITZGERALD 
+<sup pageId="0" pageNumber="41">3</sup>
+, PHIL J. SIRVID 
+<sup pageId="0" pageNumber="41">3</sup>
+&amp; NADINE 
+<normalizedToken originalValue="DUPÉRRÉ" pageId="0" pageNumber="41">DUPERRE</normalizedToken>
+<sup pageId="0" pageNumber="41">4</sup>
+</paragraph>
+</subSection>
+<subSection _generate="added" pageId="0" pageNumber="41" type="multiple">
+<paragraph pageId="0" pageNumber="41" type="mainText">
+<sup pageId="0" pageNumber="41">1</sup>
+Biosecurity Group, AgResearch, Private Bag 4749, Christchurch 8140, New Zealand. E-mail: cor.vink@agresearch.co.nz
+</paragraph>
+<paragraph pageId="0" pageNumber="41" type="mainText">
+<sup pageId="0" pageNumber="41">2</sup>
+Entomology Research Museum, PO Box 84, Lincoln University, Lincoln 7647, New Zealand.
+</paragraph>
+<paragraph pageId="0" pageNumber="41" type="mainText">
+<sup pageId="0" pageNumber="41">3</sup>
+Museum of New Zealand Te Papa Tongarewa, PO Box 467, Wellington 6140, New Zealand.
+</paragraph>
+<paragraph pageId="0" pageNumber="41" type="mainText">E-mail: bmfitzgerald@ezysurf.co.nz, phils@tepapa.govt.nz</paragraph>
+<paragraph pageId="0" pageNumber="41" type="mainText">
+<sup pageId="0" pageNumber="41">4</sup>
+Division of Invertebrate Zoology, American Museum of Natural History, Central Park West at 79th Street, New York New York 10024,
+</paragraph>
+<paragraph pageId="0" pageNumber="41" type="mainText">U.S.A. E-mail: nduperre@amnh.org</paragraph>
+<paragraph pageId="0" pageNumber="41" type="mainText">
+<sup pageId="0" pageNumber="41">5</sup>
+Corresponding author
+</paragraph>
+</subSection>
+<subSection _generate="added" pageId="0" pageNumber="41" type="abstract">
+<paragraph pageId="0" pageNumber="41" type="heading">Abstract</paragraph>
+<paragraph pageId="0" pageNumber="41" type="mainText">
+Two New Zealand endemic spider species, 
+<taxonomicName _rankHash="470922650" genus="Nuisiana" pageId="0" pageNumber="41" rank="species" species="arboris">Nuisiana arboris</taxonomicName>
+(Marples 1959) (
+<taxonomicName _rankHash="-1073282703" family="Desidae" pageId="0" pageNumber="41" rank="family">Desidae</taxonomicName>
+) and 
+<taxonomicName _evidence="lexicon" _rankHash="139839699" authority="Forster &amp; Wilton" authorityName="Forster &amp; Wilton" genus="Cambridgea" pageId="0" pageNumber="41" rank="species" species="reinga">Cambridgea reinga Forster &amp;<br/>
+Wilton</taxonomicName>
+1973 (
+<taxonomicName _rankHash="-1664115667" family="Stiphidiidae" pageId="0" pageNumber="41" rank="family">Stiphidiidae</taxonomicName>
+), are redescribed, including notes on their distribution and DNA sequences from the mitochondrial gene cytochrome c oxidase subunit 1. Based on morphological evidence and mitochondrial DNA sequences, 
+<taxonomicName _evidence="lexicon" _rankHash="1909042523" authority="Forster" authorityName="Forster" genus="Matachia" pageId="0" pageNumber="41" rank="species" species="magna">Matachia magna Forster</taxonomicName>
+1970 is a junior synonym of 
+<taxonomicName _rankHash="470922650" genus="Nuisiana" pageId="0" pageNumber="41" rank="species" species="arboris">Nuisiana arboris</taxonomicName>
+, and 
+<taxonomicName _evidence="lexicon" _rankHash="-1022078181" authority="Blest &amp; Vink" authorityName="Blest &amp; Vink" genus="Nanocambridgea" pageId="0" pageNumber="41" rank="species" species="grandis">Nanocambridgea grandis Blest &amp; Vink</taxonomicName>
+2000 is a<br/>
+junior synonym of 
+<taxonomicName _rankHash="1602747913" genus="Cambridgea" pageId="0" pageNumber="41" rank="species" species="reinga">Cambridgea reinga</taxonomicName>
+. Two forms of male morph in 
+<taxonomicName _evidence="lexicon" _rankHash="-579885337" genus="Cambridgea" pageId="0" pageNumber="41" rank="species" species="reinga">C. reinga</taxonomicName>
+are recorded.
+</paragraph>
+<paragraph pageId="0" pageNumber="41" type="mainText">
+Key words: cytochrome c oxidase subunit 1 (COI), DNA, 
+<taxonomicName _rankHash="359569118" genus="Matachia" pageId="0" pageNumber="41" rank="genus">Matachia</taxonomicName>
+, new synonymy, New Zealand, 
+<taxonomicName _rankHash="-124900067" genus="Nanocambridgea" pageId="0" pageNumber="41" rank="genus">Nanocambridgea</taxonomicName>
+</paragraph>
+</subSection>
+<subSection _generate="added" pageId="0" pageNumber="41" type="introduction">
+<paragraph pageId="0" pageNumber="41" type="heading">Introduction</paragraph>
+<paragraph pageId="0" pageNumber="41" type="mainText">
+New 
+<normalizedToken originalValue="Zealand’s" pageId="0" pageNumber="41">Zealand's</normalizedToken>
+spider fauna is diverse with an estimated 1990 species, of which 93% are endemic (Paquin et al.<br/>
+2010). Most of the 1126 named species were described during the last 60 years and about 60% were described by<br/>
+one man, Ray Forster (Patrick et al. 2000). The breadth of Forster's coverage meant that many species were<br/>
+described on the basis of very few specimens and so it is not surprising that many species are known only from<br/>
+males or females. As research on New 
+<normalizedToken originalValue="Zealand’s" pageId="0" pageNumber="41">Zealand's</normalizedToken>
+spider fauna continues, the missing sex of some species has been<br/>
+identified and described (e.g., Vink 2002; Fitzgerald &amp; Sirvid 2009). In other cases, males and females previously<br/>
+described as different species or in different genera have been recognised as belonging together. Here, for two species we unite males and females that had been placed in different genera.
+</paragraph>
+<paragraph pageId="0" pageNumber="41" type="mainText">
+During spider surveys in the Mercury Islands between 1995 and 2000, female 
+<taxonomicName _rankHash="470922650" genus="Nuisiana" pageId="0" pageNumber="41" rank="species" species="arboris">Nuisiana arboris</taxonomicName>
+(Marples<br/>
+1959), the type species of the monotypic genus 
+<taxonomicName _rankHash="-1920508516" genus="Nuisiana" pageId="0" pageNumber="41" rank="genus">Nuisiana</taxonomicName>
+Forster &amp; Wilton 1973, and male 
+<taxonomicName _evidence="lexicon" _rankHash="1909042523" authority="Forster" authorityName="Forster" genus="Matachia" pageId="0" pageNumber="41" rank="species" species="magna">Matachia magna Forster</taxonomicName>
+1970 (both in the family 
+<taxonomicName _rankHash="-1073282703" family="Desidae" pageId="0" pageNumber="41" rank="family">Desidae</taxonomicName>
+) were collected from natural and artificial shelters on Korapuki Island (Green<br/>
+2005). Specimens were sent to Ray Forster and he concluded (in litt. 23 July 1997) that the &quot; 
+<taxonomicName _rankHash="359569118" genus="Matachia" pageId="0" pageNumber="41" rank="genus">Matachia</taxonomicName>
+is the male<br/>
+of 
+<taxonomicName _rankHash="-1920508516" genus="Nuisiana" pageId="0" pageNumber="41" rank="genus">Nuisiana</taxonomicName>
+&quot; and that the two genera were still valid. Also, during fieldwork in Canterbury, a male 
+<taxonomicName _rankHash="-837405052" genus="Matachia" pageId="0" pageNumber="41" rank="species" species="magna">Matachia<br/>
+magna</taxonomicName>
+was found with a female 
+<taxonomicName _rankHash="470922650" genus="Nuisiana" pageId="0" pageNumber="41" rank="species" species="arboris">Nuisiana arboris</taxonomicName>
+in an artificial shelter (Bowie et al. 2006; Hodge et al. 2007)
+</paragraph>
+<paragraph pageId="0" pageNumber="41" type="mainText">
+During the identification of spiders collected recently in Te Paki Ecological District at the northern tip of<br/>
+Northland, it became apparent that two 
+<taxonomicName _rankHash="-1664115667" family="Stiphidiidae" pageId="0" pageNumber="41" rank="family">Stiphidiidae</taxonomicName>
+, 
+<taxonomicName _evidence="lexicon" _rankHash="139839699" authority="Forster &amp; Wilton" authorityName="Forster &amp; Wilton" genus="Cambridgea" pageId="0" pageNumber="41" rank="species" species="reinga">Cambridgea reinga Forster &amp; Wilton</taxonomicName>
+1973, known only from<br/>
+the female, and 
+<taxonomicName _evidence="lexicon" _rankHash="-1022078181" authority="Blest &amp; Vink" authorityName="Blest &amp; Vink" genus="Nanocambridgea" pageId="0" pageNumber="41" rank="species" species="grandis">Nanocambridgea grandis Blest &amp; Vink</taxonomicName>
+2000, known only from the male, may be the same species.<br/>
+The male and female specimens had the same colour pattern and were collected from the same localities, including<br/>
+a male and female collected in the same pitfall trap. The only other 
+<taxonomicName _rankHash="-1664115667" family="Stiphidiidae" pageId="0" pageNumber="41" rank="family">Stiphidiidae</taxonomicName>
+species collected in Te Paki Ecological District was 
+<taxonomicName _evidence="lexicon" _rankHash="1727189491" genus="Cambridgea" pageId="0" pageNumber="41" rank="species" species="foliata">C. foliata</taxonomicName>
+(L. Koch, 1872), which is much larger and found throughout the North Island and the<br/>
+north of the South Island.
+</paragraph>
+<paragraph pageId="0" pageNumber="41" type="mainText">To establish the synonymy of the specimens in question and to facilitate identification, we examined their morphology and a fragment of the mitochondrial gene, cytochrome c oxidase subunit 1 (COI).</paragraph>
+</subSection>
+<subSection _generate="added" pageId="1" pageNumber="42" type="materials_methods">
+<paragraph pageId="1" pageNumber="42" type="heading">
+<pageBreakToken pageId="1" pageNumber="42" start="start">Methods</pageBreakToken>
+</paragraph>
+<paragraph pageId="1" pageNumber="42" type="mainText">
+Specimens were examined in 80% ethanol with a dissection microscope. In order 
+<pageNumber ambiguity="1" fuzzyness="0" pageId="1" pageNumber="42" score="4" value="10">to</pageNumber>
+illustrate specimens, they were<br/>
+first photographed with a Nikon Coolpix 950 digital camera attached to a SMZ-U Nikon dissection microscope.<br/>
+The digital photos were then used to establish proportions and the illustrations were detailed and shaded by referring back to the structure under the microscope. Female internal genitalia were excised using a sharp entomological<br/>
+needle and cleared in lactic acid. All measurements are in millimetres and were made with a micrometer ruler fitted<br/>
+to the eyepiece of the microscope. The terms cephalothorax, abdomen and internal genitalia are used rather than<br/>
+prosoma, opisthosoma and vulva, respectively. The former terms are usual in New Zealand spider systematics (e.g.,<br/>
+Forster 1970; Forster &amp; Wilton 1973; Blest &amp; Vink 2000; Vink 2002; Fitzgerald &amp; Sirvid 2009) and are defined in<br/>
+Paquin et al. (2010). The term 'internal 
+<normalizedToken originalValue="genitalia’" pageId="1" pageNumber="42">genitalia'</normalizedToken>
+refers to the spermatheca, copulatory and fertilisation ducts.
+</paragraph>
+<paragraph pageId="1" pageNumber="42" type="mainText">Specimens were examined from the Entomology Research Museum, Lincoln University (LUNZ), the Museum<br/>
+of New Zealand Te Papa Tongarewa, Wellington (MONZ) and the Auckland Museum, Auckland (AMNZ). The<br/>
+New Zealand region names follow Crosby et al. (1998).</paragraph>
+<paragraph pageId="1" pageNumber="42" type="mainText">
+To make DNA sequence comparisons between specimens of 
+<taxonomicName _rankHash="-837405052" genus="Matachia" pageId="1" pageNumber="42" rank="species" species="magna">Matachia magna</taxonomicName>
+and 
+<taxonomicName _rankHash="470922650" genus="Nuisiana" pageId="1" pageNumber="42" rank="species" species="arboris">Nuisiana arboris</taxonomicName>
+, and<br/>
+between 
+<taxonomicName _rankHash="1602747913" genus="Cambridgea" pageId="1" pageNumber="42" rank="species" species="reinga">Cambridgea reinga</taxonomicName>
+and 
+<taxonomicName _rankHash="1789663027" genus="Nanocambridgea" pageId="1" pageNumber="42" rank="species" species="grandis">Nanocambridgea grandis</taxonomicName>
+, we used the mitochondrial gene cytochrome c oxidase<br/>
+subunit 1 (COI) as it is one of the fastest evolving mitochondrial markers and has been used to examine genetic differences between spider species and populations (e.g., Vink &amp; Paterson 2003; Paquin &amp; Hedin 2004; Ayoub et al.<br/>
+2005; Vink et al. 2008). We sequenced COI from specimens of 
+<taxonomicName _rankHash="-837405052" genus="Matachia" pageId="1" pageNumber="42" rank="species" species="magna">Matachia magna</taxonomicName>
+and 
+<taxonomicName _rankHash="470922650" genus="Nuisiana" pageId="1" pageNumber="42" rank="species" species="arboris">Nuisiana arboris</taxonomicName>
+from near<br/>
+Whangarei [35°51.84'S, 174°10.15'E], Northland, New Zealand, and 
+<taxonomicName _rankHash="1602747913" genus="Cambridgea" pageId="1" pageNumber="42" rank="species" species="reinga">Cambridgea reinga</taxonomicName>
+and 
+<taxonomicName _rankHash="1789663027" genus="Nanocambridgea" pageId="1" pageNumber="42" rank="species" species="grandis">Nanocambridgea<br/>
+grandis</taxonomicName>
+from the Te Paki Ecological District, Northland, New Zealand. Specimens collected elsewhere in New<br/>
+Zealand had not been stored in optimal conditions for DNA preservation (Vink et al. 2005) and were unlikely to<br/>
+yield usable DNA. However, we did attempt to extract DNA from the preservative from a nine year old specimen<br/>
+of 
+<taxonomicName _rankHash="470922650" genus="Nuisiana" pageId="1" pageNumber="42" rank="species" species="arboris">Nuisiana arboris</taxonomicName>
+using the methods of Shokralla et al. (2010), but amplification of fragments of COI was unsuccessful.
+</paragraph>
+<paragraph pageId="1" pageNumber="42" type="mainText">
+DNA was extracted non-destructively (Paquin &amp; Vink 2009) from one to three legs using a ZR Genomic<br/>
+DNA 
+<normalizedToken originalValue="™" pageId="1" pageNumber="42">(TM)</normalizedToken>
+-Tissue MiniPrep kit (Zymo Research). The primers used to amplify and sequence an 844 base pair (bp)<br/>
+COI fragment from the 
+<taxonomicName _rankHash="-1664115667" family="Stiphidiidae" pageId="1" pageNumber="42" rank="family">Stiphidiidae</taxonomicName>
+specimens were C1-J-1718-spider (5'-GGNGGATTTGGAAATTGRTTRGT-<br/>
+TCC-3') (Vink et al. 2005) plus C1-N-2568 (5'-GCTACAACATAATAAGTATCATG-3') (Hedin &amp; Maddison<br/>
+2001). A 1054 bp COI fragment from the 
+<taxonomicName _rankHash="-1073282703" family="Desidae" pageId="1" pageNumber="42" rank="family">Desidae</taxonomicName>
+specimens was amplified and sequenced using the primers LCO-<br/>
+1490 (5'-GGTCAACAAATCATAAAGATATTGG-3') (Folmer et al. 1994) plus C1-N-2568. PCR amplification<br/>
+was performed using i-StarTaq 
+<normalizedToken originalValue="™" pageId="1" pageNumber="42">(TM)</normalizedToken>
+DNA Polymerase (iNtRON Biotechnology) in a Mastercycler® (Eppendorf)<br/>
+thermocycler with a cycling profile of 35 cycles of 94 °C denaturation (30 s), 48 °C annealing (30 s), 72 °C extension (1 min) with an initial denaturation of 3 min and a final extension of 5 min. Excess primers and salts were<br/>
+removed from the resulting double-stranded DNA using a DNA Clean &amp; Concentrator 
+<normalizedToken originalValue="™" pageId="1" pageNumber="42">(TM)</normalizedToken>
+Kit (Zymo Research).<br/>
+Purified PCR fragments of DNA were sequenced in both directions at either the Allan Wilson Centre Genome Service (Massey University) or Macrogen (Seoul). Sequence data were deposited in GenBank<br/>
+(www.ncbi.nlm.nih.gov/Genbank/). Sequences were edited and compared to each other using Sequencher 4.6<br/>
+(Gene Codes Corporation). Nucleotide differences between COI sequences were expressed as a percentage and<br/>
+compared to intraspecific and interspecific differences observed in other spiders (Robinson et al. 2009).
+</paragraph>
+</subSection>
+<subSection _generate="added" pageId="1" pageNumber="42" type="multiple">
+<paragraph pageId="1" pageNumber="42" type="mainText">Taxonomy</paragraph>
+<paragraph pageId="1" pageNumber="42" type="mainText">
+Family 
+<taxonomicName _rankHash="-1073282703" family="Desidae" pageId="1" pageNumber="42" rank="family">Desidae</taxonomicName>
+Pocock 1895
+</paragraph>
+<paragraph pageId="1" pageNumber="42" type="mainText">
+Genus 
+<taxonomicName _rankHash="-1920508516" genus="Nuisiana" pageId="1" pageNumber="42" rank="genus">Nuisiana</taxonomicName>
+Forster &amp; Wilton 1973
+</paragraph>
+<paragraph pageId="1" pageNumber="42" type="mainText">
+<taxonomicName _rankHash="-1920508516" genus="Nuisiana" pageId="1" pageNumber="42" rank="genus">Nuisiana</taxonomicName>
+Forster &amp; Wilton 1973: 301. Type species: 
+<taxonomicName _rankHash="470922650" genus="Nuisiana" pageId="1" pageNumber="42" rank="species" species="arboris">Nuisiana arboris</taxonomicName>
+(Marples 1959).
+</paragraph>
+</subSection>
+<treatment _generate="added" lastPageId="4" lastPageNumber="45" pageId="2" pageNumber="43">
+<subSubSection _generate="added" pageId="2" pageNumber="43" type="nomenclature">
+<paragraph pageId="2" pageNumber="43" type="mainText">
+<taxonomicName _rankHash="470922650" genus="Nuisiana" pageId="2" pageNumber="43" rank="species" species="arboris">
+<pageBreakToken pageId="2" pageNumber="43" start="start">Nuisiana</pageBreakToken>
+arboris
+</taxonomicName>
+(Marples 1959)
+</paragraph>
+</subSubSection>
+<subSubSection _generate="added" pageId="2" pageNumber="43" type="description">
+<paragraph pageId="2" pageNumber="43" type="mainText">(Figs 1-6)</paragraph>
+</subSubSection>
+<subSubSection _generate="added" pageId="2" pageNumber="43" type="reference_group">
+<paragraph pageId="2" pageNumber="43" type="mainText">
+<taxonomicName _evidence="lexicon" _rankHash="385013628" authority="Marples" authorityName="Marples" genus="Maniho" pageId="2" pageNumber="43" rank="species" species="arboris">Maniho arboris Marples</taxonomicName>
+1959: 352, fig. 
+<date pageId="2" pageNumber="43">III.6</date>
+(description of female).
+</paragraph>
+<paragraph pageId="2" pageNumber="43" type="mainText">
+<taxonomicName _evidence="lexicon" _rankHash="-673830900" authority="Marples" authorityName="Marples" genus="Forsterina" pageId="2" pageNumber="43" rank="species" species="arboris">
+Forsterina arboris (
+<authority pageId="2" pageNumber="43">Marples</authority>
+)
+</taxonomicName>
+; Lehtinen 1967: 235 (transfer to 
+<taxonomicName _rankHash="-416644731" genus="Forsterina" pageId="2" pageNumber="43" rank="genus">Forsterina</taxonomicName>
+).
+</paragraph>
+<paragraph pageId="2" pageNumber="43" type="mainText">
+<taxonomicName _evidence="lexicon" _rankHash="1909042523" authority="Forster" authorityName="Forster" genus="Matachia" pageId="2" pageNumber="43" rank="species" species="magna">Matachia magna Forster</taxonomicName>
+1970: 32, figs 53, 56 (description of male). NEW SYNONYMY.
+</paragraph>
+<paragraph pageId="2" pageNumber="43" type="mainText">
+<taxonomicName _evidence="lexicon" _rankHash="92458083" authority="Marples" authorityName="Marples" genus="Nuisiana" pageId="2" pageNumber="43" rank="species" species="arboris">
+Nuisiana arboris (
+<authority pageId="2" pageNumber="43">Marples</authority>
+)
+</taxonomicName>
+; Forster &amp; Wilton 1973: 302, figs 
+<date pageId="2" pageNumber="43" value="1060" valueMax="1062">1060-1062</date>
+(transfer to 
+<taxonomicName _rankHash="-1920508516" genus="Nuisiana" pageId="2" pageNumber="43" rank="genus">Nuisiana</taxonomicName>
+).
+</paragraph>
+</subSubSection>
+<subSubSection _generate="added" pageId="2" pageNumber="43" type="materials_examined">
+<paragraph pageId="2" pageNumber="43" type="mainText">
+<materialsCitation collectingDate="1956-05" collectionCode="Otago Museum, New Zealand" collectorName="R. R. Marples" country="New Zealand" latitude="-46.116665" location="Tuatapere" longLatPrecision="1" longitude="167.68333" pageId="2" pageNumber="43" specimenCount="1" specimenCountFemale="1" stateProvince="Southland" typeStatus="Holotype">
+Type specimens. 
+<typeStatus pageId="2" pageNumber="43">Holotype</typeStatus>
+♀, not examined, 
+<collectingCountry pageId="2" pageNumber="43" value="New Zealand">NEW ZEALAND</collectingCountry>
+: 
+<collectingRegion pageId="2" pageNumber="43">Southland</collectingRegion>
+: 
+<location country="New Zealand" latitude="-46.116665" longLatPrecision="1" longitude="167.68333" name="Tuatapere" pageId="2" pageNumber="43" stateProvince="Southland">Tuatapere</location>
+[
+<geoCoordinate direction="south" orientation="latitude" pageId="2" pageNumber="43" precision="1" value="-46.116665">46°07'S</geoCoordinate>
+, 
+<geoCoordinate direction="east" orientation="longitude" pageId="2" pageNumber="43" precision="1" value="167.68333">167°41'E</geoCoordinate>
+], 
+<date pageId="2" pageNumber="43" value="1956-05">
+<collectingDate pageId="2" pageNumber="43">May<br/>
+1956</collectingDate>
+</date>
+, 
+<collectorName pageId="2" pageNumber="43">R.R. Marples</collectorName>
+leg., 
+<collectionCode pageId="2" pageNumber="43">Otago Museum, New Zealand</collectionCode>
+</materialsCitation>
+.
+</paragraph>
+<paragraph pageId="2" pageNumber="43" type="mainText">
+<materialsCitation collectingDate="1943-06-22" collectionCode="Otago Museum, New Zealand" collectorName="R. R. Forster" country="New Zealand" latitude="-36.433334" location="Cuvier Island" longLatPrecision="1" longitude="175.76666" pageId="2" pageNumber="43" specimenCount="1" specimenCountMale="1" stateProvince="Coromandel" typeStatus="Holotype">
+<typeStatus pageId="2" pageNumber="43">Holotype</typeStatus>
+♂, 
+<taxonomicName _rankHash="-837405052" genus="Matachia" pageId="2" pageNumber="43" rank="species" species="magna">Matachia magna</taxonomicName>
+. Not examined. 
+<collectingCountry pageId="2" pageNumber="43" value="New Zealand">NEW ZEALAND</collectingCountry>
+: 
+<collectingRegion pageId="2" pageNumber="43">Coromandel</collectingRegion>
+: 
+<location country="New Zealand" latitude="-36.433334" longLatPrecision="1" longitude="175.76666" name="Cuvier Island" pageId="2" pageNumber="43" stateProvince="Coromandel">Cuvier Island</location>
+[
+<geoCoordinate direction="south" orientation="latitude" pageId="2" pageNumber="43" precision="1" value="-36.433334">36°26'S</geoCoordinate>
+,<br/>
+<geoCoordinate direction="east" orientation="longitude" pageId="2" pageNumber="43" precision="1" value="175.76666">175°46'E</geoCoordinate>
+], 
+<date pageId="2" pageNumber="43">
+<collectingDate pageId="2" pageNumber="43">22 June 1943</collectingDate>
+</date>
+, 
+<collectorName pageId="2" pageNumber="43">R.R. Forster</collectorName>
+leg., 
+<collectionCode pageId="2" pageNumber="43">Otago Museum, New Zealand</collectionCode>
+</materialsCitation>
+.
+</paragraph>
+</subSubSection>
+<subSubSection _generate="added" pageId="2" pageNumber="43" type="discussion">
+<paragraph pageId="2" pageNumber="43" type="mainText">
+We did not examine the 
+<typeStatus pageId="2" pageNumber="43">types</typeStatus>
+of 
+<taxonomicName _rankHash="109266356" genus="Maniho" pageId="2" pageNumber="43" rank="species" species="arboris">
+<misspelling pageId="2" pageNumber="43" type="misspelled">Maniho</misspelling>
+arboris
+</taxonomicName>
+and 
+<taxonomicName _rankHash="-837405052" genus="Matachia" pageId="2" pageNumber="43" rank="species" species="magna">Matachia magna</taxonomicName>
+; the illustrations and descriptions in<br/>
+Forster (1970) and Forster &amp; Wilton (1973) are clear enough to be sure of the species identity.
+</paragraph>
+</subSubSection>
+<subSubSection _generate="added" pageId="2" pageNumber="43" type="materials_examined">
+<paragraph pageId="2" pageNumber="43" type="mainText">
+<materialsCitation collectingDate="2001-06-13" collectionCode="LUNZ" collectorName="M. H. Bowie, C. J. Vink &amp; J. C. Banks" country="New Zealand" latitude="-43.670334" location="Orton Bradley Park" longLatPrecision="1" longitude="172.715" municipality="Orton Bradley Park" pageId="2" pageNumber="43" specimenCount="2" specimenCountFemale="1" specimenCountMale="1" stateProvince="Mid Canterbury">
+Other material examined. 
+<collectingCountry pageId="2" pageNumber="43" value="New Zealand">NEW ZEALAND</collectingCountry>
+: 
+<collectingRegion pageId="2" pageNumber="43">Mid Canterbury</collectingRegion>
+: 
+<location country="New Zealand" latitude="-43.670334" longLatPrecision="1" longitude="172.715" municipality="Orton Bradley Park" name="Orton Bradley Park" pageId="2" pageNumber="43" stateProvince="Mid Canterbury">Orton Bradley Park</location>
+[
+<geoCoordinate direction="south" orientation="latitude" pageId="2" pageNumber="43" precision="1" value="-43.670334">43°40.22'S</geoCoordinate>
+,<br/>
+<geoCoordinate direction="east" orientation="longitude" pageId="2" pageNumber="43" precision="1" value="172.715">172°42.90'E</geoCoordinate>
+], 
+<date pageId="2" pageNumber="43">
+<collectingDate pageId="2" pageNumber="43">13 June 2001</collectingDate>
+</date>
+, 
+<collectorName pageId="2" pageNumber="43">M.H. Bowie</collectorName>
+, 
+<collectorName pageId="2" pageNumber="43">C.J. Vink &amp; J.C. Banks</collectorName>
+leg., 1 ♂, 1 ♀ (
+<collectionCode pageId="2" pageNumber="43">LUNZ</collectionCode>
+)
+</materialsCitation>
+. 
+<materialsCitation collectingDate="2001-06-06" collectionCode="LUNZ" collectorName="M. H. Bowie, J. C. Banks" country="New Zealand" latitude="-43.286667" location="View Hill" longLatPrecision="1" longitude="172.0755" municipality="View Hill" pageId="2" pageNumber="43" specimenCount="1" specimenCountFemale="1" stateProvince="North Canterbury">
+<collectingRegion pageId="2" pageNumber="43">North Canterbury</collectingRegion>
+:<br/>
+<location country="New Zealand" latitude="-43.286667" longLatPrecision="1" longitude="172.0755" municipality="View Hill" name="View Hill" pageId="2" pageNumber="43" stateProvince="North Canterbury">View Hill</location>
+(
+<geoCoordinate direction="south" orientation="latitude" pageId="2" pageNumber="43" precision="1" value="-43.286667">43°17.20'S</geoCoordinate>
+, 
+<geoCoordinate direction="east" orientation="longitude" pageId="2" pageNumber="43" precision="1" value="172.0755">172°04.53'E</geoCoordinate>
+) 
+<date pageId="2" pageNumber="43">
+<collectingDate pageId="2" pageNumber="43">6 June 2001</collectingDate>
+</date>
+, 
+<collectorName pageId="2" pageNumber="43">M.H. Bowie</collectorName>
+&amp; 
+<collectorName pageId="2" pageNumber="43">J.C. Banks</collectorName>
+leg., 1 ♀ (
+<collectionCode pageId="2" pageNumber="43">LUNZ</collectionCode>
+)
+</materialsCitation>
+. 
+<materialsCitation collectingDate="1995-12-05" collectionCode="MONZ" collectorName="C. J. Green" country="New Zealand" latitude="-36.658333" location="Korapuki Island" longLatPrecision="1" longitude="175.85" pageId="2" pageNumber="43" specimenCode="AS. 001618" specimenCount="1" specimenCountMale="1" stateProvince="Coromandel">
+<collectingRegion pageId="2" pageNumber="43">Coromandel</collectingRegion>
+:<br/>
+<location country="New Zealand" latitude="-36.658333" longLatPrecision="1" longitude="175.85" name="Korapuki Island" pageId="2" pageNumber="43" stateProvince="Coromandel">Korapuki Island</location>
+[
+<geoCoordinate direction="south" orientation="latitude" pageId="2" pageNumber="43" precision="1" value="-36.658333">36°39.5'S</geoCoordinate>
+, 
+<geoCoordinate direction="east" orientation="longitude" pageId="2" pageNumber="43" precision="1" value="175.85">175°51'E</geoCoordinate>
+], 
+<date pageId="2" pageNumber="43">
+<collectingDate pageId="2" pageNumber="43">5 December 1995</collectingDate>
+</date>
+, 
+<collectorName pageId="2" pageNumber="43">C.J. Green</collectorName>
+leg., 
+<specimenCount pageId="2" pageNumber="43" type="generic">1 ♂</specimenCount>
+(
+<collectionCode pageId="2" pageNumber="43">MONZ</collectionCode>
+<specimenCode pageId="2" pageNumber="43">AS.001618</specimenCode>
+)
+</materialsCitation>
+; 
+<materialsCitation collectingDate="1996-12-04" collectionCode="MONZ" collectorName="B. M. Fitzgerald" country="New Zealand" latitude="-36.658333" location="Korapuki Island" longLatPrecision="1" longitude="175.85" pageId="2" pageNumber="43" specimenCode="AS. 001626" specimenCount="1" specimenCountFemale="1" stateProvince="Coromandel">
+<date pageId="2" pageNumber="43">
+<collectingDate pageId="2" pageNumber="43">4 December<br/>
+1996</collectingDate>
+</date>
+, 
+<collectorName pageId="2" pageNumber="43">B.M. Fitzgerald</collectorName>
+, 1 ♀ (
+<collectionCode pageId="2" pageNumber="43">MONZ</collectionCode>
+<specimenCode pageId="2" pageNumber="43">AS.001626</specimenCode>
+)
+</materialsCitation>
+; 
+<materialsCitation collectingDate="1996-12-05" collectionCode="MONZ" collectorName="B. M. Fitzgerald" country="New Zealand" latitude="-36.658333" location="Korapuki Island" longLatPrecision="1" longitude="175.85" pageId="2" pageNumber="43" specimenCode="AS. 001625" specimenCount="1" specimenCountFemale="1" stateProvince="Coromandel">
+<date pageId="2" pageNumber="43">
+<collectingDate pageId="2" pageNumber="43">5 December 1996</collectingDate>
+</date>
+, 
+<collectorName pageId="2" pageNumber="43">B.M. Fitzgerald</collectorName>
+leg., 1 ♀ + spiderlings<br/>
+(
+<collectionCode pageId="2" pageNumber="43">MONZ</collectionCode>
+<specimenCode pageId="2" pageNumber="43">AS.001625</specimenCode>
+)
+</materialsCitation>
+; 
+<materialsCitation collectingDate="1996-12-05" collectionCode="MONZ" collectorName="B. M. Fitzgerald" country="New Zealand" latitude="-36.658333" location="Korapuki Island" longLatPrecision="1" longitude="175.85" pageId="2" pageNumber="43" specimenCode="AS. 001622" specimenCount="1" specimenCountFemale="1" stateProvince="Coromandel">
+<date pageId="2" pageNumber="43">
+<collectingDate pageId="2" pageNumber="43" value="1996-12-05">5 December 1996</collectingDate>
+</date>
+, 
+<collectorName pageId="2" pageNumber="43">B.M. Fitzgerald</collectorName>
+leg., 1 ♀ (
+<collectionCode pageId="2" pageNumber="43">MONZ</collectionCode>
+<specimenCode pageId="2" pageNumber="43">AS.001622</specimenCode>
+)
+</materialsCitation>
+; 
+<materialsCitation collectingDate="1996-12-05" collectionCode="MONZ" collectorName="B. M. Fitzgerald" country="New Zealand" latitude="-36.658333" location="Korapuki Island" longLatPrecision="1" longitude="175.85" pageId="2" pageNumber="43" specimenCode="AS. 001624" specimenCount="2" specimenCountOther="2" stateProvince="Coromandel">
+<date pageId="2" pageNumber="43">
+<collectingDate pageId="2" pageNumber="43" value="1996-12-05">5 December 1996</collectingDate>
+</date>
+, 
+<collectorName pageId="2" pageNumber="43">B.M.<br/>
+Fitzgerald</collectorName>
+leg., 2 immatures (
+<collectionCode pageId="2" pageNumber="43">MONZ</collectionCode>
+<specimenCode pageId="2" pageNumber="43">AS.001624</specimenCode>
+)
+</materialsCitation>
+; 
+<materialsCitation collectingDate="1997-11-26" collectingDateMax="1997-11-28" collectingDateMin="1997-11-26" collectionCode="MONZ" collectorName="C. J. Green" country="New Zealand" latitude="-36.658333" location="Korapuki Island" longLatPrecision="1" longitude="175.85" pageId="2" pageNumber="43" specimenCode="AS. 001619" specimenCount="8" specimenCountFemale="8" stateProvince="Coromandel">
+<date pageId="2" pageNumber="43">
+<collectingDate pageId="2" pageNumber="43" value="1997-11-26" valueMax="1997-11-28" valueMin="1997-11-26">26-28 November 1997</collectingDate>
+</date>
+, 
+<collectorName pageId="2" pageNumber="43">C.J. Green</collectorName>
+leg., 8 ♀ (
+<collectionCode pageId="2" pageNumber="43">MONZ</collectionCode>
+<specimenCode pageId="2" pageNumber="43">AS.001619</specimenCode>
+)
+</materialsCitation>
+; 
+<materialsCitation collectingDate="1997-11-26" collectionCode="MONZ" collectorName="C. J. Green" country="New Zealand" latitude="-36.658333" location="Korapuki Island" longLatPrecision="1" longitude="175.85" pageId="2" pageNumber="43" specimenCode="AS. 001620" specimenCount="1" specimenCountFemale="1" stateProvince="Coromandel">
+<date pageId="2" pageNumber="43">
+<collectingDate pageId="2" pageNumber="43" value="1997-11-26">26 November 1997</collectingDate>
+</date>
+, 
+<collectorName pageId="2" pageNumber="43">C.J. Green</collectorName>
+leg., 1 ♀ with spiderlings (
+<collectionCode pageId="2" pageNumber="43">MONZ</collectionCode>
+<specimenCode pageId="2" pageNumber="43">AS.001620</specimenCode>
+)
+</materialsCitation>
+; 
+<materialsCitation collectingDate="1997-11-27" collectionCode="MONZ" collectorName="B. M. Fitzgerald" country="New Zealand" latitude="-36.658333" location="Korapuki Island" longLatPrecision="1" longitude="175.85" pageId="2" pageNumber="43" specimenCode="AS. 001621" specimenCount="3" specimenCountFemale="2" specimenCountMale="1" stateProvince="Coromandel">
+<date pageId="2" pageNumber="43">
+<collectingDate pageId="2" pageNumber="43" value="1997-11-27">27 November 1997</collectingDate>
+</date>
+,<br/>
+<collectorName pageId="2" pageNumber="43">B.M. Fitzgerald</collectorName>
+leg., 1 ♂, 2 ♀ (
+<collectionCode pageId="2" pageNumber="43">MONZ</collectionCode>
+<specimenCode pageId="2" pageNumber="43">AS.001621</specimenCode>
+)
+</materialsCitation>
+; 
+<materialsCitation collectingDate="1998-02-25" collectionCode="MONZ" collectorName="C. J. Green" country="New Zealand" latitude="-36.658333" location="Korapuki Island" longLatPrecision="1" longitude="175.85" pageId="2" pageNumber="43" specimenCode="AS. 001627" specimenCount="1" specimenCountFemale="1" stateProvince="Coromandel">
+<date pageId="2" pageNumber="43">
+<collectingDate pageId="2" pageNumber="43" value="1998-02-25">25 February 1998</collectingDate>
+</date>
+, 
+<collectorName pageId="2" pageNumber="43">C.J. Green</collectorName>
+leg., 1 ♀ (
+<collectionCode pageId="2" pageNumber="43">MONZ</collectionCode>
+<specimenCode pageId="2" pageNumber="43">AS.001627</specimenCode>
+)
+</materialsCitation>
+;<br/>
+<materialsCitation collectingDate="1998-03-01" collectionCode="MONZ" collectorName="B. M. Fitzgerald" country="New Zealand" latitude="-36.658333" location="Korapuki Island" longLatPrecision="1" longitude="175.85" pageId="2" pageNumber="43" specimenCode="AS. 001628" specimenCount="1" specimenCountOther="1" stateProvince="Coromandel">
+<date pageId="2" pageNumber="43">
+<collectingDate pageId="2" pageNumber="43" value="1998-03-01">1 March 1998</collectingDate>
+</date>
+, 
+<collectorName pageId="2" pageNumber="43">B.M. Fitzgerald</collectorName>
+leg., 1 penultimate ♂ (
+<collectionCode pageId="2" pageNumber="43">MONZ</collectionCode>
+<specimenCode pageId="2" pageNumber="43">AS.001628</specimenCode>
+)
+</materialsCitation>
+; 
+<materialsCitation collectingDate="1999-02-25" collectingDateMax="1999-03-02" collectingDateMin="1999-02-25" collectionCode="MONZ" collectorName="C. J. Green" country="New Zealand" latitude="-36.658333" location="Korapuki Island" longLatPrecision="1" longitude="175.85" pageId="2" pageNumber="43" specimenCode="AS. 001617" specimenCount="1" specimenCountOther="1" stateProvince="Coromandel">
+<date pageId="2" pageNumber="43" value="1999-02">
+<collectingDate pageId="2" pageNumber="43" value="1999-02">25 February</collectingDate>
+</date>
+&amp; 
+<date pageId="2" pageNumber="43">
+<collectingDate pageId="2" pageNumber="43" value="1999-03-02">2 March 1999</collectingDate>
+</date>
+, 
+<collectorName pageId="2" pageNumber="43">C.J.<br/>
+Green</collectorName>
+leg., 1 ♀, 1 penultimate ♂ (
+<collectionCode pageId="2" pageNumber="43">MONZ</collectionCode>
+<specimenCode pageId="2" pageNumber="43">AS.001617</specimenCode>
+)
+</materialsCitation>
+; 
+<materialsCitation collectingDate="2000-11-28" collectionCode="MONZ" collectorName="C. J. Green" country="New Zealand" latitude="-36.658333" location="Korapuki Island" longLatPrecision="1" longitude="175.85" pageId="2" pageNumber="43" specimenCode="AS. 001639" specimenCount="1" specimenCountFemale="1" stateProvince="Coromandel">
+<date pageId="2" pageNumber="43">
+<collectingDate pageId="2" pageNumber="43" value="2000-11-28">28 November 2000</collectingDate>
+</date>
+, 
+<collectorName pageId="2" pageNumber="43">C.J. Green</collectorName>
+leg., 1 ♀, 164 eggs (
+<collectionCode pageId="2" pageNumber="43">MONZ</collectionCode>
+<specimenCode pageId="2" pageNumber="43">AS.001639</specimenCode>
+)
+</materialsCitation>
+; 
+<materialsCitation collectingDate="2000-11-29" collectionCode="MONZ" collectorName="C. J. Green" country="New Zealand" latitude="-36.658333" location="Korapuki Island" longLatPrecision="1" longitude="175.85" pageId="2" pageNumber="43" specimenCode="AS. 001638" specimenCount="1" specimenCountFemale="1" stateProvince="Coromandel">
+<date pageId="2" pageNumber="43">
+<collectingDate pageId="2" pageNumber="43" value="2000-11-29">29 November 2000</collectingDate>
+</date>
+, 
+<collectorName pageId="2" pageNumber="43">C.J. Green</collectorName>
+leg., 1 ♀, 146 eggs (
+<collectionCode pageId="2" pageNumber="43">MONZ</collectionCode>
+<specimenCode pageId="2" pageNumber="43">AS.001638</specimenCode>
+)
+</materialsCitation>
+; 
+<materialsCitation collectingDate="2000-11-30" collectionCode="MONZ" collectorName="B. M. Fitzgerald" country="New Zealand" latitude="-36.658333" location="Korapuki Island" longLatPrecision="1" longitude="175.85" pageId="2" pageNumber="43" specimenCode="AS. 001623" specimenCount="1" specimenCountFemale="1" stateProvince="Coromandel">
+<date pageId="2" pageNumber="43">
+<collectingDate pageId="2" pageNumber="43" value="2000-11-30">30 November 2000</collectingDate>
+</date>
+, 
+<collectorName pageId="2" pageNumber="43">B.M.<br/>
+Fitzgerald</collectorName>
+leg., 1 ♀ (
+<collectionCode pageId="2" pageNumber="43">MONZ</collectionCode>
+<specimenCode pageId="2" pageNumber="43">AS.001623</specimenCode>
+)
+</materialsCitation>
+; 
+<materialsCitation collectingDate="2000-11-30" collectionCode="MONZ" collectorName="C. J. Green" country="New Zealand" latitude="-36.658333" location="Korapuki Island" longLatPrecision="1" longitude="175.85" pageId="2" pageNumber="43" specimenCode="AS. 001637" specimenCount="1" specimenCountFemale="1" stateProvince="Coromandel">
+<date pageId="2" pageNumber="43">
+<collectingDate pageId="2" pageNumber="43" value="2000-11-30">30 November 2000</collectingDate>
+</date>
+, 
+<collectorName pageId="2" pageNumber="43">C.J. Green</collectorName>
+leg., 1 ♀, 135 spiderlings (
+<collectionCode pageId="2" pageNumber="43">MONZ</collectionCode>
+<specimenCode pageId="2" pageNumber="43">AS.001637</specimenCode>
+)
+</materialsCitation>
+; 
+<materialsCitation collectingDate="2000-11-30" collectionCode="MONZ" collectorName="C. J. Green" country="New Zealand" latitude="-36.658333" location="Korapuki Island" longLatPrecision="1" longitude="175.85" pageId="2" pageNumber="43" specimenCode="AS. 001636" specimenCount="1" specimenCountFemale="1" stateProvince="Coromandel">
+1 ♀, 146 eggs (
+<collectionCode pageId="2" pageNumber="43">MONZ</collectionCode>
+<specimenCode pageId="2" pageNumber="43">AS.001636</specimenCode>
+)
+</materialsCitation>
+; 
+<materialsCitation collectingDate="2000-12-04" collectionCode="MONZ" collectorName="C. J. Green" country="New Zealand" latitude="-36.658333" location="Korapuki Island" longLatPrecision="1" longitude="175.85" pageId="2" pageNumber="43" specimenCode="AS. 001634" specimenCount="1" specimenCountFemale="1" stateProvince="Coromandel">
+<date pageId="2" pageNumber="43">
+<collectingDate pageId="2" pageNumber="43" value="2000-12-04">4 December 2000</collectingDate>
+</date>
+, 
+<collectorName pageId="2" pageNumber="43">C.J. Green</collectorName>
+leg., 1 ♀, 186 eggs (
+<collectionCode pageId="2" pageNumber="43">MONZ</collectionCode>
+<specimenCode pageId="2" pageNumber="43">AS.001634</specimenCode>
+)
+</materialsCitation>
+; 
+<materialsCitation collectingDate="2000-12-04" collectionCode="MONZ" collectorName="C. J. Green" country="New Zealand" latitude="-36.658333" location="Korapuki Island" longLatPrecision="1" longitude="175.85" pageId="2" pageNumber="43" specimenCode="AS. 001635" specimenCount="1" specimenCountFemale="1" stateProvince="Coromandel">
+1 ♀, egg sac (
+<collectionCode pageId="2" pageNumber="43">MONZ</collectionCode>
+<specimenCode pageId="2" pageNumber="43">AS.001635</specimenCode>
+)
+</materialsCitation>
+; 
+<materialsCitation collectingDate="2000-12-04" collectionCode="MONZ" collectorName="C. J. Green" country="New Zealand" latitude="-36.658333" location="Korapuki Island" longLatPrecision="1" longitude="175.85" pageId="2" pageNumber="43" specimenCode="AS. 001633" specimenCount="1" specimenCountFemale="1" stateProvince="Coromandel">
+1 ♀, 214 eggs (
+<collectionCode pageId="2" pageNumber="43">MONZ</collectionCode>
+<specimenCode pageId="2" pageNumber="43">AS.001633</specimenCode>
+)
+</materialsCitation>
+. 
+<materialsCitation collectingDate="2001-10-17" collectionCode="MONZ" collectorName="B. M. Fitzgerald" country="New Zealand" latitude="-35.856667" location="Peach Cove" longLatPrecision="1" longitude="174.565" pageId="2" pageNumber="43" specimenCode="AS. 001616" specimenCount="1" specimenCountFemale="1" stateProvince="Northland">
+<collectingRegion pageId="2" pageNumber="43">Northland</collectingRegion>
+: 
+<location country="New Zealand" latitude="-35.856667" longLatPrecision="1" longitude="174.565" name="Peach Cove" pageId="2" pageNumber="43" stateProvince="Northland">Peach Cove</location>
+[
+<geoCoordinate direction="south" orientation="latitude" pageId="2" pageNumber="43" precision="1" value="-35.856667">35°51.4'S</geoCoordinate>
+, 
+<geoCoordinate direction="east" orientation="longitude" pageId="2" pageNumber="43" precision="1" value="174.565">174°33.9'E</geoCoordinate>
+], 
+<date pageId="2" pageNumber="43">
+<collectingDate pageId="2" pageNumber="43" value="2001-10-17">17 October 2001</collectingDate>
+</date>
+, 
+<collectorName pageId="2" pageNumber="43">B.M. Fitzgerald</collectorName>
+leg., 1 ♀ (
+<collectionCode pageId="2" pageNumber="43">MONZ</collectionCode>
+<specimenCode pageId="2" pageNumber="43">AS.001616</specimenCode>
+)
+</materialsCitation>
+. 
+<materialsCitation collectingDate="2010-04-06" collectionCode="MONZ" collectorName="O. J. - P. Ball" country="New Zealand" latitude="-35.864" location="Mas Olivier" longLatPrecision="1" longitude="174.16917" pageId="2" pageNumber="43" specimenCode="AS. 001597" specimenCount="1" specimenCountMale="1" stateProvince="Northland">
+<location country="New Zealand" latitude="-35.864" longLatPrecision="1" longitude="174.16917" name="Mas Olivier" pageId="2" pageNumber="43" stateProvince="Northland">Mas Olivier</location>
+[
+<geoCoordinate direction="south" orientation="latitude" pageId="2" pageNumber="43" precision="1" value="-35.864">35°51.84'S</geoCoordinate>
+, 
+<geoCoordinate direction="east" orientation="longitude" pageId="2" pageNumber="43" precision="1" value="174.16917">174°10.15'E</geoCoordinate>
+], 
+<date pageId="2" pageNumber="43">
+<collectingDate pageId="2" pageNumber="43" value="2010-04-06">6 April 2010</collectingDate>
+</date>
+, 
+<collectorName pageId="2" pageNumber="43">O.J.-P. Ball</collectorName>
+leg., 1 ♂ (
+<collectionCode pageId="2" pageNumber="43">MONZ</collectionCode>
+<specimenCode pageId="2" pageNumber="43">AS.001597</specimenCode>
+) (GenBank HM439085)
+</materialsCitation>
+; 
+<materialsCitation collectingDate="2010-04-21" collectionCode="MONZ" collectorName="O. J. - P. Ball" country="New Zealand" latitude="-35.864" location="Mas Olivier" longLatPrecision="1" longitude="174.16917" pageId="2" pageNumber="43" specimenCode="AS. 001598" specimenCount="1" specimenCountFemale="1" stateProvince="Northland">
+<date pageId="2" pageNumber="43">
+<collectingDate pageId="2" pageNumber="43" value="2010-04-21">21<br/>
+April 2010</collectingDate>
+</date>
+, 
+<collectorName pageId="2" pageNumber="43">O.J.-P. Ball</collectorName>
+leg., 1 ♀ (
+<collectionCode pageId="2" pageNumber="43">MONZ</collectionCode>
+<specimenCode pageId="2" pageNumber="43">AS.001598</specimenCode>
+) (GenBank HM439086)
+</materialsCitation>
+; 
+<materialsCitation collectingDate="2010-04-21" collectionCode="MONZ" collectorName="O. J. - P. Ball" country="New Zealand" latitude="-35.864" location="Mas Olivier" longLatPrecision="1" longitude="174.16917" pageId="2" pageNumber="43" specimenCode="AS. 001599" specimenCount="2" specimenCountMale="1" specimenCountOther="1" stateProvince="Northland">
+<date pageId="2" pageNumber="43">
+<collectingDate pageId="2" pageNumber="43" value="2010-04-21">21 April 2010</collectingDate>
+</date>
+, 
+<collectorName pageId="2" pageNumber="43">O.J.-P. Ball</collectorName>
+leg., 1<br/>
+♂, 1 subadult ♀ (
+<collectionCode pageId="2" pageNumber="43">MONZ</collectionCode>
+<specimenCode pageId="2" pageNumber="43">AS.001599</specimenCode>
+) (GenBank HM439087, HM439088)
+</materialsCitation>
+.
+</paragraph>
+<paragraph pageId="2" pageNumber="43" type="mainText">
+<materialsCitation country="New Zealand" latitude="-43.66617" location="Ahuriri Scenic Reserve" longLatPrecision="1" longitude="172.624" pageId="2" pageNumber="43" stateProvince="Mid Canterbury">
+Other locality records. 
+<collectingCountry pageId="2" pageNumber="43" value="New Zealand">NEW ZEALAND</collectingCountry>
+: 
+<collectingRegion pageId="2" pageNumber="43">Mid Canterbury</collectingRegion>
+: 
+<location country="New Zealand" latitude="-43.66617" longLatPrecision="1" longitude="172.624" name="Ahuriri Scenic Reserve" pageId="2" pageNumber="43" stateProvince="Mid Canterbury">Ahuriri Scenic Reserve</location>
+[
+<geoCoordinate direction="south" orientation="latitude" pageId="2" pageNumber="43" precision="1" value="-43.66617">43°39.97'S</geoCoordinate>
+,<br/>
+<geoCoordinate direction="east" orientation="longitude" pageId="2" pageNumber="43" precision="1" value="172.624">172°37.44'E</geoCoordinate>
+] (Bowie &amp; Frampton 2004)
+</materialsCitation>
+. 
+<materialsCitation country="New Zealand" latitude="-43.47333" location="Hoods Bush" longLatPrecision="1" longitude="171.80833" pageId="2" pageNumber="43" stateProvince="Mid Canterbury">
+<location country="New Zealand" latitude="-43.47333" longLatPrecision="1" longitude="171.80833" name="Hoods Bush" pageId="2" pageNumber="43" stateProvince="Mid Canterbury">Hoods Bush</location>
+[
+<geoCoordinate direction="south" orientation="latitude" pageId="2" pageNumber="43" precision="1" value="-43.47333">43°28.4'S</geoCoordinate>
+, 
+<geoCoordinate direction="east" orientation="longitude" pageId="2" pageNumber="43" precision="1" value="171.80833">171°48.5'E</geoCoordinate>
+] (Forster &amp; Wilton 1973)
+</materialsCitation>
+. 
+<materialsCitation country="New Zealand" latitude="-43.2" location="Foxs Creek" longLatPrecision="1" longitude="172.6" pageId="2" pageNumber="43" stateProvince="North Canterbury">
+<collectingRegion pageId="2" pageNumber="43">North<br/>
+Canterbury</collectingRegion>
+: 
+<location country="New Zealand" latitude="-43.2" longLatPrecision="1" longitude="172.6" name="Foxs Creek" pageId="2" pageNumber="43" stateProvince="North Canterbury">Foxs Creek</location>
+[
+<geoCoordinate direction="south" orientation="latitude" pageId="2" pageNumber="43" precision="1" value="-43.2">43°12'S</geoCoordinate>
+, 
+<geoCoordinate direction="east" orientation="longitude" pageId="2" pageNumber="43" precision="1" value="172.6">172°36'E</geoCoordinate>
+] (Forster &amp; Wilton 1973)
+</materialsCitation>
+. 
+<materialsCitation country="New Zealand" latitude="-41.266666" location="Nelson" longLatPrecision="1" longitude="173.3" pageId="2" pageNumber="43" stateProvince="North Canterbury">
+<collectingMunicipality pageId="2" pageNumber="43">Nelson</collectingMunicipality>
+: 
+<location country="New Zealand" latitude="-41.266666" longLatPrecision="1" longitude="173.3" municipality="Nelson" name="Nelson" pageId="2" pageNumber="43" stateProvince="North Canterbury">Nelson</location>
+[
+<geoCoordinate direction="south" orientation="latitude" pageId="2" pageNumber="43" precision="1" value="-41.266666">41°16'S</geoCoordinate>
+, 
+<geoCoordinate direction="east" orientation="longitude" pageId="2" pageNumber="43" precision="1" value="173.3">173°18'E</geoCoordinate>
+] (Forster &amp; Wilton 1973)
+</materialsCitation>
+. 
+<materialsCitation country="New Zealand" latitude="-41.316666" location="Waituna" longLatPrecision="1" longitude="175.16667" pageId="2" pageNumber="43" stateProvince="Wairarapa">
+<collectingRegion pageId="2" pageNumber="43">Wairarapa</collectingRegion>
+: 
+<location country="New Zealand" latitude="-41.316666" longLatPrecision="1" longitude="175.16667" name="Waituna" pageId="2" pageNumber="43" stateProvince="Wairarapa">Waituna</location>
+[
+<geoCoordinate direction="south" orientation="latitude" pageId="2" pageNumber="43" precision="1" value="-41.316666">41°19'S</geoCoordinate>
+, 
+<geoCoordinate direction="east" orientation="longitude" pageId="2" pageNumber="43" precision="1" value="175.16667">175°10'E</geoCoordinate>
+] (Forster &amp; Wilton 1973)
+</materialsCitation>
+. 
+<materialsCitation country="New Zealand" latitude="-40.966667" location="Solway" longLatPrecision="1" longitude="175.61667" pageId="2" pageNumber="43" stateProvince="Wairarapa">
+<location country="New Zealand" latitude="-40.966667" longLatPrecision="1" longitude="175.61667" name="Solway" pageId="2" pageNumber="43" stateProvince="Wairarapa">Solway</location>
+[
+<geoCoordinate direction="south" orientation="latitude" pageId="2" pageNumber="43" precision="1" value="-40.966667">40°58'S</geoCoordinate>
+,<br/>
+<geoCoordinate direction="east" orientation="longitude" pageId="2" pageNumber="43" precision="1" value="175.61667">175°37'E</geoCoordinate>
+] (Forster &amp; Wilton 1973)
+</materialsCitation>
+. 
+<materialsCitation country="New Zealand" latitude="-36.2" location="Little Barrier Island" longLatPrecision="1" longitude="175.08333" pageId="2" pageNumber="43" stateProvince="Coromandel">
+<collectingRegion pageId="2" pageNumber="43">Coromandel</collectingRegion>
+: 
+<location country="New Zealand" latitude="-36.2" longLatPrecision="1" longitude="175.08333" name="Little Barrier Island" pageId="2" pageNumber="43" stateProvince="Coromandel">Little Barrier Island</location>
+[
+<geoCoordinate direction="south" orientation="latitude" pageId="2" pageNumber="43" precision="1" value="-36.2">36°12'S</geoCoordinate>
+, 
+<geoCoordinate direction="east" orientation="longitude" pageId="2" pageNumber="43" precision="1" value="175.08333">175°05'E</geoCoordinate>
+] (Forster &amp; Wilton<br/>
+1973)
+</materialsCitation>
+. 
+<materialsCitation country="New Zealand" latitude="-36.433334" location="Algies Bay" longLatPrecision="1" longitude="174.73334" pageId="2" pageNumber="43" stateProvince="Auckland">
+<collectingRegion pageId="2" pageNumber="43">Auckland</collectingRegion>
+: 
+<location country="New Zealand" latitude="-36.433334" longLatPrecision="1" longitude="174.73334" name="Algies Bay" pageId="2" pageNumber="43" stateProvince="Auckland">Algies Bay</location>
+[
+<geoCoordinate direction="south" orientation="latitude" pageId="2" pageNumber="43" precision="1" value="-36.433334">36°26'S</geoCoordinate>
+, 
+<geoCoordinate direction="east" orientation="longitude" pageId="2" pageNumber="43" precision="1" value="174.73334">174°44'E</geoCoordinate>
+] (Forster &amp; Wilton 1973)
+</materialsCitation>
+. 
+<materialsCitation country="New Zealand" latitude="-35.963333" location="Hen Island" longLatPrecision="1" longitude="174.72166" pageId="2" pageNumber="43" stateProvince="Northland">
+<collectingRegion pageId="2" pageNumber="43">Northland</collectingRegion>
+: 
+<location country="New Zealand" latitude="-35.963333" longLatPrecision="1" longitude="174.72166" name="Hen Island" pageId="2" pageNumber="43" stateProvince="Northland">Hen Island</location>
+[
+<geoCoordinate direction="south" orientation="latitude" pageId="2" pageNumber="43" precision="1" value="-35.963333">35°57.8'S</geoCoordinate>
+,<br/>
+<geoCoordinate direction="east" orientation="longitude" pageId="2" pageNumber="43" precision="1" value="174.72166">174°43.3'E</geoCoordinate>
+] (Forster &amp; Wilton 1973)
+</materialsCitation>
+.
+</paragraph>
+</subSubSection>
+<subSubSection _generate="added" pageId="2" pageNumber="43" type="diagnosis">
+<paragraph pageId="2" pageNumber="43" type="mainText">
+Diagnosis. 
+<taxonomicName _rankHash="470922650" genus="Nuisiana" pageId="2" pageNumber="43" rank="species" species="arboris">Nuisiana arboris</taxonomicName>
+can be distinguished from other New Zealand 
+<taxonomicName _rankHash="-1073282703" family="Desidae" pageId="2" pageNumber="43" rank="family">Desidae</taxonomicName>
+, particularly 
+<taxonomicName _rankHash="359569118" genus="Matachia" pageId="2" pageNumber="43" rank="genus">Matachia</taxonomicName>
+Forster 1970, by features of the male pedipalp (Figs 1, 2), especially the the shape of the retrolateral tibial apophysis.<br/>
+In 
+<taxonomicName _rankHash="359569118" genus="Matachia" pageId="2" pageNumber="43" rank="genus">Matachia</taxonomicName>
+the tibiae are comparatively short and bulbous (see Forster 1970: figs 55-60). The internal genitalia<br/>
+are less convoluted and with much broader ducts than in 
+<taxonomicName _rankHash="359569118" genus="Matachia" pageId="2" pageNumber="43" rank="genus">Matachia</taxonomicName>
+(Figs 4-6, c.f. Forster 1970: figs 61-65). The<br/>
+third pair of legs in female of 
+<taxonomicName _evidence="lexicon" _rankHash="-500163170" genus="Nuisiana" pageId="2" pageNumber="43" rank="species" species="arboris">N. arboris</taxonomicName>
+is directed rearwards, while in females of 
+<taxonomicName _rankHash="359569118" genus="Matachia" pageId="2" pageNumber="43" rank="genus">Matachia</taxonomicName>
+it is directed forwards.
+</paragraph>
+</subSubSection>
+<subSubSection _generate="added" lastPageId="4" lastPageNumber="45" pageId="2" pageNumber="43" type="description">
+<paragraph pageId="2" pageNumber="43" type="mainText">Redescription. Colour: carapace yellow-brown, darker around eyes and cephalic region; sternum yellow-brown; abdomen light grey-brown with darker median folium on dorsal surface, widest medially; legs yellow-brown.</paragraph>
+<paragraph pageId="2" pageNumber="43" type="mainText">Chelicerae of male porrect, with two retromarginal teeth, one at mid-point, and other basal, opposite four or<br/>
+five promarginal teeth. Chelicerae of female not porrect, with two widely-spaced retromarginal teeth and five or six<br/>
+promarginal teeth. Eyes subequal in size, posterior row procurved. Cribellum present in females and males, wider<br/>
+than long, spinning field present in female but reduced or absent in male. Calamistrum well developed in female<br/>
+but vestigial or absent in male. Male pedipalp (Figs 1, 2) with elongate retrolateral tibial apophysis with spinous<br/>
+lobe and distal plate forming single process (Fig. 2); cymbium tip longer than bulb and distal spinous portion of<br/>
+conductor extending almost to tip of cymbium; median apophysis long and bent back on itself. Epigynum with<br/>
+median lobe extending to epigastric furrow, flanked by pair of strong, blunt projections (Fig. 3); internal genitalia<br/>
+relatively simple with broad, thin-walled copulatory ducts that are sclerotised prior to spermathecae (Figs 4-6).<br/>
+Legs 1243; first three pairs of legs directed forwards in males but only first two pairs directed forwards in females.</paragraph>
+<caption pageId="3" pageNumber="44">
+<paragraph pageId="3" pageNumber="44" type="caption">
+<pageBreakToken pageId="3" pageNumber="44" start="start">FIGURES</pageBreakToken>
+1-6. 
+<taxonomicName _rankHash="470922650" genus="Nuisiana" pageId="3" pageNumber="44" rank="species" species="arboris">Nuisiana arboris</taxonomicName>
+(Marples 1959). 1. Male pedipalp, ventral view
+<pageNumber ambiguity="2" fuzzyness="1" pageId="3" pageNumber="44" score="2" value="12">; 2</pageNumber>
+. Male pedipalp, retrolateral view; 3. Epigynum, ventral view; 4. Internal genitalia, ventral view; 5. Internal genitalia, dorsal view; 6. Schematic course of internal ducts.<br/>
+Scale bars for figures 1, 2 = 1.0 mm, 3-5 = 
+<quantity pageId="3" pageNumber="44">0.5 mm</quantity>
+. Abbreviations used: C, cymbium; E, embolus; MA, median apophysis;<br/>
+RTA, retrolateral tibial apophysis; ML, median lobe.
+</paragraph>
+</caption>
+<paragraph pageId="4" pageNumber="45" type="mainText">
+<pageBreakToken pageId="4" pageNumber="45" start="start">Dimensions</pageBreakToken>
+. Female Coromandel, Korapuki Island (
+<collectionCode pageId="4" pageNumber="45">MONZ</collectionCode>
+AS.001621
+<pageNumber ambiguity="2" fuzzyness="2" pageId="4" pageNumber="45" score="2" value="11">) (</pageNumber>
+male Coromandel, Korapuki Island<br/>
+(
+<collectionCode pageId="4" pageNumber="45">MONZ</collectionCode>
+AS.001618)): total length 9.75 (9.99); carapace length 4.18 (4.64), width 2.94 (3.41), height 2.01 (1.70);<br/>
+abdomen length 5.57 (5.42), width 4.03 (2.79); sternum length 2.32 (2.48), width 1.78 (1.86). Size range: female<br/>
+body length 9.1-11.0 (mean 10.4, n=12), male body length 8.3-11.6 (mean 10.1, n=5).
+</paragraph>
+<paragraph pageId="4" pageNumber="45" type="mainText">
+DNA sequences. Mitochondrial COI (GenBank accession numbers 
+<collectionCode pageId="4" pageNumber="45">HM</collectionCode>
+439085- 
+<collectionCode pageId="4" pageNumber="45">HM</collectionCode>
+439088). The four<br/>
+sequences varied by only 0.9%, which is well within intraspecific variation observed in other spiders (Robinson et<br/>
+al. 2009). We observed nine variable nucleotide positions; eight transitions and one non-synonymous transversion.
+</paragraph>
+</subSubSection>
+<subSubSection _generate="added" pageId="4" pageNumber="45" type="biology_ecology">
+<paragraph pageId="4" pageNumber="45" type="mainText">
+Biology. 
+<taxonomicName _rankHash="470922650" genus="Nuisiana" pageId="4" pageNumber="45" rank="species" species="arboris">Nuisiana arboris</taxonomicName>
+have been found living beneath the bark of large totara trees (
+<taxonomicName _evidence="data" _evidence_details="round: 1, species=totara, speciesAuthor=Benn" _rankHash="593268175" authority="G. Benn" authorityName="G. Benn" genus="Podocarpus" pageId="4" pageNumber="45" rank="species" species="totara">Podocarpus totara G.<br/>
+Benn</taxonomicName>
+. ex D. Don) where they build a small web (Marples 1959). On Korapuki Island they were found under bark<br/>
+and in holes on large pohutukawa trees (
+<taxonomicName _evidence="data" _evidence_details="round: 1, species=excelsa, speciesAuthor=Gaertn" _rankHash="1348614774" authority="Gaertn" authorityName="Gaertn" genus="Metrosideros" pageId="4" pageNumber="45" rank="species" species="excelsa">Metrosideros excelsa Gaertn</taxonomicName>
+.). They have also been found under wooden<br/>
+disks on the ground (Bowie &amp; Frampton 2004) and in tree-mounted artificial refuges designed to shelter and monitor weta (
+<taxonomicName _evidence="feedback" _rankHash="-1132578760" higher="Orthoptera" pageId="4" pageNumber="45" rank="higher">Orthoptera</taxonomicName>
+: 
+<taxonomicName _rankHash="717458461" family="Anostostomatidae" pageId="4" pageNumber="45" rank="family">Anostostomatidae</taxonomicName>
+and 
+<taxonomicName _rankHash="1283105195" family="Rhaphidophoridae" pageId="4" pageNumber="45" rank="family">Rhaphidophoridae</taxonomicName>
+) (Green 2005; Bowie et al. 2006; Hodge et al.<br/>
+2007). A female, with an egg sac containing 
+<specimenCount pageId="4" pageNumber="45" type="generic">259 eggs</specimenCount>
+, was found at Peach Cove, under a light web on the face of a<br/>
+large, undercut rock. Five egg sacs from Korapuki Island contained, on average, 
+<specimenCount pageId="4" pageNumber="45" type="generic">171 eggs</specimenCount>
+(range 146-214) and<br/>
+another two, 135 and 139 spiderlings. In contrast, the egg sacs of species of 
+<taxonomicName _rankHash="359569118" genus="Matachia" pageId="4" pageNumber="45" rank="genus">Matachia</taxonomicName>
+contain, on average, ten or<br/>
+twelve eggs (Forster &amp; Forster 1999). Adults of 
+<taxonomicName _evidence="lexicon" _rankHash="-500163170" genus="Nuisiana" pageId="4" pageNumber="45" rank="species" species="arboris">N. arboris</taxonomicName>
+have been found throughout the year.
+</paragraph>
+</subSubSection>
+<subSubSection _generate="added" pageId="4" pageNumber="45" type="distribution">
+<paragraph pageId="4" pageNumber="45" type="mainText">
+Distribution. Throughout New Zealand (
+<misspelling pageId="4" pageNumber="45" type="misspelled">Southland</misspelling>
+, Mid Canterbury, North Canterbury, Nelson, 
+<misspelling pageId="4" pageNumber="45" type="misspelled">Wairarapa</misspelling>
+,<br/>
+Coromandel, Auckland, Northland).
+</paragraph>
+</subSubSection>
+<subSubSection _generate="added" pageId="4" pageNumber="45" type="discussion">
+<paragraph pageId="4" pageNumber="45" type="mainText">
+Remarks. Forster &amp; Wilton (1973) noted that it was 
+<normalizedToken originalValue="“probable”" pageId="4" pageNumber="45">&quot;probable&quot;</normalizedToken>
+<taxonomicName _rankHash="-837405052" genus="Matachia" pageId="4" pageNumber="45" rank="species" species="magna">Matachia magna</taxonomicName>
+was the male of 
+<taxonomicName _evidence="lexicon" _rankHash="-500163170" genus="Nuisiana" pageId="4" pageNumber="45" rank="species" species="arboris">N. arboris</taxonomicName>
+.<br/>
+After examining males and females from Korapuki Island, Mercury Group, Forster (in litt. 
+<date pageId="4" pageNumber="45">23 July 1997</date>
+) concluded<br/>
+&quot;that the Cuvier Island 
+<taxonomicName _rankHash="359569118" genus="Matachia" pageId="4" pageNumber="45" rank="genus">Matachia</taxonomicName>
+is the male of 
+<taxonomicName _rankHash="-1920508516" genus="Nuisiana" pageId="4" pageNumber="45" rank="genus">Nuisiana</taxonomicName>
+&quot; and that the two genera were valid. Male and female<br/>
+specimens found together at different localities, the same colour pattern in both sexes, and COI sequences that vary<br/>
+by only 0.9%, lead us to conclude that 
+<taxonomicName _evidence="lexicon" _rankHash="-52305177" genus="Matachia" pageId="4" pageNumber="45" rank="species" species="magna">M. magna</taxonomicName>
+is a junior synonym of 
+<taxonomicName _evidence="lexicon" _rankHash="-500163170" genus="Nuisiana" pageId="4" pageNumber="45" rank="species" species="arboris">N. arboris</taxonomicName>
+. Female 
+<taxonomicName _evidence="lexicon" _rankHash="-500163170" genus="Nuisiana" pageId="4" pageNumber="45" rank="species" species="arboris">N. arboris</taxonomicName>
+does not<br/>
+have the morphological adaptations (an elongated cephalothorax and the third pair of legs directed forward) that<br/>
+<taxonomicName _rankHash="359569118" genus="Matachia" pageId="4" pageNumber="45" rank="genus">Matachia</taxonomicName>
+has for living in holes. However, most of our specimens were obtained from natural holes or artificial<br/>
+shelters, indicating that 
+<taxonomicName _rankHash="-1920508516" genus="Nuisiana" pageId="4" pageNumber="45" rank="genus">Nuisiana</taxonomicName>
+is just as much a hole-dweller, as are species of 
+<taxonomicName _rankHash="359569118" genus="Matachia" pageId="4" pageNumber="45" rank="genus">Matachia</taxonomicName>
+. There are many similarities between 
+<taxonomicName _evidence="lexicon" _rankHash="-500163170" genus="Nuisiana" pageId="4" pageNumber="45" rank="species" species="arboris">N. arboris</taxonomicName>
+and 
+<taxonomicName _rankHash="359569118" genus="Matachia" pageId="4" pageNumber="45" rank="genus">Matachia</taxonomicName>
+species. Forster &amp; Wilton (1973: 301) thought that they were &quot;very<br/>
+closely related&quot; and that the rather simple genitalia of female 
+<taxonomicName _evidence="lexicon" _rankHash="-500163170" genus="Nuisiana" pageId="4" pageNumber="45" rank="species" species="arboris">N. arboris</taxonomicName>
+were &quot;readily derived from those of 
+<taxonomicName _rankHash="359569118" genus="Matachia" pageId="4" pageNumber="45" rank="genus">Matachia</taxonomicName>
+&quot;. The male pedipalp of 
+<taxonomicName _evidence="lexicon" _rankHash="-500163170" genus="Nuisiana" pageId="4" pageNumber="45" rank="species" species="arboris">N. arboris</taxonomicName>
+is very close to that of some 
+<taxonomicName _rankHash="359569118" genus="Matachia" pageId="4" pageNumber="45" rank="genus">Matachia</taxonomicName>
+species, except for the elongate tibia<br/>
+of the pedipalp. Despite these similarities, we have retained the monotypic genus 
+<taxonomicName _rankHash="-1920508516" genus="Nuisiana" pageId="4" pageNumber="45" rank="genus">Nuisiana</taxonomicName>
+. A proper assessment of<br/>
+the validity of the genus 
+<taxonomicName _rankHash="-1920508516" genus="Nuisiana" pageId="4" pageNumber="45" rank="genus">Nuisiana</taxonomicName>
+is beyond the scope of this study, but could be resolved by a phylogenetic analysis of New Zealand 
+<taxonomicName _rankHash="-1073282703" family="Desidae" pageId="4" pageNumber="45" rank="family">Desidae</taxonomicName>
+that includes 
+<taxonomicName _rankHash="-1920508516" genus="Nuisiana" pageId="4" pageNumber="45" rank="genus">Nuisiana</taxonomicName>
+, 
+<taxonomicName _rankHash="359569118" genus="Matachia" pageId="4" pageNumber="45" rank="genus">Matachia</taxonomicName>
+and other similar genera (
+<taxonomicName _rankHash="65922204" genus="Desis" pageId="4" pageNumber="45" rank="genus">Desis</taxonomicName>
+Walckenaer 1837,<br/>
+<taxonomicName _rankHash="1880951666" genus="Goyenia" pageId="4" pageNumber="45" rank="genus">Goyenia</taxonomicName>
+Forster 1970, 
+<taxonomicName _rankHash="-721547109" genus="Helsonia" pageId="4" pageNumber="45" rank="genus">Helsonia</taxonomicName>
+Forster 1970, 
+<taxonomicName _rankHash="-204375334" genus="Notomatachia" pageId="4" pageNumber="45" rank="genus">Notomatachia</taxonomicName>
+Forster 1970, 
+<taxonomicName _rankHash="76880655" genus="Panoa" pageId="4" pageNumber="45" rank="genus">Panoa</taxonomicName>
+Forster 1970).
+</paragraph>
+</subSubSection>
+</treatment>
+<subSection _generate="added" pageId="4" pageNumber="45" type="multiple">
+<paragraph pageId="4" pageNumber="45" type="mainText">
+Family 
+<taxonomicName _rankHash="-1664115667" family="Stiphidiidae" pageId="4" pageNumber="45" rank="family">Stiphidiidae</taxonomicName>
+Dalmas 1917
+</paragraph>
+</subSection>
+<treatment _generate="added" pageId="4" pageNumber="45">
+<subSubSection _generate="added" pageId="4" pageNumber="45" type="nomenclature">
+<paragraph pageId="4" pageNumber="45" type="mainText">
+Genus 
+<taxonomicName _rankHash="1621660521" genus="Cambridgea" pageId="4" pageNumber="45" rank="genus">Cambridgea</taxonomicName>
+L. Koch 1872
+</paragraph>
+</subSubSection>
+<subSubSection _generate="added" pageId="4" pageNumber="45" type="reference_group">
+<paragraph pageId="4" pageNumber="45" type="mainText">
+<taxonomicName _rankHash="1621660521" genus="Cambridgea" pageId="4" pageNumber="45" rank="genus">Cambridgea</taxonomicName>
+L. Koch 1872: 358. 
+<typeStatus pageId="4" pageNumber="45">Type</typeStatus>
+species: 
+<taxonomicName _rankHash="-1077890889" genus="Cambridgea" pageId="4" pageNumber="45" rank="species" species="antipodiana">Cambridgea antipodiana</taxonomicName>
+(White 1849).
+</paragraph>
+</subSubSection>
+</treatment>
+<treatment _generate="added" lastPageId="7" lastPageNumber="48" pageId="4" pageNumber="45">
+<subSubSection _generate="added" pageId="4" pageNumber="45" type="nomenclature">
+<paragraph pageId="4" pageNumber="45" type="mainText">
+<taxonomicName _evidence="lexicon" _rankHash="139839699" authority="Forster &amp; Wilton" authorityName="Forster &amp; Wilton" genus="Cambridgea" pageId="4" pageNumber="45" rank="species" species="reinga">Cambridgea reinga Forster &amp; Wilton</taxonomicName>
+1973
+</paragraph>
+</subSubSection>
+<subSubSection _generate="added" pageId="4" pageNumber="45" type="description">
+<paragraph pageId="4" pageNumber="45" type="mainText">(Figs 7-16)</paragraph>
+</subSubSection>
+<subSubSection _generate="added" pageId="4" pageNumber="45" type="reference_group">
+<paragraph pageId="4" pageNumber="45" type="mainText">
+<taxonomicName _evidence="lexicon" _rankHash="139839699" authority="Forster &amp; Wilton" authorityName="Forster &amp; Wilton" genus="Cambridgea" pageId="4" pageNumber="45" rank="species" species="reinga">Cambridgea reinga Forster &amp; Wilton</taxonomicName>
+1973: 151, figs 456-457 (description of female).
+</paragraph>
+<paragraph pageId="4" pageNumber="45" type="mainText">
+<taxonomicName _evidence="lexicon" _rankHash="-1022078181" authority="Blest &amp; Vink" authorityName="Blest &amp; Vink" genus="Nanocambridgea" pageId="4" pageNumber="45" rank="species" species="grandis">Nanocambridgea grandis Blest &amp; Vink</taxonomicName>
+2000: 21, figs 57-58 (description of male). NEW SYNONYMY.
+</paragraph>
+</subSubSection>
+<subSubSection _generate="added" pageId="4" pageNumber="45" type="materials_examined">
+<paragraph pageId="4" pageNumber="45" type="mainText">
+<materialsCitation collectingDate="1967-01-07" collectionCode="Otago Museum, New Zealand" collectorName="R. R. Forster" country="New Zealand" latitude="-34.433334" location="Cape Reinga" longLatPrecision="1" longitude="172.68333" pageId="4" pageNumber="45" specimenCount="1" specimenCountFemale="1" stateProvince="Northland" typeStatus="Holotype">
+Type specimens. 
+<typeStatus pageId="4" pageNumber="45">Holotype</typeStatus>
+♀, not examined, 
+<collectingCountry pageId="4" pageNumber="45" value="New Zealand">NEW ZEALAND</collectingCountry>
+: 
+<collectingRegion pageId="4" pageNumber="45">Northland</collectingRegion>
+: 
+<location country="New Zealand" latitude="-34.433334" longLatPrecision="1" longitude="172.68333" name="Cape Reinga" pageId="4" pageNumber="45" stateProvince="Northland">Cape Reinga</location>
+[
+<geoCoordinate direction="south" orientation="latitude" pageId="4" pageNumber="45" precision="1" value="-34.433334">34°26'S</geoCoordinate>
+, 
+<geoCoordinate direction="east" orientation="longitude" pageId="4" pageNumber="45" precision="1" value="172.68333">172°41'E</geoCoordinate>
+], 
+<date pageId="4" pageNumber="45">
+<collectingDate pageId="4" pageNumber="45" value="1967-01-07">7<br/>
+January 1967</collectingDate>
+</date>
+, 
+<collectorName pageId="4" pageNumber="45">R.R. Forster</collectorName>
+leg., 
+<collectionCode pageId="4" pageNumber="45">Otago Museum, New Zealand</collectionCode>
+</materialsCitation>
+.
+</paragraph>
+<paragraph pageId="4" pageNumber="45" type="mainText">
+<materialsCitation collectingDate="1995-12-10" collectingDateMax="1995-12-13" collectingDateMin="1995-12-10" collectionCode="AMNZ" collectorName="J. W. Early &amp; R. F. Gilbert" country="New Zealand" latitude="-34.433334" location="Cape Reinga" longLatPrecision="1" longitude="172.68333" pageId="4" pageNumber="45" specimenCode="5031" specimenCount="1" specimenCountMale="1" stateProvince="Northland" typeStatus="Holotype">
+<typeStatus pageId="4" pageNumber="45">Holotype</typeStatus>
+♂, 
+<taxonomicName _rankHash="1789663027" genus="Nanocambridgea" pageId="4" pageNumber="45" rank="species" species="grandis">Nanocambridgea grandis</taxonomicName>
+, examined. 
+<collectingCountry pageId="4" pageNumber="45" value="New Zealand">NEW ZEALAND</collectingCountry>
+: 
+<collectingRegion pageId="4" pageNumber="45">Northland</collectingRegion>
+: 
+<location country="New Zealand" latitude="-34.433334" longLatPrecision="1" longitude="172.68333" name="Cape Reinga" pageId="4" pageNumber="45" stateProvince="Northland">Cape Reinga</location>
+[
+<geoCoordinate direction="south" orientation="latitude" pageId="4" pageNumber="45" precision="1" value="-34.433334">34°26'S</geoCoordinate>
+,<br/>
+<geoCoordinate direction="east" orientation="longitude" pageId="4" pageNumber="45" precision="1" value="172.68333">172°41'E</geoCoordinate>
+], 
+<date pageId="4" pageNumber="45">
+<collectingDate pageId="4" pageNumber="45" value="1995-12-10" valueMax="1995-12-13" valueMin="1995-12-10">10-13 December 1995</collectingDate>
+</date>
+, 
+<collectorName _evidence="leading initial" pageId="4" pageNumber="45">J.W. Early &amp; R.F. Gilbert</collectorName>
+leg., (
+<collectionCode pageId="4" pageNumber="45">AMNZ</collectionCode>
+<specimenCode pageId="4" pageNumber="45">5031</specimenCode>
+),
+</materialsCitation>
+<materialsCitation collectingDate="1995-12-10" collectingDateMax="1995-12-13" collectingDateMin="1995-12-10" collectionCode="AMNZ" collectorName="J. W. Early &amp; R. F. Gilbert" country="New Zealand" latitude="-34.433334" location="Cape Reinga" longLatPrecision="1" longitude="172.68333" pageId="4" pageNumber="45" specimenCode="6568" specimenCount="2" specimenCountMale="2" stateProvince="Northland" typeStatus="Paratype">
+2 male 
+<typeStatus pageId="4" pageNumber="45">paratypes</typeStatus>
+, same locality,<br/>
+date and collector (
+<collectionCode pageId="4" pageNumber="45">AMNZ</collectionCode>
+<specimenCode pageId="4" pageNumber="45">6568</specimenCode>
+)
+</materialsCitation>
+.
+</paragraph>
+</subSubSection>
+<subSubSection _generate="added" pageId="5" pageNumber="46" type="discussion">
+<paragraph pageId="5" pageNumber="46" type="mainText">
+<pageBreakToken pageId="5" pageNumber="46" start="start">We</pageBreakToken>
+did not examine the 
+<typeStatus pageId="5" pageNumber="46">type</typeStatus>
+of 
+<taxonomicName _rankHash="1602747913" genus="Cambridgea" pageId="5" pageNumber="46" rank="species" species="reinga">Cambridgea reinga</taxonomicName>
+; the illustrations and descriptions by Forster &amp; Wilton<br/>
+(1973) are clear enough 
+<pageNumber ambiguity="2147483647" fuzzyness="2147483647" pageId="5" pageNumber="46" score="4" value="14">to</pageNumber>
+be sure of the species identity.
+</paragraph>
+</subSubSection>
+<subSubSection _generate="added" pageId="5" pageNumber="46" type="materials_examined">
+<paragraph pageId="5" pageNumber="46" type="mainText">
+<materialsCitation collectingDate="2008-07-17" collectingDateMax="2008-08-15" collectingDateMin="2008-07-17" collectionCode="MONZ" collectorName="O. J. - P. Ball" country="New Zealand" latitude="-34.525665" location="Shenstone Block" longLatPrecision="0" longitude="172.7779" pageId="5" pageNumber="46" specimenCode="AS. 001607" specimenCount="1" specimenCountMale="1" stateProvince="Northland">
+Other material examined. 
+<collectingCountry pageId="5" pageNumber="46" value="New Zealand">NEW ZEALAND</collectingCountry>
+: 
+<collectingRegion pageId="5" pageNumber="46">Northland</collectingRegion>
+: 
+<location country="New Zealand" latitude="-34.525665" longLatPrecision="0" longitude="172.7779" name="Shenstone Block" pageId="5" pageNumber="46" stateProvince="Northland">Shenstone Block</location>
+[
+<geoCoordinate direction="south" orientation="latitude" pageId="5" pageNumber="46" precision="0" value="-34.525665">34°31.540'S</geoCoordinate>
+, 
+<geoCoordinate direction="east" orientation="longitude" pageId="5" pageNumber="46" precision="0" value="172.7779">172°46.674'E</geoCoordinate>
+], 
+<date pageId="5" pageNumber="46">
+<collectingDate pageId="5" pageNumber="46" value="2008-07-17" valueMax="2008-08-15" valueMin="2008-07-17">17<br/>
+July-15 August 2008</collectingDate>
+</date>
+, 
+<collectorName pageId="5" pageNumber="46">O.J.-P. Ball</collectorName>
+leg., 1 ♂ (
+<collectionCode pageId="5" pageNumber="46">MONZ</collectionCode>
+<specimenCode pageId="5" pageNumber="46">AS.001607</specimenCode>
+) (GenBank HQ316174)
+</materialsCitation>
+; 
+<materialsCitation collectingDate="2008-07-17" collectingDateMax="2008-08-15" collectingDateMin="2008-07-17" collectionCode="MONZ" collectorName="O. J. - P. Ball" country="New Zealand" latitude="-34.525665" location="Shenstone Block" longLatPrecision="0" longitude="172.7779" pageId="5" pageNumber="46" specimenCode="AS. 001608" specimenCount="1" specimenCountFemale="1" stateProvince="Northland">
+1 ♀ (
+<collectionCode pageId="5" pageNumber="46">MONZ</collectionCode>
+<specimenCode pageId="5" pageNumber="46">AS.001608</specimenCode>
+)<br/>
+(GenBank HQ332444)
+</materialsCitation>
+; 
+<materialsCitation collectingDate="2008-10-22" collectingDateMax="2008-11-21" collectingDateMin="2008-10-22" collectionCode="MONZ" collectorName="O. J. - P. Ball" country="New Zealand" latitude="-34.525665" location="Shenstone Block" longLatPrecision="0" longitude="172.7779" pageId="5" pageNumber="46" specimenCode="AS. 001604" specimenCount="1" specimenCountFemale="1" stateProvince="Northland">
+<date pageId="5" pageNumber="46">
+<collectingDate pageId="5" pageNumber="46" value="2008-10-22" valueMax="2008-11-21" valueMin="2008-10-22">22 October-21 November 2008</collectingDate>
+</date>
+, 
+<collectorName pageId="5" pageNumber="46">O.J.-P. Ball</collectorName>
+leg.,
+</materialsCitation>
+<materialsCitation collectingDate="2008-10-22" collectingDateMax="2008-11-21" collectingDateMin="2008-10-22" collectionCode="MONZ" collectorName="O. J. - P. Ball" country="New Zealand" latitude="-34.525665" location="Shenstone Block" longLatPrecision="0" longitude="172.7779" pageId="5" pageNumber="46" specimenCode="AS. 001604" specimenCount="1" specimenCountFemale="1" stateProvince="Northland">
+1 ♀ (
+<collectionCode pageId="5" pageNumber="46">MONZ</collectionCode>
+<specimenCode pageId="5" pageNumber="46">AS.001604</specimenCode>
+)
+</materialsCitation>
+; 
+<materialsCitation collectingDate="2009-04-09" collectingDateMax="2009-05-07" collectingDateMin="2009-04-09" collectionCode="MONZ" collectorName="O. J. - P. Ball" country="New Zealand" latitude="-34.525665" location="Shenstone Block" longLatPrecision="0" longitude="172.7779" pageId="5" pageNumber="46" specimenCode="AS. 001605" specimenCount="1" specimenCountFemale="1" stateProvince="Northland">
+<date pageId="5" pageNumber="46">
+<collectingDate pageId="5" pageNumber="46" value="2009-04-09" valueMax="2009-05-07" valueMin="2009-04-09">9 April-7 May<br/>
+2009</collectingDate>
+</date>
+, 
+<collectorName pageId="5" pageNumber="46">O.J.-P. Ball</collectorName>
+leg., 1 ♀ (
+<collectionCode pageId="5" pageNumber="46">MONZ</collectionCode>
+<specimenCode pageId="5" pageNumber="46">AS.001605</specimenCode>
+) (GenBank HM439089)
+</materialsCitation>
+. 
+<materialsCitation collectingDate="2007-01-12" collectingDateMax="2007-02-12" collectingDateMin="2007-01-12" collectionCode="MONZ" collectorName="O. J. - P. Ball" country="New Zealand" latitude="-34.477615" location="Spirits Bay" longLatPrecision="0" longitude="172.87859" pageId="5" pageNumber="46" specimenCode="AS. 001590" specimenCount="1" specimenCountMale="1" stateProvince="Northland">
+<location country="New Zealand" latitude="-34.477615" longLatPrecision="0" longitude="172.87859" name="Spirits Bay" pageId="5" pageNumber="46" stateProvince="Northland">Spirits Bay</location>
+[
+<geoCoordinate direction="south" orientation="latitude" pageId="5" pageNumber="46" precision="0" value="-34.477615">34°28.657'S</geoCoordinate>
+, 
+<geoCoordinate direction="east" orientation="longitude" pageId="5" pageNumber="46" precision="0" value="172.87859">172°52.715'E</geoCoordinate>
+],<br/>
+<date pageId="5" pageNumber="46">
+<collectingDate pageId="5" pageNumber="46" value="2007-01-12" valueMax="2007-02-12" valueMin="2007-01-12">12 January-12 February 2007</collectingDate>
+</date>
+, 
+<collectorName pageId="5" pageNumber="46">O.J.-P. Ball</collectorName>
+leg., 1 ♂ (
+<collectionCode pageId="5" pageNumber="46">MONZ</collectionCode>
+<specimenCode pageId="5" pageNumber="46">AS.001590</specimenCode>
+)
+</materialsCitation>
+. 
+<materialsCitation collectingDate="2007-01-12" collectingDateMax="2007-02-12" collectingDateMin="2007-01-12" collectionCode="MONZ" collectorName="O. J. - P. Ball" country="New Zealand" latitude="-34.4621" location="Kerr Point" longLatPrecision="0" longitude="172.8827" pageId="5" pageNumber="46" specimenCode="AS. 001609" specimenCount="1" specimenCountMale="1" stateProvince="Northland">
+<location country="New Zealand" latitude="-34.4621" longLatPrecision="0" longitude="172.8827" name="Kerr Point" pageId="5" pageNumber="46" stateProvince="Northland">Kerr Point</location>
+[
+<geoCoordinate direction="south" orientation="latitude" pageId="5" pageNumber="46" precision="0" value="-34.4621">34°27.726'S</geoCoordinate>
+, 
+<geoCoordinate direction="east" orientation="longitude" pageId="5" pageNumber="46" precision="0" value="172.8827">172°52.962'E</geoCoordinate>
+],<br/>
+<date pageId="5" pageNumber="46">
+<collectingDate pageId="5" pageNumber="46" value="2007-01-12" valueMax="2007-02-12" valueMin="2007-01-12">12 January-12 February 2007</collectingDate>
+</date>
+, 
+<collectorName pageId="5" pageNumber="46">O.J.-P. Ball</collectorName>
+leg., 1 ♂ (
+<collectionCode pageId="5" pageNumber="46">MONZ</collectionCode>
+<specimenCode pageId="5" pageNumber="46">AS.001609</specimenCode>
+)
+</materialsCitation>
+. 
+<materialsCitation collectingDate="2008-07-17" collectingDateMax="2008-08-15" collectingDateMin="2008-07-17" collectionCode="MONZ" collectorName="O. J. - P. Ball" country="New Zealand" latitude="-34.445534" location="Taputaputa Site B" longLatPrecision="0" longitude="172.72266" pageId="5" pageNumber="46" specimenCode="AS. 001614" specimenCount="1" specimenCountMale="1" stateProvince="Northland">
+<location country="New Zealand" latitude="-34.445534" longLatPrecision="0" longitude="172.72266" name="Taputaputa Site B" pageId="5" pageNumber="46" stateProvince="Northland">Taputaputa Site B</location>
+[
+<geoCoordinate direction="south" orientation="latitude" pageId="5" pageNumber="46" precision="0" value="-34.445534">34°26.732'S</geoCoordinate>
+,<br/>
+<geoCoordinate direction="east" orientation="longitude" pageId="5" pageNumber="46" precision="0" value="172.72266">172°43.359'E</geoCoordinate>
+], 
+<date pageId="5" pageNumber="46">
+<collectingDate pageId="5" pageNumber="46" value="2008-07-17" valueMax="2008-08-15" valueMin="2008-07-17">17 July-15 August 2008</collectingDate>
+</date>
+, 
+<collectorName pageId="5" pageNumber="46">O.J.-P. Ball</collectorName>
+leg., 1 ♂ (
+<collectionCode pageId="5" pageNumber="46">MONZ</collectionCode>
+<specimenCode pageId="5" pageNumber="46">AS.001614</specimenCode>
+);
+</materialsCitation>
+<materialsCitation collectingDate="2008-07-17" collectingDateMax="2008-08-15" collectingDateMin="2008-07-17" collectionCode="MONZ" collectorName="O. J. - P. Ball" country="New Zealand" latitude="-34.445534" location="Taputaputa Site B" longLatPrecision="0" longitude="172.72266" pageId="5" pageNumber="46" specimenCode="AS. 001615" specimenCount="1" specimenCountMale="1" stateProvince="Northland">
+1 ♂ (
+<collectionCode pageId="5" pageNumber="46">MONZ</collectionCode>
+<specimenCode pageId="5" pageNumber="46">AS.001615</specimenCode>
+)
+</materialsCitation>
+; 
+<materialsCitation collectingDate="2008-10-22" collectingDateMax="2008-11-21" collectingDateMin="2008-10-22" collectionCode="MONZ" collectorName="O. J. - P. Ball" country="New Zealand" latitude="-34.445534" location="Taputaputa Site B" longLatPrecision="0" longitude="172.72266" pageId="5" pageNumber="46" specimenCode="AS. 001612" specimenCount="1" specimenCountMale="1" stateProvince="Northland">
+<date pageId="5" pageNumber="46">
+<collectingDate pageId="5" pageNumber="46" value="2008-10-22" valueMax="2008-11-21" valueMin="2008-10-22">22<br/>
+October-21 November 2008</collectingDate>
+</date>
+, 
+<collectorName pageId="5" pageNumber="46">O.J.-P. Ball</collectorName>
+leg., 1 ♂ (
+<collectionCode pageId="5" pageNumber="46">MONZ</collectionCode>
+<specimenCode pageId="5" pageNumber="46">AS.001612</specimenCode>
+)
+</materialsCitation>
+; 
+<materialsCitation collectingDate="2008-10-22" collectingDateMax="2008-11-21" collectingDateMin="2008-10-22" collectionCode="MONZ" collectorName="O. J. - P. Ball" country="New Zealand" latitude="-34.445534" location="Taputaputa Site B" longLatPrecision="0" longitude="172.72266" pageId="5" pageNumber="46" specimenCode="AS. 001611" specimenCount="1" specimenCountMale="1" stateProvince="Northland">
+1 ♂ (
+<collectionCode pageId="5" pageNumber="46">MONZ</collectionCode>
+<specimenCode pageId="5" pageNumber="46">AS.001611</specimenCode>
+)
+</materialsCitation>
+; 
+<materialsCitation collectingDate="2008-10-22" collectingDateMax="2008-11-21" collectingDateMin="2008-10-22" collectionCode="MONZ" collectorName="O. J. - P. Ball" country="New Zealand" latitude="-34.445534" location="Taputaputa Site B" longLatPrecision="0" longitude="172.72266" pageId="5" pageNumber="46" specimenCode="AS. 001613" specimenCount="1" specimenCountMale="1" stateProvince="Northland">
+1 ♂ (
+<collectionCode pageId="5" pageNumber="46">MONZ</collectionCode>
+<specimenCode pageId="5" pageNumber="46">AS.001613</specimenCode>
+)
+</materialsCitation>
+. 
+<materialsCitation collectingDate="2008-07-17" collectingDateMax="2008-08-15" collectingDateMin="2008-07-17" collectionCode="MONZ" collectorName="O. J. - P. Ball" country="New Zealand" latitude="-34.442116" location="Taputaputa Site A" longLatPrecision="0" longitude="172.7027" pageId="5" pageNumber="46" specimenCode="AS. 001632" specimenCount="1" specimenCountFemale="1" stateProvince="Northland">
+<location country="New Zealand" latitude="-34.442116" longLatPrecision="0" longitude="172.7027" name="Taputaputa Site A" pageId="5" pageNumber="46" stateProvince="Northland">Taputaputa Site A</location>
+[
+<geoCoordinate direction="south" orientation="latitude" pageId="5" pageNumber="46" precision="0" value="-34.442116">34°26.527'S</geoCoordinate>
+, 
+<geoCoordinate direction="east" orientation="longitude" pageId="5" pageNumber="46" precision="0" value="172.7027">172°42.162'E</geoCoordinate>
+], 
+<date pageId="5" pageNumber="46">
+<collectingDate pageId="5" pageNumber="46" value="2008-07-17" valueMax="2008-08-15" valueMin="2008-07-17">17 July-15 August 2008</collectingDate>
+</date>
+, 
+<collectorName pageId="5" pageNumber="46">O.J.-P. Ball</collectorName>
+leg., 1 ♀<br/>
+(
+<collectionCode pageId="5" pageNumber="46">MONZ</collectionCode>
+<specimenCode pageId="5" pageNumber="46">AS.001632</specimenCode>
+)
+</materialsCitation>
+; 
+<materialsCitation collectingDate="2008-10-22" collectingDateMax="2008-11-21" collectingDateMin="2008-10-22" collectionCode="MONZ" collectorName="O. J. - P. Ball" country="New Zealand" latitude="-34.442116" location="Taputaputa Site A" longLatPrecision="0" longitude="172.7027" pageId="5" pageNumber="46" specimenCode="AS. 001631" specimenCount="1" specimenCountFemale="1" stateProvince="Northland">
+<date pageId="5" pageNumber="46">
+<collectingDate pageId="5" pageNumber="46" value="2008-10-22" valueMax="2008-11-21" valueMin="2008-10-22">22 October-21 November 2008</collectingDate>
+</date>
+, 
+<collectorName pageId="5" pageNumber="46">O.J.-P. Ball</collectorName>
+leg., 1 ♀ (
+<collectionCode pageId="5" pageNumber="46">MONZ</collectionCode>
+<specimenCode pageId="5" pageNumber="46">AS.001631</specimenCode>
+)
+</materialsCitation>
+; 
+<materialsCitation collectingDate="2009-01-15" collectingDateMax="2009-02-13" collectingDateMin="2009-01-15" collectionCode="MONZ" collectorName="O. J. - P. Ball" country="New Zealand" latitude="-34.442116" location="Taputaputa Site A" longLatPrecision="0" longitude="172.7027" pageId="5" pageNumber="46" specimenCode="AS. 001640" specimenCount="2" specimenCountMale="2" stateProvince="Northland">
+<date pageId="5" pageNumber="46">
+<collectingDate pageId="5" pageNumber="46" value="2009-01-15" valueMax="2009-02-13" valueMin="2009-01-15">15 January-13<br/>
+February 2009</collectingDate>
+</date>
+, 
+<collectorName pageId="5" pageNumber="46">O.J.-P. Ball</collectorName>
+leg., 2 ♂ (
+<collectionCode pageId="5" pageNumber="46">MONZ</collectionCode>
+<specimenCode pageId="5" pageNumber="46">AS.001640</specimenCode>
+)
+</materialsCitation>
+. 
+<materialsCitation collectingDate="2007-01-12" collectingDateMax="2007-02-12" collectingDateMin="2007-01-12" collectionCode="MONZ" collectorName="O. J. - P. Ball" country="New Zealand" latitude="-34.43565" location="Unuwhao Site A" longLatPrecision="0" longitude="172.88799" pageId="5" pageNumber="46" specimenCode="AS. 001610" specimenCount="1" specimenCountMale="1" stateProvince="Northland">
+<location country="New Zealand" latitude="-34.43565" longLatPrecision="0" longitude="172.88799" name="Unuwhao Site A" pageId="5" pageNumber="46" stateProvince="Northland">Unuwhao Site A</location>
+[
+<geoCoordinate direction="south" orientation="latitude" pageId="5" pageNumber="46" precision="0" value="-34.43565">34°26.139'S</geoCoordinate>
+, 
+<geoCoordinate direction="east" orientation="longitude" pageId="5" pageNumber="46" precision="0" value="172.88799">172°53.279'E</geoCoordinate>
+], 
+<date pageId="5" pageNumber="46">
+<collectingDate pageId="5" pageNumber="46" value="2007-01-12" valueMax="2007-02-12" valueMin="2007-01-12">12 January- 12 February 2007</collectingDate>
+</date>
+, 
+<collectorName pageId="5" pageNumber="46">O.J.-P. Ball</collectorName>
+leg., 1 ♂ (
+<collectionCode pageId="5" pageNumber="46">MONZ</collectionCode>
+<specimenCode pageId="5" pageNumber="46">AS.001610</specimenCode>
+);
+</materialsCitation>
+<materialsCitation collectingDate="2007-01-12" collectingDateMax="2007-02-12" collectingDateMin="2007-01-12" collectionCode="MONZ" collectorName="O. J. - P. Ball" country="New Zealand" latitude="-34.43565" location="Unuwhao Site A" longLatPrecision="0" longitude="172.88799" pageId="5" pageNumber="46" specimenCode="AS. 001629" specimenCount="1" specimenCountOther="1" stateProvince="Northland">
+1 immature (
+<collectionCode pageId="5" pageNumber="46">MONZ</collectionCode>
+<specimenCode pageId="5" pageNumber="46">AS.001629</specimenCode>
+)
+</materialsCitation>
+. 
+<materialsCitation collectingDate="1995-12-10" collectingDateMax="1995-12-13" collectingDateMin="1995-12-10" collectionCode="AMNZ" collectorName="J. W. Early &amp; R. F. Gilbert" country="New Zealand" latitude="-34.433334" location="Cape Reinga" longLatPrecision="1" longitude="172.68333" pageId="5" pageNumber="46" specimenCode="6568" specimenCount="2" specimenCountMale="2" stateProvince="Northland">
+<location country="New Zealand" latitude="-34.433334" longLatPrecision="1" longitude="172.68333" name="Cape Reinga" pageId="5" pageNumber="46" stateProvince="Northland">Cape Reinga</location>
+[
+<geoCoordinate direction="south" orientation="latitude" pageId="5" pageNumber="46" precision="1" value="-34.433334">34°26'S</geoCoordinate>
+, 
+<geoCoordinate direction="east" orientation="longitude" pageId="5" pageNumber="46" precision="1" value="172.68333">172°41'E</geoCoordinate>
+], 
+<date pageId="5" pageNumber="46">
+<collectingDate pageId="5" pageNumber="46" value="1995-12-10" valueMax="1995-12-13" valueMin="1995-12-10">10-13 December 1995</collectingDate>
+</date>
+, 
+<collectorName pageId="5" pageNumber="46">J.W. Early &amp; R.F. Gilbert</collectorName>
+leg., 2 ♂ (
+<collectionCode pageId="5" pageNumber="46">AMNZ</collectionCode>
+<specimenCode pageId="5" pageNumber="46">6568</specimenCode>
+)
+</materialsCitation>
+. 
+<materialsCitation collectingDate="2008-10-22" collectingDateMax="2008-11-21" collectingDateMin="2008-10-22" collectionCode="MONZ" collectorName="O. J. - P. Ball" country="New Zealand" latitude="-34.415783" location="North Cape" longLatPrecision="0" longitude="173.0241" pageId="5" pageNumber="46" specimenCode="AS. 001630" specimenCount="1" specimenCountFemale="1" stateProvince="Northland">
+<location country="New Zealand" latitude="-34.415783" longLatPrecision="0" longitude="173.0241" name="North Cape" pageId="5" pageNumber="46" stateProvince="Northland">North Cape</location>
+[
+<geoCoordinate direction="south" orientation="latitude" pageId="5" pageNumber="46" precision="0" value="-34.415783">34°24.947'S</geoCoordinate>
+, 
+<geoCoordinate direction="east" orientation="longitude" pageId="5" pageNumber="46" precision="0" value="173.0241">173°01.446'E</geoCoordinate>
+], 
+<date pageId="5" pageNumber="46">
+<collectingDate pageId="5" pageNumber="46" value="2008-10-22" valueMax="2008-11-21" valueMin="2008-10-22">22 October-21 November 2008</collectingDate>
+</date>
+, 
+<collectorName pageId="5" pageNumber="46">O.J.-P. Ball</collectorName>
+leg., 1 ♀ (
+<collectionCode pageId="5" pageNumber="46">MONZ</collectionCode>
+<specimenCode pageId="5" pageNumber="46">AS.001630</specimenCode>
+)
+</materialsCitation>
+; 
+<materialsCitation collectingDate="2008-10-22" collectingDateMax="2008-11-21" collectingDateMin="2008-10-22" collectionCode="MONZ" collectorName="O. J. - P. Ball" country="New Zealand" latitude="-34.415783" location="North Cape" longLatPrecision="0" longitude="173.0241" pageId="5" pageNumber="46" specimenCode="AS. 001605" specimenCount="1" specimenCountMale="1" stateProvince="Northland">
+1 ♂<br/>
+(
+<collectionCode pageId="5" pageNumber="46">MONZ</collectionCode>
+<specimenCode pageId="5" pageNumber="46">AS.001605</specimenCode>
+) (GenBank HQ316173)
+</materialsCitation>
+; 
+<materialsCitation collectingDate="2009-01-15" collectingDateMax="2009-02-13" collectingDateMin="2009-01-15" collectionCode="MONZ" collectorName="O. J. - P. Ball" country="New Zealand" latitude="-34.415783" location="North Cape" longLatPrecision="0" longitude="173.0241" pageId="5" pageNumber="46" specimenCode="AS. 001606" specimenCount="1" specimenCountMale="1" stateProvince="Northland">
+<date pageId="5" pageNumber="46">
+<collectingDate pageId="5" pageNumber="46" value="2009-01-15" valueMax="2009-02-13" valueMin="2009-01-15">15 January-13 February 2009</collectingDate>
+</date>
+, 
+<collectorName pageId="5" pageNumber="46">O.J.-P. Ball</collectorName>
+leg., 1 ♂ (
+<collectionCode pageId="5" pageNumber="46">MONZ</collectionCode>
+<specimenCode pageId="5" pageNumber="46">AS.001606</specimenCode>
+)
+</materialsCitation>
+; 
+<materialsCitation collectingDate="2009-01-15" collectingDateMax="2009-02-13" collectingDateMin="2009-01-15" collectionCode="MONZ" collectorName="O. J. - P. Ball" country="New Zealand" latitude="-34.415783" location="North Cape" longLatPrecision="0" longitude="173.0241" pageId="5" pageNumber="46" specimenCode="AS. 001601" specimenCount="1" specimenCountMale="1" stateProvince="Northland">
+1 ♂ (
+<collectionCode pageId="5" pageNumber="46">MONZ</collectionCode>
+<specimenCode pageId="5" pageNumber="46">AS.001601</specimenCode>
+) (GenBank HM439090)
+</materialsCitation>
+; 
+<materialsCitation collectingDate="2009-01-15" collectingDateMax="2009-02-13" collectingDateMin="2009-01-15" collectionCode="MONZ" collectorName="O. J. - P. Ball" country="New Zealand" latitude="-34.415783" location="North Cape" longLatPrecision="0" longitude="173.0241" pageId="5" pageNumber="46" specimenCode="AS. 001603" specimenCount="1" specimenCountMale="1" stateProvince="Northland">
+1 ♂ (
+<collectionCode pageId="5" pageNumber="46">MONZ</collectionCode>
+<specimenCode pageId="5" pageNumber="46">AS.001603</specimenCode>
+) (GenBank HM439091)
+</materialsCitation>
+.<br/>
+<materialsCitation collectingDate="2008-10-22" collectingDateMax="2008-11-21" collectingDateMin="2008-10-22" collectionCode="MONZ" collectorName="O. J. - P. Ball" country="New Zealand" latitude="-34.4987" location="Kohuronaki B" longLatPrecision="0" longitude="172.8431" pageId="5" pageNumber="46" specimenCode="AS. 001600" specimenCount="2" specimenCountFemale="1" specimenCountMale="1" stateProvince="Northland">
+<location country="New Zealand" latitude="-34.4987" longLatPrecision="0" longitude="172.8431" name="Kohuronaki B" pageId="5" pageNumber="46" stateProvince="Northland">Kohuronaki B</location>
+[
+<geoCoordinate direction="south" orientation="latitude" pageId="5" pageNumber="46" precision="0" value="-34.4987">34°29.922'S</geoCoordinate>
+, 
+<geoCoordinate direction="east" orientation="longitude" pageId="5" pageNumber="46" precision="0" value="172.8431">172°50.586'E</geoCoordinate>
+], 
+<date pageId="5" pageNumber="46">
+<collectingDate pageId="5" pageNumber="46" value="2008-10-22" valueMax="2008-11-21" valueMin="2008-10-22">22 October-21 November 2008</collectingDate>
+</date>
+, 
+<collectorName pageId="5" pageNumber="46">O.J.-P. Ball</collectorName>
+leg., 1 ♂, 1 ♀ (
+<collectionCode pageId="5" pageNumber="46">MONZ</collectionCode>
+<specimenCode pageId="5" pageNumber="46">AS. 001600</specimenCode>
+)
+</materialsCitation>
+; 
+<materialsCitation collectingDate="2009-01-15" collectingDateMax="2009-02-13" collectingDateMin="2009-01-15" collectionCode="MONZ" collectorName="O. J. - P. Ball" country="New Zealand" latitude="-34.4987" location="Kohuronaki B" longLatPrecision="0" longitude="172.8431" pageId="5" pageNumber="46" specimenCode="AS. 001856" specimenCount="1" specimenCountFemale="1" stateProvince="Northland">
+<date pageId="5" pageNumber="46">
+<collectingDate pageId="5" pageNumber="46" value="2009-01-15" valueMax="2009-02-13" valueMin="2009-01-15">15 January-13 February 2009</collectingDate>
+</date>
+, 
+<collectorName pageId="5" pageNumber="46">O.J.-P. Ball</collectorName>
+leg., 1 ♀ (
+<collectionCode pageId="5" pageNumber="46">MONZ</collectionCode>
+<specimenCode pageId="5" pageNumber="46">AS.001856</specimenCode>
+) (GenBank HQ316175)
+</materialsCitation>
+.
+</paragraph>
+</subSubSection>
+<subSubSection _generate="added" pageId="5" pageNumber="46" type="diagnosis">
+<paragraph pageId="5" pageNumber="46" type="mainText">
+Diagnosis. 
+<taxonomicName _rankHash="1602747913" genus="Cambridgea" pageId="5" pageNumber="46" rank="species" species="reinga">Cambridgea reinga</taxonomicName>
+can be distinguished from other 
+<taxonomicName _rankHash="1621660521" genus="Cambridgea" pageId="5" pageNumber="46" rank="genus">Cambridgea</taxonomicName>
+species by the arrangement of the<br/>
+male pedipalp (Figs 7, 8, 10, 11), particularly the terminal tibial apophysis (Figs 8, 11), which is well sclerotised<br/>
+(weak and foliate in most other 
+<taxonomicName _rankHash="1621660521" genus="Cambridgea" pageId="5" pageNumber="46" rank="genus">Cambridgea</taxonomicName>
+species), and the epigynum of the female (Figs 13-16), which has<br/>
+large, paired atria and a median lobe about half way down the median furrow. The legs (relative to the carapace<br/>
+length) are longer than other 
+<taxonomicName _rankHash="1621660521" genus="Cambridgea" pageId="5" pageNumber="46" rank="genus">Cambridgea</taxonomicName>
+species.
+</paragraph>
+</subSubSection>
+<subSubSection _generate="added" pageId="5" pageNumber="46" type="description">
+<paragraph pageId="5" pageNumber="46" type="mainText">Redescription. Colour: carapace orange-brown with contrasting broad, blackish lateral bands and median<br/>
+band divided on midline by a narrow pale stripe; sternum orange-brown; abdomen pale yellow-brown, darker laterally and posteriorly; legs yellow-brown with weak annulations on leg 4.</paragraph>
+<paragraph pageId="5" pageNumber="46" type="mainText">
+Two male forms known (see Biology below). Chelicerae of larger male specimens are porrect, those of smaller<br/>
+males and females are not; chelicerae with four promarginal teeth and two retromarginal teeth. Ratio of<br/>
+<collectionCode collectionName="USA, Florida, Gainesville, University of Florida, Florida Museum of Natural History, Allyn Museum" pageId="5" pageNumber="46">AME</collectionCode>
+.ALE.PME.PLE = 14.20.15.16; viewed dorsally, anterior eye row recurved, posterior eye row slightly procurved. Colulus large, wider than long, with many hairs. Male pedipalp (Figs 7, 8, 10, 11) tibia with retrolateral<br/>
+apophysis and tapering terminal apophysis; cymbium extending well beyond bulb (at least twice length of bulb),<br/>
+embolus extending up prolateral margin and across top of bulb, conductor large and curled around embolus;<br/>
+median apophysis absent. Epigynum with large, paired atria, median lobe about half way down median furrow<br/>
+(Fig. 13); internal genitalia receptaculate with short ducts (Figs 14-16).
+</paragraph>
+<paragraph pageId="5" pageNumber="46" type="mainText">
+Dimensions. Female Northland, Taputaputa Site A (
+<collectionCode pageId="5" pageNumber="46">MONZ</collectionCode>
+AS.001631) (male Northland, Taputaputa Site 
+<collectionCode pageId="5" pageNumber="46">B</collectionCode>
+(
+<collectionCode pageId="5" pageNumber="46">MONZ</collectionCode>
+AS.001611)): total length 9.13 (10.06); carapace length 3.87 (4.64), width 2.94 (3.25), height 1.70 (1.55);<br/>
+abdomen length 4.95 (5.73), width 3.10 (2.94); sternum length 2.01 (2.63), width 1.78 (2.01). Size range: female<br/>
+body length 5.9-9.3 (mean 8.1, n=6), male body length 6.0-11.3 (mean 8.8, n=16). Porrect male body length 6.9- 11.3 (mean 9.7, n=13). Non-porrect male body length 6.0-6.8 (mean 6.5, n=3).
+</paragraph>
+<paragraph pageId="5" pageNumber="46" type="mainText">
+DNA sequences. Mitochondrial COI (GenBank accession numbers 
+<collectionCode pageId="5" pageNumber="46">HM</collectionCode>
+439089- 
+<collectionCode pageId="5" pageNumber="46">HM</collectionCode>
+439091, 
+<collectionCode pageId="5" pageNumber="46">HQ</collectionCode>
+316173-<br/>
+<collectionCode pageId="5" pageNumber="46">HQ</collectionCode>
+316175, 
+<collectionCode pageId="5" pageNumber="46">HQ</collectionCode>
+332444). The seven sequences varied by only 2%, which is well within intraspecific variation<br/>
+observed in other spiders (Robinson et al. 2009), and a female and two males from Shenstone Block (GenBank<br/>
+<collectionCode pageId="5" pageNumber="46">HM</collectionCode>
+439089, 
+<collectionCode pageId="5" pageNumber="46">HQ</collectionCode>
+316174, 
+<collectionCode pageId="5" pageNumber="46">HQ</collectionCode>
+332444) and a male from North Cape (GenBank 
+<collectionCode pageId="5" pageNumber="46">HM</collectionCode>
+439091) had identical COI<br/>
+sequences. We observed 26 variable nucleotide positions; 25 transitions, one transversion and all were synonymous<br/>
+substitutions. The COI fragment between the primers C1-J-1718-spider and C1-N-2568 is usually 850 bp in other<br/>
+spiders (e.g., Vink et al. 2009; Vink &amp; 
+<normalizedToken originalValue="Dupérré" pageId="5" pageNumber="46">Duperre</normalizedToken>
+2010), but for 
+<taxonomicName _rankHash="1602747913" genus="Cambridgea" pageId="5" pageNumber="46" rank="species" species="reinga">Cambridgea reinga</taxonomicName>
+it was only 844 bp. Two sequential codons are absent at 268 bp into the fragment we sequenced in 
+<taxonomicName _evidence="lexicon" _rankHash="-579885337" genus="Cambridgea" pageId="5" pageNumber="46" rank="species" species="reinga">C. reinga</taxonomicName>
+; these codons are present in 
+<taxonomicName _evidence="lexicon" _rankHash="1317632050" authority="Simon" authorityName="Simon" genus="Stiphidion" pageId="5" pageNumber="46" rank="species" species="facetum">Stiphidion<br/>
+facetum Simon</taxonomicName>
+1902 (Spagna &amp; Gillespie 2008), the 
+<typeStatus pageId="5" pageNumber="46">type</typeStatus>
+species of the family 
+<taxonomicName _rankHash="-1664115667" family="Stiphidiidae" pageId="5" pageNumber="46" rank="family">Stiphidiidae</taxonomicName>
+. We do not believe we<br/>
+had amplified a pseudogene as there were no stop codons in the sequence.
+</paragraph>
+</subSubSection>
+<subSubSection _generate="added" pageId="6" pageNumber="47" type="multiple">
+<caption pageId="6" pageNumber="47">
+<paragraph pageId="6" pageNumber="47" type="caption">
+<pageBreakToken pageId="6" pageNumber="47" start="start">FIGURES</pageBreakToken>
+7- 
+<pageNumber ambiguity="4" fuzzyness="1" pageId="6" pageNumber="47" score="8" value="15">16</pageNumber>
+. 
+<taxonomicName _evidence="lexicon" _rankHash="139839699" authority="Forster &amp; Wilton" authorityName="Forster &amp; Wilton" genus="Cambridgea" pageId="6" pageNumber="47" rank="species" species="reinga">Cambridgea reinga Forster &amp; Wilton</taxonomicName>
+1973. 7. Male pedipalp of larger male (including the distal end of the<br/>
+tibia), ventral view; 8. Tibia of the larger male pedipalp, retrolateral view; 9. Chelicerae of the larger male; 10. Male pedipalp of<br/>
+smaller male (including the distal end of the tibia), ventral view; 11. Tibia of the smaller male pedipalp, retrolateral view; 12.<br/>
+Chelicerae of the smaller male; 13. Epigynum, ventral view; 14. Internal genitalia, ventral view; 15. Internal genitalia, dorsal<br/>
+view; 16. Schematic course of internal ducts. Scale bars for figures 7-12 = 1.0 mm, 13-15 = 
+<quantity pageId="6" pageNumber="47">0.5 mm</quantity>
+. Abbreviations used: C,<br/>
+cymbium; TTA, terminal tibial apophysis; Co, conductor; RTA, retrolateral tibial apophysis; ML, median lobe; A, atrium.
+</paragraph>
+</caption>
+</subSubSection>
+<subSubSection _generate="added" pageId="7" pageNumber="48" type="biology_ecology">
+<paragraph pageId="7" pageNumber="48" type="mainText">
+<pageBreakToken pageId="7" pageNumber="48" start="start">Biology</pageBreakToken>
+. Three of the male 
+<taxonomicName _evidence="lexicon" _rankHash="-579885337" genus="Cambridgea" pageId="7" pageNumber="48" rank="species" species="reinga">C. reinga</taxonomicName>
+examined (
+<collectionCode pageId="7" pageNumber="48">MONZ</collectionCode>
+AS.001590, AS.001605, AS.001607, AS.001608)<br/>
+were smaller (6.0- 
+<quantity pageId="7" pageNumber="48">6.8 mm</quantity>
+body length), had smaller non-porrect chelicerae in which the fangs barely met (Fig. 12),<br/>
+the distal portion of the cymbium (relative to the bulb) was much shorter (Fig. 10) and the palpal tibia was shorter<br/>
+relative to its width (Fig. 11). However, the palpal sclerites (Figs 7, 10) and tibial apophyses (Figs 8, 11) are the<br/>
+same shape, position and relative size to one another, and the colour patterns are the same in both forms of the<br/>
+male. The COI sequences of smaller 
+<taxonomicName _evidence="lexicon" _rankHash="-579885337" genus="Cambridgea" pageId="7" pageNumber="48" rank="species" species="reinga">C. reinga</taxonomicName>
+specimens (GenBank 
+<collectionCode pageId="7" pageNumber="48">HQ</collectionCode>
+316173, 
+<collectionCode pageId="7" pageNumber="48">HQ</collectionCode>
+316174, 
+<collectionCode pageId="7" pageNumber="48">HQ</collectionCode>
+332444) matched<br/>
+those of larger specimens (GenBank 
+<collectionCode pageId="7" pageNumber="48">HM</collectionCode>
+439090- 
+<collectionCode pageId="7" pageNumber="48">HM</collectionCode>
+439091) and were identical for three specimens (GenBank<br/>
+<collectionCode pageId="7" pageNumber="48">HM</collectionCode>
+439091, 
+<collectionCode pageId="7" pageNumber="48">HQ</collectionCode>
+316174, 
+<collectionCode pageId="7" pageNumber="48">HQ</collectionCode>
+332444). Two forms of male have been noted in other 
+<taxonomicName _rankHash="1621660521" genus="Cambridgea" pageId="7" pageNumber="48" rank="genus">Cambridgea</taxonomicName>
+species. In 
+<taxonomicName _evidence="lexicon" _rankHash="53863065" genus="Cambridgea" pageId="7" pageNumber="48" rank="species" species="antipodiana">C.<br/>
+antipodiana</taxonomicName>
+(White 1849), the chelicerae are large and porrect in one form of male, while the chelicerae in the<br/>
+other form are similar to those of the female (Forster &amp; Wilton 1973). In 
+<taxonomicName _evidence="lexicon" _rankHash="1054555589" authority="Dalmas" authorityName="Dalmas" genus="Cambridgea" pageId="7" pageNumber="48" rank="species" species="annulata">C. annulata Dalmas</taxonomicName>
+1917, males are either<br/>
+large and the distal portion of the cymbium is relatively elongated, or males are small and have a shorter distal portion of the cymbium (Sirvid, personal observation). The differences in male 
+<taxonomicName _rankHash="1621660521" genus="Cambridgea" pageId="7" pageNumber="48" rank="genus">Cambridgea</taxonomicName>
+forms could be due to<br/>
+food availability, which is known to affect size and morphology in some spider species (Jakob &amp; Dingle 1990).
+</paragraph>
+<paragraph pageId="7" pageNumber="48" type="mainText">
+All specimens collected were from pitfall traps or pan traps in native forest, exotic pine forest (
+<taxonomicName _evidence="data" _evidence_details="round: 1, species=spp" _rankHash="2042062566" authority="spp" authorityName="spp" genus="Pinus" pageId="7" pageNumber="48" rank="genus">
+Pinus 
+<authority pageId="7" pageNumber="48">spp</authority>
+</taxonomicName>
+.), or<br/>
+dense scrub with flax (
+<taxonomicName _evidence="data" _evidence_details="round: 1, species=spp" _rankHash="-1849459774" authority="spp" authorityName="spp" genus="Phormium" pageId="7" pageNumber="48" rank="genus">
+Phormium 
+<authority pageId="7" pageNumber="48">spp</authority>
+</taxonomicName>
+.), manuka (
+<taxonomicName _evidence="feedback" _rankHash="463306440" genus="Leptospermum" pageId="7" pageNumber="48" rank="species" species="scoparium">Leptospermum scoparium</taxonomicName>
+J.R. Forst. &amp; G. Forst.) and kanuka<br/>
+(
+<taxonomicName _evidence="feedback" _rankHash="-23153885" genus="Kunzea" pageId="7" pageNumber="48" rank="species" species="ericoides">Kunzea ericoides</taxonomicName>
+(A. Rich.) Joy Thomps.). From this we can assume that 
+<taxonomicName _evidence="lexicon" _rankHash="-579885337" genus="Cambridgea" pageId="7" pageNumber="48" rank="species" species="reinga">C. reinga</taxonomicName>
+probably live close to the<br/>
+ground. It is unknown whether this species builds sheet webs typical of other 
+<taxonomicName _rankHash="1621660521" genus="Cambridgea" pageId="7" pageNumber="48" rank="genus">Cambridgea</taxonomicName>
+species (Forster &amp; Wilton 1973; Blest &amp; Taylor 1995). Adults have been found throughout the year.
+</paragraph>
+</subSubSection>
+<subSubSection _generate="added" pageId="7" pageNumber="48" type="distribution">
+<paragraph pageId="7" pageNumber="48" type="mainText">
+Distribution. 
+<taxonomicName _rankHash="1602747913" genus="Cambridgea" pageId="7" pageNumber="48" rank="species" species="reinga">Cambridgea reinga</taxonomicName>
+is known only from Te Paki Ecological District at the northern tip of Northland, New Zealand, and is likely to be endemic to that region, which is an area of high endemism (e.g., de Lange et<br/>
+al. 2003; Larochelle &amp; 
+<normalizedToken originalValue="Larivière" pageId="7" pageNumber="48">Lariviere</normalizedToken>
+2005; Marshall &amp; Barker 2007; Chapple et al. 2008; Buckley &amp; Bradler 2010).
+</paragraph>
+</subSubSection>
+<subSubSection _generate="added" pageId="7" pageNumber="48" type="discussion">
+<paragraph pageId="7" pageNumber="48" type="mainText">
+Remarks. The collection of male and female specimens from the same area, the same colour pattern of both<br/>
+sexes and COI sequences that vary by only 2%, lead us to conclude that 
+<taxonomicName _evidence="lexicon" _rankHash="528924854" genus="Nanocambridgea" pageId="7" pageNumber="48" rank="species" species="grandis">N. grandis</taxonomicName>
+is a junior synonym of 
+<taxonomicName _evidence="lexicon" _rankHash="-579885337" genus="Cambridgea" pageId="7" pageNumber="48" rank="species" species="reinga">C.<br/>
+reinga</taxonomicName>
+. We have retained 
+<taxonomicName _evidence="lexicon" _rankHash="-579885337" genus="Cambridgea" pageId="7" pageNumber="48" rank="species" species="reinga">C. reinga</taxonomicName>
+in 
+<taxonomicName _rankHash="1621660521" genus="Cambridgea" pageId="7" pageNumber="48" rank="genus">Cambridgea</taxonomicName>
+because it has the blackish median and lateral stripes on the carapace that are typical of species of 
+<taxonomicName _rankHash="1621660521" genus="Cambridgea" pageId="7" pageNumber="48" rank="genus">Cambridgea</taxonomicName>
+; this colour pattern is lacking in 
+<taxonomicName _rankHash="1395315496" genus="Nanocambridgea" pageId="7" pageNumber="48" rank="species" species="gracilipes">Nanocambridgea gracilipes</taxonomicName>
+,<br/>
+which is the 
+<typeStatus pageId="7" pageNumber="48">type</typeStatus>
+species of the genus 
+<taxonomicName _rankHash="-124900067" genus="Nanocambridgea" pageId="7" pageNumber="48" rank="genus">Nanocambridgea</taxonomicName>
+Forster &amp; Wilton 1973. Also, the tibial apophyses of 
+<taxonomicName _evidence="lexicon" _rankHash="-579885337" genus="Cambridgea" pageId="7" pageNumber="48" rank="species" species="reinga">C.<br/>
+reinga</taxonomicName>
+are more like those of other 
+<taxonomicName _rankHash="1621660521" genus="Cambridgea" pageId="7" pageNumber="48" rank="genus">Cambridgea</taxonomicName>
+and not reduced as they are in 
+<taxonomicName _evidence="lexicon" _rankHash="-2061560123" genus="Nanocambridgea" pageId="7" pageNumber="48" rank="species" species="gracilipes">N. gracilipes</taxonomicName>
+. Forster &amp; Wilton<br/>
+(1973) distinguished 
+<taxonomicName _rankHash="-124900067" genus="Nanocambridgea" pageId="7" pageNumber="48" rank="genus">Nanocambridgea</taxonomicName>
+from 
+<taxonomicName _rankHash="1621660521" genus="Cambridgea" pageId="7" pageNumber="48" rank="genus">Cambridgea</taxonomicName>
+by the presence in 
+<taxonomicName _rankHash="-124900067" genus="Nanocambridgea" pageId="7" pageNumber="48" rank="genus">Nanocambridgea</taxonomicName>
+of plumose hairs on<br/>
+the legs, four teeth on the promargin of the chelicerae and a ventral stridulating organ on the pedicel and abdomen<br/>
+of males. Blest &amp; Vink (2000) added to these characters the greater ratio of length of leg 1 to carapace (&gt; 7.0) in<br/>
+male 
+<taxonomicName _rankHash="-124900067" genus="Nanocambridgea" pageId="7" pageNumber="48" rank="genus">Nanocambridgea</taxonomicName>
+. However, all of these characters except the ventral stridulating organ prove not to be diagnostic. Plumose hairs are present on the legs of some species of 
+<taxonomicName _rankHash="1621660521" genus="Cambridgea" pageId="7" pageNumber="48" rank="genus">Cambridgea</taxonomicName>
+(Blest &amp; Vink 2000), leg 1/carapace<br/>
+ratio of male 
+<taxonomicName _rankHash="1602747913" genus="Cambridgea" pageId="7" pageNumber="48" rank="species" species="reinga">Cambridgea reinga</taxonomicName>
+is greater, not less, than in 
+<taxonomicName _rankHash="1395315496" genus="Nanocambridgea" pageId="7" pageNumber="48" rank="species" species="gracilipes">Nanocambridgea gracilipes</taxonomicName>
+, and both genera have four<br/>
+teeth on the promargin and two teeth on the retromargin. Forster and Wilton (1973), in their generic description of<br/>
+<taxonomicName _rankHash="1621660521" genus="Cambridgea" pageId="7" pageNumber="48" rank="genus">Cambridgea</taxonomicName>
+, had incorrectly reported two teeth on the promargin and three to five teeth on the retromargin, but in<br/>
+their species descriptions they correctly listed two teeth on the retromargin and between three and five teeth on the<br/>
+promargin. This leaves only the ventral stridulation organ of 
+<taxonomicName _rankHash="-124900067" genus="Nanocambridgea" pageId="7" pageNumber="48" rank="genus">Nanocambridgea</taxonomicName>
+versus the dorsal stridulation organ<br/>
+of 
+<taxonomicName _rankHash="1621660521" genus="Cambridgea" pageId="7" pageNumber="48" rank="genus">Cambridgea</taxonomicName>
+as separating the two genera; however, proper assessment of the validity of the genus 
+<taxonomicName _rankHash="-124900067" genus="Nanocambridgea" pageId="7" pageNumber="48" rank="genus">Nanocambridgea</taxonomicName>
+is beyond the scope of this study, but could be resolved by a phylogenetic analysis of New Zealand 
+<taxonomicName _rankHash="-1664115667" family="Stiphidiidae" pageId="7" pageNumber="48" rank="family">Stiphidiidae</taxonomicName>
+(
+<taxonomicName _rankHash="1621660521" genus="Cambridgea" pageId="7" pageNumber="48" rank="genus">Cambridgea</taxonomicName>
+, 
+<taxonomicName _rankHash="-124900067" genus="Nanocambridgea" pageId="7" pageNumber="48" rank="genus">Nanocambridgea</taxonomicName>
+and 
+<taxonomicName _rankHash="293172662" genus="Ischalea" pageId="7" pageNumber="48" rank="genus">Ischalea</taxonomicName>
+L. Koch 1872) and other similar genera, such as the Australian<br/>
+<taxonomicName _rankHash="1863181718" genus="Procambridgea" pageId="7" pageNumber="48" rank="genus">Procambridgea</taxonomicName>
+Forster &amp; Wilton 1973, to see if 
+<taxonomicName _evidence="lexicon" _rankHash="-2061560123" genus="Nanocambridgea" pageId="7" pageNumber="48" rank="species" species="gracilipes">N. gracilipes</taxonomicName>
+falls within 
+<taxonomicName _rankHash="1621660521" genus="Cambridgea" pageId="7" pageNumber="48" rank="genus">Cambridgea</taxonomicName>
+.
+</paragraph>
+</subSubSection>
+</treatment>
+<subSection _generate="added" pageId="7" pageNumber="48" type="acknowledgments">
+<paragraph pageId="7" pageNumber="48" type="mainText">Acknowledgements</paragraph>
+<paragraph pageId="7" pageNumber="48" type="mainText">
+We are extremely grateful to Olly Ball (NorthTec) for collecting specimens for us. We thank Chris Green (Department of Conservation) for Korapuki Island specimens, and John Early and Chris Jones from AMNZ for the loan of<br/>
+type material. Thanks to Norman Platnick (American Museum of Natural History), Steffen Bayer (Senckenberg<br/>
+Research Institute), Peter 
+<normalizedToken originalValue="Jäger" pageId="7" pageNumber="48">Jaeger</normalizedToken>
+(Senckenberg Research Institute) and an anonymous reviewer for comments on the<br/>
+manuscript. This work was partially funded by New 
+<normalizedToken originalValue="Zealand’s" pageId="7" pageNumber="48">Zealand's</normalizedToken>
+Foundation for Research, Science &amp; Technology<br/>
+through contract C09X0501 (Defining New Zealand's Land Biota / Te Tautuhi i nga Hanga Koiora o Aotearoa).
+</paragraph>
+</subSection>
+<subSection _generate="added" lastPageId="9" lastPageNumber="50" pageId="8" pageNumber="49" type="reference_group">
+<paragraph pageId="8" pageNumber="49" type="mainText">
+<pageBreakToken pageId="8" pageNumber="49" start="start">References</pageBreakToken>
+</paragraph>
+<paragraph pageId="8" pageNumber="49" type="bibRef">
+<bibRef author="Ayoub, N. A. &amp; Riechert, S. E. &amp; Small, R. L." journalOrPublisher="Molecular Phylogenetics and Evolution" pageId="8" pageNumber="49" pagination="42 - 57" part="36" title="Speciation history of the North American funnel web spiders, Agelenopsis (Araneae: Agelenidae): Phylogenetic inferences at the population-species interface" type="journal article" year="2005">
+<author pageId="8" pageNumber="49">Ayoub, N.A.</author>
+, 
+<author pageId="8" pageNumber="49">
+Riechert, 
+<pageNumber ambiguity="2147483647" fuzzyness="2147483647" pageId="8" pageNumber="49" score="2" value="17">S</pageNumber>
+.E.
+</author>
+&amp; 
+<author pageId="8" pageNumber="49">Small, R.L.</author>
+(
+<year pageId="8" pageNumber="49">2005</year>
+) 
+<title pageId="8" pageNumber="49">Speciation history of the North American funnel web spiders, Agelenopsis<br/>
+(Araneae: Agelenidae): Phylogenetic inferences at the population-species interface</title>
+. 
+<journalOrPublisher pageId="8" pageNumber="49">Molecular Phylogenetics and Evolution</journalOrPublisher>
+, 
+<part pageId="8" pageNumber="49">36</part>
+, 
+<pagination pageId="8" pageNumber="49">42-57</pagination>
+.
+</bibRef>
+</paragraph>
+<paragraph pageId="8" pageNumber="49" type="bibRef">
+<bibRef author="Blest, A. D. &amp; Taylor, P. W." journalOrPublisher="New Zealand Journal of Zoology" pageId="8" pageNumber="49" pagination="351 - 356" part="22" title="Cambridgea quadromaculata n. sp. (Araneae, Stiphidiidae): a large New Zealand spider from wet, shaded habitats" type="journal article" year="1995">
+<author pageId="8" pageNumber="49">Blest, A.D.</author>
+&amp; 
+<author pageId="8" pageNumber="49">Taylor, P.W.</author>
+(
+<year pageId="8" pageNumber="49">1995</year>
+) 
+<title pageId="8" pageNumber="49">Cambridgea quadromaculata n. sp. (Araneae, Stiphidiidae): a large New Zealand spider<br/>
+from wet, shaded habitats</title>
+. 
+<journalOrPublisher pageId="8" pageNumber="49">New Zealand Journal of Zoology</journalOrPublisher>
+, 
+<part pageId="8" pageNumber="49">22</part>
+, 
+<pagination pageId="8" pageNumber="49">351-356</pagination>
+.
+</bibRef>
+</paragraph>
+<paragraph pageId="8" pageNumber="49" type="bibRef">
+<bibRef author="Blest, A. D. &amp; Vink, C. J." journalOrPublisher="Supplement to the Records of the Canterbury Museum" pageId="8" pageNumber="49" pagination="1 - 27" part="13" title="New Zealand spiders: Stiphidiidae" type="journal article" year="2000">
+<author pageId="8" pageNumber="49">Blest, A.D.</author>
+&amp; 
+<author pageId="8" pageNumber="49">Vink, C.J.</author>
+(
+<year pageId="8" pageNumber="49">2000</year>
+) 
+<title pageId="8" pageNumber="49">New Zealand spiders: Stiphidiidae</title>
+. 
+<journalOrPublisher pageId="8" pageNumber="49">Supplement to the Records of the Canterbury Museum</journalOrPublisher>
+, 
+<part pageId="8" pageNumber="49">13</part>
+,<br/>
+<pagination pageId="8" pageNumber="49">1-27</pagination>
+.
+</bibRef>
+</paragraph>
+<paragraph pageId="8" pageNumber="49" type="bibRef">
+<bibRef author="Bowie, M. H. &amp; Frampton, C. M." journalOrPublisher="Ecological Management &amp; Restoration" pageId="8" pageNumber="49" pagination="34 - 42" part="5" title="A practical technique for non-destructive monitoring of soil surface invertebrates for ecological restoration programmes" type="journal article" year="2004">
+<author pageId="8" pageNumber="49">Bowie, M.H.</author>
+&amp; 
+<author pageId="8" pageNumber="49">Frampton, C.M.</author>
+(
+<year pageId="8" pageNumber="49">2004</year>
+) 
+<title pageId="8" pageNumber="49">A practical technique for non-destructive monitoring of soil surface invertebrates for<br/>
+ecological restoration programmes</title>
+. 
+<journalOrPublisher pageId="8" pageNumber="49">Ecological Management &amp; Restoration</journalOrPublisher>
+, 
+<part pageId="8" pageNumber="49">5</part>
+, 
+<pagination pageId="8" pageNumber="49">34-42</pagination>
+.
+</bibRef>
+</paragraph>
+<paragraph pageId="8" pageNumber="49" type="bibRef">
+<bibRef author="Bowie, M. H. &amp; Hodge, S. &amp; Banks, J. C. &amp; Vink, C. J." journalOrPublisher="Journal of Insect Conservation" pageId="8" pageNumber="49" pagination="261 - 268" part="10" title="An appraisal of simple tree-mounted shelters for non-lethal monitoring of weta (Orthoptera: Anostostomatidae and Rhaphidophoridae) in New Zealand nature reserves" type="journal article" year="2006">
+<author pageId="8" pageNumber="49">Bowie, M.H.</author>
+, 
+<author pageId="8" pageNumber="49">Hodge, S.</author>
+, 
+<author pageId="8" pageNumber="49">Banks, J.C.</author>
+&amp; 
+<author pageId="8" pageNumber="49">Vink, C.J.</author>
+(
+<year pageId="8" pageNumber="49">2006</year>
+) 
+<title pageId="8" pageNumber="49">
+An appraisal of simple tree-mounted shelters for non-lethal 
+<misspelling language="German" pageId="8" pageNumber="49" type="outOfLanguage">monitoring</misspelling>
+of weta (Orthoptera: 
+<misspelling pageId="8" pageNumber="49" type="misspelled">Anostostomatidae</misspelling>
+and 
+<misspelling pageId="8" pageNumber="49" type="misspelled">Rhaphidophoridae</misspelling>
+) in New Zealand nature reserves
+</title>
+. 
+<journalOrPublisher pageId="8" pageNumber="49">Journal of Insect<br/>
+Conservation</journalOrPublisher>
+, 
+<part pageId="8" pageNumber="49">10</part>
+, 
+<pagination pageId="8" pageNumber="49">261-268</pagination>
+.
+</bibRef>
+</paragraph>
+<paragraph pageId="8" pageNumber="49" type="bibRef">
+<bibRef author="Buckley, T. R. &amp; Bradler, S." journalOrPublisher="New Zealand Entomologist" pageId="8" pageNumber="49" pagination="118 - 126" part="33" title="Tepakiphasma ngatikuri, a new genus and species of stick insect (Phasmatodea) from the Far North of New Zealand" type="journal article" year="2010">
+<author pageId="8" pageNumber="49">Buckley, T.R.</author>
+&amp; 
+<author pageId="8" pageNumber="49">Bradler, S.</author>
+(
+<year pageId="8" pageNumber="49">2010</year>
+) 
+<title pageId="8" pageNumber="49">Tepakiphasma ngatikuri, a new genus and species of stick insect (Phasmatodea) from the<br/>
+Far North of New Zealand</title>
+. 
+<journalOrPublisher pageId="8" pageNumber="49">New Zealand Entomologist</journalOrPublisher>
+, 
+<part pageId="8" pageNumber="49">33</part>
+, 
+<pagination pageId="8" pageNumber="49">118-126</pagination>
+.
+</bibRef>
+</paragraph>
+<paragraph pageId="8" pageNumber="49" type="bibRef">
+<bibRef author="Chapple, D. G. &amp; Patterson, G. B. &amp; Bell, T. &amp; Daugherty, C. H." journalOrPublisher="Journal of Herpetology" pageId="8" pageNumber="49" pagination="437 - 452" part="42" title="Taxonomic revision of the New Zealand copper skink (Cyclodina aenea: Squamata: Scincidae) species complex, with descriptions of two new species" type="journal article" year="2008">
+<author pageId="8" pageNumber="49">Chapple, D.G.</author>
+, 
+<author pageId="8" pageNumber="49">Patterson, G.B.</author>
+, 
+<author pageId="8" pageNumber="49">Bell, T.</author>
+&amp; 
+<author pageId="8" pageNumber="49">Daugherty, C.H.</author>
+(
+<year pageId="8" pageNumber="49">2008</year>
+) 
+<title pageId="8" pageNumber="49">Taxonomic revision of the New Zealand copper skink<br/>
+(Cyclodina aenea: Squamata: Scincidae) species complex, with descriptions of two new species</title>
+. 
+<journalOrPublisher pageId="8" pageNumber="49">Journal of Herpetology</journalOrPublisher>
+,<br/>
+<part pageId="8" pageNumber="49">42</part>
+, 
+<pagination pageId="8" pageNumber="49">437-452</pagination>
+.
+</bibRef>
+</paragraph>
+<paragraph pageId="8" pageNumber="49" type="bibRef">
+<bibRef author="Crosby, T. K. &amp; Dugdale, J. S. &amp; Watt, J. C." journalOrPublisher="New Zealand Journal of Zoology" pageId="8" pageNumber="49" pagination="175 - 183" part="25" title="Area codes for recording specimen localities in the New Zealand subregion" type="journal article" year="1998">
+<author pageId="8" pageNumber="49">Crosby, T.K.</author>
+, 
+<author pageId="8" pageNumber="49">Dugdale, J.S.</author>
+&amp; 
+<author pageId="8" pageNumber="49">Watt, J.C.</author>
+(
+<year pageId="8" pageNumber="49">1998</year>
+) 
+<title pageId="8" pageNumber="49">Area codes for recording specimen localities in the New Zealand subregion</title>
+.<br/>
+<journalOrPublisher pageId="8" pageNumber="49">New Zealand Journal of Zoology</journalOrPublisher>
+, 
+<part pageId="8" pageNumber="49">25</part>
+, 
+<pagination pageId="8" pageNumber="49">175-183</pagination>
+.
+</bibRef>
+</paragraph>
+<paragraph pageId="8" pageNumber="49" type="bibRef">
+<bibRef author="de Lange, P. J. &amp; Heenan, P. B. &amp; Dawson, M. I." journalOrPublisher="New Zealand Journal of Botany" pageId="8" pageNumber="49" pagination="13 - 21" part="41" title="A new species of Leucopogon (Ericaceae) from the Surville Cliffs, North Cape, New Zealand" type="journal article" year="2003">
+<author pageId="8" pageNumber="49">de Lange, P. J.</author>
+, 
+<author pageId="8" pageNumber="49">Heenan, P.B.</author>
+&amp; 
+<author pageId="8" pageNumber="49">Dawson, M.I.</author>
+(
+<year pageId="8" pageNumber="49">2003</year>
+) 
+<title pageId="8" pageNumber="49">A new species of Leucopogon (Ericaceae) from the Surville Cliffs, North<br/>
+Cape, New Zealand</title>
+. 
+<journalOrPublisher pageId="8" pageNumber="49">New Zealand Journal of Botany</journalOrPublisher>
+, 
+<part pageId="8" pageNumber="49">41</part>
+, 
+<pagination pageId="8" pageNumber="49">13-21</pagination>
+.
+</bibRef>
+</paragraph>
+<paragraph pageId="8" pageNumber="49" type="bibRef">
+<bibRef author="Fitzgerald, B. M. &amp; Sirvid, P. J." journalOrPublisher="Tuhinga" pageId="8" pageNumber="49" pagination="137 - 158" part="20" title="A revision of Nomaua (Araneae: Synotaxidae) and description of a new synotaxid genus from New Zealand" type="journal article" year="2009">
+<author pageId="8" pageNumber="49">Fitzgerald, B.M.</author>
+&amp; 
+<author pageId="8" pageNumber="49">Sirvid, P. J.</author>
+(
+<year pageId="8" pageNumber="49">2009</year>
+) 
+<title pageId="8" pageNumber="49">A revision of Nomaua (Araneae: Synotaxidae) and description of a new synotaxid genus<br/>
+from New Zealand</title>
+. 
+<journalOrPublisher pageId="8" pageNumber="49">Tuhinga</journalOrPublisher>
+, 
+<part pageId="8" pageNumber="49">20</part>
+, 
+<pagination pageId="8" pageNumber="49">137-158</pagination>
+.
+</bibRef>
+</paragraph>
+<paragraph pageId="8" pageNumber="49" type="bibRef">
+<bibRef author="Folmer, O. &amp; Black, M. &amp; Hoeh, W. &amp; Lutz, R. &amp; Vrijenhoek, R." journalOrPublisher="Molecular Marine Biology and Biotechnology" pageId="8" pageNumber="49" pagination="294 - 299" part="3" title="DNA primers for amplification of mitochondrial cytochrome c oxidase subunit I from diverse metazoan invertebrates" type="journal article" year="1994">
+<author pageId="8" pageNumber="49">Folmer, O.</author>
+, 
+<author pageId="8" pageNumber="49">Black, M.</author>
+, 
+<author pageId="8" pageNumber="49">Hoeh, W.</author>
+, 
+<author pageId="8" pageNumber="49">Lutz, R.</author>
+&amp; 
+<author pageId="8" pageNumber="49">Vrijenhoek, R.</author>
+(
+<year pageId="8" pageNumber="49">1994</year>
+) 
+<title pageId="8" pageNumber="49">DNA primers for amplification of mitochondrial cytochrome c oxidase subunit I from diverse metazoan invertebrates</title>
+. 
+<journalOrPublisher pageId="8" pageNumber="49">
+Molecular Marine Biology and 
+<misspelling pageId="8" pageNumber="49" type="misspelled">Biotechnology</misspelling>
+</journalOrPublisher>
+, 
+<part pageId="8" pageNumber="49">3</part>
+, 
+<pagination pageId="8" pageNumber="49">294- 299</pagination>
+.
+</bibRef>
+</paragraph>
+<paragraph pageId="8" pageNumber="49" type="bibRef">
+<bibRef author="Forster, R. R." journalOrPublisher="Otago Museum Bulletin" pageId="8" pageNumber="49" pagination="1 - 184" part="3" title="The spiders of New Zealand. Part III. Desidae, Dictynidae, Hahniidae, Amaurobioididae, Nicodamidae" type="journal article" year="1970">
+<author pageId="8" pageNumber="49">Forster, R.R.</author>
+(
+<year pageId="8" pageNumber="49">1970</year>
+) 
+<title pageId="8" pageNumber="49">The spiders of New Zealand. Part III. Desidae, Dictynidae, Hahniidae, Amaurobioididae, Nicodamidae</title>
+.<br/>
+<journalOrPublisher pageId="8" pageNumber="49">Otago Museum Bulletin</journalOrPublisher>
+, 
+<part pageId="8" pageNumber="49">3</part>
+, 
+<pagination pageId="8" pageNumber="49">1-184</pagination>
+.
+</bibRef>
+</paragraph>
+<paragraph pageId="8" pageNumber="49" type="bibRef">
+<bibRef author="Forster, R. R. &amp; Forster, L. M." journalOrPublisher="Otago University Press, Dunedin" pageId="8" pageNumber="49" title="Spiders of New Zealand and their worldwide kin" type="book" year="1999">
+<author pageId="8" pageNumber="49">Forster, R.R.</author>
+&amp; 
+<author pageId="8" pageNumber="49">Forster, L.M.</author>
+(
+<year pageId="8" pageNumber="49">1999</year>
+) 
+<title pageId="8" pageNumber="49">Spiders of New Zealand and their worldwide kin</title>
+. 
+<journalOrPublisher pageId="8" pageNumber="49">Otago University Press, Dunedin</journalOrPublisher>
+, 270 pp.
+</bibRef>
+</paragraph>
+<paragraph pageId="8" pageNumber="49" type="bibRef">
+<bibRef author="Forster, R. R. &amp; Wilton, C. L." journalOrPublisher="Otago Museum Bulletin" pageId="8" pageNumber="49" pagination="1 - 309" part="4" title="The spiders of New Zealand. Part IV. Agelenidae, Stiphidiidae, Amphinectidae, Amaurobiidae, Neolanidae, Ctenidae, Psechridae" type="journal article" year="1973">
+<author pageId="8" pageNumber="49">Forster, R.R.</author>
+&amp; 
+<author pageId="8" pageNumber="49">Wilton, C.L.</author>
+(
+<year pageId="8" pageNumber="49">1973</year>
+) 
+<title pageId="8" pageNumber="49">The spiders of New Zealand. Part IV. Agelenidae, Stiphidiidae, Amphinectidae, Amaurobiidae, Neolanidae, Ctenidae, Psechridae</title>
+. 
+<journalOrPublisher pageId="8" pageNumber="49">Otago Museum Bulletin</journalOrPublisher>
+, 
+<part pageId="8" pageNumber="49">4</part>
+, 
+<pagination pageId="8" pageNumber="49">1-309</pagination>
+.
+</bibRef>
+</paragraph>
+<paragraph pageId="8" pageNumber="49" type="bibRef">
+<bibRef author="Green, C." journalOrPublisher="Conservation Evidence" pageId="8" pageNumber="49" pagination="94 - 95" part="2" title="Using artificial refuges to translocate and establish Auckland tree weta Hemideina thoracica on Korapuki Island, New Zealand" type="journal article" year="2005">
+<author pageId="8" pageNumber="49">Green, C.</author>
+(
+<year pageId="8" pageNumber="49">2005</year>
+) 
+<title pageId="8" pageNumber="49">Using artificial refuges to translocate and establish Auckland tree weta Hemideina thoracica on Korapuki<br/>
+Island, New Zealand</title>
+. 
+<journalOrPublisher pageId="8" pageNumber="49">Conservation Evidence</journalOrPublisher>
+, 
+<part pageId="8" pageNumber="49">2</part>
+, 
+<pagination pageId="8" pageNumber="49">94-95</pagination>
+.
+</bibRef>
+</paragraph>
+<paragraph pageId="8" pageNumber="49" type="bibRef">
+<bibRef author="Hedin, M. C. &amp; Maddison, W. P." journalOrPublisher="Molecular Phylogenetics and Evolution" pageId="8" pageNumber="49" pagination="386 - 403" part="18" title="A combined molecular approach to phylogeny of the jumping spider subfamily Dendryphantinae (Araneae: Salticidae)" type="journal article" year="2001">
+<author pageId="8" pageNumber="49">Hedin, M.C.</author>
+&amp; 
+<author pageId="8" pageNumber="49">Maddison, W.P.</author>
+(
+<year pageId="8" pageNumber="49">2001</year>
+) 
+<title pageId="8" pageNumber="49">A combined molecular approach to phylogeny of the jumping spider subfamily Dendryphantinae (Araneae: Salticidae)</title>
+. 
+<journalOrPublisher pageId="8" pageNumber="49">Molecular Phylogenetics and Evolution</journalOrPublisher>
+, 
+<part pageId="8" pageNumber="49">18</part>
+, 
+<pagination pageId="8" pageNumber="49">386-403</pagination>
+.
+</bibRef>
+</paragraph>
+<paragraph pageId="8" pageNumber="49" type="bibRef">
+<bibRef author="Hodge, S. &amp; Vink, C. J. &amp; Banks, J. C. &amp; Bowie, M. H." journalOrPublisher="Journal of Arachnology" pageId="8" pageNumber="49" pagination="129 - 136" part="35" title="The use of tree-mounted artificial shelters to investigate arboreal spider communities in New Zealand nature reserves" type="journal article" year="2007">
+<author pageId="8" pageNumber="49">Hodge, S.</author>
+, 
+<author pageId="8" pageNumber="49">Vink, C.J.</author>
+, 
+<author pageId="8" pageNumber="49">Banks, J.C.</author>
+&amp; 
+<author pageId="8" pageNumber="49">Bowie, M.H.</author>
+(
+<year pageId="8" pageNumber="49">2007</year>
+) 
+<title pageId="8" pageNumber="49">The use of tree-mounted artificial shelters to investigate arboreal spider communities in New Zealand nature reserves</title>
+. 
+<journalOrPublisher pageId="8" pageNumber="49">Journal of Arachnology</journalOrPublisher>
+<part pageId="8" pageNumber="49">35</part>
+, 
+<pagination pageId="8" pageNumber="49">129-136</pagination>
+.
+</bibRef>
+</paragraph>
+<paragraph pageId="8" pageNumber="49" type="bibRef">
+<bibRef author="Jakob, E. M. &amp; Dingle, H." journalOrPublisher="Psyche" pageId="8" pageNumber="49" pagination="95 - 110" part="97" title="Food level and life history characteristics in a pholcid spider, Holocnemus pluchei" type="journal article" year="1990">
+<author pageId="8" pageNumber="49">Jakob, E.M.</author>
+&amp; 
+<author pageId="8" pageNumber="49">Dingle, H.</author>
+(
+<year pageId="8" pageNumber="49">1990</year>
+) 
+<title pageId="8" pageNumber="49">Food level and life history characteristics in a pholcid spider, Holocnemus pluchei</title>
+. 
+<journalOrPublisher pageId="8" pageNumber="49">Psyche</journalOrPublisher>
+,<br/>
+<part pageId="8" pageNumber="49">97</part>
+, 
+<pagination pageId="8" pageNumber="49">95-110</pagination>
+.
+</bibRef>
+</paragraph>
+<paragraph pageId="8" pageNumber="49" type="bibRef">
+<bibRef author="Larochelle, A. &amp; Lariviere, M. - C." journalOrPublisher="Fauna of New Zealand" pageId="8" pageNumber="49" pagination="1 - 160" part="53" title="Harpalini (Insecta: Coleoptera: Carabidae: Harpalinae)" type="journal article" year="2005">
+<author pageId="8" pageNumber="49">Larochelle, A.</author>
+&amp; 
+<author pageId="8" pageNumber="49">
+<normalizedToken originalValue="Larivière" pageId="8" pageNumber="49">Lariviere</normalizedToken>
+, M.-C.
+</author>
+(
+<year pageId="8" pageNumber="49">2005</year>
+) 
+<title pageId="8" pageNumber="49">Harpalini (Insecta: Coleoptera: Carabidae: Harpalinae)</title>
+. 
+<journalOrPublisher pageId="8" pageNumber="49">Fauna of New Zealand</journalOrPublisher>
+, 
+<part pageId="8" pageNumber="49">53</part>
+,<br/>
+<pagination pageId="8" pageNumber="49">1-160</pagination>
+.
+</bibRef>
+</paragraph>
+<paragraph pageId="8" pageNumber="49" type="bibRef">
+<bibRef author="Lehtinen, P. T." journalOrPublisher="Annales Zoologica Fennici" pageId="8" pageNumber="49" pagination="199 - 468" part="4" title="Classification of the cribellate spiders and some allied families, with notes on the evolution of the suborder Araneomorpha" type="journal article" year="1967">
+<author pageId="8" pageNumber="49">Lehtinen, P.T.</author>
+(
+<year pageId="8" pageNumber="49">1967</year>
+) 
+<title pageId="8" pageNumber="49">Classification of the cribellate spiders and some allied families, with notes on the evolution of the suborder Araneomorpha</title>
+. 
+<journalOrPublisher pageId="8" pageNumber="49">Annales Zoologica Fennici</journalOrPublisher>
+, 
+<part pageId="8" pageNumber="49">4</part>
+, 
+<pagination pageId="8" pageNumber="49">199-468</pagination>
+.
+</bibRef>
+</paragraph>
+<paragraph pageId="8" pageNumber="49" type="bibRef">
+<bibRef author="Marples, R. R." journalOrPublisher="Transactions of the Royal Society of New Zealand" pageId="8" pageNumber="49" pagination="333 - 361" part="87" title="The dictynid spiders of New Zealand" type="journal article" year="1959">
+<author pageId="8" pageNumber="49">Marples, R.R.</author>
+(
+<year pageId="8" pageNumber="49">1959</year>
+) 
+<title pageId="8" pageNumber="49">The dictynid spiders of New Zealand</title>
+. 
+<journalOrPublisher pageId="8" pageNumber="49">Transactions of the Royal Society of New Zealand</journalOrPublisher>
+, 
+<part pageId="8" pageNumber="49">87</part>
+, 
+<pagination pageId="8" pageNumber="49">333-361</pagination>
+.
+</bibRef>
+</paragraph>
+<paragraph pageId="8" pageNumber="49" type="bibRef">
+<bibRef author="Marshall, B. A. &amp; Barker, G. M." journalOrPublisher="Tuhinga" pageId="8" pageNumber="49" pagination="49 - 113" part="18" title="A revision of New Zealand landsnails of the genus Cytora Kobelt &amp; Moellendorf, 1897 (Mollusca: Gastropoda: Pupinidae)" type="journal article" year="2007">
+<author pageId="8" pageNumber="49">Marshall, B.A.</author>
+&amp; 
+<author pageId="8" pageNumber="49">Barker, G.M.</author>
+(
+<year pageId="8" pageNumber="49">2007</year>
+) 
+<title pageId="8" pageNumber="49">
+A revision of New Zealand landsnails of the genus Cytora Kobelt &amp; 
+<normalizedToken originalValue="Möllendorf" pageId="8" pageNumber="49">Moellendorf</normalizedToken>
+, 1897<br/>
+(Mollusca: Gastropoda: Pupinidae)
+</title>
+. 
+<journalOrPublisher pageId="8" pageNumber="49">Tuhinga</journalOrPublisher>
+, 
+<part pageId="8" pageNumber="49">18</part>
+, 
+<pagination pageId="8" pageNumber="49">49-113</pagination>
+.
+</bibRef>
+</paragraph>
+<paragraph pageId="8" pageNumber="49" type="bibRef">
+<bibRef author="Paquin, P. &amp; Hedin, M." journalOrPublisher="Molecular Ecology" pageId="8" pageNumber="49" pagination="3239 - 3255" part="13" title="The power and perils of &quot; molecular taxonomy &quot;: a case study of eyeless and endangered Cicurina (Araneae: Dictynidae) from Texas caves" type="journal article" year="2004">
+<author pageId="8" pageNumber="49">Paquin, P.</author>
+&amp; 
+<author pageId="8" pageNumber="49">Hedin, M.</author>
+(
+<year pageId="8" pageNumber="49">2004</year>
+) 
+<title pageId="8" pageNumber="49">The power and perils of &quot;molecular taxonomy&quot;: a case study of eyeless and endangered<br/>
+Cicurina (Araneae: Dictynidae) from Texas caves</title>
+. 
+<journalOrPublisher pageId="8" pageNumber="49">Molecular Ecology</journalOrPublisher>
+, 
+<part pageId="8" pageNumber="49">13</part>
+, 
+<pagination pageId="8" pageNumber="49">3239-3255</pagination>
+.
+</bibRef>
+</paragraph>
+<paragraph pageId="8" pageNumber="49" type="bibRef">
+<bibRef author="Paquin, P. &amp; Vink, C. J." journalOrPublisher="Journal of Insect Conservation" pageId="8" pageNumber="49" pagination="453 - 457" part="13" title="Testing compatibility between molecular and morphological techniques for arthropod systematics: a minimally destructive DNA extraction method that preserves morphological integrity, and the effect of lactic acid on DNA quality" type="journal article" year="2009">
+<author pageId="8" pageNumber="49">Paquin, P.</author>
+&amp; 
+<author pageId="8" pageNumber="49">Vink, C.J.</author>
+(
+<year pageId="8" pageNumber="49">2009</year>
+) 
+<title pageId="8" pageNumber="49">Testing compatibility between molecular and morphological techniques for arthropod systematics: a minimally destructive DNA extraction method that preserves morphological integrity, and the effect of lactic acid on<br/>
+DNA quality</title>
+. 
+<journalOrPublisher pageId="8" pageNumber="49">Journal of Insect Conservation</journalOrPublisher>
+, 
+<part pageId="8" pageNumber="49">13</part>
+, 
+<pagination pageId="8" pageNumber="49">453-457</pagination>
+.
+</bibRef>
+</paragraph>
+<paragraph pageId="8" pageNumber="49" type="bibRef">
+<bibRef author="Paquin, P. &amp; Vink, C. J. &amp; Duperre, N." journalOrPublisher="Manaaki Whenua Press" pageId="8" pageNumber="49" title="Spiders of New Zealand: annotated family key &amp; species list" type="book" year="2010">
+<author pageId="8" pageNumber="49">Paquin, P.</author>
+, 
+<author pageId="8" pageNumber="49">Vink, C.J.</author>
+&amp; 
+<author pageId="8" pageNumber="49">
+<normalizedToken originalValue="Dupérré" pageId="8" pageNumber="49">Duperre</normalizedToken>
+, N.
+</author>
+(
+<year pageId="8" pageNumber="49">2010</year>
+) 
+<title pageId="8" pageNumber="49">Spiders of New Zealand: annotated family key &amp; species list</title>
+. 
+<journalOrPublisher pageId="8" pageNumber="49">Manaaki Whenua<br/>
+Press</journalOrPublisher>
+, Lincoln, vii +118 pp.
+</bibRef>
+</paragraph>
+<paragraph pageId="8" pageNumber="49" type="bibRef">
+<bibRef author="Patrick, B. H. &amp; Sirvid, P. J. &amp; Vink, C. J." journalOrPublisher="New Zealand Entomologist" pageId="8" pageNumber="49" pagination="95 - 99" part="23" title="Obituary: Raymond Robert Forster D. Sc., F. E. S. N. Z., Q. S. O. 19 June 1922 - 1 July 2000" type="journal article" year="2000">
+<author pageId="8" pageNumber="49">Patrick, B.H.</author>
+, 
+<author pageId="8" pageNumber="49">Sirvid, P.J.</author>
+&amp; 
+<author pageId="8" pageNumber="49">Vink, C.J.</author>
+(
+<year pageId="8" pageNumber="49">2000</year>
+) 
+<title pageId="8" pageNumber="49">Obituary: Raymond Robert Forster D.Sc., F.E.S.N.Z., Q.S.O. 19 June 1922 - 1<br/>
+July 2000</title>
+. 
+<journalOrPublisher pageId="8" pageNumber="49">New Zealand Entomologist</journalOrPublisher>
+, 
+<part pageId="8" pageNumber="49">23</part>
+, 
+<pagination pageId="8" pageNumber="49">95-99</pagination>
+.
+</bibRef>
+</paragraph>
+<paragraph pageId="8" pageNumber="49" type="bibRef">
+<bibRef author="Robinson, E. A. &amp; Blagoev, G. A. &amp; Hebert, PD. N. &amp; Adamowicz, S. J." journalOrPublisher="ZooKeys" pageId="8" pageNumber="49" pagination="27 - 46" part="16" title="Prospects for using DNA barcoding to identify spiders in species-rich genera" type="journal article" year="2009">
+<author pageId="8" pageNumber="49">Robinson, E.A.</author>
+, 
+<author pageId="8" pageNumber="49">Blagoev, G.A.</author>
+, 
+<author pageId="8" pageNumber="49">Hebert, PD.N.</author>
+&amp; 
+<author pageId="8" pageNumber="49">Adamowicz, S.J.</author>
+(
+<year pageId="8" pageNumber="49">2009</year>
+) 
+<title pageId="8" pageNumber="49">Prospects for using DNA barcoding to identify spiders in species-rich genera</title>
+. 
+<journalOrPublisher pageId="8" pageNumber="49">ZooKeys</journalOrPublisher>
+, 
+<part pageId="8" pageNumber="49">16</part>
+, 
+<pagination pageId="8" pageNumber="49">27-46</pagination>
+.
+</bibRef>
+</paragraph>
+<paragraph pageId="8" pageNumber="49" type="bibRef">
+<bibRef author="Shokralla, S. &amp; Singer, G. A. C. &amp; Hajibabaei, M." journalOrPublisher="BioTechniques" pageId="8" pageNumber="49" pagination="233 - 234" part="48" title="Direct PCR amplification and sequencing of specimens' DNA from preservative ethanol" type="journal article" year="2010">
+<author pageId="8" pageNumber="49">Shokralla, S.</author>
+, 
+<author pageId="8" pageNumber="49">Singer, G.A.C.</author>
+&amp; 
+<author pageId="8" pageNumber="49">Hajibabaei, M.</author>
+(
+<year pageId="8" pageNumber="49">2010</year>
+) 
+<title pageId="8" pageNumber="49">
+Direct PCR amplification and sequencing of 
+<normalizedToken originalValue="specimens’" pageId="8" pageNumber="49">specimens'</normalizedToken>
+DNA from preservative ethanol
+</title>
+. 
+<journalOrPublisher pageId="8" pageNumber="49">BioTechniques</journalOrPublisher>
+, 
+<part pageId="8" pageNumber="49">48</part>
+, 
+<pagination pageId="8" pageNumber="49">233-234</pagination>
+.
+</bibRef>
+</paragraph>
+<paragraph pageId="9" pageNumber="50" type="bibRef">
+<bibRef author="Spagna, J. C. &amp; Gillespie, R. G" journalOrPublisher="Molecular Phylogenetics and Evolution" pageId="9" pageNumber="50" pagination="347 - 368" part="46" title="More data, fewer shifts: Molecular insights into the evolution of the spinning apparatus in non-orb-weaving spiders" type="journal article" year="2008">
+<author pageId="9" pageNumber="50">
+<pageBreakToken pageId="9" pageNumber="50" start="start">Spagna</pageBreakToken>
+, J.C.
+</author>
+&amp; 
+<author pageId="9" pageNumber="50">Gillespie, R.G</author>
+(
+<year pageId="9" pageNumber="50">2008</year>
+) 
+<title pageId="9" pageNumber="50">More data, fewer shifts: Molecular insights into the evolution of the spinning apparatus<br/>
+in non-orb-weaving spiders</title>
+. 
+<journalOrPublisher pageId="9" pageNumber="50">Molecular Phylogenetics and Evolution</journalOrPublisher>
+, 
+<part pageId="9" pageNumber="50">46</part>
+, 
+<pagination pageId="9" pageNumber="50">347-368</pagination>
+.
+</bibRef>
+</paragraph>
+<paragraph pageId="9" pageNumber="50" type="bibRef">
+<bibRef author="Vink, C. J." journalOrPublisher="Fauna of New Zealand" pageId="9" pageNumber="50" pagination="1 - 94" part="44" title="Lycosidae (Arachnida: Araneae)" type="journal article" year="2002">
+<author pageId="9" pageNumber="50">Vink, C.J.</author>
+(
+<year pageId="9" pageNumber="50">2002</year>
+) 
+<title pageId="9" pageNumber="50">Lycosidae (Arachnida: Araneae)</title>
+. 
+<journalOrPublisher pageId="9" pageNumber="50">Fauna of New Zealand</journalOrPublisher>
+, 
+<part pageId="9" pageNumber="50">44</part>
+, 
+<pagination pageId="9" pageNumber="50">1-94</pagination>
+.
+</bibRef>
+</paragraph>
+<paragraph pageId="9" pageNumber="50" type="bibRef">
+<bibRef author="Vink, C. J. &amp; Duperre, N." journalOrPublisher="Fauna of New Zealand" pageId="9" pageNumber="50" pagination="1 - 60" part="64" title="Pisauridae (Arachnida: Araneae)" type="journal article" year="2010">
+<author pageId="9" pageNumber="50">Vink, C.J.</author>
+&amp; 
+<author pageId="9" pageNumber="50">
+<normalizedToken originalValue="Dupérré" pageId="9" pageNumber="50">Duperre</normalizedToken>
+, N.
+</author>
+(
+<year pageId="9" pageNumber="50">2010</year>
+) 
+<title pageId="9" pageNumber="50">Pisauridae (Arachnida: Araneae)</title>
+. 
+<journalOrPublisher pageId="9" pageNumber="50">Fauna of New Zealand</journalOrPublisher>
+, 
+<part pageId="9" pageNumber="50">64</part>
+, 
+<pagination pageId="9" pageNumber="50">1-60</pagination>
+.
+</bibRef>
+</paragraph>
+<paragraph pageId="9" pageNumber="50" type="bibRef">
+<bibRef author="Vink, C. J. &amp; Duperre, N. &amp; Paquin, P. &amp; Fitzgerald, B. M. &amp; Sirvid, P. J." journalOrPublisher="Zootaxa" pageId="9" pageNumber="50" pagination="55 - 63" part="2133" title="The cosmopolitan spider Cryptachaea blattea (Urquhart 1886) (Araneae: Theridiidae): Redescription, including COI sequence, and new synonymy" type="journal article" year="2009">
+<author pageId="9" pageNumber="50">Vink, C.J.</author>
+, 
+<author pageId="9" pageNumber="50">
+<normalizedToken originalValue="Dupérré" pageId="9" pageNumber="50">Duperre</normalizedToken>
+, N.
+</author>
+, 
+<author pageId="9" pageNumber="50">Paquin, P.</author>
+, 
+<author pageId="9" pageNumber="50">Fitzgerald, B.M.</author>
+&amp; 
+<author pageId="9" pageNumber="50">Sirvid, P.J.</author>
+(
+<year pageId="9" pageNumber="50">2009</year>
+) 
+<title pageId="9" pageNumber="50">The cosmopolitan spider Cryptachaea blattea<br/>
+(Urquhart 1886) (Araneae: Theridiidae): Redescription, including COI sequence, and new synonymy</title>
+. 
+<journalOrPublisher pageId="9" pageNumber="50">Zootaxa</journalOrPublisher>
+, 
+<part pageId="9" pageNumber="50">2133</part>
+, 
+<pagination pageId="9" pageNumber="50">55- 63</pagination>
+.
+</bibRef>
+</paragraph>
+<paragraph pageId="9" pageNumber="50" type="bibRef">
+<bibRef author="Vink, C. J. &amp; Paterson, A. M." journalOrPublisher="Molecular Phylogenetics and Evolution" pageId="9" pageNumber="50" pagination="576 - 587" part="28" title="Combined molecular and morphological phylogenetic analyses of the New Zealand wolf spider genus Anoteropsis (Araneae: Lycosidae)" type="journal article" year="2003">
+<author pageId="9" pageNumber="50">Vink, C.J.</author>
+&amp; 
+<author pageId="9" pageNumber="50">Paterson, A.M.</author>
+(
+<year pageId="9" pageNumber="50">2003</year>
+) 
+<title pageId="9" pageNumber="50">Combined molecular and morphological phylogenetic analyses of the New Zealand wolf<br/>
+spider genus Anoteropsis (Araneae: Lycosidae)</title>
+. 
+<journalOrPublisher pageId="9" pageNumber="50">Molecular Phylogenetics and Evolution</journalOrPublisher>
+, 
+<part pageId="9" pageNumber="50">28</part>
+, 
+<pagination pageId="9" pageNumber="50">576-587</pagination>
+.
+</bibRef>
+</paragraph>
+<paragraph pageId="9" pageNumber="50" type="bibRef">
+<bibRef author="Vink, C. J. &amp; Sirvid, P. J. &amp; Malumbres-Olarte, J. &amp; Griffiths, J. W. &amp; Paquin, P. &amp; Paterson, A. M." journalOrPublisher="Invertebrate Systematics" pageId="9" pageNumber="50" pagination="589 - 604" part="22" title="Species status and conservation issues of New Zealand's endemic Latrodectus spider species (Araneae: Theridiidae)" type="journal article" year="2008">
+<author pageId="9" pageNumber="50">Vink, C.J.</author>
+, 
+<author pageId="9" pageNumber="50">Sirvid, P.J.</author>
+, 
+<author pageId="9" pageNumber="50">Malumbres-Olarte, J.</author>
+, 
+<author pageId="9" pageNumber="50">Griffiths, J.W.</author>
+, 
+<author pageId="9" pageNumber="50">Paquin, P.</author>
+&amp; 
+<author pageId="9" pageNumber="50">Paterson, A.M.</author>
+(
+<year pageId="9" pageNumber="50">2008</year>
+) 
+<title pageId="9" pageNumber="50">
+Species status and conservation issues of New 
+<normalizedToken originalValue="Zealand’s" pageId="9" pageNumber="50">Zealand's</normalizedToken>
+endemic Latrodectus spider species (Araneae: Theridiidae)
+</title>
+. 
+<journalOrPublisher pageId="9" pageNumber="50">Invertebrate Systematics</journalOrPublisher>
+, 
+<part pageId="9" pageNumber="50">22</part>
+,<br/>
+<pagination pageId="9" pageNumber="50">589-604</pagination>
+.
+</bibRef>
+</paragraph>
+<paragraph pageId="9" pageNumber="50" type="bibRef">
+<bibRef author="Vink, C. J. &amp; Thomas, S. M. &amp; Paquin, P. &amp; Hayashi, C. Y. &amp; Hedin, M." journalOrPublisher="Invertebrate Systematics" pageId="9" pageNumber="50" pagination="99 - 104" part="19" title="The effects of preservatives and temperatures on arachnid DNA" type="journal article" year="2005">
+<author pageId="9" pageNumber="50">Vink, C.J.</author>
+, 
+<author pageId="9" pageNumber="50">Thomas, S.M.</author>
+, 
+<author pageId="9" pageNumber="50">Paquin, P.</author>
+, 
+<author pageId="9" pageNumber="50">Hayashi, C.Y.</author>
+&amp; 
+<author pageId="9" pageNumber="50">Hedin, M.</author>
+(
+<year pageId="9" pageNumber="50">2005</year>
+) 
+<title pageId="9" pageNumber="50">The effects of preservatives and temperatures on<br/>
+arachnid DNA</title>
+. 
+<journalOrPublisher pageId="9" pageNumber="50">Invertebrate Systematics</journalOrPublisher>
+, 
+<pageNumber ambiguity="2" fuzzyness="0" pageId="9" pageNumber="50" score="3" value="19">
+<part pageId="9" pageNumber="50">19</part>
+</pageNumber>
+, 
+<pagination pageId="9" pageNumber="50">99-104</pagination>
+.
+</bibRef>
+</paragraph>
+</subSection>
+</document>

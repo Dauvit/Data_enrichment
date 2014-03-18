@@ -1,0 +1,538 @@
+﻿<document ENCODING="UTF-8" ID-HNS-Pub="zt02883p068" checkinTime="1389009793318" checkinUser="jeremy" checkoutTime="1389084835664" checkoutUser="jeremy" docAuthor="Peter J�ger &amp; Bounthob Praxaysombath" docDate="2011" docId="570355361D688A138334ABD41A0F4161" docName="zt02883p068.xml" docOrigin="Zootaxa 2883" docSource="http://www.mapress.com/zootaxa/2011/f/zt02883p068.pdf" docTitle="Selenops muehlmannorum spec. nov. from Southern Laos (Araneae: Selenopidae)" lastPageNumber="68" pageNumber="65" updateTime="1389009793318" updateUser="jeremy">
+<mods:mods>
+<mods:titleInfo>
+<mods:title>Selenops muehlmannorum spec. nov. from Southern Laos (Araneae: Selenopidae)</mods:title>
+</mods:titleInfo>
+<mods:name type="personal">
+<mods:role>
+<mods:roleTerm>Author</mods:roleTerm>
+</mods:role>
+<mods:namePart>Peter Jäger</mods:namePart>
+</mods:name>
+<mods:name type="personal">
+<mods:role>
+<mods:roleTerm>Author</mods:roleTerm>
+</mods:role>
+<mods:namePart>Bounthob Praxaysombath</mods:namePart>
+</mods:name>
+<mods:typeOfResource>text</mods:typeOfResource>
+<mods:relatedItem type="host">
+<mods:titleInfo>
+<mods:title>Zootaxa</mods:title>
+</mods:titleInfo>
+<mods:part>
+<mods:date>2011</mods:date>
+<mods:detail type="volume">
+<mods:number>2883</mods:number>
+</mods:detail>
+<mods:extent unit="page">
+<mods:start>65</mods:start>
+<mods:end>68</mods:end>
+</mods:extent>
+</mods:part>
+</mods:relatedItem>
+<mods:location>
+<mods:url>http://www.mapress.com/zootaxa/2011/f/zt02883p068.pdf</mods:url>
+</mods:location>
+<mods:classification>journal article</mods:classification>
+<mods:identifier type="HNS-Pub">zt02883p068</mods:identifier>
+</mods:mods>
+<subSection _generate="added" pageId="0" pageNumber="65" type="document_head">
+<paragraph pageId="0" pageNumber="65" type="heading">
+<pageBreakToken pageId="0" pageNumber="65" start="start">Ξ</pageBreakToken>
+Zootaxa 2883: 
+<pageNumber ambiguity="4" fuzzyness="0" pageId="0" pageNumber="65" score="3" value="65">65</pageNumber>
+-68 (2011) ISSN 1175-5326 (print edition) www.mapress.com/zootaxa/ Correspondence ZOOTAXA Copyright © 2011 · Magnolia Press ISSN 1175-5334 (online edition)
+</paragraph>
+</subSection>
+<subSection _generate="added" pageId="0" pageNumber="65" type="multiple">
+<paragraph pageId="0" pageNumber="65" type="mainText">
+<taxonomicName _evidence="label" _rankHash="-828219489" genus="Selenops" pageId="0" pageNumber="65" rank="species" species="muehlmannorum">Selenops muehlmannorum</taxonomicName>
+<taxonomicNameLabel pageId="0" pageNumber="65" rank="species">spec. nov.</taxonomicNameLabel>
+from Southern Laos (
+<taxonomicName _evidence="lexicon" _rankHash="914879051" higher="Araneae" pageId="0" pageNumber="65" rank="higher">Araneae</taxonomicName>
+: 
+<taxonomicName _rankHash="-1366816765" family="Selenopidae" pageId="0" pageNumber="65" rank="family">Selenopidae</taxonomicName>
+) PETER 
+<normalizedToken originalValue="JÄGER" pageId="0" pageNumber="65">JAEGER</normalizedToken>
+<sup pageId="0" pageNumber="65">13</sup>
+&amp; BOUNTHOB PRAXAYSOMBATH 
+<sup pageId="0" pageNumber="65">2</sup>
+<sup pageId="0" pageNumber="65">1</sup>
+Arachnology, Research Institute Senckenberg, Senckenberganlage 25, D-60325 Frankfurt am Main, Germany. E-mail: Peter.Jaeger@Senckenberg. de 
+<sup pageId="0" pageNumber="65">2</sup>
+Department of Biology, Faculty of Science, National University of Laos, Dong Dok, Vientiane, Lao PDR 
+<sup pageId="0" pageNumber="65">3</sup>
+Corresponding author
+</paragraph>
+<paragraph pageId="0" pageNumber="65" type="mainText">
+The spider fauna of Laos was for a long time neglected in terms of arachnological investigations. Only recently the spider fauna is investigated, 
+<taxonomicNameLabel pageId="0" pageNumber="65" rank="species">new species</taxonomicNameLabel>
+are described, new records are listed and illustrations of species are provided for identification purposes (
+<normalizedToken originalValue="Jäger" pageId="0" pageNumber="65">Jaeger</normalizedToken>
+2007; 
+<normalizedToken originalValue="Jäger" pageId="0" pageNumber="65">Jaeger</normalizedToken>
+&amp; Praxaysombath 2009, in press). Currently, 150 spider species are recorded for Laos (
+<normalizedToken originalValue="Jäger" pageId="0" pageNumber="65">Jaeger</normalizedToken>
+&amp; Praxaysombath in press).
+</paragraph>
+</subSection>
+<subSection _generate="added" pageId="0" pageNumber="65" type="multiple">
+<paragraph pageId="0" pageNumber="65" type="mainText">
+The family 
+<taxonomicName _rankHash="-1366816765" family="Selenopidae" pageId="0" pageNumber="65" rank="family">Selenopidae</taxonomicName>
+Simon, 1897 was not thoroughly revised in Southeast Asia. Dankittipakul and Corronca (2009) described a 
+<taxonomicNameLabel pageId="0" pageNumber="65" rank="genus">new genus</taxonomicNameLabel>
+, 
+<taxonomicName _evidence="feedback" _rankHash="1771715534" genus="Siamspinops" pageId="0" pageNumber="65" rank="genus">Siamspinops</taxonomicName>
+. Representatives are diagnosed, among others, by their large number of ventral spines at tibiae and metatarsi I-II. We include the present species in 
+<taxonomicName _evidence="lexicon" _rankHash="1256539503" genus="Selenops" pageId="0" pageNumber="65" rank="genus">Selenops</taxonomicName>
+Latreille, 1819 due to the spination pattern of the legs, the large branched median apophysis and the broad and relatively short embolus, both of the latter characters are observed in American species, e.g., 
+<taxonomicName _evidence="lexicon" _rankHash="1893810072" authority="Valdez-Mondragon" authorityName="Valdez-Mondragon" genus="Selenops" pageId="0" pageNumber="65" rank="species" species="aztecus">
+S. aztecus 
+<normalizedToken originalValue="Valdez-Mondragôn" pageId="0" pageNumber="65">Valdez-Mondragon</normalizedToken>
+</taxonomicName>
+, 2010 (
+<normalizedToken originalValue="Valdez-Mondragôn" pageId="0" pageNumber="65">
+<taxonomicName _evidence="dynamicLexicon" _rankHash="1176355306" genus="Araneae" pageId="0" pageNumber="65" rank="genus">Valdez-Mondragon</taxonomicName>
+</normalizedToken>
+2010: figs 3- 4; Corronca in litt.). A comparison with Asian species from China (according to Song et al. 1999), Taiwan (according to Kayashima 1943) and India (according to Reimoser 1934; Gravely 1931; Patel &amp; Patel 1973) showed that material from Champasak Province in Southern Laos belonged to an unknown species, which is described below. The family 
+<taxonomicName _rankHash="-1366816765" family="Selenopidae" pageId="0" pageNumber="65" rank="family">Selenopidae</taxonomicName>
+is firstly recorded for Laos.
+</paragraph>
+<paragraph pageId="0" pageNumber="65" type="mainText">
+Material was examined and is preserved in 70% ethanol. The female copulatory organ was treated with 96% lactic acid. Leg measurements are given as: total length (femur, patella, tibia, metatarsus, tarsus). All measurements are in millimetres. Arising points of tegular appendages in males are described as clock-positions of the left palp in ventral view. As in 
+<taxonomicName _evidence="lexicon" _rankHash="1820003666" family="Sparassidae" pageId="0" pageNumber="65" rank="family">Sparassidae</taxonomicName>
+(
+<normalizedToken originalValue="Jäger" pageId="0" pageNumber="65">Jaeger</normalizedToken>
+2008), slit sense organs close to the epigyne are illustrated as descriptive character. Material is deposited in the Senckenberg Research Institute, Frankfurt am Main, Germany (SMF) and can be traced in the collection database SeSam (online at http://sesam.senckenberg.de). Abbreviations used in the text: AME-anterior median eyes, ALE-anterior lateral eyes, AW-anterior width of dorsal shield of prosoma, d-dorsal, OL-length of opisthosoma, OW-width of opisthosoma, p-prolateral, PME-posterior median eyes, PL-length of dorsal shield of prosoma, PLE-posterior lateral eyes, PW-width of dorsal shield of prosoma, r-retrolateral, SD-subsequent number of spiders with tissue sample for DNA-analysis, v-ventral, I-IV-leg I-IV
+</paragraph>
+</subSection>
+<treatment _generate="added" lastPageId="3" lastPageNumber="68" pageId="0" pageNumber="65">
+<subSubSection _generate="added" pageId="0" pageNumber="65" type="nomenclature">
+<paragraph pageId="0" pageNumber="65" type="mainText">
+<taxonomicName _evidence="label" _rankHash="-828219489" genus="Selenops" pageId="0" pageNumber="65" rank="species" species="muehlmannorum">Selenops muehlmannorum</taxonomicName>
+<taxonomicNameLabel pageId="0" pageNumber="65" rank="species">spec. nov.</taxonomicNameLabel>
+</paragraph>
+</subSubSection>
+<subSubSection _generate="added" pageId="0" pageNumber="65" type="description">
+<paragraph pageId="0" pageNumber="65" type="mainText">Figs 1-14</paragraph>
+</subSubSection>
+<subSubSection _generate="added" pageId="0" pageNumber="65" type="materials_examined">
+<paragraph pageId="0" pageNumber="65" type="mainText">
+<materialsCitation collectingDate="2009-11-23" collectingMethod="by hand, at night" collectionCode="SMF" collectorName="P. Jaeger &amp; S. Bayer" country="Laos" elevation="149 m" latitude="15.0941105" location="Muang Pathoumphone, 2.5 km S of Pakse, Vat Phou Salao" longLatPrecision="1" longitude="105.809616" specimenCount="1" specimenCountMale="1" stateProvince="Champasak Province" typeStatus="Holotype">
+Type material. 
+<typeStatus>Holotype</typeStatus>
+: Male, 
+<collectingCountry value="Laos">Laos</collectingCountry>
+, 
+<collectingRegion>Champasak Province</collectingRegion>
+, 
+<location country="Laos" latitude="15.0941105" longLatPrecision="1" longitude="105.809616" name="Muang Pathoumphone, 2.5 km S of Pakse, Vat Phou Salao" stateProvince="Champasak Province">
+Muang Pathoumphone, 
+<quantity metricMagnitude="4" metricUnit="m" metricValue="2.5" unit="km" value="25.0">2.5 km</quantity>
+S of Pakse, Vat Phou Salao
+</location>
+, 
+<geoCoordinate direction="north" orientation="latitude" precision="1" value="15.0941105">N 15°05'38.8&quot;</geoCoordinate>
+, 
+<geoCoordinate direction="east" orientation="longitude" precision="1" value="105.809616">E 105°48'34.6&quot;</geoCoordinate>
+, 
+<quantity metricMagnitude="2" metricUnit="m" metricValue="1.49" unit="m" value="149.0">
+<elevation metricMagnitude="2" metricUnit="m" metricValue="1.49" unit="m" value="149.0">149 m</elevation>
+</quantity>
+altitude, secondary forest, dry bed of stream, rocks, 
+<collectingMethod>by hand, at night</collectingMethod>
+, 
+<date value="2009-11-23">
+<collectingDate value="2009-11-23">23 November 2009</collectingDate>
+</date>
+, 
+<collectorName _evidence="leading initial">
+P. 
+<normalizedToken originalValue="Jäger" pageId="0" pageNumber="65">Jaeger</normalizedToken>
+&amp; S. Bayer
+</collectorName>
+leg. (
+<collectionCode collectionName="Germany, Frankfurt-am-Main, Forschungsinstitut und Naturmuseum Senckenberg">SMF</collectionCode>
+)
+</materialsCitation>
+.
+</paragraph>
+<paragraph pageId="0" pageNumber="65" type="mainText">
+<materialsCitation collectingDate="2009-11-23" collectingMethod="by hand, at night" collectionCode="SMF" collectorName="P. Jaeger &amp; S. Bayer" country="Laos" elevation="149 m" latitude="15.0941105" location="Muang Pathoumphone, 2.5 km S of Pakse, Vat Phou Salao" longLatPrecision="1" longitude="105.809616" specimenCode="SD 696, SD 680" specimenCount="2" specimenCountFemale="1" specimenCountMale="1" stateProvince="Champasak Province" typeStatus="Paratype">
+<typeStatus>Paratypes</typeStatus>
+: 1 male, 1 female (
+<collectionCode collectionName="Germany, Frankfurt-am-Main, Forschungsinstitut und Naturmuseum Senckenberg">SMF</collectionCode>
+), 
+<backReference>same data</backReference>
+as for holotype (tissue sample for molecular analysis 
+<specimenCode>available-SD 696</specimenCode>
+: male, two legs; 
+<specimenCode>SD 680</specimenCode>
+: female, 1 leg)
+</materialsCitation>
+.
+</paragraph>
+<paragraph pageId="0" pageNumber="65" type="mainText">
+<materialsCitation collectingDate="2009-11-23" collectingMethod="by hand, at night" collectionCode="SMF" collectorName="P. Jaeger &amp; S. Bayer" country="Laos" elevation="149 m" latitude="15.0941105" location="Muang Pathoumphone, 2.5 km S of Pakse, Vat Phou Salao" longLatPrecision="1" longitude="105.809616" specimenCount="1" specimenCountOther="1" stateProvince="Champasak Province">
+<collectingRegion>Further material examined</collectingRegion>
+: 
+<specimenCount type="generic">1 juvenile</specimenCount>
+(
+<collectionCode collectionName="Germany, Frankfurt-am-Main, Forschungsinstitut und Naturmuseum Senckenberg">SMF</collectionCode>
+), same data as for 
+<typeStatus>holotype</typeStatus>
+</materialsCitation>
+.
+</paragraph>
+</subSubSection>
+<subSubSection _generate="added" pageId="0" pageNumber="65" type="etymology">
+<paragraph pageId="0" pageNumber="65" type="mainText">
+Etymology. The species is named in honour of family 
+<normalizedToken originalValue="Mühlmann" pageId="0" pageNumber="65">Muehlmann</normalizedToken>
+from Germany for supporting the systematic research, description of biodiversity and nature conservation in Laos; noun in genitive case plural.
+</paragraph>
+</subSubSection>
+<subSubSection _generate="added" pageId="0" pageNumber="65" type="diagnosis">
+<paragraph pageId="0" pageNumber="65" type="mainText">
+Diagnosis. Males can be recognised by having 1. a massive RTA making palpal tibia distinctly wider than long, 2. median apophysis with two apices, the distal one hook-shaped, the retrolateral one tapering, and 3. embolus broad and blunt (Figs 1-4). Female epigyne similar to that of 
+<taxonomicName _evidence="lexicon" _rankHash="-1366677709" authority="Zhu" authorityName="Zhu" genus="Selenops" pageId="0" pageNumber="65" rank="species" species="ollarius">
+S. ollarius 
+<authority pageId="0" pageNumber="65">Zhu</authority>
+</taxonomicName>
+, Sha and Chen, 1990 (see Zhu et al. 1990), but 1. lateral lobes closer together and wider, 2. epigynal field wider than long and without undulated epigynal furrows (Figs 5- 7, 13).
+</paragraph>
+</subSubSection>
+<subSubSection _generate="added" lastPageId="3" lastPageNumber="68" pageId="0" pageNumber="65" type="description">
+<paragraph pageId="0" pageNumber="65" type="mainText">
+Description. Male (
+<typeStatus>holotype</typeStatus>
+, with data of 
+<typeStatus>paratype</typeStatus>
+in parentheses): PL 4.7 (3.7), PW 5.2 (4.3), AW 2.5 (1.9), OL 5.4 (5.0), OW 3.9 (3.3). Eye diametres: 
+<collectionCode collectionName="USA, Florida, Gainesville, University of Florida, Florida Museum of Natural History, Allyn Museum">AME</collectionCode>
+0.31, ALE 0.21, PME 0.30, PLE 0.46. Eye interdistances: AME-AME 0.19, AME-PME 0.10, ALE-PLE 0.21. Leg and pedipalpus measurements: pedipalpus 5.1 (1.4, 0.8, 1.3, -, 1.6); leg I 19.9 (5.5, 2.5, 5.6, 4.4, 1.9); leg II 22.5 (6.6, 2.5, 6.6, 5.0, 1.8); leg III 22.1 (7.2, 2.3, 6.2, 4.6, 1.8); leg IV 20.0 (6.8, 2.1, 5.2, 4.2, 1.7); leg formula 2341. Spination: Femur I p110, d111, r001, II-III d111; Tibia I r110, 
+<date value="2221-05">v2221</date>
+, II r100, 
+<date value="2220-05">v2220</date>
+, III 
+<date value="1200-05">v1200</date>
+, 
+<date value="1100-04">IV 1100</date>
+; Metatarsus I v120, II v220, III v200. Chelicerae with 3 anterior and 2 posterior teeth.
+</paragraph>
+<caption pageId="1" pageNumber="66">
+<paragraph pageId="1" pageNumber="66" type="caption">
+<pageBreakToken pageId="1" pageNumber="66" start="start">FIGURES</pageBreakToken>
+1-7. 
+<taxonomicName _evidence="label" _rankHash="-828219489" genus="Selenops" pageId="1" pageNumber="66" rank="species" species="muehlmannorum">Selenops muehlmannorum</taxonomicName>
+<taxonomicNameLabel pageId="1" pageNumber="66" rank="species">spec. nov.</taxonomicNameLabel>
+from Southern Laos, Champasak Province, Phou Salao (1-4 
+<typeStatus>Holotype</typeStatus>
+male; 5-7 
+<typeStatus>Paratype</typeStatus>
+female). 1-4 Left male palp (1 prolateral, 2 ventral, 3 retrolateral, 4 tibia, dorsal); 5-6 Epigyne (5 ventral, 6 posterior; arrow pointing to V-shaped part of internal duct system); 7 Vulva, dorsal. C-Conductor, E-Embolus, MA-median apophsyis.
+</paragraph>
+</caption>
+<paragraph pageId="1" pageNumber="66" type="mainText">
+Palp as in diagnosis. Tibia short, RTA with short and broad ventral part and slender dorsal branch. Cymbium subcircular. Embolus arising in 8-
+<normalizedToken originalValue="o’clock-position" pageId="1" pageNumber="66">o'clock-position</normalizedToken>
+, median apophysis in 4-
+<normalizedToken originalValue="o’clock-position" pageId="1" pageNumber="66">o'clock-position</normalizedToken>
+, and conductor 
+<pageNumber ambiguity="2147483647" fuzzyness="2147483647" pageId="1" pageNumber="66" score="1" value="66">2</pageNumber>
+-
+<normalizedToken originalValue="o’clock-position" pageId="1" pageNumber="66">o'clock-position</normalizedToken>
+; the latter with concave retrolateral margin (Figs 1-4).
+</paragraph>
+<paragraph pageId="2" pageNumber="3" type="mainText">
+<pageBreakToken pageId="2" pageNumber="67" start="start">Colouration</pageBreakToken>
+in ethanol (Figs 
+<pageNumber ambiguity="2" fuzzyness="1" pageId="2" pageNumber="3" score="2" value="3">8</pageNumber>
+-9). Dorsal prosoma light reddish brown, indistinct pattern of marginal and central patches. Ventral prosoma and opisthosoma yellowish brown without pattern. Legs yellowish brown; femora and tibiae with each two dark annulate patches, the latter not continued ventrally; distal femora with small dark patch. Dorsal opisthosoma mottled with dark and bright irregular patches. For colour pattern of living specimens see Fig. 10.
+</paragraph>
+<caption pageId="2" pageNumber="3">
+<paragraph pageId="2" pageNumber="3" type="caption">
+FIGURES 8-14. 
+<taxonomicName _evidence="label" _rankHash="-828219489" genus="Selenops" pageId="2" pageNumber="3" rank="species" species="muehlmannorum">Selenops muehlmannorum</taxonomicName>
+<taxonomicNameLabel pageId="2" pageNumber="3" rank="species">spec. nov.</taxonomicNameLabel>
+from Southern Laos, Champasak Province, Phou Salao (8-10 
+<typeStatus>Holotype</typeStatus>
+male; 11-13 
+<typeStatus>Paratype</typeStatus>
+female). 8-9 Habitus in ethanol (8 dorsal, 9 ventral); 10-11 Habitus of live specimens in original habitat, dorsal; 12 Chelicerae, ventral; 13 Epigyne, ventral; 14 Phou Salao, dry stream bed with rocks where 
+<typeStatus>paratypes</typeStatus>
+were collected.
+</paragraph>
+</caption>
+<paragraph pageId="3" pageNumber="68" type="mainText">
+<pageBreakToken pageId="3" pageNumber="68" start="start">Female</pageBreakToken>
+(
+<typeStatus>paratype</typeStatus>
+): PL 4.0, PW 4.4, AW 2.1, OL 6.3, OW 4.1. Eye 
+<misspelling pageId="3" pageNumber="68" type="misspelled">diametres</misspelling>
+: 
+<collectionCode collectionName="USA, Florida, Gainesville, University of Florida, Florida Museum of Natural History, Allyn Museum">AME</collectionCode>
+0.28, ALE 0.18, PME 0.29, PLE 0.40. Eye 
+<misspelling pageId="3" pageNumber="68" type="misspelled">interdistances</misspelling>
+: AME-AME 0.20, AME-PME 0.06, ALE-PLE 0.24. Leg and pedipalpus measurements: pedipalpus 3.9 (1.1, 0.7, 1.0, -, 1.1); leg I 13.7 (4.1, 1.7, 4.0, 2.7, 1.2); leg II 16.3 (5.2, 2.0, 4.6, 3.1, 1.4); leg III 16.2 (5.6, 1.7, 4.4, 3.2, 1.3); leg IV 14.3 (5.1, 1.5, 3.8, 2.6, 1.3); leg formula 2341. Spination (as in male, only exceptions given): Femur I p1100, d111; Tibia I 
+<date value="2220-05">V2220</date>
+, II 
+<date value="2220-05">v2220</date>
+, III 
+<date value="1100-05">v1100</date>
+, Metatarsus I v220, III v100. Chelicerae with 3 anterior and 2 posterior teeth (Fig. 12). Palpal claw with 11 teeth. Copulatory organ as in diagnosis. Lateral lobes each with one median pocket, and strongly arched in posterior view. Internal duct system short and simple, in posterior view with a distinct V-shaped part (arrow) (Figs 5-7, 13).
+</paragraph>
+<paragraph pageId="3" pageNumber="68" type="mainText">Colouration as in male, but pattern of dorsal prosoma more distinct and ventral opisthosoma grey. For colour pattern of living specimens see Fig. 11.</paragraph>
+</subSubSection>
+<subSubSection _generate="added" pageId="3" pageNumber="68" type="biology_ecology">
+<paragraph pageId="3" pageNumber="68" type="mainText">
+Natural history. The 
+<typeStatus>holotype</typeStatus>
+of 
+<taxonomicName _evidence="label" _rankHash="-828219489" genus="Selenops" pageId="3" pageNumber="68" rank="species" species="muehlmannorum">Selenops muehlmannorum</taxonomicName>
+<taxonomicNameLabel pageId="3" pageNumber="68" rank="species">spec. nov.</taxonomicNameLabel>
+has been collected on a wall of a staircase of a temple (Vat Phou Salao), both 
+<typeStatus>paratypes</typeStatus>
+from rocks in a dry stream bed in a forest (Fig. 14).
+</paragraph>
+</subSubSection>
+<subSubSection _generate="added" pageId="3" pageNumber="68" type="distribution">
+<paragraph pageId="3" pageNumber="68" type="mainText">
+Distribution. Known only from the 
+<typeStatus>type</typeStatus>
+locality.
+</paragraph>
+</subSubSection>
+</treatment>
+<subSection _generate="added" pageId="3" pageNumber="68" type="acknowledgments">
+<paragraph pageId="3" pageNumber="68" type="mainText">Acknowledgements</paragraph>
+<paragraph pageId="3" pageNumber="68" type="mainText">
+Jose Corronca (Salta) confirmed that the 
+<taxonomicName _evidence="lexicon" _rankHash="1256539503" genus="Selenops" pageId="3" pageNumber="68" rank="genus">Selenops</taxonomicName>
+species is undescribed. Steffen Bayer (Frankfurt) helped in collecting the type material at the Phou Salao. Jerry Duckitt (Pakse) supported the travel in Champasak Province. Thanks to all colleagues for their help.
+</paragraph>
+</subSection>
+<subSection _generate="added" pageId="3" pageNumber="68" type="reference_group">
+<paragraph pageId="3" pageNumber="68" type="mainText">References</paragraph>
+<paragraph pageId="3" pageNumber="68" type="bibRef">
+<bibRef author="Dankittipakul, P. &amp; Corronca, J. A." journalOrPublisher="Organisms, Diversity &amp; Evolution" pageId="3" pageNumber="68" pagination="69 e 1 - 69 e 12" part="9" title="Siamspinops, a new selenopid genus from Southeast Asia (Arachnida, Araneae)" type="journal article" year="2009">
+<author fns="I" npo="LF" pageId="3" pageNumber="68">Dankittipakul, P.</author>
+&amp; 
+<author fns="I" npo="LF" pageId="3" pageNumber="68">Corronca, J.A.</author>
+(
+<year pageId="3" pageNumber="68">2009</year>
+) 
+<title jopScore="0.17190757" pageId="3" pageNumber="68">Siamspinops, a new selenopid genus from Southeast Asia (Arachnida, Araneae)</title>
+. 
+<journalOrPublisher jopScore="2.0037465" pageId="3" pageNumber="68">Organisms, Diversity &amp; Evolution</journalOrPublisher>
+, 
+<part pageId="3" pageNumber="68" type="volume">9</part>
+, 
+<pagination pageId="3" pageNumber="68">69e1-69e12</pagination>
+.
+</bibRef>
+</paragraph>
+<paragraph pageId="3" pageNumber="68" type="bibRef">
+<bibRef author="Gravely, F. H." journalOrPublisher="Records of the Indian Museum" pageId="3" pageNumber="68" pagination="211 - 282" part="33" title="Some Indian spiders of the families Ctenidae, Sparassidae, Selenopidae and Clubionidae" type="journal article" year="1931">
+<author fns="I" npo="LF" pageId="3" pageNumber="68">Gravely, F.H.</author>
+(
+<year pageId="3" pageNumber="68">1931</year>
+) 
+<title jopScore="0.3883754" pageId="3" pageNumber="68">Some Indian spiders of the families Ctenidae, Sparassidae, Selenopidae and Clubionidae</title>
+. 
+<journalOrPublisher pageId="3" pageNumber="68">Records of the Indian Museum</journalOrPublisher>
+, Calcutta, 
+<part pageId="3" pageNumber="68" type="volume">33</part>
+, 
+<pagination pageId="3" pageNumber="68" type="pagination">211-282</pagination>
+.
+</bibRef>
+</paragraph>
+<paragraph pageId="3" pageNumber="68" type="bibRef">
+<bibRef author="Jaeger, P." journalOrPublisher="Acta arachnologica" pageId="3" pageNumber="68" pagination="29 - 58" part="56" title="Spiders (Araneae) from Laos with descriptions of new species" type="journal article" year="2007">
+<author fns="I" kam="kam" npo="LF" pageId="3" pageNumber="68">
+<normalizedToken originalValue="Jäger" pageId="3" pageNumber="68">Jaeger</normalizedToken>
+, P.
+</author>
+(
+<year pageId="3" pageNumber="68">2007</year>
+) 
+<title pageId="3" pageNumber="68">Spiders (Araneae) from Laos with descriptions of new species</title>
+. 
+<journalOrPublisher pageId="3" pageNumber="68">Acta arachnologica</journalOrPublisher>
+, 
+<part pageId="3" pageNumber="68" type="volume">56</part>
+, 
+<pagination pageId="3" pageNumber="68" type="pagination">29-58</pagination>
+.
+</bibRef>
+</paragraph>
+<paragraph pageId="3" pageNumber="68" type="bibRef">
+<bibRef author="Jaeger, P." journalOrPublisher="Senckenbergiana biologica" pageId="3" pageNumber="68" pagination="239 - 310" part="88" title="Revision of the huntsman spider genus Heteropoda Latreille 1804: species with exceptional male palpal conformations (Araneae: Sparassidae: Heteropodinae)" type="journal article" year="2008">
+<author fns="I" kam="kam" npo="LF" pageId="3" pageNumber="68">
+<normalizedToken originalValue="Jäger" pageId="3" pageNumber="68">Jaeger</normalizedToken>
+, P.
+</author>
+(
+<year pageId="3" pageNumber="68">2008</year>
+) 
+<title pageId="3" pageNumber="68">Revision of the huntsman spider genus Heteropoda Latreille 1804: species with exceptional male palpal conformations (Araneae: Sparassidae: Heteropodinae)</title>
+. 
+<journalOrPublisher pageId="3" pageNumber="68">Senckenbergiana biologica</journalOrPublisher>
+, 
+<part pageId="3" pageNumber="68" type="volume">88</part>
+, 
+<pagination pageId="3" pageNumber="68" type="pagination">239-310</pagination>
+.
+</bibRef>
+</paragraph>
+<paragraph pageId="3" pageNumber="68" type="bibRef">
+<bibRef author="Jaeger, P. &amp; Praxaysombath, B." journalOrPublisher="Acta Arachnologica" pageId="3" pageNumber="68" pagination="27 - 51" part="58" title="Spiders from Laos: new species and new records (Arachnida: Araneae)" type="journal article" year="2009">
+<author fns="I" kam="kam" npo="LF" pageId="3" pageNumber="68">
+<normalizedToken originalValue="Jäger" pageId="3" pageNumber="68">Jaeger</normalizedToken>
+, P.
+</author>
+&amp; 
+<author fns="I" kam="kam" npo="LF" pageId="3" pageNumber="68">Praxaysombath, B.</author>
+(
+<year pageId="3" pageNumber="68">2009</year>
+) 
+<title pageId="3" pageNumber="68">Spiders from Laos: new species and new records (Arachnida: Araneae)</title>
+. 
+<journalOrPublisher pageId="3" pageNumber="68">Acta Arachnologica</journalOrPublisher>
+, 
+<part pageId="3" pageNumber="68" type="volume">58</part>
+, 
+<pagination pageId="3" pageNumber="68" type="pagination">27-51</pagination>
+.
+</bibRef>
+</paragraph>
+<paragraph pageId="3" pageNumber="68" type="bibRef">
+<bibRef author="Jaeger, P. &amp; Praxaysombath, B." journalOrPublisher="Acta arachnologica" pageId="3" pageNumber="68" part="60" title="Spiders from Laos with new records (Arachnida: Araneae)" type="journal volume" year="2009">
+<author fns="I" kam="kam" npo="LF" pageId="3" pageNumber="68">
+<normalizedToken originalValue="Jäger" pageId="3" pageNumber="68">Jaeger</normalizedToken>
+, P.
+</author>
+&amp; 
+<author fns="I" kam="kam" npo="LF" pageId="3" pageNumber="68">Praxaysombath, B.</author>
+(in press) 
+<title pageId="3" pageNumber="68">Spiders from Laos with new records (Arachnida: Araneae)</title>
+. 
+<journalOrPublisher pageId="3" pageNumber="68">Acta arachnologica</journalOrPublisher>
+, 
+<part pageId="3" pageNumber="68" type="volume">60</part>
+.
+</bibRef>
+</paragraph>
+<paragraph pageId="3" pageNumber="68" type="bibRef">
+<bibRef author="Kayashima, I." journalOrPublisher="Transactions of the Natural History Society Formosa" pageId="3" pageNumber="68" pagination="65 - 66" part="33" title="Description of a new species of spider from Formosa" type="journal article" year="1943">
+<author fns="I" npo="LF" pageId="3" pageNumber="68">Kayashima, I.</author>
+(
+<year pageId="3" pageNumber="68">1943</year>
+) 
+<title pageId="3" pageNumber="68">Description of a new species of spider from Formosa</title>
+. 
+<journalOrPublisher pageId="3" pageNumber="68">Transactions of the Natural History Society Formosa</journalOrPublisher>
+, 
+<part pageId="3" pageNumber="68" type="volume">33</part>
+, 
+<pagination pageId="3" pageNumber="68" type="pagination">65-66</pagination>
+.
+</bibRef>
+</paragraph>
+<paragraph pageId="3" pageNumber="68" type="bibRef">
+<bibRef author="Patel, B. H. &amp; Patel, H. K." journalOrPublisher="Oriental Insects" pageId="3" pageNumber="68" pagination="127 - 132" part="7" title="Descriptions of some new species of spiders from India" type="journal article" year="1973">
+<author fns="I" npo="LF" pageId="3" pageNumber="68">Patel, B.H.</author>
+&amp; 
+<author fns="I" npo="LF" pageId="3" pageNumber="68">Patel, H.K.</author>
+(
+<year pageId="3" pageNumber="68">1973</year>
+) 
+<title pageId="3" pageNumber="68">Descriptions of some new species of spiders from India</title>
+. 
+<journalOrPublisher pageId="3" pageNumber="68">Oriental Insects</journalOrPublisher>
+, 
+<part pageId="3" pageNumber="68" type="volume">7</part>
+, 
+<pagination pageId="3" pageNumber="68" type="pagination">127-132</pagination>
+.
+</bibRef>
+</paragraph>
+<paragraph pageId="3" pageNumber="68" type="bibRef">
+<bibRef author="Reimoser, E." journalOrPublisher="Revue suisse de Zoologie" pageId="3" pageNumber="68" pagination="465 - 511" part="41" title="Araneae aus Sued-Indien" type="journal article" year="1934">
+<author fns="I" npo="LF" pageId="3" pageNumber="68">Reimoser, E.</author>
+(
+<year pageId="3" pageNumber="68">1934</year>
+) 
+<title pageId="3" pageNumber="68">
+Araneae aus 
+<normalizedToken originalValue="Süd-Indien" pageId="3" pageNumber="68">Sued-Indien</normalizedToken>
+</title>
+. 
+<journalOrPublisher pageId="3" pageNumber="68">Revue suisse de Zoologie</journalOrPublisher>
+, 
+<part pageId="3" pageNumber="68" type="volume">41</part>
+, 
+<pagination pageId="3" pageNumber="68" type="pagination">465-511</pagination>
+.
+</bibRef>
+</paragraph>
+<paragraph pageId="3" pageNumber="68" type="bibRef">
+<bibRef author="Song, D. X. &amp; Zhu, M. S. &amp; Chen, J." journalOrPublisher="Hebei Sci. Technol. Publ. House" pageId="3" pageNumber="68" title="The Spiders of China" type="book" year="1999">
+<author fns="I" kam="kam" npo="LF" pageId="3" pageNumber="68">Song, D.X.</author>
+, 
+<author fns="I" kam="kam" npo="LF" pageId="3" pageNumber="68">Zhu, M.S.</author>
+&amp; 
+<author fns="I" npo="LF" pageId="3" pageNumber="68">Chen, J.</author>
+(
+<year pageId="3" pageNumber="68">1999</year>
+) 
+<title pageId="3" pageNumber="68">The Spiders of China</title>
+. The Spiders of China. 
+<journalOrPublisher pageId="3" pageNumber="68">Hebei Sci. Technol. Publ. House</journalOrPublisher>
+, Shijiazhuang, 640 pp.
+</bibRef>
+</paragraph>
+<paragraph pageId="3" pageNumber="68" type="bibRef">
+<bibRef author="Valdez-Mondragon, A." journalOrPublisher="Zootaxa" pageId="3" pageNumber="68" pagination="47 - 58" part="2334" title="Two new species of spiders of the genus Selenops Latreille, 1819 (Araneae: Selenopidae) and redescription of Selenops scitus Muma, 1953 from Mexico" type="journal article" year="2010">
+<author fns="I" npo="LF" pageId="3" pageNumber="68">
+<normalizedToken originalValue="Valdez-Mondragôn" pageId="3" pageNumber="68">Valdez-Mondragon</normalizedToken>
+, A.
+</author>
+(
+<year pageId="3" pageNumber="68">2010</year>
+) 
+<title pageId="3" pageNumber="68">Two new species of spiders of the genus Selenops Latreille, 1819 (Araneae: Selenopidae) and redescription of Selenops scitus Muma, 1953 from Mexico</title>
+. 
+<journalOrPublisher pageId="3" pageNumber="68">Zootaxa</journalOrPublisher>
+, 
+<part pageId="3" pageNumber="68" type="volume">2334</part>
+, 
+<pagination pageId="3" pageNumber="68" type="pagination">47-58</pagination>
+.
+</bibRef>
+</paragraph>
+<paragraph pageId="3" pageNumber="68" type="bibRef">
+<bibRef author="Zhu, C. D. &amp; Sha, Y. H. &amp; Chen, X. E." journalOrPublisher="Journal of Norman Bethune University of Medicine and Science" pageId="3" pageNumber="68" pagination="30 - 33" part="16" title="Description of the genus Selenops from Sichuan Province China (Araneae: Selenopidae)" type="journal article" year="1990">
+<author fns="I" npo="LF" pageId="3" pageNumber="68">Zhu, C.D.</author>
+, 
+<author fns="I" npo="LF" pageId="3" pageNumber="68">Sha, Y.H.</author>
+&amp; 
+<author fns="I" npo="LF" pageId="3" pageNumber="68">Chen, X.E.</author>
+(
+<year pageId="3" pageNumber="68">1990</year>
+) [
+<title jopScore="0.09595072" pageId="3" pageNumber="68">Description of the genus Selenops from Sichuan Province China (Araneae: Selenopidae)</title>
+]. 
+<journalOrPublisher jopScore="0.82448596" pageId="3" pageNumber="68">Journal of Norman Bethune University of Medicine and Science</journalOrPublisher>
+, 
+<part pageId="3" pageNumber="68" type="volume">16</part>
+, 
+<pagination pageId="3" pageNumber="68" type="pagination">30-33</pagination>
+. [in Chinese with English abstract]
+</bibRef>
+</paragraph>
+</subSection>
+</document>

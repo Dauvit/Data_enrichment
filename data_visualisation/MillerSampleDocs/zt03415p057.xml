@@ -1,0 +1,2865 @@
+﻿<document ENCODING="UTF-8" ID-HNS-Pub="zt03415p057" checkinTime="1388066657661" checkinUser="jeremy" checkoutTime="1389022982284" checkoutUser="jeremy" docAuthor="Peter J�ger" docDate="2012" docId="74DDA613F42C1ECED3BDFF2C6FF9EFBA" docName="zt03415p057.xml" docOrigin="Zootaxa 3415" docSource="http://www.mapress.com/zootaxa/2012/f/zt03415p057.pdf" docTitle="Revision of the genus Sinopoda J�ger, 1999 in Laos with discovery of the first eyeless huntsman spider species (Sparassidae: Heteropodinae)" lastPageNumber="57" pageNumber="37" updateTime="1388066657661" updateUser="jeremy">
+<mods:mods>
+<mods:titleInfo>
+<mods:title>Revision of the genus Sinopoda Jäger, 1999 in Laos with discovery of the first eyeless huntsman spider species (Sparassidae: Heteropodinae)</mods:title>
+</mods:titleInfo>
+<mods:name type="personal">
+<mods:role>
+<mods:roleTerm>Author</mods:roleTerm>
+</mods:role>
+<mods:namePart>Peter Jäger</mods:namePart>
+</mods:name>
+<mods:typeOfResource>text</mods:typeOfResource>
+<mods:relatedItem type="host">
+<mods:titleInfo>
+<mods:title>Zootaxa</mods:title>
+</mods:titleInfo>
+<mods:part>
+<mods:date>2012</mods:date>
+<mods:detail type="volume">
+<mods:number>3415</mods:number>
+</mods:detail>
+<mods:extent unit="page">
+<mods:start>37</mods:start>
+<mods:end>57</mods:end>
+</mods:extent>
+</mods:part>
+</mods:relatedItem>
+<mods:location>
+<mods:url>http://www.mapress.com/zootaxa/2012/f/zt03415p057.pdf</mods:url>
+</mods:location>
+<mods:classification>journal article</mods:classification>
+<mods:identifier type="HNS-Pub">zt03415p057</mods:identifier>
+</mods:mods>
+<subSection _generate="added" pageId="0" pageNumber="-1" type="multiple">
+<paragraph pageId="0" pageNumber="-1" type="mainText">
+<pageBreakToken pageId="0" pageNumber="37" start="start">Revision</pageBreakToken>
+of the genus 
+<taxonomicName _evidence="lexicon" _rankHash="578139635" genus="Sinopoda" pageId="0" pageNumber="-1" rank="genus">Sinopoda</taxonomicName>
+Jager, 1999 in Laos with discovery of the first eyeless huntsman spider species (
+<taxonomicName _rankHash="1820003666" family="Sparassidae" pageId="0" pageNumber="-1" rank="family">Sparassidae</taxonomicName>
+: 
+<taxonomicName _rankHash="-277020061" pageId="0" pageNumber="-1" rank="subFamily" subFamily="Heteropodinae">Heteropodinae</taxonomicName>
+)
+</paragraph>
+</subSection>
+<subSection _generate="added" pageId="0" pageNumber="-1" type="multiple">
+<paragraph pageId="0" pageNumber="-1" type="mainText">
+PETER 
+<normalizedToken originalValue="Jäger" pageId="0" pageNumber="-1">Jaeger</normalizedToken>
+</paragraph>
+</subSection>
+<subSection _generate="added" pageId="0" pageNumber="-1" type="multiple">
+<paragraph pageId="0" pageNumber="-1" type="mainText">Arachnology, Senckenberg Research Institute, Arachnology, Senckenberganlage 25, 60325 Frankfurt am Main, Germany. E-mail: peter.jaeger@senckenberg.de</paragraph>
+</subSection>
+<subSection _generate="added" pageId="0" pageNumber="-1" type="abstract">
+<paragraph pageId="0" pageNumber="-1" type="heading">Abstract</paragraph>
+<paragraph pageId="0" pageNumber="-1" type="mainText">
+The genus 
+<taxonomicName _evidence="lexicon" _rankHash="578139635" genus="Sinopoda" pageId="0" pageNumber="-1" rank="genus">Sinopoda</taxonomicName>
+Jager, 1999 is recorded for the first time in Laos. Nine 
+<taxonomicNameLabel pageId="0" pageNumber="-1" rank="species">new species</taxonomicNameLabel>
+are described: 
+<taxonomicName _evidence="lexicon" _rankHash="1634948571" authority="spec" authorityName="spec" genus="Sinopoda" pageId="0" pageNumber="-1" rank="species" species="steineri">Sinopoda steineri 
+<taxonomicNameLabel pageId="0" pageNumber="-1" rank="species">
+<authority pageId="0" pageNumber="-1">spec</authority>
+. nov.
+</taxonomicNameLabel>
+</taxonomicName>
+(female; Luang Nam Tha), 
+<taxonomicName _evidence="lexicon" _rankHash="-225378666" authority="spec" authorityName="spec" genus="Sinopoda" pageId="0" pageNumber="-1" rank="species" species="tham">S. tham 
+<taxonomicNameLabel pageId="0" pageNumber="-1" rank="species">
+<authority pageId="0" pageNumber="-1">spec</authority>
+. nov.
+</taxonomicNameLabel>
+</taxonomicName>
+(male, female; Oudomxai), 
+<taxonomicName _evidence="label" _rankHash="598262208" genus="Sinopoda" pageId="0" pageNumber="-1" rank="species" species="sitkao">S. 
+<taxonomicName _evidence="dynamicLexicon" _rankHash="2040203392" authority="spec" authorityName="spec" genus="Sinopoda" pageId="0" pageNumber="-1" rank="species" species="sitkao">sitkao 
+<taxonomicNameLabel pageId="0" pageNumber="-1" rank="species">
+<authority pageId="0" pageNumber="-1">spec</authority>
+. nov.
+</taxonomicNameLabel>
+</taxonomicName>
+</taxonomicName>
+(female; Luang Prabang), 
+<taxonomicName _evidence="label" _rankHash="-1875197905" genus="Sinopoda" pageId="0" pageNumber="-1" rank="species" species="taa">S. 
+<taxonomicName _evidence="dynamicLexicon" _rankHash="-993803065" authority="spec" authorityName="spec" genus="Sinopoda" pageId="0" pageNumber="-1" rank="species" species="taa">taa 
+<taxonomicNameLabel pageId="0" pageNumber="-1" rank="species">
+<authority pageId="0" pageNumber="-1">spec</authority>
+. nov.
+</taxonomicNameLabel>
+</taxonomicName>
+</taxonomicName>
+(female; Luang Prabang), 
+<taxonomicName _evidence="label" _rankHash="1820753427" genus="Sinopoda" pageId="0" pageNumber="-1" rank="species" species="suang">S. 
+<taxonomicName _evidence="dynamicLexicon" _rankHash="1228935843" authority="spec" authorityName="spec" genus="Sinopoda" pageId="0" pageNumber="-1" rank="species" species="suang">suang 
+<taxonomicNameLabel pageId="0" pageNumber="-1" rank="species">
+<authority pageId="0" pageNumber="-1">spec</authority>
+. nov.
+</taxonomicNameLabel>
+</taxonomicName>
+</taxonomicName>
+(female; Huaphan), 
+<taxonomicName _evidence="label" _rankHash="1998292009" genus="Sinopoda" pageId="0" pageNumber="-1" rank="species" species="peet">S. 
+<taxonomicName _evidence="dynamicLexicon" _rankHash="-2138589961" authority="spec" authorityName="spec" genus="Sinopoda" pageId="0" pageNumber="-1" rank="species" species="peet">peet 
+<taxonomicNameLabel pageId="0" pageNumber="-1" rank="species">
+<authority pageId="0" pageNumber="-1">spec</authority>
+. nov.
+</taxonomicNameLabel>
+</taxonomicName>
+</taxonomicName>
+(female; Huaphan), 
+<taxonomicName _evidence="label" _rankHash="1998039138" genus="Sinopoda" pageId="0" pageNumber="-1" rank="species" species="guap">S. 
+<taxonomicName _evidence="dynamicLexicon" _rankHash="-305771426" authority="spec" authorityName="spec" genus="Sinopoda" pageId="0" pageNumber="-1" rank="species" species="guap">guap 
+<taxonomicNameLabel pageId="0" pageNumber="-1" rank="species">
+<authority pageId="0" pageNumber="-1">spec</authority>
+. nov.
+</taxonomicNameLabel>
+</taxonomicName>
+</taxonomicName>
+(female; Khammuan), 
+<taxonomicName _evidence="label" _rankHash="1820588135" genus="Sinopoda" pageId="0" pageNumber="-1" rank="species" species="soong">S. 
+<taxonomicName _evidence="dynamicLexicon" _rankHash="2113268943" authority="spec" authorityName="spec" genus="Sinopoda" pageId="0" pageNumber="-1" rank="species" species="soong">soong 
+<taxonomicNameLabel pageId="0" pageNumber="-1" rank="species">
+<authority pageId="0" pageNumber="-1">spec</authority>
+. nov.
+</taxonomicNameLabel>
+</taxonomicName>
+</taxonomicName>
+(female; Khammuan), 
+<taxonomicName _evidence="label" _rankHash="1195624214" genus="Sinopoda" pageId="0" pageNumber="-1" rank="species" species="scurion">S. 
+<taxonomicName _evidence="dynamicLexicon" _rankHash="-31088448" authority="spec" authorityName="spec" genus="Sinopoda" pageId="0" pageNumber="-1" rank="species" species="scurion">scurion 
+<taxonomicNameLabel pageId="0" pageNumber="-1" rank="species">
+<authority pageId="0" pageNumber="-1">spec</authority>
+. nov.
+</taxonomicNameLabel>
+</taxonomicName>
+</taxonomicName>
+(female; Khammuan). All species have been collected from caves. 
+<taxonomicName _evidence="label" _rankHash="1812871886" genus="Sinopoda" pageId="0" pageNumber="-1" rank="species" species="scurion">Sinopoda 
+<taxonomicName _evidence="dynamicLexicon" _rankHash="-31088448" authority="spec" authorityName="spec" genus="Sinopoda" pageId="0" pageNumber="-1" rank="species" species="scurion">scurion 
+<taxonomicNameLabel pageId="0" pageNumber="-1" rank="species">
+<authority pageId="0" pageNumber="-1">spec</authority>
+. nov.
+</taxonomicNameLabel>
+</taxonomicName>
+</taxonomicName>
+represents the first record of an eyeless huntsman spider, 
+<taxonomicName _evidence="label" _rankHash="1998039138" genus="Sinopoda" pageId="0" pageNumber="-1" rank="species" species="guap">S. 
+<taxonomicName _evidence="dynamicLexicon" _rankHash="-305771426" authority="spec" authorityName="spec" genus="Sinopoda" pageId="0" pageNumber="-1" rank="species" species="guap">guap 
+<taxonomicNameLabel pageId="0" pageNumber="-1" rank="species">
+<authority pageId="0" pageNumber="-1">spec</authority>
+. nov.
+</taxonomicNameLabel>
+</taxonomicName>
+</taxonomicName>
+exhibits only small lenses of six eyes (AME lacking), 
+<taxonomicName _evidence="label" _rankHash="1820588135" genus="Sinopoda" pageId="0" pageNumber="-1" rank="species" species="soong">S. 
+<taxonomicName _evidence="dynamicLexicon" _rankHash="2113268943" authority="spec" authorityName="spec" genus="Sinopoda" pageId="0" pageNumber="-1" rank="species" species="soong">soong 
+<taxonomicNameLabel pageId="0" pageNumber="-1" rank="species">
+<authority pageId="0" pageNumber="-1">spec</authority>
+. nov.
+</taxonomicNameLabel>
+</taxonomicName>
+</taxonomicName>
+has only two small eye lenses. Four immature individuals (
+<taxonomicName _evidence="data" _evidence_details="round: 1, genus=Sinopoda" _rankHash="-1341020302" authority="sp. indet" authorityName="sp. indet" genus="Sinopoda" pageId="0" pageNumber="-1" rank="genus">
+Sinopoda 
+<authority pageId="0" pageNumber="-1">sp. indet</authority>
+</taxonomicName>
+. A-D) exhibited a reduced size or number of eyes, they are listed including their localities although they could not be identified to species level.
+</paragraph>
+<paragraph pageId="0" pageNumber="-1" type="mainText">
+Key words: taxonomy, systematics, 
+<taxonomicNameLabel pageId="0" pageNumber="-1" rank="species">new species</taxonomicNameLabel>
+, troglomorphy
+</paragraph>
+</subSection>
+<subSection _generate="added" pageId="0" pageNumber="-1" type="introduction">
+<paragraph pageId="0" pageNumber="-1" type="heading">Introduction</paragraph>
+<paragraph pageId="0" pageNumber="-1" type="mainText">
+The spider genus 
+<taxonomicName _evidence="lexicon" _rankHash="578139635" genus="Sinopoda" pageId="0" pageNumber="-1" rank="genus">Sinopoda</taxonomicName>
+Jager, 1999 is distributed in East Asia and in the northern parts of South East Asia with 40 species described so far, 31 of which are known from China (Jaeger 1999, Platnick 2012). Representatives live in humid habitats in leaf litter, on tree bark and grass, in rock crevices and in caves (Jager 1998, 1999; Liu et al. 2008; Zhang et al. 2007). Liu et al. (2008) reviewed briefly 
+<taxonomicName _rankHash="1820003666" family="Sparassidae" pageId="0" pageNumber="-1" rank="family">Sparassidae</taxonomicName>
+occurring in caves. The authors listed twelve species reported from caves, nine species of the genus 
+<taxonomicName _evidence="lexicon" _rankHash="-312569785" genus="Heteropoda" pageId="0" pageNumber="-1" rank="genus">Heteropoda</taxonomicName>
+Latreille, 1804, and one each of the genera 
+<taxonomicName _evidence="data" _evidence_details="round: 1, genus=Berlandia" _rankHash="-1302397856" authority="Lessert" authorityName="Lessert" genus="Berlandia" pageId="0" pageNumber="-1" rank="genus">Berlandia Lessert</taxonomicName>
+, 1921, 
+<taxonomicName _evidence="lexicon" _rankHash="578139635" genus="Sinopoda" pageId="0" pageNumber="-1" rank="genus">Sinopoda</taxonomicName>
+and 
+<taxonomicName _evidence="lexicon" _rankHash="209008351" genus="Spariolenus" pageId="0" pageNumber="-1" rank="genus">Spariolenus</taxonomicName>
+Simon, 1880. Moreover, they described nine new 
+<taxonomicName _evidence="lexicon" _rankHash="578139635" genus="Sinopoda" pageId="0" pageNumber="-1" rank="genus">Sinopoda</taxonomicName>
+species, all occurring in caves in southern China. Bayer and Jager (2009) recorded two new and one described species of the genus 
+<taxonomicName _evidence="lexicon" _rankHash="-312569785" genus="Heteropoda" pageId="0" pageNumber="-1" rank="genus">Heteropoda</taxonomicName>
+from Laos (
+<taxonomicName _evidence="feedback" _rankHash="1239246528" genus="Heteropoda" pageId="0" pageNumber="-1" rank="species" species="aemulans">H. aemulans</taxonomicName>
+, 
+<taxonomicName _evidence="lexicon" _rankHash="-1562304403" genus="Heteropoda" pageId="0" pageNumber="-1" rank="species" species="steineri">H. steineri</taxonomicName>
+, as well as 
+<taxonomicName _evidence="lexicon" _rankHash="817018000" authority="Jager" authorityName="Jager" genus="Heteropoda" pageId="0" pageNumber="-1" rank="species" species="maxima">H. maxima Jager</taxonomicName>
+, 2001), whose occurrence is apparently restricted to caves, whereas another species 
+<taxonomicName _evidence="lexicon" _rankHash="-203169463" authority="Jager" authorityName="Jager" genus="Heteropoda" pageId="0" pageNumber="-1" rank="species" species="simplex">H. simplex Jager</taxonomicName>
+and Ono, 2000 occurred in caves and also humid habitats outside of caves. Moradmand and Jager (2011) described four 
+<taxonomicName _evidence="lexicon" _rankHash="209008351" genus="Spariolenus" pageId="0" pageNumber="-1" rank="genus">Spariolenus</taxonomicName>
+species from Iran, two of them collected in caves, the other two from crevices near river banks. All 25 cave-dwelling 
+<taxonomicName _rankHash="1820003666" family="Sparassidae" pageId="0" pageNumber="-1" rank="family">Sparassidae</taxonomicName>
+have their eyes with developed lenses and pigments, only in rare cases body and leg pigmentation is reduced (e.g., in 
+<taxonomicName _evidence="data" _evidence_details="round: 1, genus=Sinopoda" _rankHash="-802062651" genus="Sinopoda" pageId="0" pageNumber="-1" rank="species" species="semicirculata">Sinopoda 
+<taxonomicName _evidence="dynamicLexicon" _rankHash="-1193228406" authority="Liu" authorityName="Liu" genus="Sinopoda" pageId="0" pageNumber="-1" rank="species" species="semicirculata">semicirculata Liu</taxonomicName>
+</taxonomicName>
+et al., 2008). The strongest eye (size) reduction known so far occurred in 
+<taxonomicName _evidence="lexicon" _rankHash="220402483" authority="Bayer" authorityName="Bayer" genus="Heteropoda" pageId="0" pageNumber="-1" rank="species" species="steineri">Heteropoda steineri Bayer</taxonomicName>
+and Jager, 2009 from the Xe Bang Fai cave in Khammuan Province in Laos, and in 
+<taxonomicName _evidence="lexicon" _rankHash="-214867262" genus="Sinopoda" pageId="0" pageNumber="-1" rank="species" species="microphthalma">Sinopoda microphthalma</taxonomicName>
+(Fage, 1929) from Batu caves in Malaysia. All cave-dwelling 
+<taxonomicName _rankHash="1820003666" family="Sparassidae" pageId="0" pageNumber="-1" rank="family">Sparassidae</taxonomicName>
+but 
+<taxonomicName _evidence="lexicon" _rankHash="-200855654" authority="Simon" authorityName="Simon" genus="Berlandia" pageId="0" pageNumber="-1" rank="species" species="tenebricola">Berlandia tenebricola Simon</taxonomicName>
+and Fage, 1922 belong clearly to the subfamily 
+<taxonomicName _rankHash="-277020061" pageId="0" pageNumber="-1" rank="subFamily" subFamily="Heteropodinae">Heteropodinae</taxonomicName>
+, whose representatives generally prefer humid habitats like forests or stream valleys (Jager 2001, unpubl. data). 
+<taxonomicName _evidence="lexicon" _rankHash="-2116582030" genus="Berlandia" pageId="0" pageNumber="-1" rank="genus">Berlandia</taxonomicName>
+was assumed to be related to the 
+<taxonomicName _rankHash="-277020061" pageId="0" pageNumber="-1" rank="subFamily" subFamily="Heteropodinae">Heteropodinae</taxonomicName>
+genus 
+<taxonomicName _evidence="lexicon" _rankHash="209008351" genus="Spariolenus" pageId="0" pageNumber="-1" rank="genus">Spariolenus</taxonomicName>
+(Jager 2004).
+</paragraph>
+<paragraph pageId="0" pageNumber="-1">
+The first completely eyeless species of huntsman spiders described in the present paper exhibit neither eye lenses nor any pigments. It occurs in a cave system 100 kilometres west of Xe Bang Fai cave. From this larger Khammuan region other cave-dwellers with striking adaptations have been recorded (
+<normalizedToken originalValue="Lourenço" pageId="0" pageNumber="-1">Lourenco</normalizedToken>
+2007, 2012; Kottelat &amp; Steiner 2010; Yeo &amp; Ng 1999): the scorpions 
+<taxonomicName _evidence="data" _evidence_details="round: 1, species=steineri" _rankHash="-1877139977" genus="Troglokhammouanus" pageId="0" pageNumber="-1" rank="species" species="steineri">Troglokhammouanus 
+<taxonomicName _evidence="lexicon" _rankHash="-1398679198" authority="Lourenco" authorityName="Lourenco" genus="Troglokhammouanus" pageId="0" pageNumber="-1" rank="species" species="steineri">
+steineri 
+<normalizedToken originalValue="Lourenço" pageId="0" pageNumber="-1">Lourenco</normalizedToken>
+</taxonomicName>
+</taxonomicName>
+, 2007 (in Xe Bang Fai cave) and Vietbocap lao 
+<normalizedToken originalValue="Lourenço" pageId="0" pageNumber="-1">Lourenco</normalizedToken>
+, 2012 (in Nam Lot cave), a blind cave fish, Bangana musaei Kottelat and Steiner, 2010 (Grotte des Nuages, Xe Bangfai cave system), and a yet undescribed freshwater crab of the 
+<pageBreakToken pageNumber="38" start="start">monotypic</pageBreakToken>
+genus 
+<taxonomicName _evidence="knownData" _evidence_details="genus=Erebusa" _rankHash="173279001" genus="Erebusa" pageId="0" pageNumber="-1" rank="genus">Erebusa</taxonomicName>
+Yeo and Ng, 1999 (Brandis, personal communication; same locality as the eyeless 
+<taxonomicName _evidence="label" _rankHash="1812871886" genus="Sinopoda" pageId="0" pageNumber="-1" rank="species" species="scurion">Sinopoda 
+<taxonomicName _evidence="dynamicLexicon" _rankHash="-31088448" authority="spec" authorityName="spec" genus="Sinopoda" pageId="0" pageNumber="-1" rank="species" species="scurion">scurion 
+<taxonomicNameLabel pageId="0" pageNumber="-1" rank="species">
+<authority pageId="0" pageNumber="-1">spec</authority>
+. nov.
+</taxonomicNameLabel>
+</taxonomicName>
+</taxonomicName>
+). In the type locality of 
+<taxonomicName _evidence="label" _rankHash="1195624214" genus="Sinopoda" pageId="0" pageNumber="-1" rank="species" species="scurion">S. 
+<taxonomicName _evidence="dynamicLexicon" _rankHash="-31088448" authority="spec" authorityName="spec" genus="Sinopoda" pageId="0" pageNumber="-1" rank="species" species="scurion">scurion 
+<taxonomicNameLabel pageId="0" pageNumber="-1" rank="species">
+<authority pageId="0" pageNumber="-1">spec</authority>
+. nov.
+</taxonomicNameLabel>
+</taxonomicName>
+</taxonomicName>
+no other 
+<taxonomicName _rankHash="1820003666" family="Sparassidae" pageId="0" pageNumber="-1" rank="family">Sparassidae</taxonomicName>
+or another similarly large spider species have been observed. Small 
+<taxonomicName _evidence="lexicon" _rankHash="-522257686" higher="Diplopoda" pageId="0" pageNumber="-1" rank="higher">Diplopoda</taxonomicName>
+, tiny 
+<taxonomicName _rankHash="-1510549790" family="Telemidae" pageId="0" pageNumber="-1" rank="family">Telemidae</taxonomicName>
+, and the large 
+<taxonomicName _evidence="data" _evidence_details="round: 1, species=magnificus" _rankHash="-1287714875" genus="Typopeltis" pageId="0" pageNumber="-1" rank="species" species="magnificus">Typopeltis magnificus</taxonomicName>
+were recorded, among others. Practically nothing is known about the biology or ecology of the new 
+<taxonomicName _evidence="lexicon" _rankHash="578139635" genus="Sinopoda" pageId="0" pageNumber="-1" rank="genus">Sinopoda</taxonomicName>
+species.
+</paragraph>
+<paragraph pageId="0" pageNumber="-1" type="mainText">
+Material was either collected by the author or material collected on cave expeditions by other persons was trusted to the author. From this material, nine 
+<taxonomicName _evidence="lexicon" _rankHash="578139635" genus="Sinopoda" pageId="0" pageNumber="-1" rank="genus">Sinopoda</taxonomicName>
+species appeared to be new to science. All of them have been recorded exclusively from caves, some of which have been extensively surveyed and described: Tham Nam Eng in Dreybrodt and Laumanns (2005, 2008), Tham Na Thong, Tham Mokfek, and Tham Luang in Dreybrodt and Laumanns (2010), Tham Chom Ong in Dreybrodt and Laumanns (2010, 2011), and Tham Nguen in Dreybrodt and Laumanns (2005). The genus 
+<taxonomicName _evidence="lexicon" _rankHash="578139635" genus="Sinopoda" pageId="0" pageNumber="-1" rank="genus">Sinopoda</taxonomicName>
+is recorded from Laos for the first time.
+</paragraph>
+<paragraph pageId="0" pageNumber="-1" type="mainText">
+Since cave adaptations and troglomorphic features are a serious issue in this genus in contrast to other genera of this subfamily (
+<taxonomicName _rankHash="-277020061" pageId="0" pageNumber="-1" rank="subFamily" subFamily="Heteropodinae">Heteropodinae</taxonomicName>
+), four specimens showing reduction or even loss of eyes are included, although they are immature and could not be identified to species level. Moreover, the description of the 
+<taxonomicNameLabel pageId="0" pageNumber="-1" rank="species">new species</taxonomicNameLabel>
+with their gradually increasing troglomorphic features may be useful for potential nature conservation issues concerning caves (Paquin &amp; 
+<normalizedToken originalValue="Dupérré" pageId="0" pageNumber="-1">Duperre</normalizedToken>
+2009 and references therein) considering that limestone caves in Laos are an important (eco-)touristic target.
+</paragraph>
+</subSection>
+<subSection _generate="added" lastPageId="2" pageId="0" pageNumber="-1" type="materials_methods">
+<paragraph pageId="0" pageNumber="-1" type="heading">Material and methods</paragraph>
+<paragraph pageId="0" pageNumber="-1" type="mainText">
+Measurements are in millimetres, arising points of tegular appendages are given as clock-position of the unexpanded left palp in ventral view. Epigynes are dissected and treated with 96% lactic acid in order to recognise internal details of the internal duct system. When removing tissue around the internal duct system usually the membranous part between fertilisation ducts is also removed in order to recognise all details of structures situated ventrally to this membrane (Fig. 20). In 
+<taxonomicName _evidence="lexicon" _rankHash="244147278" authority="spec" authorityName="spec" genus="Sinopoda" pageId="0" pageNumber="-1" rank="species" species="tham">Sinopoda tham 
+<taxonomicNameLabel pageId="0" pageNumber="-1" rank="species">
+<authority pageId="0" pageNumber="-1">spec</authority>
+. nov.
+</taxonomicNameLabel>
+</taxonomicName>
+for instance this membranous structure was detected to be an expandable sac (
+<abbreviationData>
+<abbreviationData>
+<abbreviationRange prefix="Figs" type="Arabic" value="19" valueMax="23" valueMin="19" values="19,23">
+<abbreviationRange prefix="Figs" type="Arabic" value="19" valueMax="23" valueMin="19" values="19,23">Figs 19, 23</abbreviationRange>
+</abbreviationRange>
+), in which most likely the male dRTA is fixed during copulation (according to unpublished observations in copulating 
+<taxonomicName _evidence="lexicon" _rankHash="578139635" genus="Sinopoda" pageId="0" pageNumber="-1" rank="genus">Sinopoda</taxonomicName>
+spiders). Terminology originally used by 
+<normalizedToken originalValue="Jäger" pageId="0" pageNumber="-1">Jaeger</normalizedToken>
+(1999) was subsequently partly modified: ledges of epigynum = epigynal pockets; head of spermathecae = glandular appendages. Epigynal pockets are interpreted as structures guiding male palpal parts (embolus plus 
+<taxonomicName _evidence="lexicon" _rankHash="1431728604" genus="Sinopoda" pageId="0" pageNumber="-1" rank="genus">apophysis</taxonomicName>
+) during the copulation. The copulatory opening is situated on the medio-anterior end of the pockets. The narrow part between the copulatory openings is named &quot;lobal septum&quot;, a median septum as defined in other 
+<taxonomicName _rankHash="-277020061" pageId="0" pageNumber="-1" rank="subFamily" subFamily="Heteropodinae">Heteropodinae</taxonomicName>
+is absent. In some species furrows anterior to the epigynal pockets occur, which are named here &quot;lateral furrows&quot;. They can have different orientation and lengths. The length of the epigynal field includes the anterior bands. Cheliceral teeth have always median largest in the anterior row and three sub-equal and a small one in the posterior row (
+</abbreviationData>
+</abbreviationData>
+<abbreviationData>
+<abbreviationData>
+<abbreviationRange prefix="Figs" type="Arabic" value="74" valueMax="80" valueMin="74" values="74,80">
+<abbreviationRange prefix="Figs" type="Arabic" value="74" valueMax="80" valueMin="74" values="74,80">Figs 74, 80</abbreviationRange>
+</abbreviationRange>
+). Leg and palp measurements are given as: total (femur, patella, tibia, metatarsus, tarsus). Spination pattern given is following Davies (1994): sums of all spines are listed (prolateral, dorsal, retrolateral, ventral), when ventral spines are absent only three digits are listed. Leg formula is given as order of legs according to their length (femur to tarsus) in Arabic numbers. Size classes are used according to 
+<normalizedToken originalValue="Jäger" pageId="0" pageNumber="-1">Jaeger</normalizedToken>
+(2001: 14): small (&lt;10 mm), medium (&gt;10 and &lt;20 mm), large (&gt;20 and &lt;30 mm), very large (&gt;30 mm). Material is stored in 70% denatured ethanol. Photos are taken by the author, exceptions are indicated in legends.
+</abbreviationData>
+</abbreviationData>
+</paragraph>
+<paragraph pageId="0" pageNumber="-1" type="mainText">
+Females of 
+<taxonomicName _evidence="lexicon" _rankHash="1634948571" authority="spec" authorityName="spec" genus="Sinopoda" pageId="0" pageNumber="-1" rank="species" species="steineri">Sinopoda steineri 
+<taxonomicNameLabel pageId="0" pageNumber="-1" rank="species">
+<authority pageId="0" pageNumber="-1">spec</authority>
+. nov.
+</taxonomicNameLabel>
+</taxonomicName>
+, 
+<taxonomicName _evidence="lexicon" _rankHash="-225378666" authority="spec" authorityName="spec" genus="Sinopoda" pageId="0" pageNumber="-1" rank="species" species="tham">S. tham 
+<taxonomicNameLabel pageId="0" pageNumber="-1" rank="species">
+<authority pageId="0" pageNumber="-1">spec</authority>
+. nov.
+</taxonomicNameLabel>
+</taxonomicName>
+, 
+<taxonomicName _evidence="label" _rankHash="1820753427" genus="Sinopoda" pageId="0" pageNumber="-1" rank="species" species="suang">S. 
+<taxonomicName _evidence="dynamicLexicon" _rankHash="1228935843" authority="spec" authorityName="spec" genus="Sinopoda" pageId="0" pageNumber="-1" rank="species" species="suang">suang 
+<taxonomicNameLabel pageId="0" pageNumber="-1" rank="species">
+<authority pageId="0" pageNumber="-1">spec</authority>
+. nov.
+</taxonomicNameLabel>
+</taxonomicName>
+</taxonomicName>
+, 
+<taxonomicName _evidence="label" _rankHash="1998292009" genus="Sinopoda" pageId="0" pageNumber="-1" rank="species" species="peet">S. 
+<taxonomicName _evidence="dynamicLexicon" _rankHash="-2138589961" authority="spec" authorityName="spec" genus="Sinopoda" pageId="0" pageNumber="-1" rank="species" species="peet">peet 
+<taxonomicNameLabel pageId="0" pageNumber="-1" rank="species">
+<authority pageId="0" pageNumber="-1">spec</authority>
+. nov.
+</taxonomicNameLabel>
+</taxonomicName>
+</taxonomicName>
+as well as the Chinese species 
+<taxonomicName _evidence="lexicon" _rankHash="293131694" authority="Liu" authorityName="Liu" genus="Sinopoda" pageId="0" pageNumber="-1" rank="species" species="triangula">S. triangula Liu</taxonomicName>
+et al., 2008 showed similar external and internal structures of their copulatory organs. The same is true for 
+<taxonomicName _evidence="label" _rankHash="598262208" genus="Sinopoda" pageId="0" pageNumber="-1" rank="species" species="sitkao">S. 
+<taxonomicName _evidence="dynamicLexicon" _rankHash="2040203392" authority="spec" authorityName="spec" genus="Sinopoda" pageId="0" pageNumber="-1" rank="species" species="sitkao">sitkao 
+<taxonomicNameLabel pageId="0" pageNumber="-1" rank="species">
+<authority pageId="0" pageNumber="-1">spec</authority>
+. nov.
+</taxonomicNameLabel>
+</taxonomicName>
+</taxonomicName>
+and the Chinese 
+<taxonomicName _evidence="feedback" _rankHash="659652424" genus="Sinopoda" pageId="0" pageNumber="-1" rank="species" species="undata">S. undata</taxonomicName>
+Liu et al., 2008 as well as for the Laotian species 
+<taxonomicName _evidence="label" _rankHash="-1875197905" genus="Sinopoda" pageId="0" pageNumber="-1" rank="species" species="taa">S. 
+<taxonomicName _evidence="dynamicLexicon" _rankHash="-993803065" authority="spec" authorityName="spec" genus="Sinopoda" pageId="0" pageNumber="-1" rank="species" species="taa">taa 
+<taxonomicNameLabel pageId="0" pageNumber="-1" rank="species">
+<authority pageId="0" pageNumber="-1">spec</authority>
+. nov.
+</taxonomicNameLabel>
+</taxonomicName>
+</taxonomicName>
+and the Chinese 
+<taxonomicName _evidence="lexicon" _rankHash="-103950526" authority="Liu" authorityName="Liu" genus="Sinopoda" pageId="0" pageNumber="-1" rank="species" species="fornicata">S. fornicata Liu</taxonomicName>
+et al., 2008. Since only females of all but one species are known from Laos, no phylogenetic implications such as the erection of species groups are considered here. In differential diagnoses characters are listed for identification purpose only, species are listed according to their provincial distribution from North to South (see Fig. 81). Altitudes were received from Google Earth and are added in square brackets.
+</paragraph>
+Abbreviations: ALE-anterior lateral eyes, AME-anterior median eyes, 
+<misspelling pageId="0" pageNumber="-1" type="misspelled">AW-anterior</misspelling>
+width of dorsal shield of prosoma, dRTA-dorsal branch of RTA, OL-opisthosoma length, 
+<misspelling pageId="0" pageNumber="-1" type="misspelled">OW-opisthosoma</misspelling>
+width, 
+<misspelling pageId="0" pageNumber="-1" type="misspelled">PJ-serial</misspelling>
+number of 
+<taxonomicName _rankHash="1820003666" family="Sparassidae" pageId="0" pageNumber="-1" rank="family">Sparassidae</taxonomicName>
+examined by Peter 
+<normalizedToken originalValue="Jäger" pageId="0" pageNumber="-1">Jaeger</normalizedToken>
+, PL-length of dorsal shield of prosoma, PLE-posterior lateral<br/>
+<pageBreakToken pageId="2" pageNumber="39" start="start">eyes</pageBreakToken>
+, PME-posterior median eyes, 
+<misspelling pageId="2" pageNumber="-1" type="misspelled">PW-width</misspelling>
+of dorsal shield of prosoma, 
+<misspelling pageId="2" pageNumber="-1" type="misspelled">RTA-retrolateral</misspelling>
+tibial 
+<taxonomicName _evidence="lexicon" _rankHash="1431728604" genus="Sinopoda" pageId="2" pageNumber="-1" rank="genus">apophysis</taxonomicName>
+,<br/>
+<misspelling pageId="2" pageNumber="-1" type="misspelled">SD-serial</misspelling>
+number of tissue samples for molecular analyses, vRTA-ventral branch of RTA, I-IV-legs I to IV.<br/>
+<paragraph pageId="2" pageNumber="-1">Museum collections: SMF-Senckenberg Research Institute, Frankfurt (Peter Jager).</paragraph>
+</subSection>
+<subSection _generate="added" pageId="2" pageNumber="-1" type="multiple">
+<paragraph pageId="2" pageNumber="-1" type="heading">Taxonomy</paragraph>
+</subSection>
+<subSection _generate="added" pageId="2" pageNumber="-1" type="multiple">
+<paragraph pageId="2" pageNumber="-1" type="mainText">
+<taxonomicName _rankHash="1820003666" family="Sparassidae" pageId="2" pageNumber="-1" rank="family">Sparassidae</taxonomicName>
+Bertkau, 1872
+</paragraph>
+</subSection>
+<subSection _generate="added" pageId="2" pageNumber="-1" type="multiple">
+<paragraph pageId="2" pageNumber="-1" type="mainText">
+<taxonomicName _rankHash="-277020061" pageId="2" pageNumber="-1" rank="subFamily" subFamily="Heteropodinae">Heteropodinae</taxonomicName>
+Thorell, 1873
+</paragraph>
+</subSection>
+<subSection _generate="added" pageId="2" pageNumber="-1" type="multiple">
+<paragraph pageId="2" pageNumber="-1" type="mainText">
+<taxonomicName _evidence="lexicon" _rankHash="578139635" genus="Sinopoda" pageId="2" pageNumber="-1" rank="genus">Sinopoda</taxonomicName>
+Jager, 1999
+</paragraph>
+</subSection>
+<treatment _generate="added" lastPageId="3" pageId="2" pageNumber="-1">
+<subSubSection _generate="added" pageId="2" pageNumber="-1" type="nomenclature">
+<paragraph pageId="2" pageNumber="-1" type="mainText">
+<taxonomicName _evidence="lexicon" _rankHash="1634948571" authority="spec" authorityName="spec" genus="Sinopoda" pageId="2" pageNumber="-1" rank="species" species="steineri">Sinopoda steineri 
+<taxonomicNameLabel pageId="2" pageNumber="-1" rank="species">
+<authority pageId="2" pageNumber="-1">spec</authority>
+. nov.
+</taxonomicNameLabel>
+</taxonomicName>
+</paragraph>
+</subSubSection>
+<subSubSection _generate="added" pageId="2" pageNumber="-1" type="description">
+<paragraph pageId="2" pageNumber="-1" type="mainText">Figs 1-5, 81</paragraph>
+</subSubSection>
+<subSubSection _generate="added" pageId="2" pageNumber="-1" type="materials_examined">
+<paragraph pageId="2" pageNumber="-1" type="mainText">
+<materialsCitation collectingDate="2005-02-09" collectingMethod="by hand" collectionCode="SMF" collectorName="H. Steiner" country="Laos" elevation="730 m" latitude="20.723751" location="Tham Nam Eng" longLatPrecision="1" longitude="101.15517" specimenCode="PJ 3383" specimenCount="1" specimenCountFemale="1" stateProvince="Luang Nam Tha Province" typeStatus="Holotype">
+Type material. 
+<typeStatus>Holotype</typeStatus>
+: female, 
+<collectingCountry value="Laos">LAOS</collectingCountry>
+: 
+<collectingRegion>Luang Nam Tha Province</collectingRegion>
+: 
+<location country="Laos" latitude="20.723751" longLatPrecision="1" longitude="101.15517" name="Tham Nam Eng" stateProvince="Luang Nam Tha Province">Tham Nam Eng</location>
+, 
+<geoCoordinate direction="north" orientation="latitude" precision="1" value="20.723751">N 20°43'25.5&quot;</geoCoordinate>
+, 
+<geoCoordinate direction="east" orientation="longitude" precision="1" value="101.15517">E 101°9'18.6&quot;</geoCoordinate>
+[
+<quantity metricMagnitude="2" metricUnit="m" metricValue="7.3" unit="m" value="730.0">
+<elevation metricMagnitude="2" metricUnit="m" metricValue="7.3" unit="m" value="730.0">730 m</elevation>
+</quantity>
+altitude], cave in limestone, 
+<collectingMethod>by hand</collectingMethod>
+, 
+<date value="2005-02-09">
+<collectingDate value="2005-02-09">9 February 2005</collectingDate>
+</date>
+, 
+<collectorName _evidence="leading initial">H. Steiner</collectorName>
+leg., field number of H. Steiner 091/05 (
+<collectionCode collectionName="Germany, Frankfurt-am-Main, Forschungsinstitut und Naturmuseum Senckenberg">SMF</collectionCode>
+, 
+<specimenCode>PJ 3383</specimenCode>
+)
+</materialsCitation>
+.
+</paragraph>
+</subSubSection>
+<subSubSection _generate="added" pageId="2" pageNumber="-1" type="diagnosis">
+<paragraph pageId="2" pageNumber="-1" type="mainText">
+Diagnosis. Medium-sized 
+<taxonomicName _rankHash="-277020061" pageId="2" pageNumber="-1" rank="subFamily" subFamily="Heteropodinae">Heteropodinae</taxonomicName>
+, body length of female: 12.7. Female (Figs 1-3) intermediate between those of 
+<taxonomicName _evidence="label" _rankHash="-1875197905" genus="Sinopoda" pageId="2" pageNumber="-1" rank="species" species="taa">S. 
+<taxonomicName _evidence="dynamicLexicon" _rankHash="-993803065" authority="spec" authorityName="spec" genus="Sinopoda" pageId="2" pageNumber="-1" rank="species" species="taa">taa 
+<taxonomicNameLabel pageId="2" pageNumber="-1" rank="species">
+<authority pageId="2" pageNumber="-1">spec</authority>
+. nov.
+</taxonomicNameLabel>
+</taxonomicName>
+</taxonomicName>
+and 
+<taxonomicName _evidence="lexicon" _rankHash="-225378666" authority="spec" authorityName="spec" genus="Sinopoda" pageId="2" pageNumber="-1" rank="species" species="tham">S. tham 
+<taxonomicNameLabel pageId="2" pageNumber="-1" rank="species">
+<authority pageId="2" pageNumber="-1">spec</authority>
+. nov.
+</taxonomicNameLabel>
+</taxonomicName>
+in respect to the shape of epigynal pockets, orientation of lateral furrows, and the shape of the internal duct system, but can be distinguished from females of those species by 1. Parallel part of internal duct system similarly long as in 
+<taxonomicName _evidence="lexicon" _rankHash="-225378666" authority="spec" authorityName="spec" genus="Sinopoda" pageId="2" pageNumber="-1" rank="species" species="tham">S. tham 
+<taxonomicNameLabel pageId="2" pageNumber="-1" rank="species">
+<authority pageId="2" pageNumber="-1">spec</authority>
+. nov.
+</taxonomicNameLabel>
+</taxonomicName>
+(longer than in 
+<taxonomicName _evidence="label" _rankHash="-1875197905" genus="Sinopoda" pageId="2" pageNumber="-1" rank="species" species="taa">S. 
+<taxonomicName _evidence="dynamicLexicon" _rankHash="-993803065" authority="spec" authorityName="spec" genus="Sinopoda" pageId="2" pageNumber="-1" rank="species" species="taa">taa 
+<taxonomicNameLabel pageId="2" pageNumber="-1" rank="species">
+<authority pageId="2" pageNumber="-1">spec</authority>
+. nov.
+</taxonomicNameLabel>
+</taxonomicName>
+</taxonomicName>
+), but with width at glandular appendages wider than at posterior part (reverse in 
+<taxonomicName _evidence="lexicon" _rankHash="-225378666" authority="spec" authorityName="spec" genus="Sinopoda" pageId="2" pageNumber="-1" rank="species" species="tham">S. tham 
+<taxonomicNameLabel pageId="2" pageNumber="-1" rank="species">
+<authority pageId="2" pageNumber="-1">spec</authority>
+. nov.
+</taxonomicNameLabel>
+</taxonomicName>
+), 2. Lobal septum and epigynal pockets forming an anchor (triangle in 
+<taxonomicName _evidence="label" _rankHash="-1875197905" genus="Sinopoda" pageId="2" pageNumber="-1" rank="species" species="taa">S. 
+<taxonomicName _evidence="dynamicLexicon" _rankHash="-993803065" authority="spec" authorityName="spec" genus="Sinopoda" pageId="2" pageNumber="-1" rank="species" species="taa">taa 
+<taxonomicNameLabel pageId="2" pageNumber="-1" rank="species">
+<authority pageId="2" pageNumber="-1">spec</authority>
+. nov.
+</taxonomicNameLabel>
+</taxonomicName>
+</taxonomicName>
+, broad reverse 
+<normalizedToken originalValue="“T”" pageId="2" pageNumber="-1">
+&quot;
+<collectionCode>T</collectionCode>
+&quot;
+</normalizedToken>
+in 
+<taxonomicName _evidence="lexicon" _rankHash="-225378666" authority="spec" authorityName="spec" genus="Sinopoda" pageId="2" pageNumber="-1" rank="species" species="tham">S. tham 
+<taxonomicNameLabel pageId="2" pageNumber="-1" rank="species">
+<authority pageId="2" pageNumber="-1">spec</authority>
+. nov.
+</taxonomicNameLabel>
+</taxonomicName>
+), 3. Lateral furrows long, reaching lateral margins of lateral lobes and running diagonally (mostly longitudinal in 
+<taxonomicName _evidence="lexicon" _rankHash="-225378666" authority="spec" authorityName="spec" genus="Sinopoda" pageId="2" pageNumber="-1" rank="species" species="tham">S. tham 
+<taxonomicNameLabel pageId="2" pageNumber="-1" rank="species">
+<authority pageId="2" pageNumber="-1">spec</authority>
+. nov.
+</taxonomicNameLabel>
+</taxonomicName>
+, transversal in 
+<taxonomicName _evidence="label" _rankHash="-1875197905" genus="Sinopoda" pageId="2" pageNumber="-1" rank="species" species="taa">S. 
+<taxonomicName _evidence="dynamicLexicon" _rankHash="-993803065" authority="spec" authorityName="spec" genus="Sinopoda" pageId="2" pageNumber="-1" rank="species" species="taa">taa 
+<taxonomicNameLabel pageId="2" pageNumber="-1" rank="species">
+<authority pageId="2" pageNumber="-1">spec</authority>
+. nov.
+</taxonomicNameLabel>
+</taxonomicName>
+</taxonomicName>
+).
+</paragraph>
+</subSubSection>
+<subSubSection _generate="added" pageId="2" pageNumber="-1" type="multiple">
+<caption pageId="2" pageNumber="-1">
+<paragraph pageId="2" pageNumber="-1" type="caption">
+FIGURES 1-3. 
+<taxonomicName _evidence="lexicon" _rankHash="1634948571" authority="spec" authorityName="spec" genus="Sinopoda" pageId="2" pageNumber="-1" rank="species" species="steineri">Sinopoda steineri 
+<taxonomicNameLabel pageId="2" pageNumber="-1" rank="species">
+<authority pageId="2" pageNumber="-1">spec</authority>
+. nov.
+</taxonomicNameLabel>
+</taxonomicName>
+, 
+<typeStatus>holotype</typeStatus>
+female from Ban Nam Eng, Luang Nam Tha, copulatory organ. 1 Epigyne, ventral; 2 Vulva, dorsal; 3 Schematic course of internal duct system, dorsal. EP-epigynal pockets, GA-glandular appendage, LF-lateral furrow, LL-lateral lobes, 
+<collectionCode collectionName="United Kingdom, London, Linnean Society">LS</collectionCode>
+- lobal septum, PP-posterior part of spermathecae.
+</paragraph>
+</caption>
+</subSubSection>
+<subSubSection _generate="added" pageId="2" pageNumber="-1" type="etymology">
+<paragraph pageId="2" pageNumber="-1" type="mainText">Etymology. The species is dedicated to Helmut Steiner who collected a large amount of cave spiders and other cave-dwelling animals from SE Asia; name in genitive case.</paragraph>
+</subSubSection>
+<subSubSection _generate="added" lastPageId="3" pageId="2" pageNumber="-1" type="description">
+<paragraph lastPageId="3" pageId="2" pageNumber="-1" type="mainText">
+Description. Female (
+<typeStatus>holotype</typeStatus>
+): Prosoma length 5.6, prosoma width 5.9, anterior width of prosoma 3.1, opisthosoma length 7.1, opisthosoma width 4.1. 
+<collectionCode collectionName="USA, Florida, Gainesville, University of Florida, Florida Museum of Natural History, Allyn Museum">AME</collectionCode>
+0.28, ALE 0.42, PME 0.34, PLE 0.43, AME-AME 0.19, AME-ALE 0.05, PME-PME 0.25, PME-PLE 0.38, AME-PME 0.36, ALE-PLE 0.37, clypeus 
+<collectionCode collectionName="USA, Florida, Gainesville, University of Florida, Florida Museum of Natural History, Allyn Museum">AME</collectionCode>
+0.40, clypeus ALE 0.35. Spination: Palp: 131, 101, 2121, 1014; legs: femur I-III 323, IV 331; patella I-IV 000; tibia 
+<date value="1026-01">I 1026</date>
+, II 1(2)026, III-IV 2026; metatarsus I-II 0004, 
+<date value="2016-03">III 2016</date>
+, IV 3036. Ventral metatarsus III with sparse double row of stiff bristles in proximal half, IV with dense double row of bristles along entire length and distal patch of bristles. 
+<pageBreakToken pageId="3" pageNumber="40" start="start">Leg</pageBreakToken>
+formula: 2413. Measurements of palp and legs: Palp 9.4 (2.9, 1.4, 2.1, -, 3.0), leg I 26.2 (7.1, 2.8, 7.5, 6.6, 2.2), leg II 28.8 (7.9, 3.1, 8.5, 7.1, 2.2), leg III 24.5 (7.1, 2.6, 6.9, 5.9, 2.0), leg IV 27.1 (7.6, 2.5, 7.5, 7.2, 2.3). Cheliceral furrow with 3 anterior and 4 posterior teeth, and with ca. 60 denticles in elongated patch close to anterior teeth. Margin of chelicerae close to fang base with one bristle. Palpal claw with 8 teeth. Sternum, ventral coxae and ventral femora covered sparsely with long setae, appendages and body otherwise with shorter setae.
+</paragraph>
+<paragraph pageId="3" pageNumber="-1" type="mainText">Copulatory organ in diagnosis (Figs 1-3). Epigynal field wider than long, without anterior bands or slit sensilla. Lateral lobes fused, posteriorly with median incision. Epigynal pockets running from latero-posterior to medio-anterior, where copulatory openings are situated. Lateral furrows situated close to lateral ends of pockets, distinct, running to lateral margins of lateral lobes. Lobal septum moderately wide. Glandular appendages narrow, pointed, reaching posteriorly only barely posterior half of internal duct system. Posterior part of spermathecae bulging slightly laterally, fertilisation ducts arising posterio-laterally. Membranous expandable sac (as in Figs 19, 23) between fertilisation ducts reaching anterior end of internal duct system when expanded [dissected and stored in microvial]. Sclerotised spheres present along one epigynal pocket.</paragraph>
+<caption pageId="3" pageNumber="-1">
+<paragraph pageId="3" pageNumber="-1" type="caption">
+FIGURES 4-13. 
+<taxonomicName _evidence="knownData" _evidence_details="genus=Sinopoda, species=spp" _rankHash="-469512698" authority="spp" authorityName="spp" genus="Sinopoda" pageId="3" pageNumber="-1" rank="genus">
+Sinopoda 
+<authority pageId="3" pageNumber="-1">spp</authority>
+</taxonomicName>
+., habitus (4-11 preserved, 12-13 alive). 4-5 
+<taxonomicName _evidence="lexicon" _rankHash="1634948571" authority="spec" authorityName="spec" genus="Sinopoda" pageId="3" pageNumber="-1" rank="species" species="steineri">Sinopoda steineri 
+<taxonomicNameLabel pageId="3" pageNumber="-1" rank="species">
+<authority pageId="3" pageNumber="-1">spec</authority>
+. nov.
+</taxonomicNameLabel>
+</taxonomicName>
+, 
+<typeStatus>holotype</typeStatus>
+female from Ban Nam Eng, Luang Nam Tha; 6-13 
+<taxonomicName _evidence="lexicon" _rankHash="244147278" authority="spec" authorityName="spec" genus="Sinopoda" pageId="3" pageNumber="-1" rank="species" species="tham">Sinopoda tham 
+<taxonomicNameLabel pageId="3" pageNumber="-1" rank="species">
+<authority pageId="3" pageNumber="-1">spec</authority>
+. nov.
+</taxonomicNameLabel>
+</taxonomicName>
+from Oudomxai (6-7 
+<typeStatus>holotype</typeStatus>
+male from Chom Ong Cave System; 8-9 
+<typeStatus>paratype</typeStatus>
+female from Chom Ong cave system; 10-
+<specimenCount type="generic">11 female</specimenCount>
+from Tham Mokfek, 12-13 uncaught specimens from Chom Ong Cave systems). Photos 12-13 by H. Steiner.
+</paragraph>
+</caption>
+<paragraph pageId="3" pageNumber="-1" type="mainText">
+Colouration in ethanol (Figs 4-5): Yellowish- to reddish-brown. Dorsal prosoma yellowish-brown with fovea and cuticular radial pattern reddish-brown. Sternum, ventral coxae and gnathocoxae yellowish-brown, labium reddish-brown 
+<pageBreakToken pageNumber="41" start="start">with</pageBreakToken>
+distal part brighter. Chelicerae deep reddish-brown. Legs deep yellowish-brown. Dorsal opisthosoma with irregular pattern especially in posterior half, ventral opisthosoma without pattern, but with velvet-like appearance through dense cover of setae.
+</paragraph>
+<paragraph pageId="3" pageNumber="-1" type="mainText">Male. Unknown.</paragraph>
+</subSubSection>
+<subSubSection _generate="added" pageId="3" pageNumber="-1" type="distribution">
+<paragraph pageId="3" pageNumber="-1" type="mainText">
+Distribution. Only known from the 
+<typeStatus>type</typeStatus>
+locality (Fig. 81).
+</paragraph>
+</subSubSection>
+</treatment>
+<treatment _generate="added" lastPageId="7" pageId="3" pageNumber="-1">
+<subSubSection _generate="added" pageId="3" pageNumber="-1" type="nomenclature">
+<paragraph pageId="3" pageNumber="-1" type="mainText">
+<taxonomicName _evidence="lexicon" _rankHash="244147278" authority="spec" authorityName="spec" genus="Sinopoda" pageId="3" pageNumber="-1" rank="species" species="tham">Sinopoda tham 
+<taxonomicNameLabel pageId="3" pageNumber="-1" rank="species">
+<authority pageId="3" pageNumber="-1">spec</authority>
+. nov.
+</taxonomicNameLabel>
+</taxonomicName>
+</paragraph>
+</subSubSection>
+<subSubSection _generate="added" pageId="3" pageNumber="-1" type="description">
+<paragraph pageId="3" pageNumber="-1" type="mainText">Figs 6-23, 81</paragraph>
+</subSubSection>
+<subSubSection _generate="added" pageId="3" pageNumber="-1" type="materials_examined">
+<paragraph pageId="3" pageNumber="-1" type="mainText">
+<materialsCitation collectingDate="2010-01-28" collectingMethod="by hand" collectionCode="SMF" collectorName="W. Zillig" country="Laos" elevation="800 m" latitude="20.751917" location="Tham Chom Ong" longLatPrecision="1" longitude="101.778534" municipality="Xai District" specimenCode="PJ 3372" specimenCount="1" specimenCountMale="1" stateProvince="Oudomxai Province" typeStatus="Holotype">
+Type material: 
+<typeStatus>Holotype</typeStatus>
+: male, 
+<collectingCountry value="Laos">LAOS</collectingCountry>
+: 
+<collectingRegion>Oudomxai Province</collectingRegion>
+: 
+<collectingMunicipality>Xai District</collectingMunicipality>
+, 
+<location country="Laos" latitude="20.751917" longLatPrecision="1" longitude="101.778534" municipality="Xai District" name="Tham Chom Ong" stateProvince="Oudomxai Province">Tham Chom Ong</location>
+, 
+<geoCoordinate direction="north" orientation="latitude" precision="1" value="20.751917">N 20°45'6.9''</geoCoordinate>
+, 
+<geoCoordinate direction="east" orientation="longitude" precision="1" value="101.778534">E 101°46'42.7''</geoCoordinate>
+[
+<quantity metricMagnitude="2" metricUnit="m" metricValue="8.0" unit="m" value="800.0">
+<elevation metricMagnitude="2" metricUnit="m" metricValue="8.0" unit="m" value="800.0">800 m</elevation>
+</quantity>
+altitude], cave in limestone, 
+<collectingMethod>by hand</collectingMethod>
+, 
+<date value="2010-01-28">
+<collectingDate value="2010-01-28">28 January 2010</collectingDate>
+</date>
+, 
+<collectorName _evidence="leading initial">W. Zillig</collectorName>
+leg., field number 066/10 (
+<collectionCode collectionName="Germany, Frankfurt-am-Main, Forschungsinstitut und Naturmuseum Senckenberg">SMF</collectionCode>
+, 
+<specimenCode>PJ 3372</specimenCode>
+)
+</materialsCitation>
+.
+</paragraph>
+<paragraph pageId="3" pageNumber="-1" type="mainText">
+<typeStatus>Paratypes</typeStatus>
+: 
+<specimenCount type="generic">4 females</specimenCount>
+, with same data as for 
+<typeStatus>holotype</typeStatus>
+(
+<collectionCode collectionName="Germany, Frankfurt-am-Main, Forschungsinstitut und Naturmuseum Senckenberg">SMF</collectionCode>
+, 
+<collectionCode>PJ</collectionCode>
+3373-3376).
+</paragraph>
+<paragraph pageId="3" pageNumber="-1" type="mainText">
+Additional material examined (
+<specimenCount type="generic">2 males</specimenCount>
+, 
+<specimenCount type="generic">12 females</specimenCount>
+). 
+<specimenCount type="generic">4 females</specimenCount>
+with same data as for 
+<typeStatus>holotype</typeStatus>
+, but: 
+<geoCoordinate direction="north" orientation="latitude" precision="1" value="20.718418">N 20°43'6.3''</geoCoordinate>
+, 
+<geoCoordinate direction="east" orientation="longitude" precision="1" value="101.76453">E 101°45'52.3''</geoCoordinate>
+[
+<quantity metricMagnitude="2" metricUnit="m" metricValue="7.5" unit="m" value="750.0">750 m</quantity>
+altitude], 
+<date value="2009-01-19" valueMax="2009-01-21" valueMin="2009-01-19">19-21 January 2009</date>
+, H. Steiner leg., field numbers 052/09, 049/09 (
+<collectionCode collectionName="Germany, Frankfurt-am-Main, Forschungsinstitut und Naturmuseum Senckenberg">SMF</collectionCode>
+, 
+<collectionCode>PJ</collectionCode>
+3296, 
+<collectionCode>SD</collectionCode>
+762; 
+<collectionCode>PJ</collectionCode>
+3378-3380); 
+<specimenCount type="generic">2 subadult</specimenCount>
+females, 
+<specimenCount type="generic">4 juveniles</specimenCount>
+, together with and with same data as for 
+<typeStatus>holotype</typeStatus>
+(
+<collectionCode collectionName="Germany, Frankfurt-am-Main, Forschungsinstitut und Naturmuseum Senckenberg">SMF</collectionCode>
+). LAOS: Oudomxai Province: 
+<specimenCount type="generic">1 male</specimenCount>
+, 
+<specimenCount type="generic">5 females</specimenCount>
+, Namor District, Tham Na Thong, 
+<geoCoordinate direction="north" orientation="latitude" precision="1" value="20.872389">N20°52'20.6''</geoCoordinate>
+, 
+<geoCoordinate direction="east" orientation="longitude" precision="1" value="101.78272">E101°46'57.8''</geoCoordinate>
+[
+<quantity metricMagnitude="2" metricUnit="m" metricValue="6.5" unit="m" value="650.0">650 m</quantity>
+altitude], cave in limestone, by hand, 
+<date value="2010-01-26" valueMax="2010-01-31" valueMin="2010-01-26">26-31 January 2010</date>
+, H. Steiner leg., field numbers 008/10, 010/10, 013/10, 040/10 (
+<collectionCode collectionName="Germany, Frankfurt-am-Main, Forschungsinstitut und Naturmuseum Senckenberg">SMF</collectionCode>
+, 
+<collectionCode>PJ</collectionCode>
+3299, 
+<collectionCode>SD</collectionCode>
+771; 
+<collectionCode>PJ</collectionCode>
+3300, 
+<collectionCode>SD</collectionCode>
+774; 
+<collectionCode>PJ</collectionCode>
+3377; 
+<collectionCode>PJ</collectionCode>
+3311, 
+<collectionCode>SD</collectionCode>
+787; 
+<collectionCode>PJ</collectionCode>
+3312; 
+<collectionCode>PJ</collectionCode>
+3310); 
+<specimenCount type="generic">1 female</specimenCount>
+, Namor District, Tham Mokfek, 
+<geoCoordinate direction="north" orientation="latitude" precision="1" value="20.809639">N20°48'34.7''</geoCoordinate>
+, 
+<geoCoordinate direction="east" orientation="longitude" precision="1" value="101.78736">E101°47'14.5''</geoCoordinate>
+[
+<quantity metricMagnitude="2" metricUnit="m" metricValue="8.2" unit="m" value="820.0">820 m</quantity>
+altitude], cave in limestone, by hand, 
+<date value="2010-01-27">27 January 2010</date>
+, H. Steiner leg., field number 039/10, Northern Lao-European Cave Project (
+<collectionCode collectionName="Germany, Frankfurt-am-Main, Forschungsinstitut und Naturmuseum Senckenberg">SMF</collectionCode>
+, 
+<collectionCode>PJ</collectionCode>
+3307, 
+<collectionCode>SD</collectionCode>
+783); 
+<specimenCount type="generic">1 male</specimenCount>
+, La District, Tham Luang, 
+<geoCoordinate direction="north" orientation="latitude" precision="1" value="20.820057">N20°49'12.2''</geoCoordinate>
+, 
+<geoCoordinate direction="east" orientation="longitude" precision="1" value="102.04542">E102°2'43.5''</geoCoordinate>
+[
+<quantity metricMagnitude="2" metricUnit="m" metricValue="8.7" unit="m" value="870.0">870 m</quantity>
+altitude], cave in limestone, by hand, 
+<date value="2010-02-02">2 February 2010</date>
+, H. Steiner leg., field number 005/10, Northern Lao-European Cave Project (
+<collectionCode collectionName="Germany, Frankfurt-am-Main, Forschungsinstitut und Naturmuseum Senckenberg">SMF</collectionCode>
+, 
+<collectionCode>PJ</collectionCode>
+3305, 
+<collectionCode>SD</collectionCode>
+781). LAOS: Luang Nam Tha Province: 
+<specimenCount type="generic">2 females</specimenCount>
+, Tham Ou Prang Ngiene, 
+<geoCoordinate direction="north" orientation="latitude" precision="1" value="20.54272">N20°32'33.8''</geoCoordinate>
+, 
+<geoCoordinate direction="east" orientation="longitude" precision="1" value="101.13661">E101°8'11.8''</geoCoordinate>
+[
+<quantity metricMagnitude="2" metricUnit="m" metricValue="8.0" unit="m" value="800.0">800 m</quantity>
+altitude], cave in limestone, by hand, 
+<date value="2006-02-08">8 February 2006</date>
+, H. Steiner leg., field numbers 075/06, 040/06 (
+<collectionCode collectionName="Germany, Frankfurt-am-Main, Forschungsinstitut und Naturmuseum Senckenberg">SMF</collectionCode>
+, 
+<collectionCode>PJ</collectionCode>
+3384-3385).
+</paragraph>
+</subSubSection>
+<subSubSection _generate="added" pageId="3" pageNumber="-1" type="diagnosis">
+<paragraph pageId="3" pageNumber="-1" type="mainText">
+Diagnosis. Medium-sized to large 
+<taxonomicName _rankHash="-277020061" pageId="3" pageNumber="-1" rank="subFamily" subFamily="Heteropodinae">Heteropodinae</taxonomicName>
+, body length of males: 13.3-16.9, females: 13.8-22.3. Males (Figs 14-17) with characteristic shape and course of embolus, conductor and RTA (as e.g. in 
+<taxonomicName _evidence="lexicon" _rankHash="607633384" genus="Sinopoda" pageId="3" pageNumber="-1" rank="species" species="forcipata">S. forcipata</taxonomicName>
+(Karsch, 1881)) may be recognised by: 1. Embolus tip with thin transparent seam (may be absent/broken off) and distal part narrower, 2. dRTA long and slender with tip slightly widened, 3. vRTA compact and with ventral extension in retrolateral view (similar in 
+<taxonomicName _evidence="feedback" _rankHash="-1031146112" genus="Sinopoda" pageId="3" pageNumber="-1" rank="species" species="tengchongensis">S. tengchongensis</taxonomicName>
+Fu &amp; Zhu, 2008, but 
+<taxonomicName _evidence="lexicon" _rankHash="-225378666" authority="spec" authorityName="spec" genus="Sinopoda" pageId="3" pageNumber="-1" rank="species" species="tham">S. tham 
+<taxonomicNameLabel pageId="3" pageNumber="-1" rank="species">
+<authority pageId="3" pageNumber="-1">spec</authority>
+. nov.
+</taxonomicNameLabel>
+</taxonomicName>
+with dRTA closer to cymbium, embolus base covered by tegulum in ventral view, embolic 
+<taxonomicName _evidence="lexicon" _rankHash="1431728604" genus="Sinopoda" pageId="3" pageNumber="-1" rank="genus">apophysis</taxonomicName>
+tip slender, cymbium more elongated). Females (Figs 18-23) similar to those of 
+<taxonomicName _evidence="lexicon" _rankHash="293131694" authority="Liu" authorityName="Liu" genus="Sinopoda" pageId="3" pageNumber="-1" rank="species" species="triangula">S. triangula Liu</taxonomicName>
+et al., 
+<quantity metricMagnitude="1" metricUnit="m" metricValue="5.10032" unit="in" value="2008.0">2008 in</quantity>
+having narrow, largely transversally oriented lateral lobes and epigynal pockets with a narrow lobal septum as well as internal duct system with long and narrow parallel part, but are distinguished from this and other 
+<taxonomicName _evidence="knownData" _evidence_details="genus=Sinopoda, species=spp" _rankHash="-469512698" authority="spp" authorityName="spp" genus="Sinopoda" pageId="3" pageNumber="-1" rank="genus">
+Sinopoda 
+<authority pageId="3" pageNumber="-1">spp</authority>
+</taxonomicName>
+. by 1. Posterior part of internal duct system bent at right angle, ca. of the same diameter/strength as longitudinal parallel part (much larger and ovalshaped in 
+<taxonomicName _evidence="lexicon" _rankHash="-1738917290" genus="Sinopoda" pageId="3" pageNumber="-1" rank="species" species="triangula">S. triangula</taxonomicName>
+), 2. Basal part of glandular appendages approximately parallel (distinctly diverging posteriorly in 
+<taxonomicName _evidence="lexicon" _rankHash="-1738917290" genus="Sinopoda" pageId="3" pageNumber="-1" rank="species" species="triangula">S. triangula</taxonomicName>
+). 3. Epigyne with anterior semicircular rim and lateral furrows longitudinally (without such rim and furrows in 
+<taxonomicName _evidence="lexicon" _rankHash="-1738917290" genus="Sinopoda" pageId="3" pageNumber="-1" rank="species" species="triangula">S. triangula</taxonomicName>
+).
+</paragraph>
+</subSubSection>
+<subSubSection _generate="added" pageId="3" pageNumber="-1" type="etymology">
+<paragraph pageId="3" pageNumber="-1" type="mainText">
+Etymology. The species name is derived from the Lao word 
+<normalizedToken originalValue="“tham”" pageId="3" pageNumber="-1">
+&quot;
+<taxonomicName _evidence="lexicon" _rankHash="3558816" genus="Sinopoda" pageId="3" pageNumber="-1" rank="genus">tham</taxonomicName>
+&quot;
+</normalizedToken>
+meaning 
+<normalizedToken originalValue="“cave”" pageId="3" pageNumber="-1">&quot;cave&quot;</normalizedToken>
+and referring to the habitat at the 
+<typeStatus>type</typeStatus>
+locality and the fact that the species was recorded exclusively in caves; term in apposition.
+</paragraph>
+</subSubSection>
+<subSubSection _generate="added" lastPageId="7" pageId="3" pageNumber="-1" type="description">
+<paragraph pageId="3" pageNumber="-1" type="mainText">
+Description. Male (
+<typeStatus>holotype</typeStatus>
+): Prosoma length 8.1, prosoma width 7.1, anterior width of prosoma 3.7, opisthosoma length 8.8, opisthosoma width 5.1. 
+<collectionCode collectionName="USA, Florida, Gainesville, University of Florida, Florida Museum of Natural History, Allyn Museum">AME</collectionCode>
+0.36, ALE 0.53, PME 0.39, PLE 0.52, AME-AME 0.22, AME-ALE 0.05, PME-PME 0.29, PME-PLE 0.47, AME-PME 0.41, ALE-PLE 0.38, clypeus 
+<collectionCode collectionName="USA, Florida, Gainesville, University of Florida, Florida Museum of Natural History, Allyn Museum">AME</collectionCode>
+0.45, clypeus ALE 0.37. Spination: Palp: 131, 101, 2101; legs: femur I-III 323, IV 331; patella I-IV 101; tibia I-III 2326, 
+<date value="2226-04">IV 2226</date>
+; metatarsus I-II 1014, 
+<date value="2026-03">III 2026</date>
+, IV 3036. Ventral metatarsus III with sparse double row of stiff bristles in proximal half, IV with dense double row of bristles along entire length. Leg formula: 2143. Measurements of palp and legs: Palp 13.0 (4.5, 1.9, 2.4, -, 4.2), leg I 43.7 (11.1, 4.5, 12.1, 12.2, 3.8), leg II 48.3 (12.7, 4.6, 13.6, 13.5, 3.9), leg III 37.2 (10.6, 3.7, 10.2, 9.7, 3.0), leg IV 40.8 (11.2, 3.9, 11.1, 11.2, 3.4). Cheliceral furrow with 3 anterior and 4 posterior teeth, and with ca. 70 denticles in slightly elongated patch close to anterior teeth. Margin of chelicerae close to fang base with one bristle. Sternum, ventral coxae and femora, distal legs as well as frontal chelicerae with long setae, otherwise with shorter setae.
+</paragraph>
+<caption pageId="5" pageNumber="-1">
+<paragraph pageId="5" pageNumber="-1" type="caption">
+<pageBreakToken pageId="5" pageNumber="42" start="start">FIGURES</pageBreakToken>
+14-17. 
+<taxonomicName _evidence="lexicon" _rankHash="244147278" authority="spec" authorityName="spec" genus="Sinopoda" pageId="5" pageNumber="-1" rank="species" species="tham">Sinopoda tham 
+<taxonomicNameLabel pageId="5" pageNumber="-1" rank="species">
+<authority pageId="5" pageNumber="-1">spec</authority>
+. nov.
+</taxonomicNameLabel>
+</taxonomicName>
+, 
+<typeStatus>holotype</typeStatus>
+male from Chom Ong cave system, Oudomxai, left male palp (14 prolateral, 15 ventral, 16 retrolateral, 17 tip of embolus, proximo-prolateral). C-conductor, E-embolus, dRTA-dorsal branch of RTA, SD-sperm duct, TS-transparent seam of distal embolus, vRTA - ventral branch of RTA.
+</paragraph>
+</caption>
+<paragraph pageId="5" pageNumber="-1" type="mainText">
+Palp as in diagnosis (Figs 14-17). Cymbium much longer than tibia, RTA arising medially to proximally from tibia. Embolus arising in 7- to 8-
+<normalizedToken originalValue="o’clock-position" pageId="5" pageNumber="-1">o'clock-position</normalizedToken>
+from tegulum with tip only slightly bent, sperm duct with small bend in proximal half; tip of embolic 
+<taxonomicName _evidence="lexicon" _rankHash="1431728604" genus="Sinopoda" pageId="5" pageNumber="-1" rank="genus">apophysis</taxonomicName>
+bent at right angle. Conductor arising in 1-
+<normalizedToken originalValue="o’clock-position" pageId="5" pageNumber="-1">o'clock-position</normalizedToken>
+from tegulum, elongated laminar with distal part bent ventrally.
+</paragraph>
+<paragraph pageId="5" pageNumber="-1" type="mainText">Colouration in ethanol (Figs 6-7): Yellowish- to slightly reddish-brown. Dorsal prosoma bright reddish-brown with cuticular radial pattern, most hairs rubbed off. Sternum, ventral coxae and femora, gnathocoxae, and labium pale yellowish-brown, gnathocoxae and labium proximally reddish-brown. Chelicerae reddish-brown. Legs reddish-brown with distal parts slightly darker, dorsal femora with faint pattern consisting of dark hairs. Dorsal opisthosoma with irregular pattern of small patches, darker (patches more dense) in posterior half. Ventral opisthosoma with book-lung margins darker, otherwise yellowish-brown without distinct pattern. Spinnerets yellowish-brown.</paragraph>
+<paragraph pageId="5" pageNumber="-1" type="mainText">
+Female (
+<typeStatus>paratype</typeStatus>
+, 
+<collectionCode>PJ</collectionCode>
+3373): Prosoma length 7.0, prosoma width 6.1, anterior width of prosoma 3.5, opisthosoma length 10.3, opisthosoma width 6.2. 
+<collectionCode collectionName="USA, Florida, Gainesville, University of Florida, Florida Museum of Natural History, Allyn Museum">AME</collectionCode>
+0.32, ALE 0.49, PME 0.35, PLE 0.48, AME-AME 0.20, AME-ALE 0.06, PME-PME 0.28, PME-PLE 0.41, AME-PME 0.40, ALE-PLE 0.41, clypeus 
+<collectionCode collectionName="USA, Florida, Gainesville, University of Florida, Florida Museum of Natural History, Allyn Museum">AME</collectionCode>
+0.46, clypeus ALE 0.33. Spination: Palp: 131, 101, 2121, 1014; legs: femur I-III 323, IV 331; patella I-IV 001; tibia I-III 2026, 
+<date value="2126-04">IV 2126</date>
+; metatarsus I-II 0004, 
+<date value="2016-03">III 2016</date>
+, IV 3036. Ventral metatarsus III with sparse double row of stiff bristles in 
+<pageBreakToken pageNumber="43" start="start">proximal</pageBreakToken>
+half, IV with dense double row of bristles along entire length. Leg formula: 2413. Measurements of palp and legs: Palp 11.3 (3.3, 1.8, 2.6, -, 3.6), leg I 31.3 (8.7, 3.5, 9.0, 7.6, 2.5), leg II 34.4 (9.8, 3.9, 9.9, 8.3, 2.5), leg III 28.7 (8.3, 3.1, 8.1, 7.0, 2.2), leg IV 31.6 (9.1, 3.0, 8.6, 8.3, 2.6). Cheliceral furrow with 3 anterior and 4 posterior teeth, and with ca. 60 denticles in slightly elongated patch close to anterior teeth. Margin of chelicerae close to fang base with one bristle. Palpal claw with 7 +1 teeth. Sternum, ventral coxae and femora, distal legs as well as frontal chelicerae with long setae, otherwise with short setae.
+</paragraph>
+<paragraph pageId="5" pageNumber="-1" type="mainText">Copulatory organ as in diagnosis (Figs 18-23). Epigynal field wider than long, with short anterior bands partly integrated in the field, with one slit sensillum on each side close to the epigynal field. Epigynal pockets half the length of posterior lateral lobes. Posterior epigynal margin with two slight humps. Some sclerotised spheres present along the median line in posterior half of epigyne. Anterior part of internal duct system swollen, i.e. broader than median part. Fertilisation ducts arising from small elevations medially on bent posterior part. Membranous sac between fertilisation ducts expandable, reaching anterior part of internal duct system if expanded (Fig. 19).</paragraph>
+<caption pageId="5" pageNumber="-1">
+<paragraph pageId="5" pageNumber="-1" type="caption">
+FIGURES 18-23. 
+<taxonomicName _evidence="lexicon" _rankHash="244147278" authority="spec" authorityName="spec" genus="Sinopoda" pageId="5" pageNumber="-1" rank="species" species="tham">Sinopoda tham 
+<taxonomicNameLabel pageId="5" pageNumber="-1" rank="species">
+<authority pageId="5" pageNumber="-1">spec</authority>
+. nov.
+</taxonomicNameLabel>
+</taxonomicName>
+, females from Oudomxai, copulatory organ (18, 22 epigyne, ventral; 19-20, 23 Vulva, dorsal; 21 schematic course of internal duct system, dorsal). See text for explanation. LF-lateral furrow, MSe-membranous sac expanded, MSu-membranous sac unexpanded, SS-slit sensillum.
+</paragraph>
+</caption>
+<paragraph pageId="7" pageNumber="-1" type="mainText">
+<pageBreakToken pageNumber="44" start="start">Colouration</pageBreakToken>
+in ethanol (Figs 8-11): as in male, but: dorsal prosoma with cephalic part slightly darker and characteristic dark submarginal transversal band posteriorly. Chelicerae dark reddish-brown, gnathocoxae and labium reddish-brown with distal bright lip. Opisthosoma generally darker, spots on dorsal side more distinct. For colouration of live specimens see Figs 12-13.
+</paragraph>
+<paragraph pageId="7" pageNumber="-1" type="mainText">
+Variation. Males PL 7.0, OL 7.6. Females PL 6.3-10.2, OL 7.5-12.8. In one male (
+<collectionCode>PJ</collectionCode>
+3305) the characteristic dark transversal submarginal band on posterior dorsal prosoma was present. Moreover, the transparent seam of the embolus tip was absent/broken off (also in 
+<collectionCode>PJ</collectionCode>
+3399). All other characters of the male palp conform to those of the 
+<typeStatus>holotype</typeStatus>
+. One male (
+<collectionCode>PJ</collectionCode>
+3305) with 4 anterior teeth on its left chelicera. One female (
+<collectionCode>PJ</collectionCode>
+3307) was darker than others with dark adpressed hairs almost on entire dorsal prosoma and with opisthosomal spots fused (Figs 10-11). Another female (
+<collectionCode>PJ</collectionCode>
+3300; Figs 22-23) showed a considerably different epigyne and vulva: the two longitudinal lateral furrows anterior of the epigynal pockets were situated almost at the lateral end of the pockets, the lobal septum was shorter than in the 
+<typeStatus>paratype</typeStatus>
+and there was a median bulge between the lateral lobes at the posterior margin of the epigyne. Glandular appendages were distinctly bent laterally at their widened tip. Since the syntopic male conforms to the 
+<typeStatus>holotype</typeStatus>
+the differences in the female are considered intraspecific variation.
+</paragraph>
+</subSubSection>
+<subSubSection _generate="added" pageId="7" pageNumber="-1" type="distribution">
+<paragraph pageId="7" pageNumber="-1" type="mainText">Distribution. Known from several caves in Oudomxai and Luang Nam Tha provinces (Fig. 81).</paragraph>
+</subSubSection>
+</treatment>
+<treatment _generate="added" lastPageId="9" lastPageNumber="10" pageId="7" pageNumber="-1">
+<subSubSection _generate="added" pageId="7" pageNumber="-1" type="nomenclature">
+<paragraph pageId="7" pageNumber="-1" type="mainText">
+<taxonomicName _evidence="label" _rankHash="1449457416" genus="Sinopoda" pageId="7" pageNumber="-1" rank="species" species="sitkao">Sinopoda 
+<taxonomicName _evidence="dynamicLexicon" _rankHash="2040203392" authority="spec" authorityName="spec" genus="Sinopoda" pageId="7" pageNumber="-1" rank="species" species="sitkao">sitkao 
+<taxonomicNameLabel pageId="7" pageNumber="-1" rank="species">
+<authority pageId="7" pageNumber="-1">spec</authority>
+. nov.
+</taxonomicNameLabel>
+</taxonomicName>
+</taxonomicName>
+</paragraph>
+</subSubSection>
+<subSubSection _generate="added" pageId="7" pageNumber="-1" type="description">
+<paragraph pageId="7" pageNumber="-1" type="mainText">Figs 24-26, 36-38, 81</paragraph>
+</subSubSection>
+<subSubSection _generate="added" pageId="7" pageNumber="-1" type="materials_examined">
+<paragraph pageId="7" pageNumber="-1" type="mainText">
+<materialsCitation collectingDate="2012-01-22" collectingMethod="by hand" collectionCode="SMF" collectorName="H. Steiner" country="Laos" elevation="370 m" latitude="20.757555" location="Nam Ou, Muang Ngoi, Tham Doun Mai" longLatPrecision="1" longitude="102.64769" specimenCode="PJ 3388, SD 850" specimenCount="1" specimenCountFemale="1" stateProvince="Luang Prabang Province" typeStatus="Holotype">
+Type material: 
+<typeStatus>Holotype</typeStatus>
+: female, 
+<collectingCountry value="Laos">LAOS</collectingCountry>
+: 
+<collectingRegion>Luang Prabang Province</collectingRegion>
+: 
+<location country="Laos" latitude="20.757555" longLatPrecision="1" longitude="102.64769" name="Nam Ou, Muang Ngoi, Tham Doun Mai" stateProvince="Luang Prabang Province">Nam Ou, Muang Ngoi, Tham Doun Mai</location>
+, 
+<geoCoordinate direction="north" orientation="latitude" precision="1" value="20.757555">N 20°45'27.2''</geoCoordinate>
+, 
+<geoCoordinate direction="east" orientation="longitude" precision="1" value="102.64769">E 102°38'51.7''</geoCoordinate>
+[
+<quantity metricMagnitude="2" metricUnit="m" metricValue="3.7" unit="m" value="370.0">
+<elevation metricMagnitude="2" metricUnit="m" metricValue="3.7" unit="m" value="370.0">370 m</elevation>
+</quantity>
+altitude], cave in limestone, 
+<collectingMethod>by hand</collectingMethod>
+, 
+<date value="2012-01-22">
+<collectingDate value="2012-01-22">22 January 2012</collectingDate>
+</date>
+, 
+<collectorName>H. Steiner</collectorName>
+leg., field number 064/12 (
+<collectionCode collectionName="Germany, Frankfurt-am-Main, Forschungsinstitut und Naturmuseum Senckenberg">SMF</collectionCode>
+, 
+<specimenCode>PJ 3388, SD 850</specimenCode>
+)
+</materialsCitation>
+.
+</paragraph>
+<paragraph pageId="7" pageNumber="-1" type="mainText">
+<materialsCitation collectingDate="2012-01-22" collectingDateMax="1999-12-31" collectingDateMin="1999-01-01" collectingMethod="by hand" collectionCode="SMF" collectorName="H. Steiner" country="Laos" elevation="370 m" latitude="20.757555" location="Nam Ou, Muang Ngoi, Tham Doun Mai" longLatPrecision="1" longitude="102.64769" specimenCode="PJ 3389" specimenCount="1" specimenCountFemale="1" stateProvince="Luang Prabang Province" typeStatus="Paratype">
+<typeStatus>Paratype</typeStatus>
+: 1 female, with same data as for holotype, but field number 068/12 (SMF, PJ 3389)
+</materialsCitation>
+.
+</paragraph>
+</subSubSection>
+<subSubSection _generate="added" pageId="7" pageNumber="-1" type="diagnosis">
+<paragraph pageId="7" pageNumber="-1" type="mainText">
+Diagnosis. Medium-sized 
+<taxonomicName _rankHash="-277020061" pageId="7" pageNumber="-1" rank="subFamily" subFamily="Heteropodinae">Heteropodinae</taxonomicName>
+, body length of females: 15.6. Females (Figs 24-26) similar to those of 
+<taxonomicName _evidence="feedback" _rankHash="659652424" genus="Sinopoda" pageId="7" pageNumber="-1" rank="species" species="undata">S. undata</taxonomicName>
+Liu et al., 
+<quantity metricMagnitude="1" metricUnit="m" metricValue="5.10032" unit="in" value="2008.0">2008 in</quantity>
+having a relatively broad lobal septum and internal duct system with slim spermathecae, but are distinguished from this and other 
+<taxonomicName _evidence="knownData" _evidence_details="genus=Sinopoda, species=spp" _rankHash="-469512698" authority="spp" authorityName="spp" genus="Sinopoda" pageId="7" pageNumber="-1" rank="genus">
+Sinopoda 
+<authority pageId="7" pageNumber="-1">spp</authority>
+</taxonomicName>
+. by 1. Glandular appendages much shorter than in 
+<taxonomicName _evidence="feedback" _rankHash="659652424" genus="Sinopoda" pageId="7" pageNumber="-1" rank="species" species="undata">S. undata</taxonomicName>
+and not semicircular, 2. Posterior part wider than anterior part with glandular appendages, 3. Lateral lobes massive and not as narrow as in 
+<taxonomicName _evidence="feedback" _rankHash="659652424" genus="Sinopoda" pageId="7" pageNumber="-1" rank="species" species="undata">S. undata</taxonomicName>
+.
+</paragraph>
+</subSubSection>
+<subSubSection _generate="added" pageId="7" pageNumber="-1" type="etymology">
+<paragraph pageId="7" pageNumber="-1" type="mainText">
+Etymology. The species name is derived and simplified from the Lao word 
+<normalizedToken originalValue="“sîitkâao”" pageId="7" pageNumber="-1">&quot;sîitkăao&quot;</normalizedToken>
+meaning 
+<normalizedToken originalValue="“pale”" pageId="7" pageNumber="-1">&quot;pale&quot;</normalizedToken>
+and referring to the fact that the species exhibits an overall pale appearance as typical for cave-dwellers; term in apposition.
+</paragraph>
+</subSubSection>
+<subSubSection _generate="added" lastPageId="9" lastPageNumber="10" pageId="7" pageNumber="-1" type="description">
+<paragraph pageId="7" pageNumber="-1" type="mainText">
+Description. Female (
+<typeStatus>holotype</typeStatus>
+): Prosoma length 7.4, prosoma width 6.2, anterior width of prosoma 3.5, opisthosoma length 8.2, opisthosoma width 4.9. 
+<collectionCode collectionName="USA, Florida, Gainesville, University of Florida, Florida Museum of Natural History, Allyn Museum">AME</collectionCode>
+0.31, ALE 0.48, PME 0.38, PLE 0.55, AME-AME 0.15, AME-ALE 0.04, PME-PME 0.29, PME-PLE 0.42, AME-PME 0.40, ALE-PLE 0.42, clypeus 
+<collectionCode collectionName="USA, Florida, Gainesville, University of Florida, Florida Museum of Natural History, Allyn Museum">AME</collectionCode>
+0.61, clypeus ALE 0.50. Spination: Palp: 131, 101, 2121, 1114; legs: femur I-III 323, IV 331; patella I-III 001, IV 000; tibia 
+<date value="2026-01">I 2026</date>
+, II-III 2126, 
+<date value="2226-04">IV 2226</date>
+; metatarsus I-II 1014, 
+<date value="2016-03">III 2016</date>
+, IV 3036. Ventral metatarsus III with sparse double row of stiff bristles in 
+<abbreviationData>proximal half</abbreviationData>
+, IV with dense double row of bristles along entire length and distal patch of bristles. Leg formula: 2413. Measurements of palp and legs: Palp 13.1 (4.1, 1.9, 3.2, -, 3.9), leg I 41.5 (11.4, 4.2, 12.3, 11.3, 3.1), leg II 44.7 (12.8, 4.6, 13.9, 11.3, 3.1), leg III 38.8 (11.4, 3.7, 11.1, 9.8, 2.8), leg IV 42.2 (11.8, 3.5, 12.0, 11.8, 3.1). Cheliceral furrow with 3 anterior and 4 posterior teeth, and with ca. 25-30 denticles in restricted patch close to anterior teeth. Margin of chelicerae close to fang base with one bristle. Palpal claw with 9+1 (10+1) teeth. Sternum, ventral coxae and ventral femora covered sparsely with long setae, frontal chelicerae with dense cover of long setae, otherwise with shorter setae.
+</paragraph>
+<paragraph pageId="7" pageNumber="-1" type="mainText">
+Copulatory organ in diagnosis (Figs 24-26). Epigynal field as wide as long, with two long anterior bands and one slit sensillum on the left side close to the field. Lateral lobes fused, posteriorly with only slight median indentation. Epigynal pockets running from lateral to medio-anterior, where copulatory openings are situated. Lateral furrows distinct, longitudinal. Glandular appendages extending not in posterior half of internal duct system. Spermathecae diverging as a 
+<normalizedToken originalValue="“V”" pageId="7" pageNumber="-1">&quot;V&quot;</normalizedToken>
+posteriorly, fertilisation ducts arising posteriorly, long and laminar. Few sclerotised spheres present at median junction of lateral lobes.
+</paragraph>
+<caption pageId="8" pageNumber="-1">
+<paragraph pageId="8" pageNumber="-1" type="caption">
+<pageBreakToken pageId="8" pageNumber="45" start="start">FIGURES</pageBreakToken>
+24-35. 
+<taxonomicName _evidence="knownData" _evidence_details="genus=Sinopoda, species=spp" _rankHash="-469512698" authority="spp" authorityName="spp" genus="Sinopoda" pageId="8" pageNumber="-1" rank="genus">
+Sinopoda 
+<authority pageId="8" pageNumber="-1">spp</authority>
+</taxonomicName>
+. females, copulatory organ. 24-26 
+<taxonomicName _evidence="label" _rankHash="1449457416" genus="Sinopoda" pageId="8" pageNumber="-1" rank="species" species="sitkao">Sinopoda 
+<taxonomicName _evidence="dynamicLexicon" _rankHash="2040203392" authority="spec" authorityName="spec" genus="Sinopoda" pageId="8" pageNumber="-1" rank="species" species="sitkao">sitkao 
+<taxonomicNameLabel pageId="8" pageNumber="-1" rank="species">
+<authority pageId="8" pageNumber="-1">spec</authority>
+. nov.
+</taxonomicNameLabel>
+</taxonomicName>
+</taxonomicName>
+<typeStatus>holotype</typeStatus>
+from Tham Doun Mai, Luang Prabang; 27-29 
+<taxonomicName _evidence="label" _rankHash="-469512217" genus="Sinopoda" pageId="8" pageNumber="-1" rank="species" species="taa">Sinopoda 
+<taxonomicName _evidence="dynamicLexicon" _rankHash="-993803065" authority="spec" authorityName="spec" genus="Sinopoda" pageId="8" pageNumber="-1" rank="species" species="taa">taa 
+<taxonomicNameLabel pageId="8" pageNumber="-1" rank="species">
+<authority pageId="8" pageNumber="-1">spec</authority>
+. nov.
+</taxonomicNameLabel>
+</taxonomicName>
+</taxonomicName>
+<typeStatus>holotype</typeStatus>
+from Tham Ngiene, Luang Prabang; 30-32 
+<taxonomicName _evidence="label" _rankHash="-229998645" genus="Sinopoda" pageId="8" pageNumber="-1" rank="species" species="suang">Sinopoda 
+<taxonomicName _evidence="dynamicLexicon" _rankHash="1228935843" authority="spec" authorityName="spec" genus="Sinopoda" pageId="8" pageNumber="-1" rank="species" species="suang">suang 
+<taxonomicNameLabel pageId="8" pageNumber="-1" rank="species">
+<authority pageId="8" pageNumber="-1">spec</authority>
+. nov.
+</taxonomicNameLabel>
+</taxonomicName>
+</taxonomicName>
+<typeStatus>holotype</typeStatus>
+from Tham Ho Neung, Huaphan; 33-35 
+<taxonomicName _evidence="label" _rankHash="-1670091919" genus="Sinopoda" pageId="8" pageNumber="-1" rank="species" species="peet">Sinopoda 
+<taxonomicName _evidence="dynamicLexicon" _rankHash="-2138589961" authority="spec" authorityName="spec" genus="Sinopoda" pageId="8" pageNumber="-1" rank="species" species="peet">peet 
+<taxonomicNameLabel pageId="8" pageNumber="-1" rank="species">
+<authority pageId="8" pageNumber="-1">spec</authority>
+. nov.
+</taxonomicNameLabel>
+</taxonomicName>
+</taxonomicName>
+<typeStatus>holotype</typeStatus>
+from Tham Ma Liong, Huaphan (24, 27, 30, 33 epigyne, ventral; 25, 28, 31, 34 vulva, dorsal; 26, 29, 32, 35 schematic course of internal duct system, dorsal). AP-anterior part of internal duct system, LF-lateral furrow.
+</paragraph>
+</caption>
+<paragraph pageId="9" pageNumber="10" type="mainText">
+<pageBreakToken pageId="9" pageNumber="46" start="start">Colouration</pageBreakToken>
+in ethanol (Figs 36-38): Yellowish-brown. Dorsal prosoma yellowish-brown with cephalic part slightly reddish-brown, covered by dark-grey hairs, except for characteristic transversal band posteriorly, fovea distinct, radial striae indistinct. Sternum and ventral coxae pale yellowish-brown, gnathocoxae and labium slightly reddish-brown. Chelicerae deep reddish-brown. Legs yellowish-brown. Opisthosoma uniformly greyish-brown covered by short dark-grey setae. Spinnerets reddish-brown.
+</paragraph>
+<paragraph pageId="9" pageNumber="10" type="mainText">Male. Unknown.</paragraph>
+<paragraph pageId="9" pageNumber="10" type="mainText">
+Variation. 
+<typeStatus>Paratype</typeStatus>
+female with PL 7.2, OL 8.3.
+</paragraph>
+</subSubSection>
+<subSubSection _generate="added" pageId="9" pageNumber="10" type="distribution">
+<paragraph pageId="9" pageNumber="10" type="mainText">
+Distribution. Only known from the 
+<typeStatus>type</typeStatus>
+locality (Fig. 81).
+</paragraph>
+</subSubSection>
+</treatment>
+<treatment _generate="added" pageId="9" pageNumber="10">
+<subSubSection _generate="added" pageId="9" pageNumber="10" type="nomenclature">
+<paragraph pageId="9" pageNumber="10" type="mainText">
+<taxonomicName _evidence="label" _rankHash="-469512217" genus="Sinopoda" pageId="9" pageNumber="10" rank="species" species="taa">Sinopoda 
+<taxonomicName _evidence="dynamicLexicon" _rankHash="-993803065" authority="spec" authorityName="spec" genus="Sinopoda" pageId="9" pageNumber="10" rank="species" species="taa">taa 
+<taxonomicNameLabel pageId="9" pageNumber="10" rank="species">
+<authority pageId="9" pageNumber="10">spec</authority>
+. nov.
+</taxonomicNameLabel>
+</taxonomicName>
+</taxonomicName>
+</paragraph>
+</subSubSection>
+<subSubSection _generate="added" pageId="9" pageNumber="10" type="description">
+<paragraph pageId="9" pageNumber="10" type="mainText">Figs 27-29, 39-40, 81</paragraph>
+</subSubSection>
+<subSubSection _generate="added" pageId="9" pageNumber="10" type="materials_examined">
+<paragraph pageId="9" pageNumber="10" type="mainText">
+<materialsCitation collectingDate="2010-12-26" collectingMethod="by hand" collectionCode="SMF" collectorName="H. Steiner" country="Laos" elevation="500 m" latitude="19.877056" location="Tham Nguen" longLatPrecision="1" longitude="102.168526" specimenCode="PJ 3381" specimenCount="1" specimenCountFemale="1" stateProvince="Luang Prabang Province" typeStatus="Holotype">
+Type material: 
+<typeStatus>Holotype</typeStatus>
+: female, 
+<collectingCountry value="Laos">LAOS</collectingCountry>
+: 
+<collectingRegion>Luang Prabang Province</collectingRegion>
+: 
+<location country="Laos" latitude="19.877056" longLatPrecision="1" longitude="102.168526" name="Tham Nguen" stateProvince="Luang Prabang Province">Tham Nguen</location>
+, 
+<geoCoordinate direction="north" orientation="latitude" precision="1" value="19.877056">N 19°52'37.4''</geoCoordinate>
+, 
+<geoCoordinate direction="east" orientation="longitude" precision="1" value="102.168526">E 102°10'6.7''</geoCoordinate>
+[
+<quantity metricMagnitude="2" metricUnit="m" metricValue="5.0" unit="m" value="500.0">
+<elevation metricMagnitude="2" metricUnit="m" metricValue="5.0" unit="m" value="500.0">500 m</elevation>
+</quantity>
+altitude], cave in limestone, 
+<collectingMethod>by hand</collectingMethod>
+, 
+<date value="2010-12-26">
+<collectingDate value="2010-12-26">26 December 2010</collectingDate>
+</date>
+, 
+<collectorName _evidence="leading initial">H. Steiner</collectorName>
+leg., field number 053/04 LP 26-1 (
+<collectionCode collectionName="Germany, Frankfurt-am-Main, Forschungsinstitut und Naturmuseum Senckenberg">SMF</collectionCode>
+, 
+<specimenCode>PJ 3381</specimenCode>
+)
+</materialsCitation>
+.
+</paragraph>
+</subSubSection>
+<subSubSection _generate="added" pageId="9" pageNumber="10" type="diagnosis">
+<paragraph pageId="9" pageNumber="10" type="mainText">
+Diagnosis. Medium-sized 
+<taxonomicName _rankHash="-277020061" pageId="9" pageNumber="10" rank="subFamily" subFamily="Heteropodinae">Heteropodinae</taxonomicName>
+, body length of female: 18.3. Females (Figs 27-29) similar to those of 
+<taxonomicName _evidence="lexicon" _rankHash="-103950526" authority="Liu" authorityName="Liu" genus="Sinopoda" pageId="9" pageNumber="10" rank="species" species="fornicata">S. fornicata Liu</taxonomicName>
+et al., 
+<quantity metricMagnitude="1" metricUnit="m" metricValue="5.10032" unit="in" value="2008.0">2008 in</quantity>
+having lateral lobes appearing as large triangle and internal duct system with anterior part (copulatory ducts) appearing as separated swelling, but are distinguished from this and other 
+<taxonomicName _evidence="knownData" _evidence_details="genus=Sinopoda, species=spp" _rankHash="-469512698" authority="spp" authorityName="spp" genus="Sinopoda" pageId="9" pageNumber="10" rank="genus">
+Sinopoda 
+<authority pageId="9" pageNumber="10">spp</authority>
+</taxonomicName>
+. by 1. Margins of epigynal pockets concave and slightly undulating, 2. Anterior part of internal duct system (without glandular appendages) wider than posterior part (without bent spermathecae).
+</paragraph>
+</subSubSection>
+<subSubSection _generate="added" pageId="9" pageNumber="10" type="etymology">
+<paragraph pageId="9" pageNumber="10" type="mainText">
+Etymology. The species name is derived from the Lao word 
+<normalizedToken originalValue="“taa”" pageId="9" pageNumber="10">&quot;taa&quot;</normalizedToken>
+meaning 
+<normalizedToken originalValue="“eye”" pageId="9" pageNumber="10">&quot;eye&quot;</normalizedToken>
+and referring to the fact that all eight eyes are developed; term in apposition.
+</paragraph>
+</subSubSection>
+<subSubSection _generate="added" pageId="9" pageNumber="10" type="description">
+<paragraph pageId="9" pageNumber="10" type="mainText">
+Description. Female (
+<typeStatus>holotype</typeStatus>
+): Prosoma length 8.3, prosoma width 7.2, anterior width of prosoma 4.1, opisthosoma length 10.0, opisthosoma width 5.8. 
+<collectionCode collectionName="USA, Florida, Gainesville, University of Florida, Florida Museum of Natural History, Allyn Museum">AME</collectionCode>
+0.31, ALE 0.58, PME 0.38, PLE 0.62, AME-AME 0.18, AME-ALE 0.06, PME-PME 0.24, PME-PLE 0.50, AME-PME 0.53, ALE-PLE 0.42, clypeus 
+<collectionCode collectionName="USA, Florida, Gainesville, University of Florida, Florida Museum of Natural History, Allyn Museum">AME</collectionCode>
+0.58, clypeus ALE 0.49. Spination: Palp: 131, 101, 2121, 1014; legs: femur I 323, II-III 333, IV 331; patella I-III 001, IV 000; tibia I-II 2026, III-IV 2126; metatarsus I-II 1014, 
+<date value="2014-03">III 2014</date>
+, IV 3036. Ventral metatarsus III with sparse double row of stiff bristles in proximal half, IV with dense double row of bristles along entire length and distal patch of bristles. Leg formula: 2413. Measurements of palp and legs: Palp 14.3 (4.5, 2.0, 3.2, -, 4.6), leg I 44.7 (12.2, 4.6, 13.4, 11.4, 3.1), leg II 48.2 (13.5, 5.0, 14.5, 12.1, 3.1), leg III 41.9 (12.2., 4.3, 12.3, 10.1, 3.0), leg IV 45.1 (12.6, 4.1, 12.9, 12.3, 3.2). Cheliceral furrow with 3 anterior and 4 posterior teeth, and with ca. 30-35 denticles in slightly elongated patch close to anterior teeth. Margin of chelicerae close to fang base with one bristle. Palpal claw with 9+1 (10+1) teeth. Sternum, ventral coxae and ventral femora covered sparsely with long setae, otherwise with shorter setae.
+</paragraph>
+<paragraph pageId="9" pageNumber="10" type="mainText">Copulatory organ in diagnosis (Figs 27-29). Epigynal field wider than long, with two short anterior bands (partly fused with field) and one slit sensillum on each side close to the field. Lateral lobes partly fused, posteriorly with almost transversally straight margin and slight median incision. Epigynal pockets running from posterior-lateral to medio-anterior, where copulatory openings are situated. Lateral furrows situated close to lateral ends of pockets, transversally oriented, indistinct. Lobal septum moderately wide. Glandular appendages extending posteriorly in posterior half of internal duct system. Spermathecae bulging laterally, fertilisation ducts arising posterio-laterally, long and leaf-shaped laminar. Sclerotised spheres present at entire median junction of lateral lobes.</paragraph>
+<paragraph pageId="9" pageNumber="10" type="mainText">
+Colouration in ethanol (Figs 39-40): Yellowish-brown without pattern. Dorsal prosoma yellowish-brown with fovea and cuticular radial pattern reddish-brown. Sternum and ventral coxae pale yellowish-brown, gnathocoxae deep yellowish-brown, labium reddish-brown. Chelicerae deep reddish-brown. Legs yellowish-brown. Opisthosoma including spinnerets greyish- 
+<pageNumber ambiguity="1" fuzzyness="0" pageId="9" pageNumber="10" score="4" value="10">to</pageNumber>
+yellowish-brown.
+</paragraph>
+<paragraph pageId="9" pageNumber="10" type="mainText">Male. Unknown.</paragraph>
+</subSubSection>
+<subSubSection _generate="added" pageId="9" pageNumber="10" type="distribution">
+<paragraph pageId="9" pageNumber="10" type="mainText">
+Distribution. Only known from the 
+<typeStatus>type</typeStatus>
+locality (Fig. 81).
+</paragraph>
+</subSubSection>
+</treatment>
+<subSection _generate="added" pageId="10" pageNumber="5" type="multiple">
+<caption pageId="10" pageNumber="5">
+<paragraph pageId="10" pageNumber="5" type="caption">
+<pageBreakToken pageId="10" pageNumber="47" start="start">FIGURES</pageBreakToken>
+36-45. 
+<taxonomicName _evidence="knownData" _evidence_details="genus=Sinopoda, species=spp" _rankHash="-469512698" authority="spp" authorityName="spp" genus="Sinopoda" pageId="10" pageNumber="5" rank="genus">
+Sinopoda 
+<authority pageId="10" pageNumber="5">spp</authority>
+</taxonomicName>
+. females, habitus. 36-38 
+<taxonomicName _evidence="label" _rankHash="1449457416" genus="Sinopoda" pageId="10" pageNumber="5" rank="species" species="sitkao">Sinopoda 
+<taxonomicName _evidence="dynamicLexicon" _rankHash="2040203392" authority="spec" authorityName="spec" genus="Sinopoda" pageId="10" pageNumber="5" rank="species" species="sitkao">sitkao 
+<taxonomicNameLabel pageId="10" pageNumber="5" rank="species">
+<authority pageId="10" pageNumber="5">spec</authority>
+. nov.
+</taxonomicNameLabel>
+</taxonomicName>
+</taxonomicName>
+holotype from Tham Doun Mai, Luang Prabang; 39-40 
+<taxonomicName _evidence="label" _rankHash="-469512217" genus="Sinopoda" pageId="10" pageNumber="5" rank="species" species="taa">Sinopoda 
+<taxonomicName _evidence="dynamicLexicon" _rankHash="-993803065" authority="spec" authorityName="spec" genus="Sinopoda" pageId="10" pageNumber="5" rank="species" species="taa">taa 
+<taxonomicNameLabel pageId="10" pageNumber="5" rank="species">
+<authority pageId="10" pageNumber="5">spec</authority>
+. nov.
+</taxonomicNameLabel>
+</taxonomicName>
+</taxonomicName>
+holotype from Tham Ngiene, Luang Prabang; 41-42 
+<taxonomicName _evidence="label" _rankHash="-1670091919" genus="Sinopoda" pageId="10" pageNumber="5" rank="species" species="peet">Sinopoda 
+<taxonomicName _evidence="dynamicLexicon" _rankHash="-2138589961" authority="spec" authorityName="spec" genus="Sinopoda" pageId="10" pageNumber="5" rank="species" species="peet">peet 
+<taxonomicNameLabel pageId="10" pageNumber="5" rank="species">
+<authority pageId="10" pageNumber="5">spec</authority>
+. nov.
+</taxonomicNameLabel>
+</taxonomicName>
+</taxonomicName>
+holotype from Tham Ma Liong, Huaphan; 43-46 
+<taxonomicName _evidence="label" _rankHash="-229998645" genus="Sinopoda" pageId="10" pageNumber="5" rank="species" species="suang">Sinopoda 
+<taxonomicName _evidence="dynamicLexicon" _rankHash="1228935843" authority="spec" authorityName="spec" genus="Sinopoda" pageId="10" pageNumber="5" rank="species" species="suang">suang 
+<taxonomicNameLabel pageId="10" pageNumber="5" rank="species">
+<authority pageId="10" pageNumber="5">spec</authority>
+. nov.
+</taxonomicNameLabel>
+</taxonomicName>
+</taxonomicName>
+holotype from Tham Ho Neung, Huaphan.
+</paragraph>
+</caption>
+</subSection>
+<treatment _generate="added" lastPageId="11" lastPageNumber="6" pageId="10" pageNumber="5">
+<subSubSection _generate="added" pageId="10" pageNumber="5" type="nomenclature">
+<paragraph pageId="10" pageNumber="5" type="mainText">
+<taxonomicName _evidence="label" _rankHash="-229998645" genus="Sinopoda" pageId="10" pageNumber="5" rank="species" species="suang">Sinopoda 
+<taxonomicName _evidence="dynamicLexicon" _rankHash="1228935843" authority="spec" authorityName="spec" genus="Sinopoda" pageId="10" pageNumber="5" rank="species" species="suang">suang 
+<taxonomicNameLabel pageId="10" pageNumber="5" rank="species">
+<authority pageId="10" pageNumber="5">spec</authority>
+. nov.
+</taxonomicNameLabel>
+</taxonomicName>
+</taxonomicName>
+</paragraph>
+</subSubSection>
+<subSubSection _generate="added" pageId="10" pageNumber="5" type="description">
+<paragraph pageId="10" pageNumber="5" type="mainText">Figs 30-32, 43-45, 81</paragraph>
+</subSubSection>
+<subSubSection _generate="added" pageId="10" pageNumber="5" type="materials_examined">
+<paragraph pageId="10" pageNumber="5" type="mainText">
+<materialsCitation collectingDate="2010-01-19" collectingMethod="by hand" collectionCode="SMF" collectorName="H. Steiner, Northern Lao-European Cave Project" country="Laos" elevation="750 m" latitude="20.451529" location="Vieng Thong, Tham Ho Neung" longLatPrecision="1" longitude="103.349724" specimenCode="PJ 3387" specimenCount="1" specimenCountFemale="1" stateProvince="Huaphan Province" typeStatus="Holotype">
+Type material: 
+<typeStatus>Holotype</typeStatus>
+: female, 
+<collectingCountry value="Laos">LAOS</collectingCountry>
+: 
+<collectingRegion>Huaphan Province</collectingRegion>
+: 
+<location country="Laos" latitude="20.451529" longLatPrecision="1" longitude="103.349724" name="Vieng Thong, Tham Ho Neung" stateProvince="Huaphan Province">Vieng Thong, Tham Ho Neung</location>
+, 
+<geoCoordinate direction="north" orientation="latitude" precision="1" value="20.451529">N 20°27'5.5&quot;</geoCoordinate>
+, 
+<geoCoordinate direction="east" orientation="longitude" precision="1" value="103.349724">E 103°20'59.0&quot;</geoCoordinate>
+[
+<quantity metricMagnitude="2" metricUnit="m" metricValue="7.5" unit="m" value="750.0">
+<elevation metricMagnitude="2" metricUnit="m" metricValue="7.5" unit="m" value="750.0">750 m</elevation>
+</quantity>
+altitude], cave in limestone, 
+<collectingMethod>by hand</collectingMethod>
+, 
+<date value="2010-01-19">
+<collectingDate value="2010-01-19">19 January 2010</collectingDate>
+</date>
+, 
+<collectorName>H. Steiner</collectorName>
+leg., field number 015/10, 
+<collectorName>Northern Lao-European Cave Project</collectorName>
+<pageNumber ambiguity="2147483647" fuzzyness="2147483647" pageId="10" pageNumber="5" score="6" value="5">(</pageNumber>
+<collectionCode collectionName="Germany, Frankfurt-am-Main, Forschungsinstitut und Naturmuseum Senckenberg">SMF</collectionCode>
+, 
+<specimenCode>PJ 3387</specimenCode>
+)
+</materialsCitation>
+.
+</paragraph>
+</subSubSection>
+<subSubSection _generate="added" pageId="11" pageNumber="6" type="diagnosis">
+<paragraph pageId="11" pageNumber="6" type="mainText">
+<pageBreakToken pageId="11" pageNumber="48" start="start">Diagnosis</pageBreakToken>
+. Medium-sized 
+<taxonomicName _rankHash="-277020061" pageId="11" pageNumber="6" rank="subFamily" subFamily="Heteropodinae">Heteropodinae</taxonomicName>
+, body length of female: 11.8. Females (Figs 30-32) similar to those of 
+<taxonomicName _evidence="lexicon" _rankHash="-225378666" authority="spec" authorityName="spec" genus="Sinopoda" pageId="11" pageNumber="6" rank="species" species="tham">
+<pageNumber ambiguity="3" fuzzyness="1" pageId="11" pageNumber="6" score="12" value="6">S</pageNumber>
+. tham 
+<taxonomicNameLabel pageId="11" pageNumber="6" rank="species">
+<authority pageId="11" pageNumber="6">spec</authority>
+. nov.
+</taxonomicNameLabel>
+</taxonomicName>
+in having a similar internal duct system with parallel part long, glandular appendages long, narrow and only slightly diverging posteriorly, posterior part wider than anterior part with glandular appendages, but are distinguished from this and other 
+<taxonomicName _evidence="knownData" _evidence_details="genus=Sinopoda, species=spp" _rankHash="-469512698" authority="spp" authorityName="spp" genus="Sinopoda" pageId="11" pageNumber="6" rank="genus">
+Sinopoda 
+<authority pageId="11" pageNumber="6">spp</authority>
+</taxonomicName>
+. by 1. Epigynal pockets almost semicircular, running parallel to posterior margin of lateral lobes, 2. Lateral furrows absent.
+</paragraph>
+</subSubSection>
+<subSubSection _generate="added" pageId="11" pageNumber="6" type="etymology">
+<paragraph pageId="11" pageNumber="6" type="mainText">
+Etymology. The species name is derived from the Lao word 
+<normalizedToken originalValue="“suang”" pageId="11" pageNumber="6">
+&quot;
+<taxonomicName _evidence="dynamicLexicon" _rankHash="109787192" genus="Sinopoda" pageId="11" pageNumber="6" rank="genus">suang</taxonomicName>
+&quot;
+</normalizedToken>
+meaning 
+<normalizedToken originalValue="“hidden”" pageId="11" pageNumber="6">&quot;hidden&quot;</normalizedToken>
+and referring to the hidden lifestyle in caves of 
+<taxonomicName _evidence="lexicon" _rankHash="578139635" genus="Sinopoda" pageId="11" pageNumber="6" rank="genus">Sinopoda</taxonomicName>
+species; term in apposition. Pronunciation note: the vowel 
+<normalizedToken originalValue="“ua”" pageId="11" pageNumber="6">&quot;ua&quot;</normalizedToken>
+of the Lao alphabet is pronounced as the 
+<normalizedToken originalValue="“ür”" pageId="11" pageNumber="6">&quot;uer&quot;</normalizedToken>
+in the German 
+<normalizedToken originalValue="“Tür”" pageId="11" pageNumber="6">&quot;Tuer&quot;</normalizedToken>
+</paragraph>
+</subSubSection>
+<subSubSection _generate="added" pageId="11" pageNumber="6" type="description">
+<paragraph pageId="11" pageNumber="6" type="mainText">
+Description. Female (
+<typeStatus>holotype</typeStatus>
+): Prosoma length 5.0, prosoma width 4.5, anterior width of prosoma 2.7, opisthosoma length 5.3, opisthosoma width 2.8. 
+<collectionCode collectionName="USA, Florida, Gainesville, University of Florida, Florida Museum of Natural History, Allyn Museum">AME</collectionCode>
+0.22, ALE 0.40, PME 0.29, PLE 0.40, AME-AME 0.23, AME-ALE 0.07, PME-PME 0.29, PME-PLE 0.41, AME-PME 0.39, ALE-PLE 0.39, clypeus 
+<collectionCode collectionName="USA, Florida, Gainesville, University of Florida, Florida Museum of Natural History, Allyn Museum">AME</collectionCode>
+0.42, clypeus ALE 0.33. Spination: Palp: 131, 101, 2121, 1014; legs: femur I-III 323, IV 331; patella I-IV 000; tibia I-III 2026, 
+<date value="2126-04">IV 2126</date>
+; metatarsus I-II 0004, 
+<date value="2016-03">III 2016</date>
+, IV 3036. Ventral metatarsus I with few stiff bristles proximally, II with some setae (most of them in one row) restricted to proximal half, III with sparse double row of bristles along entire length, IV with the same as in III but with additional dense distal patch of bristles. Leg formula: 2413. Measurements of palp and legs: Palp 7.4 (2.2, 1.2, 1.7, -, 2.3), leg I 19.0 (5.2, 2.2, 5.3, 4.6, 1.7), leg II 21.9 (6.2, 2.5, 6.2, 5.2, 1.8), leg III 17.9 (5.2, 2.2, 4.7, 4.3, 1.5), leg IV 19.5 (5.7, 2.0, 5.4, 5.5, 1.9). Cheliceral furrow with 3 anterior and 4 posterior teeth, and with ca. 55 denticles in patch close to anterior teeth. Margin of chelicerae close to fang base with one bristle. Palpal claw with 7 teeth. Sternum, ventral coxae and ventral femora covered sparsely with long setae, chelicerae with dense cover of long setae, otherwise with shorter setae.
+</paragraph>
+<paragraph pageId="11" pageNumber="6" type="mainText">Copulatory organ as in diagnosis (Figs 30-32). Epigynal field wider than long, without anterior bands and slit sensilla. Lateral lobes fused and with indistinct broad median incision. Epigynal pockets running from anteriolateral to medio-anterior, where copulatory openings are situated. Lobal septum moderately wide to narrow. Glandular appendages extending in anterior half of internal duct system. Posterior spermathecae bulging laterally and slightly anteriorly, fertilisation ducts arising anterio-medially from the posterior part.</paragraph>
+<paragraph pageId="11" pageNumber="6" type="mainText">Colouration in ethanol (Figs 43-45): Yellowish-brown with dark pattern. Dorsal prosoma yellowish-brown with fovea and cuticular radial pattern reddish-brown, posterior part with characteristic transversal dark band at posterior end of fovea, lateral margins dark especially in posterior half. Sternum, gnathocoxae and ventral coxae pale yellowish-brown, labium reddish- to yellowish-brown. Chelicerae reddish-brown with slightly marked longitudinal bands. Legs uniformly yellowish-brown. Dorsal opisthosoma dark-brown with 4-6 pairs of dark patches, lateral opisthosoma mottled, ventral opisthosoma without pattern. Spinnerets reddish-brown.</paragraph>
+<paragraph pageId="11" pageNumber="6" type="mainText">Male. Unknown.</paragraph>
+</subSubSection>
+<subSubSection _generate="added" pageId="11" pageNumber="6" type="distribution">
+<paragraph pageId="11" pageNumber="6" type="mainText">
+Distribution. Only known from the 
+<typeStatus>type</typeStatus>
+locality (Fig. 81).
+</paragraph>
+</subSubSection>
+</treatment>
+<treatment _generate="added" lastPageId="12" lastPageNumber="7" pageId="11" pageNumber="6">
+<subSubSection _generate="added" pageId="11" pageNumber="6" type="nomenclature">
+<paragraph pageId="11" pageNumber="6" type="mainText">
+<taxonomicName _evidence="label" _rankHash="-1670091919" genus="Sinopoda" pageId="11" pageNumber="6" rank="species" species="peet">Sinopoda 
+<taxonomicName _evidence="dynamicLexicon" _rankHash="-2138589961" authority="spec" authorityName="spec" genus="Sinopoda" pageId="11" pageNumber="6" rank="species" species="peet">peet 
+<taxonomicNameLabel pageId="11" pageNumber="6" rank="species">
+<authority pageId="11" pageNumber="6">spec</authority>
+. nov.
+</taxonomicNameLabel>
+</taxonomicName>
+</taxonomicName>
+</paragraph>
+</subSubSection>
+<subSubSection _generate="added" pageId="11" pageNumber="6" type="description">
+<paragraph pageId="11" pageNumber="6" type="mainText">Figs 33-35, 41-42, 81</paragraph>
+</subSubSection>
+<subSubSection _generate="added" pageId="11" pageNumber="6" type="materials_examined">
+<paragraph pageId="11" pageNumber="6" type="mainText">
+<materialsCitation collectingDate="2008-01-17" collectingMethod="by hand" collectionCode="SMF" collectorName="H. Steiner, Northern Lao-European Cave Project" country="Laos" elevation="820 m" latitude="20.406277" location="Tham Ma Liong" longLatPrecision="0" longitude="104.24969" specimenCode="PJ 3386" specimenCount="1" specimenCountFemale="1" stateProvince="Huaphan Province" typeStatus="Holotype">
+Type material: 
+<typeStatus>Holotype</typeStatus>
+: female, 
+<collectingCountry value="Laos">LAOS</collectingCountry>
+: 
+<collectingRegion>Huaphan Province</collectingRegion>
+: 
+<location country="Laos" latitude="20.406277" longLatPrecision="0" longitude="104.24969" name="Tham Ma Liong" stateProvince="Huaphan Province">Tham Ma Liong</location>
+, 
+<geoCoordinate direction="north" orientation="latitude" precision="0" value="20.406277">N 20°24'22.60&quot;</geoCoordinate>
+, 
+<geoCoordinate direction="east" orientation="longitude" precision="0" value="104.24969">E 104°14'58.90&quot;</geoCoordinate>
+[
+<quantity metricMagnitude="2" metricUnit="m" metricValue="8.2" unit="m" value="820.0">
+<elevation metricMagnitude="2" metricUnit="m" metricValue="8.2" unit="m" value="820.0">820 m</elevation>
+</quantity>
+altitude], cave in limestone, 
+<collectingMethod>by hand</collectingMethod>
+, 
+<date value="2008-01-17">
+<collectingDate value="2008-01-17">17 January 2008</collectingDate>
+</date>
+, 
+<collectorName>H. Steiner</collectorName>
+leg., field number 092/08, 
+<collectorName>Northern Lao-European Cave Project</collectorName>
+(
+<collectionCode collectionName="Germany, Frankfurt-am-Main, Forschungsinstitut und Naturmuseum Senckenberg">SMF</collectionCode>
+, 
+<specimenCode>PJ 3386</specimenCode>
+)
+</materialsCitation>
+.
+</paragraph>
+</subSubSection>
+<subSubSection _generate="added" pageId="11" pageNumber="6" type="diagnosis">
+<paragraph pageId="11" pageNumber="6" type="mainText">
+Diagnosis. Medium-sized 
+<taxonomicName _rankHash="-277020061" pageId="11" pageNumber="6" rank="subFamily" subFamily="Heteropodinae">Heteropodinae</taxonomicName>
+, body length of female: 11.8. Females (Figs 33-35) similar to those of 
+<taxonomicName _evidence="lexicon" _rankHash="168856611" authority="spec" authorityName="spec" genus="Sinopoda" pageId="11" pageNumber="6" rank="species" species="steineri">S. steineri 
+<taxonomicNameLabel pageId="11" pageNumber="6" rank="species">
+<authority pageId="11" pageNumber="6">spec</authority>
+. nov.
+</taxonomicNameLabel>
+</taxonomicName>
+in having a similar internal duct system with parallel part long, glandular appendages long and narrow, posterior part narrower than anterior part with glandular appendages, and to those of 
+<taxonomicName _evidence="lexicon" _rankHash="-225378666" authority="spec" authorityName="spec" genus="Sinopoda" pageId="11" pageNumber="6" rank="species" species="tham">S. tham 
+<taxonomicNameLabel pageId="11" pageNumber="6" rank="species">
+<authority pageId="11" pageNumber="6">spec</authority>
+. nov.
+</taxonomicNameLabel>
+</taxonomicName>
+in having a similar course of epigynal pockets and in lateral furrows sub-parallel, but are distinguished from these and other 
+<taxonomicName _evidence="knownData" _evidence_details="genus=Sinopoda, species=spp" _rankHash="-469512698" authority="spp" authorityName="spp" genus="Sinopoda" pageId="11" pageNumber="6" rank="genus">
+Sinopoda 
+<authority pageId="11" pageNumber="6">spp</authority>
+</taxonomicName>
+. by 1. Posterior part of spermathecae bent strongly, running almost a U-turn (bent at right angle in 
+<taxonomicName _evidence="lexicon" _rankHash="168856611" authority="spec" authorityName="spec" genus="Sinopoda" pageId="11" pageNumber="6" rank="species" species="steineri">S. steineri 
+<taxonomicNameLabel pageId="11" pageNumber="6" rank="species">
+<authority pageId="11" pageNumber="6">spec</authority>
+. nov.
+</taxonomicNameLabel>
+</taxonomicName>
+and 
+<taxonomicName _evidence="lexicon" _rankHash="-225378666" authority="spec" authorityName="spec" genus="Sinopoda" pageId="11" pageNumber="6" rank="species" species="tham">S. tham 
+<taxonomicNameLabel pageId="11" pageNumber="6" rank="species">
+<authority pageId="11" pageNumber="6">spec</authority>
+. nov.
+</taxonomicNameLabel>
+</taxonomicName>
+), 2. Lateral lobes with strongly bilobal posterior margin (not so in other 
+<misspelling pageId="11" pageNumber="6" type="misspelled">Laotian</misspelling>
+<taxonomicName _evidence="lexicon" _rankHash="578139635" genus="Sinopoda" pageId="11" pageNumber="6" rank="genus">Sinopoda</taxonomicName>
+species), 3. Lateral margins of epigynal pockets pointing anterio-laterally (pointing laterally in 
+<taxonomicName _evidence="lexicon" _rankHash="-225378666" authority="spec" authorityName="spec" genus="Sinopoda" pageId="11" pageNumber="6" rank="species" species="tham">S. tham 
+<taxonomicNameLabel pageId="11" pageNumber="6" rank="species">
+<authority pageId="11" pageNumber="6">spec</authority>
+. nov.
+</taxonomicNameLabel>
+</taxonomicName>
+).
+</paragraph>
+</subSubSection>
+<subSubSection _generate="added" pageId="11" pageNumber="6" type="etymology">
+<paragraph pageId="11" pageNumber="6" type="mainText">
+Etymology. The species name is derived from the Lao word &quot;
+<taxonomicName _evidence="dynamicLexicon" _rankHash="3436900" genus="Sinopoda" pageId="11" pageNumber="6" rank="genus">peet</taxonomicName>
+[bpεεt]” meaning 
+<normalizedToken originalValue="“eight”" pageId="11" pageNumber="6">&quot;eight&quot;</normalizedToken>
+and referring to the fact that all eight eyes are developed; term in apposition. Pronunciation note: the long vowel “εε” of the Lao alphabet is pronounced as the 
+<normalizedToken originalValue="“a”" pageId="11" pageNumber="6">&quot;a&quot;</normalizedToken>
+in the English 
+<normalizedToken originalValue="“sad”" pageId="11" pageNumber="6">&quot;sad&quot;</normalizedToken>
+or the 
+<normalizedToken originalValue="“à”" pageId="11" pageNumber="6">&quot;ä&quot;</normalizedToken>
+in the German 
+<normalizedToken originalValue="“gàhnen”" pageId="11" pageNumber="6">&quot;gähnen&quot;</normalizedToken>
+</paragraph>
+</subSubSection>
+<subSubSection _generate="added" pageId="12" pageNumber="7" type="description">
+<paragraph pageId="12" pageNumber="7" type="mainText">
+<pageBreakToken pageId="12" pageNumber="49" start="start">Description</pageBreakToken>
+. Female (
+<typeStatus>holotype</typeStatus>
+<pageNumber ambiguity="2" fuzzyness="1" pageId="12" pageNumber="7" score="8" value="7">)</pageNumber>
+: Prosoma length 4.7, prosoma width 4.2, anterior width of prosoma 2.7, opisthosoma length 7.1, opisthosoma width 4.2. 
+<collectionCode collectionName="USA, Florida, Gainesville, University of Florida, Florida Museum of Natural History, Allyn Museum">AME</collectionCode>
+0.23, ALE 0.42, PME 0.29, PLE 0.42, AME-AME 0.15, AME-ALE 0.07, PME-PME 0.23, PME-PLE 0.39, AME-PME 0.37, ALE-PLE 0.35, clypeus 
+<collectionCode collectionName="USA, Florida, Gainesville, University of Florida, Florida Museum of Natural History, Allyn Museum">AME</collectionCode>
+0.32, clypeus ALE 0.24. Spination: Palp: 131, 101, 2121, 1014; legs: femur I-III 323, IV 331; patella I-IV 000; tibia I-IV 2026; metatarsus I-II 0004, 
+<date value="2016-03">III 2016</date>
+, IV 3036. Ventral metatarsus I with short double row of stiff bristles proximally, II with a slightly longer row also restricted to proximal half, III with dense double row of bristles along entire length and IV with the same as in III but with additional dense distal patch of bristles. Leg formula: 2413. Measurements of palp and legs: Palp 7.3 (2.1, 1.2, 1.6, -, 2.3), leg I 20.7 (5.6, 2.3, 6.1, 5.0, 1.7), leg II 23.1 (6.5, 2.6, 6.8, 5.4, 1.8), leg III 19.5 (5.4, 2.7, 5.5, 4.7, 1.7), leg IV 21.3 (5.7, 2.2, 5.9, 5.6, 1.9). Cheliceral furrow with 3 anterior and 4 posterior teeth, and with ca. 45 denticles in elongated patch close to anterior teeth. Margin of chelicerae close to fang base with one bristle. Palpal claw with 8 teeth. Sternum, ventral coxae and ventral femora covered sparsely with long setae, chelicerae with dense cover of long setae, otherwise with shorter setae.
+</paragraph>
+<paragraph pageId="12" pageNumber="7" type="mainText">Copulatory organ as in diagnosis (Figs 33-35). Epigynal field wider than long, with anterior bands fused with field and one slit sensillum on each side slightly separated from the field. Lateral lobes fused and with broad median incision. Epigynal pockets running from (anterio)-lateral to medio-anterior, where copulatory openings are situated. Lateral furrows situated apart from lateral ends of pockets, almost longitudinally oriented, distinct. Lobal septum moderately wide. Glandular appendages extending barely to posterior half of internal duct system. Posterior spermathecae bulging laterally, fertilisation ducts arising medially from the posterior part.</paragraph>
+<paragraph pageId="12" pageNumber="7" type="mainText">Colouration in ethanol (Figs 43-45): Yellowish-brown. Dorsal prosoma yellowish-brown with fovea and cuticular radial pattern reddish-brown, posterior part with characteristic transversal bright and dark band. Sternum and ventral coxae pale yellowish-brown, gnathocoxae and labium reddish- to yellowish-brown. Chelicerae deep reddish-brown. Legs uniformly yellowish-brown, distally slightly darker. Dorsal opisthosoma with indistinct irregular pattern, ventral opisthosoma almost without pattern.</paragraph>
+<paragraph pageId="12" pageNumber="7" type="mainText">Male. Unknown.</paragraph>
+</subSubSection>
+<subSubSection _generate="added" pageId="12" pageNumber="7" type="distribution">
+<paragraph pageId="12" pageNumber="7" type="mainText">
+Distribution. Only known from the 
+<typeStatus>type</typeStatus>
+locality (Fig. 81).
+</paragraph>
+</subSubSection>
+</treatment>
+<treatment _generate="added" pageId="13" pageNumber="4">
+<subSubSection _generate="added" pageId="13" pageNumber="4" type="nomenclature">
+<paragraph pageId="13" pageNumber="4" type="mainText">
+<taxonomicName _evidence="label" _rankHash="-1670344790" genus="Sinopoda" pageId="13" pageNumber="4" rank="species" species="guap">Sinopoda 
+<taxonomicName _evidence="dynamicLexicon" _rankHash="-305771426" authority="spec" authorityName="spec" genus="Sinopoda" pageId="13" pageNumber="4" rank="species" species="guap">guap 
+<taxonomicNameLabel pageId="13" pageNumber="4" rank="species">
+<authority pageId="13" pageNumber="4">spec</authority>
+. nov.
+</taxonomicNameLabel>
+</taxonomicName>
+</taxonomicName>
+</paragraph>
+</subSubSection>
+<subSubSection _generate="added" pageId="13" pageNumber="4" type="description">
+<paragraph pageId="13" pageNumber="4" type="mainText">Figs 46-54, 81</paragraph>
+</subSubSection>
+<subSubSection _generate="added" pageId="13" pageNumber="4" type="materials_examined">
+<paragraph pageId="13" pageNumber="4" type="mainText">
+<materialsCitation collectingDate="2004-02-16" collectingMethod="by hand" collectionCode="SMF" collectorName="H. Steiner" country="Laos" elevation="260 m" latitude="18.028416" location="Tham Nam Non, 25 km SE Na Hin" longLatPrecision="1" longitude="104.69" specimenCode="PJ 3370" specimenCount="1" specimenCountFemale="1" stateProvince="Khammuan Province" typeStatus="Type">
+<typeStatus>Type</typeStatus>
+material: 
+<typeStatus>Holotype</typeStatus>
+: female, 
+<collectingCountry value="Laos">LAOS</collectingCountry>
+: 
+<collectingRegion>Khammuan Province</collectingRegion>
+: 
+<collectingMunicipality country="Laos" latitude="18.028416" longLatPrecision="1" longitude="104.69" name="Tham Nam Non, 25 km SE Na Hin" stateProvince="Khammuan Province">
+Tham Nam Non, 
+<quantity metricMagnitude="4" metricUnit="m" metricValue="2.5" unit="km" value="25.0">25 km</quantity>
+SE Na Hin
+</collectingMunicipality>
+, 
+<geoCoordinate direction="north" orientation="latitude" precision="1" value="18.028416">N18°01'42.3''</geoCoordinate>
+, 
+<geoCoordinate direction="east" orientation="longitude" precision="1" value="104.69">E104°41'24.0''</geoCoordinate>
+, [
+<quantity metricMagnitude="2" metricUnit="m" metricValue="2.6" unit="m" value="260.0">
+<elevation metricMagnitude="2" metricUnit="m" metricValue="2.6" unit="m" value="260.0">260 m</elevation>
+</quantity>
+altitude]river cave in limestone, 
+<collectingMethod>by hand</collectingMethod>
+, 
+<date value="2004-02-16">
+<collectingDate value="2004-02-16">16 February 2004</collectingDate>
+</date>
+, 
+<collectorName>H. Steiner</collectorName>
+leg., field number 118/04 (
+<collectionCode collectionName="Germany, Frankfurt-am-Main, Forschungsinstitut und Naturmuseum Senckenberg">SMF</collectionCode>
+, 
+<specimenCode>PJ 3370</specimenCode>
+)
+</materialsCitation>
+.
+</paragraph>
+<paragraph pageId="13" pageNumber="4" type="mainText">
+<materialsCitation collectingDate="2004-02-16" collectingMethod="by hand" collectionCode="SMF" collectorName="Lordon &amp; Vacquie" country="Laos" elevation="260 m" latitude="18.028416" location="Tham Nam Non, 25 km SE Na Hin" longLatPrecision="1" longitude="104.69" specimenCode="PJ 3371" specimenCount="1" specimenCountOther="1" stateProvince="Khammuan Province">
+Additional material examined. 1 juvenile, with same data as for holotype except: 
+<date value="1999-02-15">15 February 1999</date>
+, Lordon &amp; Vacquie leg., field number LAO-070 NamNon1 (SMF, PJ 3371)
+</materialsCitation>
+.
+</paragraph>
+</subSubSection>
+<subSubSection _generate="added" pageId="13" pageNumber="4" type="diagnosis">
+<paragraph pageId="13" pageNumber="4" type="mainText">
+Diagnosis. Medium sized 
+<taxonomicName _rankHash="-277020061" pageId="13" pageNumber="4" rank="subFamily" subFamily="Heteropodinae">Heteropodinae</taxonomicName>
+, body length of female: 13.6. Females (Figs 51-54) may be distinguished from other 
+<taxonomicName _evidence="knownData" _evidence_details="genus=Sinopoda, species=spp" _rankHash="-469512698" authority="spp" authorityName="spp" genus="Sinopoda" pageId="13" pageNumber="4" rank="genus">
+Sinopoda 
+<authority pageId="13" pageNumber="4">spp</authority>
+</taxonomicName>
+. by having six small lenses without pigments with 
+<collectionCode collectionName="USA, Florida, Gainesville, University of Florida, Florida Museum of Natural History, Allyn Museum">AME</collectionCode>
+lacking (Fig. 50). Epigynal pockets forming unique circular margin around copulatory atrium. Lateral lobes fused, strongly developed, bulging ventrally and with two distinct posterior lobes. Internal duct system diverging from copulatory openings, only posterior part subparallel.
+</paragraph>
+</subSubSection>
+<subSubSection _generate="added" pageId="13" pageNumber="4" type="etymology">
+<paragraph pageId="13" pageNumber="4" type="mainText">
+Etymology. The species name is derived from the Lao word 
+<normalizedToken originalValue="“guap”" pageId="13" pageNumber="4">
+&quot;
+<taxonomicName _evidence="dynamicLexicon" _rankHash="3184029" genus="Sinopoda" pageId="13" pageNumber="4" rank="genus">guap</taxonomicName>
+&quot;
+</normalizedToken>
+meaning &quot;almost, nearly&quot; and referring to the almost completely reduced eyes; term in apposition. Pronunciation note: the vowel 
+<normalizedToken originalValue="“ua”" pageId="13" pageNumber="4">
+&quot;
+<misspelling pageId="13" pageNumber="4" type="misspelled">ua</misspelling>
+&quot;
+</normalizedToken>
+of the Lao alphabet is pronounced as 
+<normalizedToken originalValue="“ür”" pageId="13" pageNumber="4">&quot;ür&quot;</normalizedToken>
+in the German 
+<normalizedToken originalValue="“Tür”" pageId="13" pageNumber="4">&quot;Tür&quot;</normalizedToken>
+.
+</paragraph>
+</subSubSection>
+<subSubSection _generate="added" pageId="13" pageNumber="4" type="description">
+<paragraph pageId="13" pageNumber="4" type="mainText">
+Description. Female (
+<typeStatus>holotype</typeStatus>
+): Prosoma length 5.8, prosoma width 5.0, anterior width of prosoma 2.8, opisthosoma length 7.8, opisthosoma width 3.4. 
+<collectionCode collectionName="USA, Florida, Gainesville, University of Florida, Florida Museum of Natural History, Allyn Museum">AME</collectionCode>
+including lenses and pigments absent, remnants of lenses of ALE, PME and PLE present (Fig. 50): ALE 0.15, PME 0.03, PLE 0.05. Spination: Palp: 131, 101, 2121, 1114; legs: femur I-III 323, IV 321(211); patella I-IV 000; tibia 
+<date value="1920-01">I 20</date>
+(2)26, II-III 
+<date value="2226-04-21">2226, IV 21</date>
+(0)26; metatarsus I-II 1014, 
+<date value="2014-03">III 2014</date>
+, IV 3026. Ventral leg metatarsus I without distal bristles, II with a single bristle, III with a bunch of short bristles distally, IV with distal bunch of bristles and a double row of bristles along entire length. Leg formula: 2143. Measurements of palp and legs: Palp 10.9 (3.3, 1.4, 2.6, -, 3.6), leg I 32.4 (9.1, 3.0, 9.8, 8.3, 2.2), leg II 35.3 (9.6, 3.5, 11.0, 9.0, 2.2), leg III 31.4 (8.8, 3.2, 9.2, 8.1, 2.1), leg IV 32.2 (8.9, 2.8, 9.3, 8.9, 2.3). Cheliceral furrow with 3 anterior and 
+<pageNumber ambiguity="1" fuzzyness="0" pageId="13" pageNumber="4" score="8" value="4">4</pageNumber>
+posterior teeth, and with restricted patch of denticles close to anterior teeth. Margin of chelicerae 
+<pageBreakToken pageNumber="50" start="start">close</pageBreakToken>
+to fang base with one bristle. Palpal claw with 
+<pageNumber ambiguity="1" fuzzyness="0" pageId="13" pageNumber="4" score="6" value="9">9</pageNumber>
+teeth. Sternum (Fig. 49), ventral coxae and femora, distal legs as well as frontal chelicerae with long setae, otherwise with short setae.
+</paragraph>
+<paragraph pageId="13" pageNumber="4" type="mainText">
+Copulatory organ as in diagnosis (51-54). Epigynal field wider than long, with only short and narrow anterior bands, no slit sensilla could be 
+<misspelling pageId="13" pageNumber="4" type="misspelled">recognised</misspelling>
+. Glandular appendages short, only seen in lateral view, duct system simple, almost linear with one widened chamber in the middle part. Many sclerotised spheres present dorsally along posterior margin of internal duct system.
+</paragraph>
+<paragraph pageId="13" pageNumber="4" type="mainText">Colouration in ethanol (Figs 46-50): Yellowish-brown without pattern. Dorsal prosoma with gnathocoxae, labium and cephalic part slightly darker than thoracic part, fovea marked reddish-brown. Chelicerae strongly reddish-brown.</paragraph>
+<paragraph pageId="13" pageNumber="4" type="mainText">Male. Unknown.</paragraph>
+</subSubSection>
+<subSubSection _generate="added" pageId="13" pageNumber="4" type="distribution">
+<paragraph pageId="13" pageNumber="4" type="mainText">
+Distribution. Only known from the 
+<typeStatus>type</typeStatus>
+locality (Fig. 81).
+</paragraph>
+</subSubSection>
+</treatment>
+<subSection _generate="added" pageId="13" pageNumber="4" type="multiple">
+<caption pageId="13" pageNumber="4">
+<paragraph pageId="13" pageNumber="4" type="caption">
+FIGURES 46-50. 
+<taxonomicName _evidence="label" _rankHash="-1670344790" genus="Sinopoda" pageId="13" pageNumber="4" rank="species" species="guap">Sinopoda 
+<taxonomicName _evidence="dynamicLexicon" _rankHash="-305771426" authority="spec" authorityName="spec" genus="Sinopoda" pageId="13" pageNumber="4" rank="species" species="guap">guap 
+<taxonomicNameLabel pageId="13" pageNumber="4" rank="species">
+<authority pageId="13" pageNumber="4">spec</authority>
+. nov.
+</taxonomicNameLabel>
+</taxonomicName>
+</taxonomicName>
+holotype from Tham Nam Non, Khammuan. 46-48 Habitus (46 dorsal, 47 ventral, 48 frontal); 49 Prosoma, ventral, showing long setae; 50 Prosoma, frontal. Arrows pointing to lenses of ALE, PME and PLE.
+</paragraph>
+</caption>
+</subSection>
+<treatment _generate="added" lastPageId="17" lastPageNumber="12" pageId="13" pageNumber="4">
+<subSubSection _generate="added" pageId="13" pageNumber="4" type="nomenclature">
+<paragraph pageId="13" pageNumber="4" type="mainText">
+<taxonomicName _evidence="knownData" _evidence_details="genus=Sinopoda, species=soong" _rankHash="-230163937" genus="Sinopoda" pageId="13" pageNumber="4" rank="species" species="soong">Sinopoda 
+<taxonomicName _evidence="dynamicLexicon" _rankHash="1570912369" authority="sp" authorityName="sp" genus="Sinopoda" pageId="13" pageNumber="4" rank="species" species="soong">
+soong 
+<authority pageId="13" pageNumber="4">sp</authority>
+</taxonomicName>
+</taxonomicName>
+. nov
+</paragraph>
+</subSubSection>
+<subSubSection _generate="added" pageId="13" pageNumber="4" type="description">
+<paragraph pageId="13" pageNumber="4" type="mainText">Figs 55-60, 66-75, 81</paragraph>
+</subSubSection>
+<subSubSection _generate="added" lastPageId="16" lastPageNumber="-1" pageId="13" pageNumber="4" type="materials_examined">
+<paragraph pageId="13" pageNumber="4" type="mainText">
+<materialsCitation collectingDate="2012-04-29" collectingMethod="by hand" collectionCode="SMF" collectorName="P. Jager" country="Laos" elevation="200 m" latitude="17.549232" location="15 km N Thakek, Tham Pha Yot (&quot; cave of the dropping cliff')" longLatPrecision="0" longitude="104.81257" specimenCode="PJ 3366" specimenCount="1" specimenCountFemale="1" stateProvince="Khammuan Province" typeStatus="Holotype">
+Type material: 
+<typeStatus>Holotype</typeStatus>
+: female, 
+<collectingCountry value="Laos">LAOS</collectingCountry>
+: 
+<collectingRegion>Khammuan Province</collectingRegion>
+: 
+<location country="Laos" latitude="17.549232" longLatPrecision="0" longitude="104.81257" name="15 km N Thakek, Tham Pha Yot (&quot; cave of the dropping cliff')" stateProvince="Khammuan Province">
+<quantity metricMagnitude="4" metricUnit="m" metricValue="1.5" unit="km" value="15.0">15 km</quantity>
+N Thakek, Tham Pha Yot (&quot;cave of the dropping 
+<normalizedToken originalValue="cliff’" pageId="13" pageNumber="4">cliff'</normalizedToken>
+)
+</location>
+, 
+<geoCoordinate direction="north" orientation="latitude" precision="0" value="17.549232">N17°32'57.24&quot;</geoCoordinate>
+, 
+<geoCoordinate direction="east" orientation="longitude" precision="0" value="104.81257">E104°48'45.23&quot;</geoCoordinate>
+[
+<quantity metricMagnitude="2" metricUnit="m" metricValue="2.0" unit="m" value="200.0">
+<elevation metricMagnitude="2" metricUnit="m" metricValue="2.0" unit="m" value="200.0">200 m</elevation>
+</quantity>
+altitude], cave in limestone, aphotic zone, c. 25°C, at day, 
+<collectingMethod>by hand</collectingMethod>
+, 
+<date value="2012-04-29">
+<collectingDate value="2012-04-29">29 April 2012</collectingDate>
+</date>
+, 
+<collectorName _evidence="leading initial">P. Jager</collectorName>
+leg. (
+<collectionCode collectionName="Germany, Frankfurt-am-Main, Forschungsinstitut und Naturmuseum Senckenberg">SMF</collectionCode>
+, 
+<specimenCode>PJ 3366</specimenCode>
+)
+</materialsCitation>
+.
+</paragraph>
+<caption pageId="15" pageNumber="-1">
+<paragraph pageId="15" pageNumber="-1" type="caption">
+<pageBreakToken pageId="15" pageNumber="51" start="start">FIGURES</pageBreakToken>
+51-65. 
+<taxonomicName _evidence="knownData" _evidence_details="genus=Sinopoda, species=spp" _rankHash="-469512698" authority="spp" authorityName="spp" genus="Sinopoda" pageId="15" pageNumber="-1" rank="genus">
+Sinopoda 
+<authority pageId="15" pageNumber="-1">spp</authority>
+</taxonomicName>
+. 
+<typeStatus>holotype</typeStatus>
+females, copulatory organ. 51-54 
+<taxonomicName _evidence="label" _rankHash="-1670344790" genus="Sinopoda" pageId="15" pageNumber="-1" rank="species" species="guap">Sinopoda 
+<taxonomicName _evidence="dynamicLexicon" _rankHash="-305771426" authority="spec" authorityName="spec" genus="Sinopoda" pageId="15" pageNumber="-1" rank="species" species="guap">guap 
+<taxonomicNameLabel pageId="15" pageNumber="-1" rank="species">
+<authority pageId="15" pageNumber="-1">spec</authority>
+. nov.
+</taxonomicNameLabel>
+</taxonomicName>
+</taxonomicName>
+from Tham Nam Non, Khammuan;. 55-60 
+<taxonomicName _evidence="label" _rankHash="-230163937" genus="Sinopoda" pageId="15" pageNumber="-1" rank="species" species="soong">Sinopoda 
+<taxonomicName _evidence="dynamicLexicon" _rankHash="2113268943" authority="spec" authorityName="spec" genus="Sinopoda" pageId="15" pageNumber="-1" rank="species" species="soong">soong 
+<taxonomicNameLabel pageId="15" pageNumber="-1" rank="species">
+<authority pageId="15" pageNumber="-1">spec</authority>
+. nov.
+</taxonomicNameLabel>
+</taxonomicName>
+</taxonomicName>
+from Tham Pha Yot, Khammuan;. 60-65 
+<taxonomicName _evidence="label" _rankHash="1812871886" genus="Sinopoda" pageId="15" pageNumber="-1" rank="species" species="scurion">Sinopoda 
+<taxonomicName _evidence="dynamicLexicon" _rankHash="-31088448" authority="spec" authorityName="spec" genus="Sinopoda" pageId="15" pageNumber="-1" rank="species" species="scurion">scurion 
+<taxonomicNameLabel pageId="15" pageNumber="-1" rank="species">
+<authority pageId="15" pageNumber="-1">spec</authority>
+. nov.
+</taxonomicNameLabel>
+</taxonomicName>
+</taxonomicName>
+from foot cave close to Thakek, Khammuan. (51, 55, 61 epigyne, ventral; 52, 58, 62 vulva, dorsal [58 with membranous sac expanded]; 53, 60, 63, 65 schematic course of internal duct system; 54, 64 right half of internal duct system, lateral; 56 epigyne, frontal; 57 epigyne, lateral; 59 vulva, frontal).
+</paragraph>
+</caption>
+<caption pageId="16" pageNumber="-1">
+<paragraph pageId="16" pageNumber="-1" type="caption">
+<pageBreakToken pageId="16" pageNumber="52" start="start">FIGURES</pageBreakToken>
+66-75. 
+<taxonomicName _evidence="label" _rankHash="-230163937" genus="Sinopoda" pageId="16" pageNumber="-1" rank="species" species="soong">Sinopoda 
+<taxonomicName _evidence="dynamicLexicon" _rankHash="2113268943" authority="spec" authorityName="spec" genus="Sinopoda" pageId="16" pageNumber="-1" rank="species" species="soong">soong 
+<taxonomicNameLabel pageId="16" pageNumber="-1" rank="species">
+<authority pageId="16" pageNumber="-1">spec</authority>
+. nov.
+</taxonomicNameLabel>
+</taxonomicName>
+</taxonomicName>
+<typeStatus>holotype</typeStatus>
+female from Tham Pha Yot, Khammuan. 66-71 Habitus (66-67, 69 dorsal, 68, 71 frontal, 70 ventral); 72 distal metatarsus IV, ventral, showing distal patch of bristles (white arrow) and double row of bristles (black arrow); 73 Prosoma, frontal, showing eye lenses of ALE (arrows); 74 Left chelicera, ventral; 75 Palpal claw.
+</paragraph>
+</caption>
+<paragraph pageId="16" pageNumber="-1" type="mainText">
+<materialsCitation collectingDate="2006-02-24" collectingMethod="by hand" collectionCode="SMF" collectorName="H. Steiner, French Khammuan expedition" country="Laos" elevation="206 m" latitude="17.563665" location="18 km NNW Thakek, Ban Phalem, Tham Koun Don" longLatPrecision="1" longitude="104.871864" specimenCount="1" specimenCountOther="1" stateProvince="Khammuan Province">
+Additional material examined. 
+<collectingCountry value="Laos">LAOS</collectingCountry>
+: 
+<collectingRegion>Khammuan Province</collectingRegion>
+: 1 subadult female, 
+<location country="Laos" latitude="17.563665" longLatPrecision="1" longitude="104.871864" name="18 km NNW Thakek, Ban Phalem, Tham Koun Don" stateProvince="Khammuan Province">
+<quantity metricMagnitude="4" metricUnit="m" metricValue="1.8" unit="km" value="18.0">18 km</quantity>
+NNW Thakek, Ban Phalem, Tham Koun Don
+</location>
+, 
+<geoCoordinate direction="north" orientation="latitude" precision="1" value="17.563665">N 17°33'49.2&quot;</geoCoordinate>
+, 
+<geoCoordinate direction="east" orientation="longitude" precision="1" value="104.871864">E 104°52'18.7&quot;</geoCoordinate>
+E [
+<quantity metricMagnitude="2" metricUnit="m" metricValue="2.06" unit="m" value="206.0">
+<elevation metricMagnitude="2" metricUnit="m" metricValue="2.06" unit="m" value="206.0">206 m</elevation>
+</quantity>
+altitude], in cave, 
+<collectingMethod>by hand</collectingMethod>
+, 
+<date value="2006-02-24">
+<collectingDate value="2006-02-24">24 February 2006</collectingDate>
+</date>
+, 197/06, 
+<collectorName _evidence="leading initial">H. Steiner</collectorName>
+leg., field number 197/06, 
+<collectorName>French Khammuan expedition</collectorName>
+(
+<collectionCode collectionName="Germany, Frankfurt-am-Main, Forschungsinstitut und Naturmuseum Senckenberg">SMF</collectionCode>
+)
+</materialsCitation>
+.
+</paragraph>
+</subSubSection>
+<subSubSection _generate="added" pageId="16" pageNumber="-1" type="diagnosis">
+<paragraph pageId="16" pageNumber="-1" type="mainText">
+Diagnosis. Medium sized 
+<taxonomicName _rankHash="-277020061" pageId="16" pageNumber="-1" rank="subFamily" subFamily="Heteropodinae">Heteropodinae</taxonomicName>
+, body length of female: 15.1. Females may be distinguished from other 
+<taxonomicName _evidence="lexicon" _rankHash="578139635" genus="Sinopoda" pageId="16" pageNumber="-1" rank="genus">Sinopoda</taxonomicName>
+species by having only two eye lenses (
+<collectionCode>ALE</collectionCode>
+: Fig. 73). Vulva similar to that of 
+<taxonomicName _evidence="label" _rankHash="1998039138" genus="Sinopoda" pageId="16" pageNumber="-1" rank="species" species="guap">S. 
+<taxonomicName _evidence="dynamicLexicon" _rankHash="-305771426" authority="spec" authorityName="spec" genus="Sinopoda" pageId="16" pageNumber="-1" rank="species" species="guap">guap 
+<taxonomicNameLabel pageId="16" pageNumber="-1" rank="species">
+<authority pageId="16" pageNumber="-1">spec</authority>
+. nov.
+</taxonomicNameLabel>
+</taxonomicName>
+</taxonomicName>
+, but 
+<taxonomicName _evidence="label" _rankHash="1820588135" genus="Sinopoda" pageId="16" pageNumber="-1" rank="species" species="soong">S. 
+<taxonomicName _evidence="dynamicLexicon" _rankHash="2113268943" authority="spec" authorityName="spec" genus="Sinopoda" pageId="16" pageNumber="-1" rank="species" species="soong">soong 
+<taxonomicNameLabel pageId="16" pageNumber="-1" rank="species">
+<authority pageId="16" pageNumber="-1">spec</authority>
+. nov.
+</taxonomicNameLabel>
+</taxonomicName>
+</taxonomicName>
+is distinguished by the massive roughly quadrangular shape of its epigyne in ventral view (Fig. 55). Epigynal pockets forming two semicircles in anterior view (Fig. 56).
+</paragraph>
+</subSubSection>
+<subSubSection _generate="added" pageId="16" pageNumber="-1" type="etymology">
+<paragraph pageId="16" pageNumber="-1" type="mainText">
+Etymology. The species name is derived from the Lao word 
+<normalizedToken originalValue="“soong”" pageId="16" pageNumber="-1">
+&quot;
+<taxonomicName _evidence="dynamicLexicon" _rankHash="109621900" genus="Sinopoda" pageId="16" pageNumber="-1" rank="genus">soong</taxonomicName>
+&quot;
+</normalizedToken>
+meaning 
+<normalizedToken originalValue="“two”" pageId="16" pageNumber="-1">&quot;two&quot;</normalizedToken>
+and referring to the number of eye lenses; term in apposition.
+</paragraph>
+</subSubSection>
+<subSubSection _generate="added" lastPageId="17" lastPageNumber="12" pageId="16" pageNumber="-1" type="description">
+<paragraph lastPageId="17" lastPageNumber="12" pageId="16" pageNumber="-1" type="mainText">
+Description. Female (
+<typeStatus>holotype</typeStatus>
+): Prosoma length 5.9, prosoma width 4.8, anterior width of prosoma 2.6, opisthosoma length 9.2, opisthosoma width 5.9. Eyes: two lenses without pigments present. ALE 0.09, ALE-ALE 0.61. Spination: Palp: 131, 101, 2121, 1114; legs: femur I-III 323, IV 321; patella I-III 001, IV 000; tibia 
+<date value="2126-01">I 2126</date>
+, II-IV 2226; metatarsus I-II 1014, 
+<date value="2014-03">III 2014</date>
+, IV 3036. Ventral leg metatarsi I-II with c. 10 short bristles distally, metatarsus III-IV with c. 20 bristles (Fig. 72) and additionally with double row of bristles, the latter in III in proximal 
+<pageBreakToken pageId="17" pageNumber="53" start="start">half</pageBreakToken>
+, in IV along entire length (Fig. 
+<pageNumber ambiguity="6" fuzzyness="1" pageId="17" pageNumber="12" score="15" value="12">72</pageNumber>
+). Leg formula: 2413. Measurements of palp and legs: Palp 11.0 (3.4, 1.5, 2.5, -, 3.6), leg I 34.4 (9.3, 3.5, 10.4, 9.1, 2.1), leg II 36.3 (10.3, 3.7, 11.0, 9.2, 2.1), leg III 32.2 (9.1, 3.2, 9.5, 8.4, 2.0), leg IV 34.6 (9.6, 3.2, 9.8, 9.8, 2.1). Cheliceral furrow with 3 anterior and 4 posterior teeth (Fig. 74), and with restricted patch of c. 40 denticles close to anterior teeth. Margin of chelicerae close to fang base with one bristle (Fig. 74). Palpal claw with 9-11 teeth (Fig. 75). Sternum, ventral coxae and femora, distal legs as well as frontal chelicerae with long setae, otherwise with short setae.
+</paragraph>
+<paragraph pageId="17" pageNumber="12" type="mainText">
+Copulatory organ as in diagnosis (Figs 55-60). Epigynal field as wide as long, with two very short anterior bands and one slit sensillum on the left side close to the field. Lateral lobes fused, posteriorly bilobal; bulging extremely ventrally. Glandular appendages short, only parts visible in anterior view. Spermathecae bulging to the dorsal side, fertilisation ducts arising posteriorly, long and narrowly laminar. Sclerotised spheres present dorsally and ventrally at median (fusion) line of lateral lobes. Expanded membranous sac reaching anterior end of duct system, shorter than that of 
+<taxonomicName _evidence="lexicon" _rankHash="-225378666" authority="spec" authorityName="spec" genus="Sinopoda" pageId="17" pageNumber="12" rank="species" species="tham">S. tham 
+<taxonomicNameLabel pageId="17" pageNumber="12" rank="species">
+<authority pageId="17" pageNumber="12">spec</authority>
+. nov.
+</taxonomicNameLabel>
+</taxonomicName>
+, almost as long as wide.
+</paragraph>
+<paragraph pageId="17" pageNumber="12" type="mainText">Colouration in ethanol (Figs 68-71, 73): Uniformly yellowish-brown without pattern. Dorsal prosoma with cephalic part slightly darker than thoracic part, fovea and faint radial pattern slightly darker. Chelicerae reddish brown, labium and parts of gnathocoxae reddish-brown. Opisthosoma uniformly pale grey-brown. For colouration of live specimens see Figs 66-67.</paragraph>
+<paragraph pageId="17" pageNumber="12" type="mainText">Male. Unknown.</paragraph>
+</subSubSection>
+<subSubSection _generate="added" pageId="17" pageNumber="12" type="distribution">
+<paragraph pageId="17" pageNumber="12" type="mainText">
+Distribution. Only known from the 
+<typeStatus>type</typeStatus>
+locality (Fig. 81).
+</paragraph>
+</subSubSection>
+<subSubSection _generate="added" pageId="17" pageNumber="12" type="biology_ecology">
+<paragraph pageId="17" pageNumber="12" type="mainText">
+Biology. Specimens were collected in the aphotic zone of the limestone cave. They were recorded together with specimens of 
+<taxonomicName _evidence="data" _evidence_details="round: 1, genus=Typopeltis, species=magnificus, speciesAuthor=Haupt" _rankHash="1133047141" authority="Haupt" authorityName="Haupt" genus="Typopeltis" pageId="17" pageNumber="12" rank="species" species="magnificus">Typopeltis magnificus Haupt</taxonomicName>
+, 2004 (Arachnida: Uropygi: 
+<taxonomicName _rankHash="-127074188" family="Thelyphonidae" pageId="17" pageNumber="12" rank="family">Thelyphonidae</taxonomicName>
+). In the entrance area (
+<quantity metricMagnitude="1" metricUnit="m" metricValue="10.0" metricValueMax="15.0" metricValueMin="5.0" unit="m" value="100.0" valueMax="150.0" valueMin="50.0">50-150 m</quantity>
+apart) 
+<taxonomicName _evidence="lexicon" _rankHash="-1041657390" genus="Heteropoda" pageId="17" pageNumber="12" rank="species" species="maxima">Heteropoda maxima</taxonomicName>
+was recorded.
+</paragraph>
+</subSubSection>
+</treatment>
+<treatment _generate="added" pageId="17" pageNumber="12">
+<subSubSection _generate="added" pageId="17" pageNumber="12" type="nomenclature">
+<paragraph pageId="17" pageNumber="12" type="mainText">
+<taxonomicName _evidence="label" _rankHash="1812871886" genus="Sinopoda" pageId="17" pageNumber="12" rank="species" species="scurion">Sinopoda 
+<taxonomicName _evidence="dynamicLexicon" _rankHash="-31088448" authority="spec" authorityName="spec" genus="Sinopoda" pageId="17" pageNumber="12" rank="species" species="scurion">scurion 
+<taxonomicNameLabel pageId="17" pageNumber="12" rank="species">
+<authority pageId="17" pageNumber="12">spec</authority>
+. nov.
+</taxonomicNameLabel>
+</taxonomicName>
+</taxonomicName>
+</paragraph>
+</subSubSection>
+<subSubSection _generate="added" pageId="17" pageNumber="12" type="description">
+<paragraph pageId="17" pageNumber="12" type="mainText">Figs 61-65, 76-81</paragraph>
+</subSubSection>
+<subSubSection _generate="added" pageId="17" pageNumber="12" type="materials_examined">
+<paragraph pageId="17" pageNumber="12" type="mainText">
+<materialsCitation collectingDate="2009-11-06" collectingMethod="by hand" collectionCode="SMF" collectorName="P. Jager &amp; S. Bayer" country="Laos" elevation="159 m" latitude="17.448933" location="9.5 km NE Thakek" longLatPrecision="0" longitude="104.874985" specimenCode="PJ 3366" specimenCount="1" specimenCountFemale="1" stateProvince="Khammuan Province" typeStatus="Holotype">
+Type material: 
+<typeStatus>Holotype</typeStatus>
+: female, 
+<collectingCountry value="Laos">LAOS</collectingCountry>
+: 
+<collectingRegion>Khammuan Province</collectingRegion>
+: 
+<location country="Laos" latitude="17.448933" longLatPrecision="0" longitude="104.874985" name="9.5 km NE Thakek" stateProvince="Khammuan Province">
+<quantity metricMagnitude="4" metricUnit="m" metricValue="9.5" unit="km" value="95.0">9.5 km</quantity>
+NE Thakek
+</location>
+, 
+<geoCoordinate direction="north" orientation="latitude" precision="0" value="17.448933">N17°26.936'</geoCoordinate>
+, 
+<geoCoordinate direction="east" orientation="longitude" precision="0" value="104.874985">E104°52.499'</geoCoordinate>
+, 
+<quantity metricMagnitude="2" metricUnit="m" metricValue="1.59" unit="m" value="159.0">
+<elevation metricMagnitude="2" metricUnit="m" metricValue="1.59" unit="m" value="159.0">159 m</elevation>
+</quantity>
+altitude, foot cave in limestone, aphotic zone, c. 25°C, at day, 
+<collectingMethod>by hand</collectingMethod>
+, 
+<date value="2009-11-06">
+<collectingDate value="2009-11-06">6 November 2009</collectingDate>
+</date>
+, 
+<collectorName _evidence="leading initial">
+P. 
+<normalizedToken originalValue="Jäger" pageId="17" pageNumber="12">Jager</normalizedToken>
+&amp; S. Bayer
+</collectorName>
+leg. (
+<collectionCode collectionName="Germany, Frankfurt-am-Main, Forschungsinstitut und Naturmuseum Senckenberg">SMF</collectionCode>
+, 
+<specimenCode>PJ 3366</specimenCode>
+)
+</materialsCitation>
+.
+</paragraph>
+<paragraph pageId="17" pageNumber="12" type="mainText">
+<materialsCitation collectingDate="2009-11-06" collectingMethod="by hand" collectionCode="SMF" collectorName="P. Jager" country="Laos" elevation="159 m" latitude="17.448933" location="9.5 km NE Thakek" longLatPrecision="0" longitude="104.874985" specimenCode="PJ 3367 - 3368" specimenCount="2" specimenCountFemale="2" stateProvince="Khammuan Province" typeStatus="Paratypes">Paratypes: 2 females with same data as for holotype (SMF, PJ 3367-3368)</materialsCitation>
+; 
+<materialsCitation collectingDate="2003-02-28" collectingMethod="by hand" collectionCode="SMF" collectorName="P. Jager" country="Laos" elevation="159 m" latitude="17.448933" location="9.5 km NE Thakek" longLatPrecision="0" longitude="104.874985" specimenCode="PJ 3369" specimenCount="1" specimenCountFemale="1" stateProvince="Khammuan Province" typeStatus="Paratype">
+1 female with same data as for holotype, except: 
+<date value="2003-02-28">
+<collectingDate value="2003-02-28">28 February 2003</collectingDate>
+</date>
+, 
+<collectorName _evidence="leading initial">
+P. 
+<normalizedToken originalValue="Jäger" pageId="17" pageNumber="12">Jager</normalizedToken>
+</collectorName>
+leg. (
+<collectionCode collectionName="Germany, Frankfurt-am-Main, Forschungsinstitut und Naturmuseum Senckenberg">SMF</collectionCode>
+, 
+<specimenCode>PJ 3369</specimenCode>
+)
+</materialsCitation>
+.
+</paragraph>
+<paragraph pageId="17" pageNumber="12" type="mainText">
+<materialsCitation collectingDate="2009-11-06" collectingMethod="by hand" collectionCode="SMF" country="Laos" elevation="159 m" latitude="17.448933" location="9.5 km NE Thakek" longitude="104.874985" specimenCount="24" specimenCountFemale="1" specimenCountOther="23" stateProvince="Khammuan Province">Additional material examined. 1 female (without opisthosoma), 1 subadult male, 7 subadult females, 15 juveniles, all same data as holotype,</materialsCitation>
+<materialsCitation collectingDate="2007-03-01" collectingMethod="by hand" collectorName="P. Jager, F. Steinmetz" country="Laos" elevation="159 m" latitude="17.448933" location="9.5 km NE Thakek" longitude="104.874985" specimenCount="6" specimenCountFemale="1" specimenCountOther="5" stateProvince="Khammuan Province">
+but: 1 female (without opisthosoma), 2 subadult females, 3 juveniles, 
+<date value="2007-03-01">
+<collectingDate value="2007-03-01">1 March 2007</collectingDate>
+</date>
+, 
+<collectorName>
+P. 
+<normalizedToken originalValue="Jäger" pageId="17" pageNumber="12">Jager</normalizedToken>
+</collectorName>
+&amp; 
+<collectorName _evidence="leading initial">F. Steinmetz</collectorName>
+leg
+</materialsCitation>
+.; 
+<materialsCitation collectingDate="2009-11-06" collectionCode="SMF" collectorName="P. Jager, F. Steinmetz" country="Laos" elevation="159 m" latitude="17.448933" location="9.5 km NE Thakek" longitude="104.874985" specimenCode="PJ 3367 - 3368" specimenCount="4" specimenCountOther="4" stateProvince="Khammuan Province">
+3 subadult females, 1 juvenile (
+<collectionCode collectionName="Germany, Frankfurt-am-Main, Forschungsinstitut und Naturmuseum Senckenberg">SMF</collectionCode>
+, together with 
+<specimenCode>PJ 3367-3368</specimenCode>
+)
+</materialsCitation>
+; 
+<materialsCitation collectingDate="2004-10-29" collectorName="P. Jager, V. Vedel" country="Laos" elevation="159 m" latitude="17.448933" location="9.5 km NE Thakek" longitude="104.874985" specimenCode="SD 109" specimenCount="2" specimenCountOther="2" stateProvince="Khammuan Province">
+1 subadult female, 1 juvenile, 
+<date value="2004-10-29">
+<collectingDate value="2004-10-29">29 October 2004</collectingDate>
+</date>
+, 
+<collectorName>
+P. 
+<normalizedToken originalValue="Jäger" pageId="17" pageNumber="12">Jager</normalizedToken>
+</collectorName>
+&amp; 
+<collectorName _evidence="leading initial">V. Vedel</collectorName>
+leg. (
+<specimenCode>SD 109</specimenCode>
+)
+</materialsCitation>
+; 
+<materialsCitation collectingDate="2005-12-08" collectorName="V. Vedel" country="Laos" elevation="159 m" latitude="17.448933" location="9.5 km NE Thakek" longitude="104.874985" specimenCount="2" specimenCountOther="2" stateProvince="Khammuan Province">
+1 subadult male, 1 juvenile, 
+<date value="2005-12-08">
+<collectingDate value="2005-12-08">8 December 2005</collectingDate>
+</date>
+, 
+<collectorName>V. Vedel</collectorName>
+leg
+</materialsCitation>
+.; 
+<materialsCitation collectingDate="2004-10-28" collectingDateMax="2004-10-31" collectingDateMin="2004-10-28" collectorName="P. Jager, V. Vedel" country="Laos" elevation="159 m" latitude="17.448933" location="9.5 km NE Thakek" longitude="104.874985" specimenCount="9" specimenCountOther="9" stateProvince="Khammuan Province">
+1 subadult female, 8 juveniles, 
+<date value="2004-10-28" valueMax="2004-10-31" valueMin="2004-10-28">
+<collectingDate value="2004-10-28" valueMax="2004-10-31" valueMin="2004-10-28">28-31 October 2004</collectingDate>
+</date>
+, 
+<collectorName>
+P. 
+<normalizedToken originalValue="Jäger" pageId="17" pageNumber="12">Jager</normalizedToken>
+</collectorName>
+&amp; 
+<collectorName>V. Vedel</collectorName>
+leg
+</materialsCitation>
+.; 
+<materialsCitation collectingDate="2012-04-25" collectorName="P. Jager" country="Laos" elevation="159 m" latitude="17.448933" location="9.5 km NE Thakek" longitude="104.874985" specimenCount="1" specimenCountOther="1" stateProvince="Khammuan Province">
+1 juvenile (in moult), 
+<date value="2012-04-25">
+<collectingDate value="2012-04-25">25 April 2012</collectingDate>
+</date>
+, 
+<collectorName>
+P. 
+<normalizedToken originalValue="Jäger" pageId="17" pageNumber="12">Jager</normalizedToken>
+</collectorName>
+leg
+</materialsCitation>
+.
+</paragraph>
+</subSubSection>
+<subSubSection _generate="added" pageId="17" pageNumber="12" type="diagnosis">
+<paragraph pageId="17" pageNumber="12" type="mainText">
+Diagnosis. Medium sized 
+<taxonomicName _rankHash="-277020061" pageId="17" pageNumber="12" rank="subFamily" subFamily="Heteropodinae">Heteropodinae</taxonomicName>
+, body length of females: 10.9-13.6. Females (Figs 61-65) may be distinguished from other 
+<taxonomicName _evidence="lexicon" _rankHash="578139635" genus="Sinopoda" pageId="17" pageNumber="12" rank="genus">Sinopoda</taxonomicName>
+species by having no eyes or remnants of lenses (Figs 76-79). Glandular appendages situated ventrally, only visible in lateral view. Epigynal pockets forming a triangle. Spermathecae simple, each approximately two times longer than wide, parallel and touching each other along median line, without lateral bulging, kidney-shaped in lateral view.
+</paragraph>
+</subSubSection>
+<subSubSection _generate="added" pageId="17" pageNumber="12" type="etymology">
+<paragraph pageId="17" pageNumber="12" type="mainText">Etymology. In honour of the Swiss company SCURION® for supporting the systematic research, description of biodiversity and nature conservation in Laos, especially in caves due to their perfectly developed head-lights; noun in genitive case.</paragraph>
+</subSubSection>
+<subSubSection _generate="added" pageId="17" pageNumber="12" type="description">
+<paragraph pageId="17" pageNumber="12" type="mainText">
+Description. Female (
+<typeStatus>holotype</typeStatus>
+): Prosoma length 5.1, prosoma width 4.2, anterior width of prosoma 2.5, opisthosoma length 6.3, opisthosoma width 3.0. Eyes including lenses and pigments absent. Spination: Palp: 131, 101, 2121, 1014; legs: femur I-III 323, IV 321; patella I-IV 000; tibia I-II 2126, 
+<date value="2226-03">III 2226</date>
+, IV 22(1)26; metatarsus I-II 0004, 
+<date value="2014-03">III 2014</date>
+, 
+<date value="2024-04">IV 2024</date>
+. Ventral leg metatarsi with 5-7 short bristles distally, metatarsus IV additionally with double row of bristles along entire length. Leg formula: 2(14)3. Measurements of palp and legs: Palp 10.1 (2.9, 1.4, 2.5, -, 3.3), leg I 30.2 (8.2, 3.1, 9.3, 7.8, 2.1), leg II 32.8 (9.2, 3.3, 10.0, 8.2, 2.1), leg III 28.2 (8.0, 2.9, 8.2, 7.3, 1.8), leg IV 30.2 (8.5, 2.7, 8.5, 8.4, 2.1). Cheliceral furrow with 3 anterior and 4 posterior teeth (Fig. 80), and with 
+<pageBreakToken pageNumber="54" start="start">restricted</pageBreakToken>
+patch of 15-20 denticles close to anterior teeth. Margin of chelicerae close to fang base with one bristle. Palpal claw with 9 teeth. Sternum, ventral coxae and femora, distal legs as well as frontal chelicerae with long setae, otherwise with short setae.
+</paragraph>
+<paragraph pageId="17" pageNumber="12" type="mainText">Copulatory organ as in diagnosis (Figs 61-65). Epigynal field slightly wider than long, with two short anterior bands and one slit sensillum on each side close to the field. Lateral lobes fused, posteriorly bilobal. Epigynal pockets running from posterior-lateral to medio-anterior, where copulatory openings are situated. Glandular appendages short and narrow. Spermathecae bulging to the dorsal side, fertilisation ducts arising posterio-laterally, long and narrowly laminar. Sclerotised spheres present at posterior junction of lateral lobes.</paragraph>
+<paragraph pageId="17" pageNumber="12" type="mainText">Colouration in ethanol (Figs 78-80): Pale yellowish-brown without pattern. Dorsal prosoma with cephalic part slightly darker than thoracic part, fovea marked reddish-brown. Chelicerae, labium and gnathocoxae brown. Opisthosoma ventrally slightly darker. For colouration of live specimens see Figs. 76-77.</paragraph>
+<paragraph pageId="17" pageNumber="12" type="mainText">Male. Unknown.</paragraph>
+<paragraph pageId="17" pageNumber="12" type="mainText">
+Variation. Measurements female 
+<typeStatus>paratypes</typeStatus>
+(n=3): PL 5.1-5.7, PW 4.2-4.8, AW 2.5-2.9, OL 5.8-8.0, OW 3.0-4.0. One juvenile with 1 proximal spine on dorsal metatarsus of palp (as in 
+<typeStatus>holotype</typeStatus>
+of 
+<taxonomicName _evidence="label" _rankHash="1998039138" genus="Sinopoda" pageId="17" pageNumber="12" rank="species" species="guap">S. 
+<taxonomicName _evidence="dynamicLexicon" _rankHash="-305771426" authority="spec" authorityName="spec" genus="Sinopoda" pageId="17" pageNumber="12" rank="species" species="guap">guap 
+<taxonomicNameLabel pageId="17" pageNumber="12" rank="species">
+<authority pageId="17" pageNumber="12">spec</authority>
+. nov.
+</taxonomicNameLabel>
+</taxonomicName>
+</taxonomicName>
+).
+</paragraph>
+</subSubSection>
+<subSubSection _generate="added" pageId="17" pageNumber="12" type="distribution">
+<paragraph pageId="17" pageNumber="12" type="mainText">
+Distribution. Only known from the 
+<typeStatus>type</typeStatus>
+locality (Fig. 81).
+</paragraph>
+</subSubSection>
+<subSubSection _generate="added" pageId="17" pageNumber="12" type="biology_ecology">
+<paragraph pageId="17" pageNumber="12" type="mainText">
+Biology. Spiders have been found only in one large crevice in a limestone massive so far and there exclusively in the aphotic zone. Usually ambushing or moving slowly, they escape quickly when disturbed. However, they are not as fast as species of the genus 
+<taxonomicName _evidence="lexicon" _rankHash="-312569785" genus="Heteropoda" pageId="17" pageNumber="12" rank="genus">Heteropoda</taxonomicName>
+or other 
+<taxonomicName _evidence="lexicon" _rankHash="578139635" genus="Sinopoda" pageId="17" pageNumber="12" rank="genus">Sinopoda</taxonomicName>
+species from China for instance. At the cave entrance 
+<taxonomicName _evidence="lexicon" _rankHash="-1041657390" genus="Heteropoda" pageId="17" pageNumber="12" rank="species" species="maxima">Heteropoda maxima</taxonomicName>
+and 
+<taxonomicName _evidence="lexicon" _rankHash="365771244" authority="Thorell" authorityName="Thorell" genus="Heteropoda" pageId="17" pageNumber="12" rank="species" species="tetrica">
+<pageNumber ambiguity="2147483647" fuzzyness="2147483647" pageId="17" pageNumber="12" score="7" value="13">H</pageNumber>
+. tetrica Thorell
+</taxonomicName>
+, 1897 occured.
+</paragraph>
+</subSubSection>
+</treatment>
+<subSection _generate="added" pageId="19" pageNumber="-1" type="multiple">
+<caption pageId="19" pageNumber="-1">
+<paragraph pageId="19" pageNumber="-1" type="caption">
+FIGURES 76-80. 
+<taxonomicName _evidence="label" _rankHash="1812871886" genus="Sinopoda" pageId="19" pageNumber="-1" rank="species" species="scurion">Sinopoda 
+<taxonomicName _evidence="dynamicLexicon" _rankHash="-31088448" authority="spec" authorityName="spec" genus="Sinopoda" pageId="19" pageNumber="-1" rank="species" species="scurion">scurion 
+<taxonomicNameLabel pageId="19" pageNumber="-1" rank="species">
+<authority pageId="19" pageNumber="-1">spec</authority>
+. nov.
+</taxonomicNameLabel>
+</taxonomicName>
+</taxonomicName>
+holotype female from foot cave close to Thakek, Khammuan. 76-77 Habitus of live specimen. 78-79 Prosoma, frontal. 80 Prosoma, ventral.
+</paragraph>
+</caption>
+</subSection>
+<subSection _generate="added" pageId="19" pageNumber="-1" type="multiple">
+<paragraph pageId="19" pageNumber="-1" type="mainText">Immature specimens</paragraph>
+<paragraph pageId="19" pageNumber="-1" type="mainText">Although the following spiders could not be identified due to their immature stage, they are listed with their localities and with a short description of their eyes. Judging from experiences with adult females and their partly closely situated localities, all immature spiders listed here likely represent species on their own.</paragraph>
+</subSection>
+<subSection _generate="added" pageId="20" pageNumber="11" type="multiple">
+<caption pageId="20" pageNumber="11">
+<paragraph pageId="20" pageNumber="11" type="caption">
+<pageBreakToken pageId="20" pageNumber="55" start="start">FIGURE</pageBreakToken>
+81. Records of 
+<taxonomicName _evidence="knownData" _evidence_details="genus=Sinopoda, species=spp" _rankHash="-469512698" authority="spp" authorityName="spp" genus="Sinopoda" pageId="20" pageNumber="11" rank="genus">
+Sinopoda 
+<authority pageId="20" pageNumber="11">spp</authority>
+</taxonomicName>
+. in Laos.
+</paragraph>
+</caption>
+</subSection>
+<treatment _generate="added" pageId="20" pageNumber="11">
+<subSubSection _generate="added" pageId="20" pageNumber="11" type="nomenclature">
+<paragraph pageId="20" pageNumber="11" type="mainText">
+<taxonomicName _evidence="data" _evidence_details="round: 1, genus=Sinopoda, subSpecies=indet" _rankHash="-1341020302" authority="sp. indet" authorityName="sp. indet" genus="Sinopoda" pageId="20" pageNumber="11" rank="genus">
+Sinopoda 
+<authority pageId="20" pageNumber="11">sp. indet</authority>
+</taxonomicName>
+. A
+</paragraph>
+</subSubSection>
+<subSubSection _generate="added" pageId="20" pageNumber="11" type="description">
+<paragraph pageId="20" pageNumber="11" type="mainText">Fig. 81</paragraph>
+</subSubSection>
+<subSubSection _generate="added" pageId="20" pageNumber="11" type="materials_examined">
+<paragraph pageId="20" pageNumber="11" type="mainText">
+<materialsCitation collectingDate="2000-01-01" collectingMethod="by hand" collectionCode="SMF" collectorName="Th. None V, Deharveng &amp; Bedos" country="Laos" elevation="244 m" latitude="18.946442" location="Vang Vieng, Tham None" longLatPrecision="0" longitude="102.43412" specimenCount="1" specimenCountOther="1" stateProvince="Vientiane Province">
+Material examined. 
+<collectingCountry value="Laos">LAOS</collectingCountry>
+: 
+<collectingRegion>Vientiane Province</collectingRegion>
+: 1 juvenile, 
+<location country="Laos" latitude="18.946442" longLatPrecision="0" longitude="102.43412" name="Vang Vieng, Tham None" stateProvince="Vientiane Province">Vang Vieng, Tham None</location>
+[
+<geoCoordinate direction="north" orientation="latitude" precision="0" value="18.946442">N 18°56'47.19&quot;</geoCoordinate>
+, 
+<geoCoordinate direction="east" orientation="longitude" precision="0" value="102.43412">E 102°26'2.84&quot;</geoCoordinate>
+E, 
+<quantity metricMagnitude="2" metricUnit="m" metricValue="2.44" unit="m" value="244.0">
+<elevation metricMagnitude="2" metricUnit="m" metricValue="2.44" unit="m" value="244.0">244 m</elevation>
+</quantity>
+altitude], in cave, 
+<collectingMethod>by hand</collectingMethod>
+, 
+<date value="2000-01-01">
+<collectingDate value="2000-01-01">1 January 2000</collectingDate>
+</date>
+, 
+<collectorName>Th.None V, Deharveng &amp; Bedos</collectorName>
+leg., field number LAO-111 (
+<collectionCode collectionName="Germany, Frankfurt-am-Main, Forschungsinstitut und Naturmuseum Senckenberg">SMF</collectionCode>
+)
+</materialsCitation>
+.
+</paragraph>
+</subSubSection>
+<subSubSection _generate="added" pageId="20" pageNumber="11" type="discussion">
+<paragraph pageId="20" pageNumber="11" type="mainText">
+The specimen is completely eyeless. Most likely and according to the restricted ranges of other known 
+<taxonomicName _evidence="lexicon" _rankHash="578139635" genus="Sinopoda" pageId="20" pageNumber="11" rank="genus">Sinopoda</taxonomicName>
+species, it might represent a species on its own different from 
+<taxonomicName _evidence="label" _rankHash="1195624214" genus="Sinopoda" pageId="20" pageNumber="11" rank="species" species="scurion">S. 
+<taxonomicName _evidence="dynamicLexicon" _rankHash="-31088448" authority="spec" authorityName="spec" genus="Sinopoda" pageId="20" pageNumber="11" rank="species" species="scurion">scurion 
+<taxonomicNameLabel pageId="20" pageNumber="11" rank="species">
+<authority pageId="20" pageNumber="11">spec</authority>
+. nov.
+</taxonomicNameLabel>
+</taxonomicName>
+</taxonomicName>
+from Khammuan.
+</paragraph>
+</subSubSection>
+</treatment>
+<treatment _generate="added" pageId="20" pageNumber="11">
+<subSubSection _generate="added" pageId="20" pageNumber="11" type="nomenclature">
+<paragraph pageId="20" pageNumber="11" type="mainText">
+<taxonomicName _evidence="data" _evidence_details="round: 1, genus=Sinopoda, subSpecies=indet" _rankHash="-1341020302" authority="sp. indet" authorityName="sp. indet" genus="Sinopoda" pageId="20" pageNumber="11" rank="genus">
+Sinopoda 
+<authority pageId="20" pageNumber="11">sp. indet</authority>
+</taxonomicName>
+. B
+</paragraph>
+</subSubSection>
+<subSubSection _generate="added" pageId="20" pageNumber="11" type="description">
+<paragraph pageId="20" pageNumber="11" type="mainText">Fig. 81</paragraph>
+</subSubSection>
+<subSubSection _generate="added" pageId="20" pageNumber="11" type="materials_examined">
+<paragraph pageId="20" pageNumber="11" type="mainText">
+<materialsCitation collectingDate="2004-02-18" collectingMethod="by hand" collectionCode="SMF" collectorName="H. Steiner" country="Laos" latitude="18.028416" location="Tham Nam Non, 25 km SE Na Hin" longLatPrecision="1" longitude="104.69" specimenCount="1" specimenCountOther="1" stateProvince="Khammuan Province">
+Material examined. 
+<collectingCountry value="Laos">LAOS</collectingCountry>
+: 
+<collectingRegion>Khammuan Province</collectingRegion>
+: 1 subadult female, 
+<location country="Laos" latitude="18.028416" longLatPrecision="1" longitude="104.69" name="Tham Nam Non, 25 km SE Na Hin" stateProvince="Khammuan Province">
+Tham Nam Non, 
+<quantity metricMagnitude="4" metricUnit="m" metricValue="2.5" unit="km" value="25.0">25 km</quantity>
+SE Na Hin
+</location>
+, 
+<geoCoordinate direction="north" orientation="latitude" precision="1" value="18.028416">N18°01'42.3''</geoCoordinate>
+, 
+<geoCoordinate direction="east" orientation="longitude" precision="1" value="104.69">E104°41'24.0''</geoCoordinate>
+, river cave in limestone, 
+<collectingMethod>by hand</collectingMethod>
+, 
+<date value="2004-02-18">
+<collectingDate value="2004-02-18">18 February 2004</collectingDate>
+</date>
+, 
+<collectorName _evidence="leading initial">H. Steiner</collectorName>
+leg., field number 109/04 (
+<collectionCode collectionName="Germany, Frankfurt-am-Main, Forschungsinstitut und Naturmuseum Senckenberg">SMF</collectionCode>
+)
+</materialsCitation>
+.
+</paragraph>
+</subSubSection>
+<subSubSection _generate="added" pageId="20" pageNumber="11" type="discussion">
+<paragraph pageId="20" pageNumber="11" type="mainText">
+All eight eyes are present including pigments. However, the size of all eyes is strongly reduced especially in the tiny PME. From this character 
+<pageNumber ambiguity="1" fuzzyness="0" pageId="20" pageNumber="11" score="6" value="11">it</pageNumber>
+seems unlikely that it is conspecific with 
+<taxonomicName _evidence="label" _rankHash="1998039138" genus="Sinopoda" pageId="20" pageNumber="11" rank="species" species="guap">S. 
+<taxonomicName _evidence="dynamicLexicon" _rankHash="-305771426" authority="spec" authorityName="spec" genus="Sinopoda" pageId="20" pageNumber="11" rank="species" species="guap">guap 
+<taxonomicNameLabel pageId="20" pageNumber="11" rank="species">
+<authority pageId="20" pageNumber="11">spec</authority>
+. nov.
+</taxonomicNameLabel>
+</taxonomicName>
+</taxonomicName>
+recorded from the same cave.
+</paragraph>
+</subSubSection>
+</treatment>
+<treatment _generate="added" pageId="21" pageNumber="-1">
+<subSubSection _generate="added" pageId="21" pageNumber="-1" type="nomenclature">
+<paragraph pageId="21" pageNumber="-1" type="mainText">
+<taxonomicName _evidence="data" _evidence_details="round: 1, genus=Sinopoda, subSpecies=indet" _rankHash="-1341020302" authority="sp. indet" authorityName="sp. indet" genus="Sinopoda" pageId="21" pageNumber="-1" rank="genus">
+<pageBreakToken pageId="21" pageNumber="56" start="start">Sinopoda</pageBreakToken>
+<authority pageId="21" pageNumber="-1">sp. indet</authority>
+</taxonomicName>
+. C
+</paragraph>
+</subSubSection>
+<subSubSection _generate="added" pageId="21" pageNumber="-1" type="description">
+<paragraph pageId="21" pageNumber="-1" type="mainText">Fig. 81</paragraph>
+</subSubSection>
+<subSubSection _generate="added" pageId="21" pageNumber="-1" type="materials_examined">
+<paragraph pageId="21" pageNumber="-1" type="mainText">
+<materialsCitation collectingDate="2003-02-24" collectingMethod="by hand" collectionCode="SMF" collectorName="H. Steiner" country="Laos" elevation="180 m" latitude="17.62415" location="Gnommalat, Ban Thatot, Grotte &quot; Marie Cassan &quot;" longLatPrecision="0" longitude="105.14682" specimenCount="1" specimenCountOther="1" stateProvince="Khammuan Province">
+Material examined. 
+<collectingCountry value="Laos">LAOS</collectingCountry>
+: 
+<collectingRegion>Khammuan Province</collectingRegion>
+: 1 subadult male, 
+<location country="Laos" latitude="17.62415" longLatPrecision="0" longitude="105.14682" name="Gnommalat, Ban Thatot, Grotte &quot; Marie Cassan &quot;" stateProvince="Khammuan Province">Gnommalat, Ban Thatot, Grotte &quot;Marie Cassan &quot;</location>
+, 
+<geoCoordinate direction="north" orientation="latitude" precision="0" value="17.62415">N17°37.449'</geoCoordinate>
+, 
+<geoCoordinate direction="east" orientation="longitude" precision="0" value="105.14682">E105°08.809'</geoCoordinate>
+, [
+<quantity metricMagnitude="2" metricUnit="m" metricValue="1.8" unit="m" value="180.0">
+<elevation metricMagnitude="2" metricUnit="m" metricValue="1.8" unit="m" value="180.0">180m</elevation>
+</quantity>
+altitude], cave in limestone, 
+<collectingMethod>by hand</collectingMethod>
+, 
+<date value="2003-02-24">
+<collectingDate value="2003-02-24">24 February 2003</collectingDate>
+</date>
+, 
+<collectorName>H. Steiner</collectorName>
+leg., field number 022/03 (
+<collectionCode collectionName="Germany, Frankfurt-am-Main, Forschungsinstitut und Naturmuseum Senckenberg">SMF</collectionCode>
+)
+</materialsCitation>
+.
+</paragraph>
+</subSubSection>
+<subSubSection _generate="added" pageId="21" pageNumber="-1" type="discussion">
+<paragraph pageId="21" pageNumber="-1" type="mainText">
+All eight eyes are present including remnants of pigments, thus it is most similar to 
+<taxonomicName _evidence="data" _evidence_details="round: 1, genus=Sinopoda, subSpecies=indet" _rankHash="-1341020302" authority="sp. indet" authorityName="sp. indet" genus="Sinopoda" pageId="21" pageNumber="-1" rank="genus">
+Sinopoda 
+<authority pageId="21" pageNumber="-1">sp. indet</authority>
+</taxonomicName>
+. B.
+</paragraph>
+</subSubSection>
+</treatment>
+<treatment _generate="added" pageId="21" pageNumber="-1">
+<subSubSection _generate="added" pageId="21" pageNumber="-1" type="nomenclature">
+<paragraph pageId="21" pageNumber="-1" type="mainText">
+<taxonomicName _evidence="data" _evidence_details="round: 1, genus=Sinopoda, subSpecies=indet" _rankHash="-1341020302" authority="sp. indet" authorityName="sp. indet" genus="Sinopoda" pageId="21" pageNumber="-1" rank="genus">
+Sinopoda 
+<authority pageId="21" pageNumber="-1">sp. indet</authority>
+</taxonomicName>
+. D
+</paragraph>
+</subSubSection>
+<subSubSection _generate="added" pageId="21" pageNumber="-1" type="description">
+<paragraph pageId="21" pageNumber="-1" type="mainText">Fig. 81</paragraph>
+</subSubSection>
+<subSubSection _generate="added" pageId="21" pageNumber="-1" type="materials_examined">
+<paragraph pageId="21" pageNumber="-1" type="mainText">
+<materialsCitation collectingDate="2012-04-26" collectingMethod="by hand" collectionCode="SMF" collectorName="P. Jaeger, L. Nophaseud" country="Laos" elevation="200 m" latitude="17.633234" location="Gnommalat, Ban Thatot, Tham Kamouk" longLatPrecision="0" longitude="105.11992" specimenCode="SD 1203" specimenCount="1" specimenCountOther="1" stateProvince="Khammuan Province">
+Material examined. 
+<collectingCountry value="Laos">LAOS</collectingCountry>
+: 
+<collectingRegion>Khammuan Province</collectingRegion>
+: 1 juvenile, 
+<location country="Laos" latitude="17.633234" longLatPrecision="0" longitude="105.11992" name="Gnommalat, Ban Thatot, Tham Kamouk" stateProvince="Khammuan Province">Gnommalat, Ban Thatot, Tham Kamouk</location>
+, entrance: 
+<geoCoordinate direction="north" orientation="latitude" precision="0" value="17.631617">N 17°37.897'</geoCoordinate>
+,
+<geoCoordinate direction="east" orientation="longitude" precision="0" value="105.12503">E 105°07.502'</geoCoordinate>
+, exit: 
+<geoCoordinate direction="north" orientation="latitude" precision="0" value="17.633234">N 17°37.994'</geoCoordinate>
+,
+<geoCoordinate direction="east" orientation="longitude" precision="0" value="105.11992">E 105°07.195'</geoCoordinate>
+, [
+<quantity metricMagnitude="2" metricUnit="m" metricValue="2.0" unit="m" value="200.0">
+<elevation metricMagnitude="2" metricUnit="m" metricValue="2.0" unit="m" value="200.0">200m</elevation>
+</quantity>
+altitude], cave in limestone, river passage close to ceiling break down, aphotic zone, c. 25°C, at day, 
+<collectingMethod>by hand</collectingMethod>
+, 
+<date value="2012-04-26">
+<collectingDate value="2012-04-26">26 April 2012</collectingDate>
+</date>
+, 
+<collectorName>
+P. 
+<normalizedToken originalValue="Jäger" pageId="21" pageNumber="-1">Jaeger</normalizedToken>
+</collectorName>
+&amp; 
+<collectorName _evidence="leading initial">L. Nophaseud</collectorName>
+leg. (
+<collectionCode collectionName="Germany, Frankfurt-am-Main, Forschungsinstitut und Naturmuseum Senckenberg">SMF</collectionCode>
+, 
+<specimenCode>SD 1203</specimenCode>
+)
+</materialsCitation>
+.
+</paragraph>
+</subSubSection>
+<subSubSection _generate="added" pageId="21" pageNumber="-1" type="discussion">
+<paragraph pageId="21" pageNumber="-1" type="mainText">Four small eye lenses without pigments are present. Most likely the single juvenile belongs to a yet undescribed species.</paragraph>
+</subSubSection>
+</treatment>
+<subSection _generate="added" pageId="21" pageNumber="-1" type="acknowledgments">
+<paragraph pageId="21" pageNumber="-1" type="mainText">Acknowledgements</paragraph>
+<paragraph pageId="21" pageNumber="-1" type="mainText">I am grateful to colleagues who collected spiders in caves and sent this material for examination: H. Steiner (Hanau), W. Zillig (Samerberg), L. Deharveng (Paris), and A. Bedos (Paris). At the same time I acknowledge the support for these latter colleagues by their respective expedition teams: French Khammuan Expedition team and Northern Lao-European Cave Project. Moreover, I thank persons accompanying me during my travels and helped with collecting spiders: L. Nophaseud (Vientiane), S. Kamphousao (Vientaine), S. Bayer (SMF), V. Vedel (Kourou), and F. Steinmetz (Berlin). Prof. B. Praxaysombath (National University, Vientiane) supported my projects in Laos. H. Steiner (Hanau) and D. Brandis (Kiel) provided useful comments and literature references. Thanks also to two anonymous referees and C. Muster for improving my manuscript.</paragraph>
+</subSection>
+<subSection _generate="added" lastPageId="22" pageId="21" pageNumber="-1" type="reference_group">
+<paragraph pageId="21" pageNumber="-1" type="mainText">References</paragraph>
+<paragraph pageId="21" pageNumber="-1" type="bibRef">
+<bibRef author="Bayer, S. &amp; Jäger, P." journalOrPublisher="Zootaxa" pageId="21" pageNumber="-1" pagination="1 - 23" part="2143" title="Heteropoda species from limestone caves in Laos (Araneae: Sparassidae: Heteropodinae)" type="journal article" year="2009">
+<author fns="I" npo="LF" pageId="21" pageNumber="-1">Bayer, S.</author>
+&amp; 
+<author fns="I" npo="LF" pageId="21" pageNumber="-1">
+<normalizedToken originalValue="Jäger" pageId="21" pageNumber="-1">Jäger</normalizedToken>
+, P.
+</author>
+(
+<year pageId="21" pageNumber="-1">2009</year>
+) 
+<title pageId="21" pageNumber="-1">Heteropoda species from limestone caves in Laos (Araneae: Sparassidae: Heteropodinae)</title>
+. 
+<journalOrPublisher pageId="21" pageNumber="-1">Zootaxa</journalOrPublisher>
+, 
+<part pageId="21" pageNumber="-1" type="volume">2143</part>
+, 
+<pagination pageId="21" pageNumber="-1" type="pagination">1-23</pagination>
+.
+</bibRef>
+</paragraph>
+<paragraph pageId="21" pageNumber="-1" type="bibRef">
+<bibRef author="Davies, V. T." journalOrPublisher="Memoirs of the Queensland Museum" pageId="21" pageNumber="-1" pagination="75 - 122" part="35" title="The huntsman spiders Heteropoda Latreille and Yiinthi gen. nov. (Araneae: Heteropodidae) in Australia" type="journal article" year="1994">
+<author fns="I" npo="LF" pageId="21" pageNumber="-1">Davies, V.T.</author>
+(
+<year pageId="21" pageNumber="-1">1994</year>
+) 
+<title jopScore="0.23907344" pageId="21" pageNumber="-1">The huntsman spiders Heteropoda Latreille and Yiinthi gen. nov. (Araneae: Heteropodidae) in Australia</title>
+. 
+<journalOrPublisher jopScore="1.0151956" pageId="21" pageNumber="-1">Memoirs of the Queensland Museum</journalOrPublisher>
+, 
+<part pageId="21" pageNumber="-1" type="volume">35</part>
+, 
+<pagination pageId="21" pageNumber="-1" type="pagination">75-122</pagination>
+.
+</bibRef>
+</paragraph>
+<paragraph pageId="21" pageNumber="-1" type="bibRef">
+<bibRef author="Davies, V. T." editor="Dreybrodt, J." journalOrPublisher="Berliner Hohlenkundliche Berichte" pageId="21" pageNumber="-1" pagination="1 - 105" part="16" title="The unknown North of Laos (Karst and caves of the provinces Luang Phrabang and Luang Nam Tha)" type="journal article" year="2005">
+<editor pageId="21" pageNumber="-1">Dreybrodt, J.</editor>
+&amp; 
+<editor pageId="21" pageNumber="-1">Laumanns, M.</editor>
+(eds.) (
+<year pageId="21" pageNumber="-1">2005</year>
+) 
+<title jopScore="0.09741578" pageId="21" pageNumber="-1">The unknown North of Laos (Karst and caves of the provinces Luang Phrabang and Luang Nam Tha)</title>
+. 
+<journalOrPublisher jopScore="1.1261579" pageId="21" pageNumber="-1">Berliner Hohlenkundliche Berichte</journalOrPublisher>
+, 
+<part pageId="21" pageNumber="-1" type="volume">16</part>
+, 
+<pagination pageId="21" pageNumber="-1" type="pagination">1-105</pagination>
++ appendix.
+</bibRef>
+</paragraph>
+<paragraph pageId="21" pageNumber="-1" type="bibRef">
+<bibRef author="Davies, V. T." editor="Dreybrodt, J." journalOrPublisher="Berliner Hohlenkundliche Berichte" pageId="21" pageNumber="-1" pagination="1 - 143" part="32" title="The unknown North of Laos (Part 2 - 2006 - 2008: Karst and caves of the provinces Luang Phrabang, Luang Nam Tha, Xieng Khouang, Houaphan and Vientiane)" type="journal article" year="2008">
+<editor pageId="21" pageNumber="-1">Dreybrodt, J.</editor>
+&amp; 
+<editor pageId="21" pageNumber="-1">Laumanns, M.</editor>
+(eds.) (
+<year pageId="21" pageNumber="-1">2008</year>
+) 
+<title pageId="21" pageNumber="-1">The unknown North of Laos (Part 2 - 2006-2008: Karst and caves of the provinces Luang Phrabang, Luang Nam Tha, Xieng Khouang, Houaphan and Vientiane)</title>
+. 
+<journalOrPublisher pageId="21" pageNumber="-1">Berliner Hohlenkundliche Berichte</journalOrPublisher>
+, 
+<part pageId="21" pageNumber="-1" type="volume">32</part>
+, 
+<pagination pageId="21" pageNumber="-1" type="pagination">1-143</pagination>
+.
+</bibRef>
+</paragraph>
+<paragraph pageId="21" pageNumber="-1" type="bibRef">
+<bibRef author="Davies, V. T." editor="Dreybrodt, J." journalOrPublisher="Berliner Hohlenkundliche Berichte" pageId="21" pageNumber="-1" pagination="1 - 94" part="38" title="The unknown North of Laos (Part 3 - 2009 - 2010: Karst and caves of the provinces Houaphan and Oudomxay)" type="journal article" year="2010">
+<editor pageId="21" pageNumber="-1">Dreybrodt, J.</editor>
+&amp; 
+<editor pageId="21" pageNumber="-1">Laumanns, M.</editor>
+(eds.) (
+<year pageId="21" pageNumber="-1">2010</year>
+) 
+<title jopScore="0.112883896" pageId="21" pageNumber="-1">The unknown North of Laos (Part 3 - 2009-2010: Karst and caves of the provinces Houaphan and Oudomxay)</title>
+. 
+<journalOrPublisher jopScore="1.141626" pageId="21" pageNumber="-1">Berliner Hohlenkundliche Berichte</journalOrPublisher>
+, 
+<part pageId="21" pageNumber="-1" type="volume">38</part>
+, 
+<pagination pageId="21" pageNumber="-1" type="pagination">1-94</pagination>
++ appendix.
+</bibRef>
+</paragraph>
+<paragraph pageId="21" pageNumber="-1" type="bibRef">
+<bibRef author="Davies, V. T." editor="Dreybrodt, J." journalOrPublisher="Berliner Hohlenkundliche Berichte" pageId="21" pageNumber="-1" pagination="1 - 50" part="44" title="The unknown North of Laos (Part 4 - 2011: Karst and caves of the provinces Oudomxay and Sayabouli)" type="journal article" year="2011">
+<editor pageId="21" pageNumber="-1">Dreybrodt, J.</editor>
+&amp; 
+<editor pageId="21" pageNumber="-1">Laumanns, M.</editor>
+(eds.) (
+<year pageId="21" pageNumber="-1">2011</year>
+) 
+<title jopScore="0.112883896" pageId="21" pageNumber="-1">The unknown North of Laos (Part 4 - 2011: Karst and caves of the provinces Oudomxay and Sayabouli)</title>
+. 
+<journalOrPublisher jopScore="1.141626" pageId="21" pageNumber="-1">Berliner Hohlenkundliche Berichte</journalOrPublisher>
+, 
+<part pageId="21" pageNumber="-1" type="volume">44</part>
+, 
+<pagination pageId="21" pageNumber="-1" type="pagination">1-50</pagination>
++ appendix.
+</bibRef>
+</paragraph>
+<paragraph pageId="21" pageNumber="-1" type="bibRef">
+<bibRef author="Jäger, P." journalOrPublisher="Newsletter of the British Arachnological Society" pageId="21" pageNumber="-1" pagination="4" part="82" title="An old-fashioned way to catch sparassid spiders" type="journal article" year="1998">
+<author fns="I" npo="LF" pageId="21" pageNumber="-1">
+<normalizedToken originalValue="Jäger" pageId="21" pageNumber="-1">Jäger</normalizedToken>
+, P.
+</author>
+(
+<year pageId="21" pageNumber="-1">1998</year>
+) 
+<title pageId="21" pageNumber="-1">An old-fashioned way to catch sparassid spiders</title>
+. 
+<journalOrPublisher pageId="21" pageNumber="-1">Newsletter of the British Arachnological Society</journalOrPublisher>
+, 
+<part pageId="21" pageNumber="-1" type="volume">82</part>
+, 
+<pagination pageId="21" pageNumber="-1" type="pagination">4</pagination>
+.
+</bibRef>
+</paragraph>
+<paragraph pageId="21" pageNumber="-1" type="bibRef">
+<bibRef author="Jäger, P." journalOrPublisher="The Journal of Arachnology" pageId="21" pageNumber="-1" pagination="19 - 24" part="27" title="Sinopoda, a new genus of Heteropodinae (Araneae, Sparassidae) from Asia" type="journal article" year="1999">
+<author fns="I" npo="LF" pageId="21" pageNumber="-1">
+<normalizedToken originalValue="Jäger" pageId="21" pageNumber="-1">Jäger</normalizedToken>
+, P.
+</author>
+(
+<year pageId="21" pageNumber="-1">1999</year>
+) 
+<title jopScore="0.20187527" pageId="21" pageNumber="-1">Sinopoda, a new genus of Heteropodinae (Araneae, Sparassidae) from Asia</title>
+. 
+<journalOrPublisher jopScore="1.0639012" pageId="21" pageNumber="-1">The Journal of Arachnology</journalOrPublisher>
+, 
+<part pageId="21" pageNumber="-1" type="volume">27</part>
+, 
+<pagination pageId="21" pageNumber="-1" type="pagination">19-24</pagination>
+.
+</bibRef>
+</paragraph>
+<paragraph pageId="21" pageNumber="-1" type="bibRef">
+<bibRef author="Jäger, P" journalOrPublisher="Courier Forschungsinstitut Senckenberg" pageId="21" pageNumber="-1" pagination="1 - 136" part="232" title="Diversitat der Riesenkrabbenspinnen im Himalaya. Ueber eine Radiation zweier Gattungen in den Schneetropen (Araneae: Sparassidae: Heteropodinae)" type="journal article" year="2001">
+<author fns="I" npo="LF" pageId="21" pageNumber="-1">
+<normalizedToken originalValue="Jäger" pageId="21" pageNumber="-1">Jäger</normalizedToken>
+, P
+</author>
+(
+<year pageId="21" pageNumber="-1">2001</year>
+) 
+<title jopScore="0.08003328" pageId="21" pageNumber="-1">
+<normalizedToken originalValue="Diversitàt" pageId="21" pageNumber="-1">Diversitat</normalizedToken>
+der Riesenkrabbenspinnen im Himalaya. 
+<normalizedToken originalValue="Über" pageId="21" pageNumber="-1">Ueber</normalizedToken>
+eine Radiation zweier Gattungen in den Schneetropen (Araneae: Sparassidae: Heteropodinae)
+</title>
+. 
+<journalOrPublisher jopScore="1.4436697" pageId="21" pageNumber="-1">Courier Forschungsinstitut Senckenberg</journalOrPublisher>
+, 
+<part pageId="21" pageNumber="-1" type="volume">232</part>
+, 
+<pagination pageId="21" pageNumber="-1" type="pagination">1-136</pagination>
+.
+</bibRef>
+</paragraph>
+<paragraph pageId="21" pageNumber="-1" type="bibRef">
+<bibRef author="Jäger, P" editor="Logunov, D. V." journalOrPublisher="KMK Scientifik Press, Moscow" pageId="21" pageNumber="-1" pagination="107 - 125" title="A study of the character ' palpal claw' in the spider subfamily Heteropodinae (Araneae: Sparassidae)" type="journal article" volumeTitle="Proceedings of the 21 st European Colloquium of Arachnology, St. - Petersburg, 4 - 9 August 2003" year="2004">
+<author fns="I" npo="LF" pageId="21" pageNumber="-1">
+<normalizedToken originalValue="Jäger" pageId="21" pageNumber="-1">Jäger</normalizedToken>
+, P
+</author>
+(
+<year pageId="21" pageNumber="-1">2004</year>
+) 
+<title jopScore="0.124002494" pageId="21" pageNumber="-1">
+A study of the character 'palpal 
+<normalizedToken originalValue="claw’" pageId="21" pageNumber="-1">claw'</normalizedToken>
+in the spider subfamily Heteropodinae (Araneae: Sparassidae)
+</title>
+. In: 
+<editor pageId="21" pageNumber="-1">Logunov, D.V.</editor>
+&amp; 
+<editor pageId="21" pageNumber="-1">Penney, D.</editor>
+(Eds), 
+<volumeTitle pageId="21" pageNumber="-1">Proceedings of the 21st European Colloquium of Arachnology, St.-Petersburg, 4-9 August2003</volumeTitle>
+. 
+<journalOrPublisher jopScore="5.7761154" pageId="21" pageNumber="-1">KMK Scientifik Press, Moscow</journalOrPublisher>
+, pp. 
+<pagination pageId="21" pageNumber="-1" type="pagination">107-125</pagination>
+.
+</bibRef>
+</paragraph>
+<paragraph pageId="21" pageNumber="-1" type="bibRef">
+<bibRef author="Kottelat, M. &amp; Steiner, H." journalOrPublisher="Ichthyological Exploration of Freshwaters" pageId="21" pageNumber="-1" pagination="289 - 384" part="21" title="Bangana musaei, a new cave fish from central Laos (Teleostei: Cyprinidae)" type="journal article" year="2010">
+<author fns="I" npo="LF" pageId="21" pageNumber="-1">Kottelat, M.</author>
+&amp; 
+<author fns="I" npo="LF" pageId="21" pageNumber="-1">Steiner, H.</author>
+(
+<year pageId="21" pageNumber="-1">2010</year>
+) 
+<title jopScore="0.2677735" pageId="21" pageNumber="-1">Bangana musaei, a new cave fish from central Laos (Teleostei: Cyprinidae)</title>
+. 
+<journalOrPublisher jopScore="1.5350698" pageId="21" pageNumber="-1">Ichthyological Exploration of Freshwaters</journalOrPublisher>
+, 
+<part pageId="21" pageNumber="-1" type="volume">21</part>
+, 
+<pagination pageId="21" pageNumber="-1" type="pagination">289-384</pagination>
+.
+</bibRef>
+</paragraph>
+<paragraph pageId="22" pageNumber="-1" type="bibRef">
+<bibRef author="Liu, J. &amp; Li S. &amp; Jäger, P." journalOrPublisher="Zootaxa" pageId="22" pageNumber="-1" pagination="1 - 20" part="1857" title="New cave-dwelling Sinopoda spiders (Araneae: Sparassidae) from southern China" type="journal article" year="2008">
+<author fns="I" npo="LF" pageId="22" pageNumber="-1">
+<pageBreakToken pageId="22" pageNumber="57" start="start">Liu</pageBreakToken>
+, J.
+</author>
+, 
+<author fns="I" npo="LF" pageId="22" pageNumber="-1">Li S.</author>
+&amp; 
+<author fns="I" npo="LF" pageId="22" pageNumber="-1">
+<normalizedToken originalValue="Jäger" pageId="22" pageNumber="-1">Jäger</normalizedToken>
+, P.
+</author>
+(
+<year pageId="22" pageNumber="-1">2008</year>
+) 
+<title pageId="22" pageNumber="-1">New cave-dwelling Sinopoda spiders (Araneae: Sparassidae) from southern China</title>
+. 
+<journalOrPublisher pageId="22" pageNumber="-1">Zootaxa</journalOrPublisher>
+, 
+<part pageId="22" pageNumber="-1" type="volume">1857</part>
+, 
+<pagination pageId="22" pageNumber="-1" type="pagination">1-20</pagination>
+.
+</bibRef>
+</paragraph>
+<paragraph pageId="22" pageNumber="-1" type="bibRef">
+<bibRef author="Lourenco, W. R." journalOrPublisher="Comptes Rendues Biologies" pageId="22" pageNumber="-1" pagination="770 - 777" part="330" title="First record of the family Pseudochactidae Gromov (Chelicerata, Scorpiones) from Laos and new biogeographic evidence of a Pangaean palaeodistribution" type="journal article" year="2007">
+<author fns="I" npo="LF" pageId="22" pageNumber="-1">
+<normalizedToken originalValue="Lourenço" pageId="22" pageNumber="-1">Lourenco</normalizedToken>
+, W.R.
+</author>
+(
+<year pageId="22" pageNumber="-1">2007</year>
+) 
+<title pageId="22" pageNumber="-1">First record of the family Pseudochactidae Gromov (Chelicerata, Scorpiones) from Laos and new biogeographic evidence of a Pangaean palaeodistribution</title>
+. 
+<journalOrPublisher pageId="22" pageNumber="-1">Comptes Rendues Biologies</journalOrPublisher>
+, 
+<part pageId="22" pageNumber="-1" type="volume">330</part>
+, 
+<pagination pageId="22" pageNumber="-1" type="pagination">770-777</pagination>
+.
+</bibRef>
+</paragraph>
+<paragraph pageId="22" pageNumber="-1" type="bibRef">
+<bibRef author="Lourenco, W. R." journalOrPublisher="Comptes Rendues Biologies" pageId="22" pageNumber="-1" pagination="232 - 237" part="335" title="The genus Vietbocap Lourenco &amp; Pham, 2010 (Scopriones: Pseudochactidae); proposition of a new subfamily and description of a new species from Laos" type="journal article" year="2012">
+<author fns="I" npo="LF" pageId="22" pageNumber="-1">
+<normalizedToken originalValue="Lourenço" pageId="22" pageNumber="-1">Lourenco</normalizedToken>
+, W.R.
+</author>
+(
+<year pageId="22" pageNumber="-1">2012</year>
+) 
+<title jopScore="0.27173874" pageId="22" pageNumber="-1">
+The genus Vietbocap 
+<normalizedToken originalValue="Lourenço" pageId="22" pageNumber="-1">Lourenco</normalizedToken>
+&amp; Pham, 2010 (Scopriones: Pseudochactidae); proposition of a new subfamily and description of a new species from Laos
+</title>
+. 
+<journalOrPublisher jopScore="1.4161832" pageId="22" pageNumber="-1">Comptes Rendues Biologies</journalOrPublisher>
+, 
+<part pageId="22" pageNumber="-1" type="volume">335</part>
+, 
+<pagination pageId="22" pageNumber="-1" type="pagination">232-237</pagination>
+.
+</bibRef>
+</paragraph>
+<paragraph pageId="22" pageNumber="-1" type="bibRef">
+<bibRef author="Moradmand, M. &amp; Jäger, P." journalOrPublisher="Zootaxa" pageId="22" pageNumber="-1" pagination="46 - 62" part="2910" title="A review on the huntsman spider genus Spariolenus Simon 1880 (Araneae: Sparassidae: Heteropodinae) in Iran, with description of four new species" type="journal article" year="2011">
+<author fns="I" npo="LF" pageId="22" pageNumber="-1">Moradmand, M.</author>
+&amp; 
+<author fns="I" npo="LF" pageId="22" pageNumber="-1">
+<normalizedToken originalValue="Jäger" pageId="22" pageNumber="-1">Jäger</normalizedToken>
+, P.
+</author>
+(
+<year pageId="22" pageNumber="-1">2011</year>
+) 
+<title jopScore="0.11945154" pageId="22" pageNumber="-1">A review on the huntsman spider genus Spariolenus Simon 1880 (Araneae: Sparassidae: Heteropodinae) in Iran, with description of four new species</title>
+. 
+<journalOrPublisher jopScore="3.085438" pageId="22" pageNumber="-1">Zootaxa</journalOrPublisher>
+, 
+<part pageId="22" pageNumber="-1" type="volume">2910</part>
+, 
+<pagination pageId="22" pageNumber="-1" type="pagination">46-62</pagination>
+.
+</bibRef>
+</paragraph>
+<paragraph pageId="22" pageNumber="-1" type="bibRef">
+<bibRef author="Paquin, P &amp; Duperre, N." journalOrPublisher="Zootaxa" pageId="22" pageNumber="-1" pagination="1 - 67" part="2002" title="A first step towards the revision of Cicurina: redescription of type specimens of 60 troglobitic species of the subgenus Cicurella (Araneae: Dictynidae), and a first visual assessment of their distribution" type="journal article" year="2009">
+<author fns="I" kam="kam" npo="LF" pageId="22" pageNumber="-1">Paquin, P</author>
+&amp; 
+<author fns="I" kam="kam" npo="LF" pageId="22" pageNumber="-1">
+<normalizedToken originalValue="Dupérré" pageId="22" pageNumber="-1">Duperre</normalizedToken>
+, N.
+</author>
+(
+<year pageId="22" pageNumber="-1">2009</year>
+) 
+<title jopScore="0.13434468" pageId="22" pageNumber="-1">A first step towards the revision of Cicurina: redescription of type specimens of 60 troglobitic species of the subgenus Cicurella (Araneae: Dictynidae), and a first visual assessment of their distribution</title>
+. 
+<journalOrPublisher jopScore="3.100331" pageId="22" pageNumber="-1">Zootaxa</journalOrPublisher>
+, 
+<part pageId="22" pageNumber="-1" type="volume">2002</part>
+, 
+<pagination pageId="22" pageNumber="-1" type="pagination">1-67</pagination>
+.
+</bibRef>
+</paragraph>
+<paragraph pageId="22" pageNumber="-1" type="bibRef">
+<bibRef author="Platnick, N. I." journalOrPublisher="American Museum of Natural History" pageId="22" pageNumber="-1" publicationUrl="http://research.amnh.org/iz/spiders/catalog/INTRO1.html" title="The world spider catalog, version 12.5" type="journal article" year="2012">
+<author fns="I" npo="LF" pageId="22" pageNumber="-1">Platnick, N.I.</author>
+(
+<year pageId="22" pageNumber="-1">2012</year>
+) 
+<title jopScore="0.12749563" pageId="22" pageNumber="-1">The world spider catalog, version 12.5</title>
+. 
+<journalOrPublisher pageId="22" pageNumber="-1">American Museum of Natural History</journalOrPublisher>
+. Available from: 
+<publicationUrl pageId="22" pageNumber="-1">http://research.amnh.org/iz/spiders/catalog/INTRO1.html</publicationUrl>
+[accessed 24 March 2012).
+</bibRef>
+</paragraph>
+<paragraph pageId="22" pageNumber="-1" type="bibRef">
+<bibRef author="Yeo, D. Y. C &amp; Ng, P. K. L." journalOrPublisher="Journal of Crustacean Biology" pageId="22" pageNumber="-1" pagination="908 - 916" part="19" title="Erebusa calobates, new genus, new species, a trogolobiotic crab (Brachyura: Potamidae) from Laos" type="journal article" year="1999">
+<author fns="I" npo="LF" pageId="22" pageNumber="-1">Yeo, D.Y.C</author>
+&amp; 
+<author pageId="22" pageNumber="-1">Ng, P.K.L.</author>
+(
+<year pageId="22" pageNumber="-1">1999</year>
+) 
+<title jopScore="0.3357233" pageId="22" pageNumber="-1" type="_" typeScore="36">Erebusa calobates, new genus, new species, a trogolobiotic crab (Brachyura: Potamidae) from Laos</title>
+. 
+<journalOrPublisher jopScore="1.1780971" pageId="22" pageNumber="-1">Journal of Crustacean Biology</journalOrPublisher>
+.; 
+<part pageId="22" pageNumber="-1" type="volume">19</part>
+, 
+<pagination pageId="22" pageNumber="-1" type="pagination">908-916</pagination>
+.
+</bibRef>
+</paragraph>
+<paragraph pageId="22" pageNumber="-1" type="bibRef">
+<bibRef author="Zhang, B. S. &amp; Zhu, M. S. &amp; Jäger, P &amp; Song, D. X." journalOrPublisher="Arthropoda Selecta" pageId="22" pageNumber="-1" pagination="251 - 253" part="15" title="A new species of the genus Sinopoda from China (Aranei: Sparassidae: Heteropodinae)" type="journal article" year="2007">
+<author fns="I" npo="LF" pageId="22" pageNumber="-1">Zhang, B.S.</author>
+, 
+<author fns="I" npo="LF" pageId="22" pageNumber="-1">Zhu, M.S.</author>
+, 
+<author fns="I" npo="LF" pageId="22" pageNumber="-1">
+<normalizedToken originalValue="Jäger" pageId="22" pageNumber="-1">Jäger</normalizedToken>
+, P
+</author>
+&amp; 
+<author fns="I" npo="LF" pageId="22" pageNumber="-1">Song, D.X.</author>
+(
+<year pageId="22" pageNumber="-1">2007</year>
+) 
+<title pageId="22" pageNumber="-1">A new species of the genus Sinopoda from China (Aranei: Sparassidae: Heteropodinae)</title>
+. 
+<journalOrPublisher pageId="22" pageNumber="-1">Arthropoda Selecta</journalOrPublisher>
+, 
+<part pageId="22" pageNumber="-1" type="volume">15</part>
+, 
+<pagination pageId="22" pageNumber="-1" type="pagination">251-253</pagination>
+.
+</bibRef>
+</paragraph>
+</subSection>
+</document>

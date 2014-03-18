@@ -1,0 +1,2565 @@
+﻿<document ENCODING="UTF-8" ID-HNS-Pub="zt02730p043" docAuthor="Peter Jäger &amp; Pakawin Dankittipakul" docDate="2010" docOrigin="Zootaxa 2730" docSource="http://www.mapress.com/zootaxa/2010/f/zt02730p043.pdf" docTitle="Clubionidae from Laos and Thailand (Arachnida: Araneae)" lastPageNumber="43" pageNumber="23">
+<mods:mods>
+<mods:titleInfo>
+<mods:title>Clubionidae from Laos and Thailand (Arachnida: Araneae)</mods:title>
+</mods:titleInfo>
+<mods:name type="personal">
+<mods:role>
+<mods:roleTerm>Author</mods:roleTerm>
+</mods:role>
+<mods:namePart>Peter Jäger</mods:namePart>
+</mods:name>
+<mods:name type="personal">
+<mods:role>
+<mods:roleTerm>Author</mods:roleTerm>
+</mods:role>
+<mods:namePart>Pakawin Dankittipakul</mods:namePart>
+</mods:name>
+<mods:typeOfResource>text</mods:typeOfResource>
+<mods:relatedItem type="host">
+<mods:titleInfo>
+<mods:title>Zootaxa</mods:title>
+</mods:titleInfo>
+<mods:part>
+<mods:date>2010</mods:date>
+<mods:detail type="volume">
+<mods:number>2730</mods:number>
+</mods:detail>
+<mods:extent unit="page">
+<mods:start>23</mods:start>
+<mods:end>43</mods:end>
+</mods:extent>
+</mods:part>
+</mods:relatedItem>
+<mods:location>
+<mods:url>http://www.mapress.com/zootaxa/2010/f/zt02730p043.pdf</mods:url>
+</mods:location>
+<mods:classification>journal article</mods:classification>
+<mods:identifier type="HNS-Pub">zt02730p043</mods:identifier>
+</mods:mods>
+<subSection _generate="added" pageId="0" pageNumber="23" type="multiple">
+<paragraph pageId="0" pageNumber="23" type="mainText">
+<pageBreakToken pageId="0" pageNumber="23" start="start">
+<taxonomicName _rankHash="73923825" family="Clubionidae" pageId="0" pageNumber="23" rank="family">Clubionidae</taxonomicName>
+</pageBreakToken>
+from Laos and Thailand (Arachnida: 
+<taxonomicName _evidence="lexicon" _rankHash="914879051" higher="Araneae" pageId="0" pageNumber="23" rank="higher">Araneae</taxonomicName>
+)
+</paragraph>
+<paragraph pageId="0" pageNumber="23" type="mainText">
+PETER 
+<normalizedToken originalValue="JÄGER" pageId="0" pageNumber="23">JAEGER</normalizedToken>
+<sup pageId="0" pageNumber="23">1</sup>
+&amp; PAKAWIN DANKITTIPAKUL 
+<sup pageId="0" pageNumber="23">2</sup>
+</paragraph>
+<paragraph pageId="0" pageNumber="23" type="mainText">
+<sup pageId="0" pageNumber="23">1</sup>
+Arachnology, Research Institute Senckenberg, Senckenberganlage 25, D-60325 Frankfurt am Main, Germany; peter jaeger@senckenberg. de, corresponding author
+</paragraph>
+<paragraph pageId="0" pageNumber="23" type="mainText">
+<sup pageId="0" pageNumber="23">2</sup>
+Department of Biology, Faculty of Science, ChiangMai University, ChiangMai 50200, Thailand; 
+<a href="mailto:pakawin@gmail.com" pageId="0" pageNumber="23">pakawin@gmail.com</a>
+</paragraph>
+</subSection>
+<subSection _generate="retained" pageId="0" pageNumber="23" type="abstract">
+<paragraph pageId="0" pageNumber="23" type="heading">Abstract</paragraph>
+<paragraph pageId="0" pageNumber="23" type="mainText">
+<taxonomicName _rankHash="73923825" family="Clubionidae" pageId="0" pageNumber="23" rank="family">Clubionidae</taxonomicName>
+collected in Laos and Thailand were investigated. Seven 
+<taxonomicNameLabel pageId="0" pageNumber="23" rank="species">new species</taxonomicNameLabel>
+are described: 
+<taxonomicName _evidence="label" _rankHash="-2012733086" genus="Clubiona" pageId="0" pageNumber="23" rank="species" species="kai">Clubiona 
+<taxonomicName _evidence="dynamicLexicon" _rankHash="729806312" authority="spec" authorityName="spec" genus="Clubiona" pageId="0" pageNumber="23" rank="species" species="kai">kai 
+<taxonomicNameLabel pageId="0" pageNumber="23" rank="species">
+<authority pageId="0" pageNumber="23">spec</authority>
+. nov.
+</taxonomicNameLabel>
+</taxonomicName>
+</taxonomicName>
+(male: Laos, Luang Prabang Prov.), 
+<taxonomicName _evidence="label" _rankHash="2029813755" genus="Clubiona" pageId="0" pageNumber="23" rank="species" species="lala">Clubiona 
+<taxonomicName _evidence="dynamicLexicon" _rankHash="-506408847" authority="spec" authorityName="spec" genus="Clubiona" pageId="0" pageNumber="23" rank="species" species="lala">lala 
+<taxonomicNameLabel pageId="0" pageNumber="23" rank="species">
+<authority pageId="0" pageNumber="23">spec</authority>
+. nov.
+</taxonomicNameLabel>
+</taxonomicName>
+</taxonomicName>
+(female: Laos, Luang Nam Tha Prov.), 
+<taxonomicName _evidence="label" _rankHash="764423476" genus="Clubiona" pageId="0" pageNumber="23" rank="species" species="maipai">Clubiona 
+<taxonomicName _evidence="dynamicLexicon" _rankHash="-131377512" authority="spec" authorityName="spec" genus="Clubiona" pageId="0" pageNumber="23" rank="species" species="maipai">maipai 
+<taxonomicNameLabel pageId="0" pageNumber="23" rank="species">
+<authority pageId="0" pageNumber="23">spec</authority>
+. nov.
+</taxonomicNameLabel>
+</taxonomicName>
+</taxonomicName>
+(male: Thailand, Mae Hong Son Prov.), 
+<taxonomicName _evidence="label" _rankHash="-2012732454" genus="Clubiona" pageId="0" pageNumber="23" rank="species" species="kuu">Clubiona 
+<taxonomicName _evidence="dynamicLexicon" _rankHash="1643560560" authority="spec" authorityName="spec" genus="Clubiona" pageId="0" pageNumber="23" rank="species" species="kuu">kuu 
+<taxonomicNameLabel pageId="0" pageNumber="23" rank="species">
+<authority pageId="0" pageNumber="23">spec</authority>
+. nov.
+</taxonomicNameLabel>
+</taxonomicName>
+</taxonomicName>
+(male: Laos, Luang Prabang Prov.), 
+<taxonomicName _evidence="label" _rankHash="1040615248" genus="Clubiona" pageId="0" pageNumber="23" rank="species" species="vukomi">Clubiona 
+<taxonomicName _evidence="dynamicLexicon" _rankHash="-2056983044" authority="spec" authorityName="spec" genus="Clubiona" pageId="0" pageNumber="23" rank="species" species="vukomi">vukomi 
+<taxonomicNameLabel pageId="0" pageNumber="23" rank="species">
+<authority pageId="0" pageNumber="23">spec</authority>
+. nov.
+</taxonomicNameLabel>
+</taxonomicName>
+</taxonomicName>
+(male: Laos, Luang Nam Tha Prov.), 
+<taxonomicName _evidence="lexicon" _rankHash="1945086602" genus="Malamatidia" pageId="0" pageNumber="23" rank="genus">Malamatidia</taxonomicName>
+zu 
+<taxonomicNameLabel pageId="0" pageNumber="23" rank="species">spec. nov.</taxonomicNameLabel>
+(male: Laos, Luang Prabang Prov.) and 
+<taxonomicName _evidence="lexicon" _rankHash="157375428" authority="spec" authorityName="spec" genus="Malamatidia" pageId="0" pageNumber="23" rank="species" species="christae">Malamatidia christae 
+<taxonomicNameLabel pageId="0" pageNumber="23" rank="species">
+<authority pageId="0" pageNumber="23">spec</authority>
+. nov.
+</taxonomicNameLabel>
+</taxonomicName>
+(female: Laos, Luang Nam Tha Prov.). The genus 
+<taxonomicName _evidence="lexicon" _rankHash="1945086602" genus="Malamatidia" pageId="0" pageNumber="23" rank="genus">Malamatidia</taxonomicName>
+, previously known from Sumatra, Sarawak, the Malaysian peninsular, Kalimantan, and Sulawesi is recorded from Laos (Luang Nam Tha Province) as northernmost distribution locality and is re-diagnosed. 
+<taxonomicName _evidence="lexicon" _rankHash="-1356068481" genus="Cheiracanthium" pageId="0" pageNumber="23" rank="species" species="insulanum">Cheiracanthium insulanum</taxonomicName>
+(Thorell, 1878), 
+<taxonomicName _evidence="lexicon" _rankHash="1842544614" authority="Boesenberg" authorityName="Boesenberg" genus="Cheiracanthium" pageId="0" pageNumber="23" rank="species" species="unicum">
+Cheiracanthium unicum 
+<normalizedToken originalValue="Bösenberg" pageId="0" pageNumber="23">Boesenberg</normalizedToken>
+</taxonomicName>
+and Strand, 1906, 
+<taxonomicName _evidence="lexicon" _rankHash="526761711" authority="Dankittipakul" authorityName="Dankittipakul" genus="Clubiona" pageId="0" pageNumber="23" rank="species" species="abnormis">Clubiona abnormis Dankittipakul</taxonomicName>
+, 2008, 
+<taxonomicName _evidence="lexicon" _rankHash="-2046324416" authority="O. Pickard-Cambridge" authorityName="O. Pickard-Cambridge" genus="Clubiona" pageId="0" pageNumber="23" rank="species" species="filicata">Clubiona filicata O. Pickard-Cambridge</taxonomicName>
+, 1874, 
+<taxonomicName _evidence="lexicon" _rankHash="1899556377" authority="Thorell" authorityName="Thorell" genus="Clubiona" pageId="0" pageNumber="23" rank="species" species="melanothele">Clubiona melanothele Thorell</taxonomicName>
+, 1895 are recorded for the first time from Laos. 
+<taxonomicName _evidence="lexicon" _rankHash="-1356068481" genus="Cheiracanthium" pageId="0" pageNumber="23" rank="species" species="insulanum">Cheiracanthium insulanum</taxonomicName>
+, 
+<taxonomicName _evidence="lexicon" _rankHash="1762904856" genus="Clubiona" pageId="0" pageNumber="23" rank="species" species="abnormis">Clubiona abnormis</taxonomicName>
+, and 
+<taxonomicName _evidence="lexicon" _rankHash="662892395" genus="Clubiona" pageId="0" pageNumber="23" rank="species" species="melanothele">Clubiona melanothele</taxonomicName>
+are additionally illustrated. A map with all records is provided.
+</paragraph>
+<paragraph pageId="0" pageNumber="23" type="mainText">Key words: Taxonomy, first descriptions, first records, sac spiders, Southeast Asia, Greater Mekong region</paragraph>
+</subSection>
+<subSection _generate="retained" pageId="0" pageNumber="23" type="introduction">
+<paragraph pageId="0" pageNumber="23" type="heading">Introduction</paragraph>
+<paragraph pageId="0" pageNumber="23" type="mainText">
+Southeast Asian spiders received more attention after Deeleman-Reinhold (2001) and Murphy and Murphy (2000) published comprehensive books on spiders from this region. However, from recent collecting in Laos and Thailand between 2003 and 2010 it seems that most of the diversity is still unknown. Laos and Thailand belong to the IndoBurmesian Hotspot (Carr &amp; Langhammer 2010) and harbour a far higher diversity than known today. This becomes apparent when considering recent publications and descriptions of new taxa (e.g., Dankittipakul &amp; Singtripop 2008a, b; 
+<normalizedToken originalValue="Jäger" pageId="0" pageNumber="23">Jaeger</normalizedToken>
+2007; 
+<normalizedToken originalValue="Jäger" pageId="0" pageNumber="23">Jaeger</normalizedToken>
+&amp; Praxaysombath 2009).
+</paragraph>
+<paragraph pageId="0" pageNumber="23" type="mainText">
+<taxonomicName _rankHash="73923825" family="Clubionidae" pageId="0" pageNumber="23" rank="family">Clubionidae</taxonomicName>
+are abundant in subtropical and tropical habitats, especially in the foliage of shrubs and trees. Deeleman-Reinhold (2001) gave a thorough analysis on the 
+<taxonomicName _rankHash="73923825" family="Clubionidae" pageId="0" pageNumber="23" rank="family">Clubionidae</taxonomicName>
+from Southeast Asia, including a key to subfamilies. Further publications consulted are by Biswas and Raychaudhuri (1996) from Bangladesh, by Dankittipakul and Singtripop (2008a, b) from Thailand, by Ono (2009) from Vietnam, by Chen and Huang (2004) and Zhang and Yin (1999) from Taiwan and China, respectively, and by Chrysanthus (1967) from New Guinea. A synopsis of Japanese species was recently published by Ono and Hayashi (2009).
+</paragraph>
+<paragraph pageId="0" pageNumber="23" type="mainText">
+The present paper describes seven 
+<taxonomicNameLabel pageId="0" pageNumber="23" rank="species">new species</taxonomicNameLabel>
+from the Greater 
+<misspelling corrections="[Ljava.lang.String;@250705" language="German" pageId="0" pageNumber="23" type="outOfLanguage">Mekong</misspelling>
+region and lists new records of 
+<taxonomicName _rankHash="73923825" family="Clubionidae" pageId="0" pageNumber="23" rank="family">Clubionidae</taxonomicName>
+collected in Laos and Thailand.
+</paragraph>
+</subSection>
+<subSection _generate="retained" lastPageId="1" lastPageNumber="24" pageId="0" pageNumber="23" type="materials_methods">
+<paragraph pageId="0" pageNumber="23" type="heading">Material and Methods</paragraph>
+<paragraph pageId="0" pageNumber="23" type="mainText">
+Spiders were preserved in 70% denatured ethanol. Female copulatory organs were dissected and observed in 96% lactic acid, if appropriate, i.e. if membranous structures were not affected by this procedure. Numbers within localities (Lxx) refer to numbering in 
+<normalizedToken originalValue="Jäger" pageId="0" pageNumber="23">Jaeger</normalizedToken>
+(2007: L1-L36) and 
+<normalizedToken originalValue="Jäger" pageId="0" pageNumber="23">Jaeger</normalizedToken>
+and Praxaysombath (2009: L37-L78; submitted: L79-L103).
+</paragraph>
+<paragraph pageId="1" pageNumber="24" type="mainText">
+<pageBreakToken pageId="1" pageNumber="24" start="start">Spination</pageBreakToken>
+of legs is given in two different styles: in palps three digits refer to prolateral, dorsal and retrolateral spines, no matter in which position, four digits add in the last position number of ventral spines. Leg spines of the prolateral, dorsal, retrolateral and ventral side of each leg segment are noted separately and three positions are distinguished: proximal, medial, and distal. In some cases spines cannot unambiguously be assigned to one position. Some stronger bristles on dorsal patellae (d101) may be counted as thin spines in other publications (e.g., Deeleman-Reinhold 2001). These are not listed in the spination pattern in the descriptions below. A schematic course of the internal duct system is explained by the following symbols: open circle-copulatory orifice, T-glandular appendages, arrow-fertilisation duct in direction of the uterus externus.
+</paragraph>
+<paragraph pageId="1" pageNumber="24" type="heading">Abbreviations:</paragraph>
+<paragraph pageId="1" pageNumber="24" type="mainText">ALE-anterior lateral eyes</paragraph>
+<paragraph pageId="1" pageNumber="24" type="mainText">AME-anterior median eyes</paragraph>
+<paragraph pageId="1" pageNumber="24" type="mainText">AW-anterior width of dorsal shield of prosoma</paragraph>
+<paragraph pageId="1" pageNumber="24" type="mainText">d-dorsal</paragraph>
+<paragraph pageId="1" pageNumber="24" type="mainText">OL-opisthosoma length</paragraph>
+<paragraph pageId="1" pageNumber="24" type="mainText">OW-opisthosoma width</paragraph>
+<paragraph pageId="1" pageNumber="24" type="mainText">p-prolateral</paragraph>
+<paragraph pageId="1" pageNumber="24" type="mainText">PL-prosoma length</paragraph>
+<paragraph pageId="1" pageNumber="24" type="mainText">PLE-posterior lateral eyes</paragraph>
+<paragraph pageId="1" pageNumber="24" type="mainText">PME-posterior median eyes</paragraph>
+<paragraph pageId="1" pageNumber="24" type="mainText">PW-prosoma width</paragraph>
+<paragraph pageId="1" pageNumber="24" type="mainText">r-retrolateral</paragraph>
+<paragraph pageId="1" pageNumber="24" type="mainText">RTA-retrolateral tibial apophysis</paragraph>
+<paragraph pageId="1" pageNumber="24" type="mainText">v-ventral</paragraph>
+<paragraph pageId="1" pageNumber="24" type="mainText">I-IV/XII-legs I-IV / months I-XII</paragraph>
+<paragraph pageId="1" pageNumber="24" type="mainText">Museum collections:</paragraph>
+<paragraph pageId="1" pageNumber="24" type="mainText">
+SMF-Senckenberg Research Institute, Frankfurt, Germany (P. 
+<normalizedToken originalValue="Jäger" pageId="1" pageNumber="24">Jaeger</normalizedToken>
+)
+</paragraph>
+<paragraph pageId="1" pageNumber="24" type="mainText">
+MHNG-Museum 
+<normalizedToken originalValue="d’histoire" pageId="1" pageNumber="24">d'histoire</normalizedToken>
+naturelle, 
+<normalizedToken originalValue="Genève" pageId="1" pageNumber="24">Geneve</normalizedToken>
+, Switzerland (P. Schwendinger)
+</paragraph>
+<paragraph pageId="1" pageNumber="24" type="mainText">NHM-Natural History Museum, London, United Kingdom (J. Beccaloni)</paragraph>
+</subSection>
+<subSection _generate="retained" pageId="1" pageNumber="24" type="multiple">
+<paragraph pageId="1" pageNumber="24" type="heading">Results</paragraph>
+<paragraph pageId="1" pageNumber="24" type="mainText">
+<taxonomicName _rankHash="73923825" family="Clubionidae" pageId="1" pageNumber="24" rank="family">Clubionidae</taxonomicName>
+Wagner, 1887
+</paragraph>
+</subSection>
+<treatment _generate="retained" pageId="1" pageNumber="24">
+<subSubSection _generate="added" pageId="1" pageNumber="24" type="nomenclature">
+<paragraph pageId="1" pageNumber="24" type="mainText">
+<taxonomicName _evidence="lexicon" _rankHash="224776149" genus="Cheiracanthium" pageId="1" pageNumber="24" rank="genus">Cheiracanthium</taxonomicName>
+C.L. Koch, 1839
+</paragraph>
+</subSubSection>
+<subSubSection _generate="added" pageId="1" pageNumber="24" type="discussion">
+<paragraph pageId="1" pageNumber="24" type="mainText">
+The genus is placed by some colleagues in the family 
+<taxonomicName _rankHash="1372529073" family="Miturgidae" pageId="1" pageNumber="24" rank="family">Miturgidae</taxonomicName>
+Simon, 1886 (see note and references in Platnick 2010). Here we follow Deeleman-Reinhold (2001) and Raven (2009, and references therein) in placing the 
+<taxonomicName _rankHash="410736400" pageId="1" pageNumber="24" rank="subFamily" subFamily="Eutichurinae">Eutichurinae</taxonomicName>
+with 
+<taxonomicName _evidence="lexicon" _rankHash="224776149" genus="Cheiracanthium" pageId="1" pageNumber="24" rank="genus">Cheiracanthium</taxonomicName>
+in the 
+<taxonomicName _rankHash="73923825" family="Clubionidae" pageId="1" pageNumber="24" rank="family">Clubionidae</taxonomicName>
+.
+</paragraph>
+</subSubSection>
+</treatment>
+<treatment _generate="added" pageId="1" pageNumber="24">
+<subSubSection _generate="added" pageId="1" pageNumber="24" type="nomenclature">
+<paragraph pageId="1" pageNumber="24" type="mainText">
+<taxonomicName _evidence="lexicon" _rankHash="-1356068481" genus="Cheiracanthium" pageId="1" pageNumber="24" rank="species" species="insulanum">Cheiracanthium insulanum</taxonomicName>
+(Thorell, 1878)
+</paragraph>
+</subSubSection>
+<subSubSection _generate="added" pageId="1" pageNumber="24" type="description">
+<paragraph pageId="1" pageNumber="24" type="mainText">Figs 1-3, 71</paragraph>
+</subSubSection>
+<subSubSection _generate="added" pageId="1" pageNumber="24" type="materials_examined">
+<paragraph pageId="1" pageNumber="24" type="mainText">
+<materialsCitation collectingDate="2004-11-07" collectingMethod="at night, by hand" collectionCode="SMF" collectorName="P. Jaeger &amp; V. Vedel" country="Laos" elevation="587 m" latitude="21.020016" location="5 km N of Luang Nam Tha" longLatPrecision="0" longitude="101.41053" specimenCode="60277" specimenCount="1" specimenCountFemale="1" stateProvince="Luang Nam Tha Province">
+Material examined. 
+<collectingCountry value="Laos">LAOS</collectingCountry>
+: 
+<collectingRegion>Luang Nam Tha Province</collectingRegion>
+: 
+<specimenCount type="generic">1 female</specimenCount>
+, 
+<location country="Laos" latitude="21.020016" longLatPrecision="0" longitude="101.41053" name="5 km N of Luang Nam Tha" stateProvince="Luang Nam Tha Province">
+<quantity metricMagnitude="3" metricUnit="m" metricValue="5.0" unit="km" value="5.0">5 km</quantity>
+N of Luang Nam Tha
+</location>
+, 
+<geoCoordinate direction="north" orientation="latitude" precision="0" value="21.020016">N 21°1.201'</geoCoordinate>
+, 
+<geoCoordinate direction="east" orientation="longitude" precision="0" value="101.41053">E 101° 24.632'</geoCoordinate>
+, 
+<quantity metricMagnitude="2" metricUnit="m" metricValue="5.87" unit="m" value="587.0">
+<elevation metricMagnitude="2" metricUnit="m" metricValue="5.87" unit="m" value="587.0">587 m</elevation>
+</quantity>
+altitude, secondary forest, vegetation, 
+<collectingMethod>at night, by hand</collectingMethod>
+, 
+<date value="2004-11-07">
+<collectingDate value="2004-11-07">7 November 2004</collectingDate>
+</date>
+, 
+<collectorName _evidence="leading initial">
+P. 
+<normalizedToken originalValue="Jäger" pageId="1" pageNumber="24">Jaeger</normalizedToken>
+&amp; V. Vedel
+</collectorName>
+leg. (
+<collectionCode collectionName="Germany, Frankfurt-am-Main, Forschungsinstitut und Naturmuseum Senckenberg">SMF</collectionCode>
+<specimenCode>60277</specimenCode>
+, L5)
+</materialsCitation>
+. 
+<materialsCitation collectingDate="2009-11-27" collectingMethod="at night, by hand" collectionCode="SMF" collectorName="P. Jaeger &amp; S. Bayer" country="Laos" location="Pakse, Ban Ke" specimenCode="60316" specimenCount="1" specimenCountMale="1" stateProvince="Champasak Province">
+<collectingRegion>Champasak Province</collectingRegion>
+: 
+<specimenCount type="generic">1 male</specimenCount>
+, 
+<location country="Laos" name="Pakse, Ban Ke" stateProvince="Champasak Province">Pakse, Ban Ke</location>
+, dry vegetation, 
+<collectingMethod>at night, by hand</collectingMethod>
+, 
+<date value="2009-11-27">
+<collectingDate value="2009-11-27">27 November 2009</collectingDate>
+</date>
+, 
+<collectorName _evidence="leading initial">
+P. 
+<normalizedToken originalValue="Jäger" pageId="1" pageNumber="24">Jaeger</normalizedToken>
+&amp; S. Bayer
+</collectorName>
+leg. (
+<collectionCode collectionName="Germany, Frankfurt-am-Main, Forschungsinstitut und Naturmuseum Senckenberg">SMF</collectionCode>
+<specimenCode>60316</specimenCode>
+, L98)
+</materialsCitation>
+.
+</paragraph>
+</subSubSection>
+<subSubSection _generate="added" pageId="1" pageNumber="24" type="discussion">
+<paragraph pageId="1" pageNumber="24" type="mainText">
+The specimens were identified according to illustrations in Deeleman-Reinhold (2001) and Chen and Huang (2004). The male conductor of the present specimen is wider than that shown in Deeleman-Reinhold (2001), and more similar to that of Chen and Huang (2004). Deeleman-Reinhold (2001) illustrated apparently a female epigyne with mating plug, which is also present in the female from Luang Nam Tha (
+<collectionCode>L</collectionCode>
+5). Copulatory openings are easily visible after removing the plug. Variation in shape and course of the internal duct system led to the description of several synonymies by Barrion and Litsinger (1995). Therefore the epigyne and vulva is illustrated here as one example from Laos (Figs 
+<pageNumber ambiguity="2" fuzzyness="1" pageId="1" pageNumber="24" score="8" value="7">1</pageNumber>
+-3).
+</paragraph>
+</subSubSection>
+<subSubSection _generate="added" pageId="1" pageNumber="24" type="distribution">
+<paragraph pageId="1" pageNumber="24" type="mainText">First record for Laos (Fig. 71: 1, 8).</paragraph>
+</subSubSection>
+</treatment>
+<subSection _generate="added" pageId="2" pageNumber="25" type="multiple">
+<caption pageId="2" pageNumber="25">
+<paragraph pageId="2" pageNumber="25" type="caption">
+<pageBreakToken pageId="2" pageNumber="25" start="start">FIGURES</pageBreakToken>
+1-
+<pageNumber ambiguity="2" fuzzyness="0" pageId="2" pageNumber="25" score="6" value="3">3</pageNumber>
+. 
+<taxonomicName _evidence="data" _evidence_details="round: 1, species=insulanum" _rankHash="91125359" genus="Cheiracantium" pageId="2" pageNumber="25" rank="species" species="insulanum">Cheiracantium insulanum</taxonomicName>
+(Thorell, 1878), female from Laos, Luang Nam Tha Province. 1 Epigyne, ventral. 2 Vulva, dorsal. 3 Schematic course of internal duct system, dorsal.
+</paragraph>
+</caption>
+</subSection>
+<treatment _generate="added" pageId="2" pageNumber="25">
+<subSubSection _generate="added" pageId="2" pageNumber="25" type="nomenclature">
+<paragraph pageId="2" pageNumber="25" type="mainText">
+<taxonomicName _evidence="lexicon" _rankHash="-988568998" authority="Boesenberg &amp; Strand" authorityName="Boesenberg &amp; Strand" genus="Cheiracanthium" pageId="2" pageNumber="25" rank="species" species="unicum">
+Cheiracanthium 
+<misspelling corrections="[Ljava.lang.String;@effe43" pageId="2" pageNumber="25" type="misspelled">unicum</misspelling>
+<normalizedToken originalValue="Bösenberg" pageId="2" pageNumber="25">
+<misspelling corrections="[Ljava.lang.String;@1e1db6" pageId="2" pageNumber="25" type="misspelled">Boesenberg</misspelling>
+</normalizedToken>
+&amp; Strand
+</taxonomicName>
+, 1906
+</paragraph>
+</subSubSection>
+<subSubSection _generate="added" pageId="2" pageNumber="25" type="description">
+<paragraph pageId="2" pageNumber="25" type="mainText">Fig. 71</paragraph>
+</subSubSection>
+<subSubSection _generate="added" pageId="2" pageNumber="25" type="materials_examined">
+<paragraph pageId="2" pageNumber="25" type="mainText">
+<materialsCitation collectingDate="2008-03-01" collectingMethod="at night and by day, by hand" collectionCode="SMF" collectorName="P. Jaeger" country="Laos" elevation="638 m" latitude="20.686972" location="Oudomxai, stupa hill" longLatPrecision="1" longitude="101.98697" specimenCode="60329" specimenCount="1" specimenCountMale="1" stateProvince="Oudomxai Province">
+Material examined. 
+<collectingCountry value="Laos">LAOS</collectingCountry>
+: 
+<collectingRegion>Oudomxai Province</collectingRegion>
+: 
+<specimenCount type="generic">1 male</specimenCount>
+, 
+<location country="Laos" latitude="20.686972" longLatPrecision="1" longitude="101.98697" name="Oudomxai, stupa hill" stateProvince="Oudomxai Province">Oudomxai, stupa hill</location>
+, 
+<geoCoordinate direction="north" orientation="latitude" precision="1" value="20.686972">
+N 20°41
+<normalizedToken originalValue="’13.1’’" pageId="2" pageNumber="25">'13.1''</normalizedToken>
+</geoCoordinate>
+, 
+<geoCoordinate direction="east" orientation="longitude" precision="1" value="101.98697">
+E 101°59
+<normalizedToken originalValue="’13.1’’" pageId="2" pageNumber="25">'13.1''</normalizedToken>
+</geoCoordinate>
+, 
+<quantity metricMagnitude="2" metricUnit="m" metricValue="6.38" unit="m" value="638.0">
+<elevation metricMagnitude="2" metricUnit="m" metricValue="6.38" unit="m" value="638.0">638 m</elevation>
+</quantity>
+altitude, vegetation, 
+<collectingMethod>at night and by day, by hand</collectingMethod>
+, 
+<date value="2008-03-01">
+<collectingDate value="2008-03-01">1 March 2008</collectingDate>
+</date>
+, 
+<collectorName _evidence="leading initial">
+P. 
+<normalizedToken originalValue="Jäger" pageId="2" pageNumber="25">Jaeger</normalizedToken>
+</collectorName>
+leg. (
+<collectionCode collectionName="Germany, Frankfurt-am-Main, Forschungsinstitut und Naturmuseum Senckenberg">SMF</collectionCode>
+<specimenCode>60329</specimenCode>
+, L54)
+</materialsCitation>
+.
+</paragraph>
+<paragraph pageId="2" pageNumber="25" type="mainText">
+<materialsCitation collectingDate="2010-01-01" collectingDateMax="2010-12-31" collectingDateMin="2010-01-01" collectionCode="SMF" collectorName="W. Doenitz" country="Japan" location="Saga" specimenCode="4495" specimenCount="1" specimenCountMale="1" typeStatus="Holotype">
+Additional material examined for comparison. 
+<typeStatus>Holotype</typeStatus>
+male, 
+<collectingCountry value="Japan">JAPAN</collectingCountry>
+: 
+<location country="Japan" name="Saga">Saga</location>
+, 
+<collectorName _evidence="leading initial">
+W. 
+<normalizedToken originalValue="Dönitz" pageId="2" pageNumber="25">Doenitz</normalizedToken>
+</collectorName>
+leg. (
+<collectionCode collectionName="Germany, Frankfurt-am-Main, Forschungsinstitut und Naturmuseum Senckenberg">SMF</collectionCode>
+<specimenCode>4495</specimenCode>
+). Identified according to Ono (2009) and direct comparison with the holotype male. The present male is smaller (PL 
+<quantity metricMagnitude="-3" metricUnit="m" metricValue="1.7" unit="mm" value="1.7">1.7 mm</quantity>
+) than the holotype (PS length 
+<quantity metricMagnitude="-3" metricUnit="m" metricValue="2.5" unit="mm" value="2.5">2.5 mm</quantity>
+), but no differences between the palps could be recognised
+</materialsCitation>
+.
+</paragraph>
+</subSubSection>
+<subSubSection _generate="added" pageId="2" pageNumber="25" type="distribution">
+<paragraph pageId="2" pageNumber="25" type="mainText">First record for Laos (Fig. 71: 3).</paragraph>
+</subSubSection>
+</treatment>
+<treatment _generate="retained" pageId="2" pageNumber="25">
+<subSubSection _generate="added" pageId="2" pageNumber="25" type="nomenclature">
+<paragraph pageId="2" pageNumber="25" type="mainText">
+<taxonomicName _evidence="lexicon" _rankHash="1313679151" genus="Clubiona" pageId="2" pageNumber="25" rank="genus">Clubiona</taxonomicName>
+Latreille, 1804
+</paragraph>
+</subSubSection>
+<subSubSection _generate="added" pageId="2" pageNumber="25" type="discussion">
+<paragraph pageId="2" pageNumber="25" type="mainText">This genus consists currently of more than 460 species (Platnick 2010). Deeleman-Reinhold (2001) proposed several species groups within the genus. She did not follow Mikhailov (1995) in using subgenera, but adopted his intrageneric grouping, which is used here, too.</paragraph>
+</subSubSection>
+</treatment>
+<subSection _generate="retained" pageId="2" pageNumber="25" type="multiple">
+<paragraph pageId="2" pageNumber="25" type="mainText">
+<taxonomicName _evidence="lexicon" _rankHash="-1250336803" genus="Clubiona" pageId="2" pageNumber="25" rank="species" species="corticalis">corticalis</taxonomicName>
+species-group
+</paragraph>
+</subSection>
+<treatment _generate="retained" lastPageId="3" lastPageNumber="26" pageId="2" pageNumber="25">
+<subSubSection _generate="added" pageId="2" pageNumber="25" type="nomenclature">
+<paragraph pageId="2" pageNumber="25" type="mainText">
+<taxonomicName _evidence="label" _rankHash="-2012733086" genus="Clubiona" pageId="2" pageNumber="25" rank="species" species="kai">Clubiona 
+<taxonomicName _evidence="dynamicLexicon" _rankHash="729806312" authority="spec" authorityName="spec" genus="Clubiona" pageId="2" pageNumber="25" rank="species" species="kai">kai 
+<taxonomicNameLabel pageId="2" pageNumber="25" rank="species">
+<authority pageId="2" pageNumber="25">spec</authority>
+. nov.
+</taxonomicNameLabel>
+</taxonomicName>
+</taxonomicName>
+</paragraph>
+</subSubSection>
+<subSubSection _generate="added" pageId="2" pageNumber="25" type="description">
+<paragraph pageId="2" pageNumber="25" type="mainText">Figs 4-12, 71</paragraph>
+</subSubSection>
+<subSubSection _generate="added" pageId="2" pageNumber="25" type="materials_examined">
+<paragraph pageId="2" pageNumber="25" type="mainText">
+<materialsCitation collectingDate="2008-02-23" collectingMethod="by hand, at night" collectionCode="SMF" collectorName="P. Jaeger" country="Laos" elevation="372 m" latitude="19.682716" location="SE Luang Prabang, Nam Khan, Ban Keng Koung" longLatPrecision="0" longitude="102.307365" specimenCount="1" specimenCountMale="1" stateProvince="Luang Prabang Province" typeStatus="Holotype">
+Type material: 
+<typeStatus>Holotype</typeStatus>
+: male, 
+<collectingCountry value="Laos">LAOS</collectingCountry>
+: 
+<collectingRegion>Luang Prabang Province</collectingRegion>
+: 
+<location country="Laos" latitude="19.682716" longLatPrecision="0" longitude="102.307365" name="SE Luang Prabang, Nam Khan, Ban Keng Koung" stateProvince="Luang Prabang Province">SE Luang Prabang, Nam Khan, Ban Keng Koung</location>
+, 
+<quantity metricMagnitude="2" metricUnit="m" metricValue="3.72" unit="m" value="372.0">
+<elevation metricMagnitude="2" metricUnit="m" metricValue="3.72" unit="m" value="372.0">372 m</elevation>
+</quantity>
+altitude, 
+<geoCoordinate direction="north" orientation="latitude" precision="0" value="19.682716">N 19°40.963'</geoCoordinate>
+, 
+<geoCoordinate direction="east" orientation="longitude" precision="0" value="102.307365">E 102°18.442'</geoCoordinate>
+, along stream, disturbed forest, cultivated land, 
+<collectingMethod>by hand, at night</collectingMethod>
+, 
+<date value="2008-02-23">
+<collectingDate value="2008-02-23">23 February 2008</collectingDate>
+</date>
+, 
+<collectorName>
+P. 
+<normalizedToken originalValue="Jäger" pageId="2" pageNumber="25">Jaeger</normalizedToken>
+</collectorName>
+leg. (
+<collectionCode collectionName="Germany, Frankfurt-am-Main, Forschungsinstitut und Naturmuseum Senckenberg">SMF</collectionCode>
+, L15)
+</materialsCitation>
+.
+</paragraph>
+</subSubSection>
+<subSubSection _generate="added" pageId="2" pageNumber="25" type="etymology">
+<paragraph pageId="2" pageNumber="25" type="mainText">
+Etymology. The species name is derived from the Lao word 
+<normalizedToken originalValue="“kai”" pageId="2" pageNumber="25">&quot;kai&quot;</normalizedToken>
+, meaning 
+<normalizedToken originalValue="“egg”" pageId="2" pageNumber="25">&quot;egg&quot;</normalizedToken>
+, referring to the egg-shaped tegulum; term in apposition.
+</paragraph>
+</subSubSection>
+<subSubSection _generate="added" pageId="2" pageNumber="25" type="diagnosis">
+<paragraph pageId="2" pageNumber="25" type="mainText">
+Diagnosis. Small sized 
+<taxonomicName _rankHash="73933435" pageId="2" pageNumber="25" rank="subFamily" subFamily="Clubioninae">Clubioninae</taxonomicName>
+with body length of males 
+<quantity metricMagnitude="-2" metricUnit="m" metricValue="3.8" unit="mm" value="38.0">3.8 mm</quantity>
+, belonging to the 
+<taxonomicName _evidence="lexicon" _rankHash="-1250336803" genus="Clubiona" pageId="2" pageNumber="25" rank="species" species="corticalis">corticalis</taxonomicName>
+species-group. Male palp (Figs 4-7) similar to that of 
+<taxonomicName _evidence="lexicon" _rankHash="452698685" authority="Zhang" authorityName="Zhang" genus="Clubiona" pageId="2" pageNumber="25" rank="species" species="didentata">Clubiona didentata Zhang</taxonomicName>
+and Yin, 1998 described from Southern China, Yunnan. Males can be distinguished by 1) embolus with transversal branch clearly visible in ventral view (Fig. 5; hidden in 
+<taxonomicName _evidence="lexicon" _rankHash="812136813" genus="Clubiona" pageId="2" pageNumber="25" rank="species" species="didentata">C. didentata</taxonomicName>
+), 2) distal tegular tooth pointing prolatero-distally (Fig. 5; pointing distally in 
+<taxonomicName _evidence="lexicon" _rankHash="812136813" genus="Clubiona" pageId="2" pageNumber="25" rank="species" species="didentata">C. didentata</taxonomicName>
+), 3) RTA distinctly wider than long in retrolateral view (Fig. 6; slightly longer than wide in 
+<taxonomicName _evidence="lexicon" _rankHash="812136813" genus="Clubiona" pageId="2" pageNumber="25" rank="species" species="didentata">C. didentata</taxonomicName>
+).
+</paragraph>
+</subSubSection>
+<subSubSection _generate="added" pageId="3" pageNumber="26" type="multiple">
+<caption pageId="3" pageNumber="26">
+<paragraph pageId="3" pageNumber="26" type="caption">
+<pageBreakToken pageId="3" pageNumber="26" start="start">FIGURES</pageBreakToken>
+4-9. 
+<taxonomicName _evidence="label" _rankHash="-2012733086" genus="Clubiona" pageId="3" pageNumber="26" rank="species" species="kai">Clubiona 
+<taxonomicName _evidence="dynamicLexicon" _rankHash="729806312" authority="spec" authorityName="spec" genus="Clubiona" pageId="3" pageNumber="26" rank="species" species="kai">kai 
+<taxonomicNameLabel pageId="3" pageNumber="26" rank="species">
+<authority pageId="3" pageNumber="26">spec</authority>
+. nov.
+</taxonomicNameLabel>
+</taxonomicName>
+</taxonomicName>
+, 
+<typeStatus>holotype</typeStatus>
+male from Laos, Luang Prabang Province, Ban Keng Koung. 4-7 Left palp (4 prolateral, 5 ventral, 6 retrolateral, 7 dorsal). 8 Eye arrangement, dorsal. 9 Labium, left chelicera and gnathocoxa, ventral.
+</paragraph>
+</caption>
+</subSubSection>
+<subSubSection _generate="added" pageId="3" pageNumber="26" type="description">
+<paragraph pageId="3" pageNumber="26" type="mainText">
+Description. Male (
+<typeStatus>holotype</typeStatus>
+): PL 1.7, PW 125, AW 0.9, OL 2.1, OW 1.0. Eye diametres (Fig. 8): 
+<collectionCode collectionName="USA, Florida, Gainesville, University of Florida, Florida Museum of Natural History, Allyn Museum">AME</collectionCode>
+0.10, ALE 0.13, PME 0.12, PLE 0.12. Eye interdistances: AME-AME 0.10, AME-ALE 0.07, PME-PME 0.29, PME-PLE 0.12, AME-PME 0.12, ALE-PLE 0.05, clypeus 
+<collectionCode collectionName="USA, Florida, Gainesville, University of Florida, Florida Museum of Natural History, Allyn Museum">AME</collectionCode>
+0.05, clypeus ALE 0.05. Leg and pedipalp measurements: pedipalp 1.58 (0.55, 0.26, 0.24, -, 0.53); leg I 3.95 (1.10, 0.60, 1.13, 0.72, 0.40); leg II 4.53 (1.27, 0.64, 1.35, 0.85, 0.42); leg III 3.79 (1.05, 0.52, 0.84, 0.95, 0.43); leg IV 4.92 (1.16, 0.57, 1.24, 1.40, 0.55). Leg formula. 4213. Spination: Pedipalp femur: 020, patella 020, tibia 2000, tarsus 3002; Femur I p001, d111, II-IV p001, d111, r001; Patella IV r010; Tibia I-II v220, III p010, r010, v010, IV p011, r011, v010; Metatarsus I-II v200, III p101, r101, v203, IV p111, r111, v103.
+</paragraph>
+<paragraph pageId="3" pageNumber="26" type="mainText">Chelicerae with distinct frontal bulge (Fig. 12), cheliceral furrow with 5 anterior and 2 posterior teeth in continuous rows (Fig. 9). Tarsi and metatarsi with sparse to absent scopulae. Tarsi I-II with reduced claw tufts. Spinnerets and anal tubercle elongated.</paragraph>
+<paragraph pageId="3" pageNumber="26" type="mainText">Palp as in diagnosis. Cymbium distinctly longer than tibia. Subtegulum visible in prolateral view. RTA slightly pointed at ventral side. Tegulum ovoid extending prolaterally and retrolaterally beyond cymbium. Embolus arising distally from tegulum, with basal torsion and distal sickle-shaped bend (Figs 4-7).</paragraph>
+<paragraph pageId="3" pageNumber="26" type="mainText">Colour in ethanol (Figs 10-12). Yellowish brown without colour pattern. Dorsal prosoma darker brown anteriorly, fovea distinct. Chelicerae, gnathocoxae and labium reddish brown. Sternum marginally more strongly sclerotised, darker anteriorly. Appendages pale yellow with leg joints slightly darker. Dorsal opisthosoma pale yellowish brown with oval light brown patch (resembling a scutum), reaching posterior half; ventral opisthosoma with epiandrium as triangular pale white zone bordered by darker patches. Posterior spinnerets dark.</paragraph>
+<paragraph pageId="3" pageNumber="26" type="mainText">Female: unknown.</paragraph>
+</subSubSection>
+<subSubSection _generate="added" pageId="3" pageNumber="26" type="distribution">
+<paragraph pageId="3" pageNumber="26" type="mainText">
+Distribution. Known only from the 
+<typeStatus>type</typeStatus>
+locality (Fig. 
+<pageNumber ambiguity="6" fuzzyness="0" pageId="3" pageNumber="26" score="9" value="71">71</pageNumber>
+: 5).
+</paragraph>
+</subSubSection>
+</treatment>
+<subSection _generate="retained" pageId="4" pageNumber="27" type="multiple">
+<caption pageId="4" pageNumber="27">
+<paragraph pageId="4" pageNumber="27" type="caption">
+<pageBreakToken pageId="4" pageNumber="27" start="start">FIGURES</pageBreakToken>
+10-12. 
+<taxonomicName _evidence="label" _rankHash="-2012733086" genus="Clubiona" pageId="4" pageNumber="27" rank="species" species="kai">Clubiona 
+<taxonomicName _evidence="dynamicLexicon" _rankHash="729806312" authority="spec" authorityName="spec" genus="Clubiona" pageId="4" pageNumber="27" rank="species" species="kai">kai 
+<taxonomicNameLabel pageId="4" pageNumber="27" rank="species">
+<authority pageId="4" pageNumber="27">spec</authority>
+. nov.
+</taxonomicNameLabel>
+</taxonomicName>
+</taxonomicName>
+, holotype male from Laos, Luang Prabang Province, Ban Keng Koung, habitus (10 dorsal, 11 ventral; opisthosoma detached; 12 frontal).
+</paragraph>
+</caption>
+</subSection>
+<subSection _generate="retained" pageId="4" pageNumber="27" type="multiple">
+<paragraph pageId="4" pageNumber="27" type="mainText">
+<taxonomicName _evidence="lexicon" _rankHash="-739797553" genus="Clubiona" pageId="4" pageNumber="27" rank="species" species="japonica">japonica</taxonomicName>
+species-group
+</paragraph>
+</subSection>
+<treatment _generate="retained" lastPageId="5" lastPageNumber="28" pageId="4" pageNumber="27">
+<subSubSection _generate="added" pageId="4" pageNumber="27" type="nomenclature">
+<paragraph pageId="4" pageNumber="27" type="mainText">
+<taxonomicName _evidence="label" _rankHash="1040615248" genus="Clubiona" pageId="4" pageNumber="27" rank="species" species="vukomi">Clubiona 
+<taxonomicName _evidence="dynamicLexicon" _rankHash="-2056983044" authority="spec" authorityName="spec" genus="Clubiona" pageId="4" pageNumber="27" rank="species" species="vukomi">vukomi 
+<taxonomicNameLabel pageId="4" pageNumber="27" rank="species">
+<authority pageId="4" pageNumber="27">spec</authority>
+. nov.
+</taxonomicNameLabel>
+</taxonomicName>
+</taxonomicName>
+</paragraph>
+</subSubSection>
+<subSubSection _generate="added" pageId="4" pageNumber="27" type="description">
+<paragraph pageId="4" pageNumber="27" type="mainText">Figs 13-21, 71</paragraph>
+</subSubSection>
+<subSubSection _generate="added" pageId="4" pageNumber="27" type="materials_examined">
+<paragraph pageId="4" pageNumber="27" type="mainText">
+<materialsCitation collectingDate="2008-03-02" collectingMethod="by hand, at night" collectionCode="SMF" collectorName="P. Jaeger" country="Laos" elevation="597 m" latitude="21.020016" location="2 - 3 km N of Luang Nam Tha" longLatPrecision="0" longitude="101.41053" specimenCount="1" specimenCountMale="1" stateProvince="Luang Nam Tha Province" typeStatus="Holotype">
+Type material: 
+<typeStatus>Holotype</typeStatus>
+: male, 
+<collectingCountry value="Laos">LAOS</collectingCountry>
+: 
+<collectingRegion>Luang Nam Tha Province</collectingRegion>
+: 
+<location country="Laos" latitude="21.020016" longLatPrecision="0" longitude="101.41053" name="2 - 3 km N of Luang Nam Tha" stateProvince="Luang Nam Tha Province">
+<quantity metricMagnitude="3" metricUnit="m" metricValue="2.5" metricValueMax="3.0" metricValueMin="2.0" unit="km" value="2.5" valueMax="3.0" valueMin="2.0">2-3 km</quantity>
+N of Luang Nam Tha
+</location>
+, 
+<quantity metricMagnitude="2" metricUnit="m" metricValue="5.97" unit="m" value="597.0">
+<elevation metricMagnitude="2" metricUnit="m" metricValue="5.97" unit="m" value="597.0">597 m</elevation>
+</quantity>
+altitude, 
+<geoCoordinate direction="north" orientation="latitude" precision="0" value="21.020016">N 21°01.201'</geoCoordinate>
+, 
+<geoCoordinate direction="east" orientation="longitude" precision="0" value="101.41053">E 101°24.632'</geoCoordinate>
+, slope, trees, under stones, 
+<collectingMethod>by hand, at night</collectingMethod>
+, 
+<date value="2008-03-02">
+<collectingDate value="2008-03-02">2 March 2008</collectingDate>
+</date>
+, 
+<collectorName>
+P. 
+<normalizedToken originalValue="Jäger" pageId="4" pageNumber="27">Jaeger</normalizedToken>
+</collectorName>
+leg. (
+<collectionCode collectionName="Germany, Frankfurt-am-Main, Forschungsinstitut und Naturmuseum Senckenberg">SMF</collectionCode>
+, L42)
+</materialsCitation>
+.
+</paragraph>
+<paragraph pageId="4" pageNumber="27" type="mainText">
+<materialsCitation collectionCode="MHNG" collectorName="P. J. Schwendinger" country="Thailand" elevation="330 m" location="Chiang Mai city" specimenCount="1" specimenCountMale="1" stateProvince="Chiang Mai Province and district" typeStatus="Paratypes">
+<typeStatus>Paratypes</typeStatus>
+: 
+<collectingCountry value="Thailand">THAILAND</collectingCountry>
+: 
+<collectingRegion>Chiang Mai Province and district</collectingRegion>
+: 
+<specimenCount type="generic">1 male</specimenCount>
+, 
+<location country="Thailand" name="Chiang Mai city" stateProvince="Chiang Mai Province and district">Chiang Mai city</location>
+, 
+<quantity metricMagnitude="2" metricUnit="m" metricValue="3.3" unit="m" value="330.0">
+<elevation metricMagnitude="2" metricUnit="m" metricValue="3.3" unit="m" value="330.0">330 m</elevation>
+</quantity>
+altitude, in flower, 
+<collectorName _evidence="leading initial">P.J. Schwendinger</collectorName>
+leg. (
+<collectionCode collectionName="Switzerland, Geneva, Museum d'Histoire Naturelle">MHNG</collectionCode>
+)
+</materialsCitation>
+. 
+<materialsCitation collectingDate="2009-10-15" collectionCode="MHNG" collectorName="P. Dankittipakul" country="Thailand" elevation="450 m" location="Pa Hin Ngam Nationa Park" specimenCount="1" specimenCountMale="1" stateProvince="Chai Ya Phum Province">
+<collectingRegion>Chai Ya Phum Province</collectingRegion>
+: 
+<specimenCount type="generic">1 male</specimenCount>
+, 
+<location country="Thailand" name="Pa Hin Ngam Nationa Park" stateProvince="Chai Ya Phum Province">Pa Hin Ngam Nationa Park</location>
+, dipterocarp forest, 
+<quantity metricMagnitude="2" metricUnit="m" metricValue="4.5" unit="m" value="450.0">
+<elevation metricMagnitude="2" metricUnit="m" metricValue="4.5" unit="m" value="450.0">450 m</elevation>
+</quantity>
+altitude, 
+<date value="2009-10-15">
+<collectingDate value="2009-10-15">15 October 2009</collectingDate>
+</date>
+, 
+<collectorName _evidence="leading initial">P. Dankittipakul</collectorName>
+leg. (
+<collectionCode collectionName="Switzerland, Geneva, Museum d'Histoire Naturelle">MHNG</collectionCode>
+)
+</materialsCitation>
+.
+</paragraph>
+</subSubSection>
+<subSubSection _generate="added" pageId="4" pageNumber="27" type="etymology">
+<paragraph pageId="4" pageNumber="27" type="mainText">Etymology. The species name is derived from the Ndebele term &quot;vimbani ukuzalisana okungela mikhawulo&quot;, meaning &quot;stop overpopulation&quot; and referring to the human overpopulation threatening natural habitats of spiders. Ndebele is a language from South Africa, belonging to the Nguni group of Bantu languages. It is used here to emphasize the global relevance of overpopulation; term in apposition.</paragraph>
+</subSubSection>
+<subSubSection _generate="added" pageId="4" pageNumber="27" type="diagnosis">
+<paragraph pageId="4" pageNumber="27" type="mainText">
+Diagnosis. Small sized 
+<taxonomicName _rankHash="73933435" pageId="4" pageNumber="27" rank="subFamily" subFamily="Clubioninae">Clubioninae</taxonomicName>
+with a body length of 6.0 mm (Figs 19-20), belonging to the 
+<taxonomicName _evidence="lexicon" _rankHash="-739797553" genus="Clubiona" pageId="4" pageNumber="27" rank="species" species="japonica">japonica</taxonomicName>
+species-group (Deeleman-Reinhold 2001; 
+<misspelling corrections="[Ljava.lang.String;@73537" pageId="4" pageNumber="27" type="misspelled">Mikhailov</misspelling>
+1995). Males can be recognised by the dorsally situated RTA, the strong sclerotised tegular apophysis and the shape of the filiform embolus with a semicircular tip in a plain transversal to the basal part of the embolus (Figs 13-16).
+</paragraph>
+</subSubSection>
+<subSubSection _generate="added" pageId="4" pageNumber="27" type="discussion">
+<paragraph pageId="4" pageNumber="27" type="mainText">
+Note. Although there are superficial similarities especially in the opisthosomal pattern between this 
+<taxonomicNameLabel pageId="4" pageNumber="27" rank="species">new species</taxonomicNameLabel>
+and the female of 
+<taxonomicName _evidence="lexicon" _rankHash="490800775" genus="Clubiona" pageId="4" pageNumber="27" rank="species" species="melanothele">C. melanothele</taxonomicName>
+from Lak Sao, both are considered different species due to slight but clear differences in the colouration: 
+<taxonomicName _evidence="label" _rankHash="-450531660" genus="Clubiona" pageId="4" pageNumber="27" rank="species" species="vukomi">C. 
+<taxonomicName _evidence="dynamicLexicon" _rankHash="-2056983044" authority="spec" authorityName="spec" genus="Clubiona" pageId="4" pageNumber="27" rank="species" species="vukomi">vukomi 
+<taxonomicNameLabel pageId="4" pageNumber="27" rank="species">
+<authority pageId="4" pageNumber="27">spec</authority>
+. nov.
+</taxonomicNameLabel>
+</taxonomicName>
+</taxonomicName>
+exhibits pale chelicerae with an indistinct pattern (Fig. 21; dark reddish-brown in 
+<taxonomicName _evidence="lexicon" _rankHash="692887497" authority=", Fig" authorityName=", Fig" genus="Clubiona" pageId="4" pageNumber="27" rank="species" species="melanothele">
+C. melanothele
+<authority pageId="4" pageNumber="27">, Fig</authority>
+</taxonomicName>
+. 34), the dorsal shield has a marbled pattern extending to fovea with a median line between eyes reaching almost to fovea (Fig. 
+<pageNumber ambiguity="2" fuzzyness="0" pageId="4" pageNumber="27" score="9" value="19">19</pageNumber>
+; extending to half distance between eyes and fovea and without median line in 
+<taxonomicName _evidence="lexicon" _rankHash="692887497" authority=", Fig" authorityName=", Fig" genus="Clubiona" pageId="4" pageNumber="27" rank="species" species="melanothele">
+C. melanothele
+<authority pageId="4" pageNumber="27">, Fig</authority>
+</taxonomicName>
+. 34).
+</paragraph>
+</subSubSection>
+<subSubSection _generate="added" pageId="5" pageNumber="28" type="multiple">
+<caption pageId="5" pageNumber="28">
+<paragraph pageId="5" pageNumber="28" type="caption">
+<pageBreakToken pageId="5" pageNumber="28" start="start">FIGURES</pageBreakToken>
+13-18. 
+<taxonomicName _evidence="label" _rankHash="1040615248" genus="Clubiona" pageId="5" pageNumber="28" rank="species" species="vukomi">Clubiona 
+<taxonomicName _evidence="dynamicLexicon" _rankHash="-2056983044" authority="spec" authorityName="spec" genus="Clubiona" pageId="5" pageNumber="28" rank="species" species="vukomi">vukomi 
+<taxonomicNameLabel pageId="5" pageNumber="28" rank="species">
+<authority pageId="5" pageNumber="28">spec</authority>
+. nov.
+</taxonomicNameLabel>
+</taxonomicName>
+</taxonomicName>
+, 
+<typeStatus>holotype</typeStatus>
+male from Laos, Luang Nam Tha Province. 13-16 Right palp, mirrored (13 prolateral, 14 ventral, 15 retrolateral, 16 dorsal). 17 Eye arrangement, dorsal. 18 Left chelicera, ventral.
+</paragraph>
+</caption>
+</subSubSection>
+<subSubSection _generate="added" pageId="5" pageNumber="28" type="description">
+<paragraph pageId="5" pageNumber="28" type="mainText">
+Description. Male (
+<typeStatus>holotype</typeStatus>
+): PL 2.7, PW 2.0, AW 1.1, OL 3.3, OW 1.7. Eye diametres (Fig. 17): 
+<collectionCode collectionName="USA, Florida, Gainesville, University of Florida, Florida Museum of Natural History, Allyn Museum">AME</collectionCode>
+0.15, ALE 0.16, PME 0.13, PLE 0.14. Eye interdistances: AME-AME 0.09, AME-ALE 0.04, PME-PME 0.23, PME-PLE 0.16, AME-PME 0.15, ALE-PLE 0.09, clypeus 
+<collectionCode collectionName="USA, Florida, Gainesville, University of Florida, Florida Museum of Natural History, Allyn Museum">AME</collectionCode>
+0.06, clypeus ALE 0.06. Leg and pedipalp measurements: pedipalp 2.16 (0.76, 0.30, 0.38, -, 0.72); leg I 7.0 (2.0, 0.95, 1.95, 1.35, 0.75); leg II 7.5 (2.1, 1.05, 2.1, 1.5, 0.75); leg III 6.1 (1.8, 0.85, 1.35, 1.5, 0.6); leg IV 9.35 (2.6, 1.05, 2.4, 2.6, 0.7). Leg formula. 4213. Spination: Pedipalp femur: 030, patella 010, tibia 2300, tarsus 1002; Femur I p001, d111, r01(0)0, II p001, d111, III p001, d111, r001, IV p001, d111, r001; Patella IV r010; Tibia I v221, II p001, v221, III p011, r011, v111, IV p011, r011, v111; Metatarsus I-II v200, III p111, d010, r101, v203, IV p111, d010, r111, v213.
+</paragraph>
+<paragraph pageId="5" pageNumber="28" type="mainText">Chelicerae without frontal bulge (Fig. 21), cheliceral furrow with 3 anterior (median largest) and 2 posterior teeth (Fig. 18). Tarsi and metatarsi I-II with scopulae, distal tibiae I-II with two rows of single scopula hairs ventrally. Spinnerets and anal tubercle elongated.</paragraph>
+<paragraph pageId="5" pageNumber="28" type="mainText">Palp as in diagnosis. Cymbium distinctly longer than tibia, blunt and with dorsal depression distally. RTA short, massive, hook-like bent, connected to a retrolateral sclerotised distal ridge. Tegulum extending beyond cymbium retrolaterally in ventral view. Sperm duct running a double U-turn in the centre of tegulum. Embolus arising from prolateral side of tegulum, basal part sickle-shaped. Membranous conductor arising prolaterally, covering the distal coil of embolus. Tegular apophysis pointed, reaching cymbial margin in ventral view (Figs 13-16).</paragraph>
+<paragraph pageId="5" pageNumber="28" type="mainText">Colour in ethanol (Figs 19-21). Pale yellow with distinct colour pattern. Dorsal prosoma with head region marbled and eyes region darker. Chelicerae with longitudinal bands and inner parts dark. Opisthosoma grey, dorsally with distinct pattern consisting of broad stripes and blotches. Spinnerets and anal tubercle dark.</paragraph>
+<paragraph pageId="5" pageNumber="28" type="mainText">Female: unknown.</paragraph>
+</subSubSection>
+<subSubSection _generate="added" pageId="5" pageNumber="28" type="distribution">
+<paragraph pageId="5" pageNumber="28" type="mainText">
+Distribution. Known from Laos, Luang Nam Tha (
+<typeStatus>type</typeStatus>
+locality) and Thailand, Chiang Mai and Chai Ya Phum Provinces (Fig. 
+<pageNumber ambiguity="6" fuzzyness="2" pageId="5" pageNumber="28" score="9" value="27">71</pageNumber>
+: 1, 11-12).
+</paragraph>
+</subSubSection>
+</treatment>
+<subSection _generate="retained" pageId="6" pageNumber="29" type="multiple">
+<caption pageId="6" pageNumber="29">
+<paragraph pageId="6" pageNumber="29" type="caption">
+<pageBreakToken pageId="6" pageNumber="29" start="start">FIGURES</pageBreakToken>
+19-21. 
+<taxonomicName _evidence="label" _rankHash="1040615248" genus="Clubiona" pageId="6" pageNumber="29" rank="species" species="vukomi">Clubiona 
+<taxonomicName _evidence="dynamicLexicon" _rankHash="-2056983044" authority="spec" authorityName="spec" genus="Clubiona" pageId="6" pageNumber="29" rank="species" species="vukomi">vukomi 
+<taxonomicNameLabel pageId="6" pageNumber="29" rank="species">
+<authority pageId="6" pageNumber="29">spec</authority>
+. nov.
+</taxonomicNameLabel>
+</taxonomicName>
+</taxonomicName>
+, holotype male from Laos, Luang Nam Tha Province, habitus (19 dorsal, 20 ventral, 21 frontal).
+</paragraph>
+</caption>
+</subSection>
+<treatment _generate="retained" lastPageId="7" lastPageNumber="30" pageId="6" pageNumber="29">
+<subSubSection _generate="added" pageId="6" pageNumber="29" type="nomenclature">
+<paragraph pageId="6" pageNumber="29" type="mainText">
+<taxonomicName _evidence="label" _rankHash="2029813755" genus="Clubiona" pageId="6" pageNumber="29" rank="species" species="lala">Clubiona 
+<taxonomicName _evidence="dynamicLexicon" _rankHash="-506408847" authority="spec" authorityName="spec" genus="Clubiona" pageId="6" pageNumber="29" rank="species" species="lala">lala 
+<taxonomicNameLabel pageId="6" pageNumber="29" rank="species">
+<authority pageId="6" pageNumber="29">spec</authority>
+. nov.
+</taxonomicNameLabel>
+</taxonomicName>
+</taxonomicName>
+</paragraph>
+</subSubSection>
+<subSubSection _generate="added" pageId="6" pageNumber="29" type="description">
+<paragraph pageId="6" pageNumber="29" type="mainText">Figs 22-25, 28-30, 71</paragraph>
+</subSubSection>
+<subSubSection _generate="added" pageId="6" pageNumber="29" type="materials_examined">
+<paragraph pageId="6" pageNumber="29" type="mainText">
+<materialsCitation collectingDate="2008-03-07" collectingMethod="by day, by hand" collectionCode="SMF" collectorName="P. Jaeger" country="Laos" elevation="589 m" latitude="21.058916" location="6 air km N of Luang Nam Tha" longLatPrecision="1" longitude="101.40083" specimenCount="1" specimenCountFemale="1" stateProvince="Luang Nam Tha Province" typeStatus="Holotype">
+Type material: 
+<typeStatus>Holotype</typeStatus>
+: Female, 
+<collectingCountry value="Laos">LAOS</collectingCountry>
+: 
+<collectingRegion>Luang Nam Tha Province</collectingRegion>
+: 
+<location country="Laos" latitude="21.058916" longLatPrecision="1" longitude="101.40083" name="6 air km N of Luang Nam Tha" stateProvince="Luang Nam Tha Province">6 air km N of Luang Nam Tha</location>
+, 
+<quantity metricMagnitude="2" metricUnit="m" metricValue="5.89" unit="m" value="589.0">
+<elevation metricMagnitude="2" metricUnit="m" metricValue="5.89" unit="m" value="589.0">589 m</elevation>
+</quantity>
+altitude, 
+<geoCoordinate direction="north" orientation="latitude" precision="0" value="21.058916">
+N 21°03
+<normalizedToken originalValue="’32.10”" pageId="6" pageNumber="29">'32.10&quot;</normalizedToken>
+</geoCoordinate>
+, 
+<geoCoordinate direction="east" orientation="longitude" precision="1" value="101.40083">
+E 101°24
+<normalizedToken originalValue="’3.0”" pageId="6" pageNumber="29">'3.0&quot;</normalizedToken>
+</geoCoordinate>
+, vegetation close to stream, water-duct under street, 
+<collectingMethod>by day, by hand</collectingMethod>
+, 
+<date value="2008-03-07">
+<collectingDate value="2008-03-07">7 March 2008</collectingDate>
+</date>
+, 
+<collectorName>
+P. 
+<normalizedToken originalValue="Jäger" pageId="6" pageNumber="29">Jaeger</normalizedToken>
+</collectorName>
+leg. (
+<collectionCode collectionName="Germany, Frankfurt-am-Main, Forschungsinstitut und Naturmuseum Senckenberg">SMF</collectionCode>
+, L41)
+</materialsCitation>
+.
+</paragraph>
+</subSubSection>
+<subSubSection _generate="added" pageId="6" pageNumber="29" type="etymology">
+<paragraph pageId="6" pageNumber="29" type="mainText">
+Etymology. The species name is an abbreviation and derived from the Lao term &quot;laai 
+<normalizedToken originalValue="làak”" pageId="6" pageNumber="29">laak&quot;</normalizedToken>
+, meaning 
+<normalizedToken originalValue="“diverse”" pageId="6" pageNumber="29">&quot;diverse&quot;</normalizedToken>
+, referring to the diversity of the japonica-group in Southeast Asia; term in apposition.
+</paragraph>
+</subSubSection>
+<subSubSection _generate="added" pageId="6" pageNumber="29" type="diagnosis">
+<paragraph pageId="6" pageNumber="29" type="mainText">
+Diagnosis. Small sized 
+<taxonomicName _rankHash="73933435" pageId="6" pageNumber="29" rank="subFamily" subFamily="Clubioninae">Clubioninae</taxonomicName>
+with a body length of 7.0 mm in females and strong opisthosomal and leg pattern (Figs 28-29), belonging to the 
+<taxonomicName _evidence="lexicon" _rankHash="-739797553" genus="Clubiona" pageId="6" pageNumber="29" rank="species" species="japonica">japonica</taxonomicName>
+species-group. Females can be distinguished from those of 
+<taxonomicName _evidence="feedback" _rankHash="2011065173" genus="Clubiona" pageId="6" pageNumber="29" rank="species" species="campylacantha">C. campylacantha</taxonomicName>
+Dankittipakul, 2008, 
+<taxonomicName _evidence="feedback" _rankHash="2132715445" genus="Clubiona" pageId="6" pageNumber="29" rank="species" species="octoginta">C. octoginta</taxonomicName>
+Dankittipakul, 2008, and 
+<taxonomicName _evidence="lexicon" _rankHash="104318440" authority="Dankittipakul" authorityName="Dankittipakul" genus="Clubiona" pageId="6" pageNumber="29" rank="species" species="suthepica">C. suthepica Dankittipakul</taxonomicName>
+, 2008 by 1) having its epigynal atrium more rectangular (Fig. 22), 2) entire internal duct system being situated behind atrium (Fig. 23), 3) head of spermathecae of internal duct system laterad (Fig. 23).
+</paragraph>
+</subSubSection>
+<subSubSection _generate="added" lastPageId="7" lastPageNumber="30" pageId="6" pageNumber="29" type="description">
+<paragraph pageId="6" pageNumber="29" type="mainText">
+Description. Female (
+<typeStatus>holotype</typeStatus>
+). PL 2.8, PW 1.9, AW 1.3, OL 4.2, OW 2.0. Eye diametres (Fig. 25): 
+<collectionCode collectionName="USA, Florida, Gainesville, University of Florida, Florida Museum of Natural History, Allyn Museum">AME</collectionCode>
+0.14, ALE 0.16, PME 0.15, PLE 0.16. Eye interdistances: AME-AME 0.11, AME-ALE 0.07, PME-PME 0.29, PME-PLE 0.18, AME-PME 0.14, ALE-PLE 0.08, clypeus 
+<collectionCode collectionName="USA, Florida, Gainesville, University of Florida, Florida Museum of Natural History, Allyn Museum">AME</collectionCode>
+0.07, clypeus ALE 0.06. Leg and pedipalp measurements: pedipalp 2.51 (0.86, 0.38, 0.51, -, 0.76); leg I 6.8 (1.9, 1.0, 1.8, 1.2, 0.9); leg II 7.7 (2.1, 1.05, 2.1, 1.5, 0.95); leg III 5.95 (1.7, 0.7, 1.3, 1.55, 0.7); leg IV 8.4 (2.3, 1.0, 2.0, 2.4, 0.7). Leg formula. 4213. Spination: Pedipalp: femur 030, patella 020, tibia 2101, tarsus 1014; Femur I-II p001, d111, III p011, d111, r011, IV p001, d111, r001; Patella III-IV r010; Tibia I-II v220, III p011, r011, v120, IV p011, r011, v110; Metatarsus II v100, III p111, d010, r111, v204, IV p111, d010, r111, v114.
+</paragraph>
+<paragraph pageId="6" pageNumber="29" type="mainText">Clypeus with sclerotised margin (Fig. 30). Chelicerae with only weakly developed frontal bulge (Fig. 30), cheliceral furrow with 3 anterior and 2 posterior teeth (Fig. 24). Tarsi and metatarsi I-II with sparse scopulae, III-IV with scopulae almost absent. Tibiae I-II with two indistinct ventral bands of scopula hairs. Spinnerets and anal tubercle elongated.</paragraph>
+<paragraph pageId="6" pageNumber="29" type="mainText">Copulatory organ as in diagnosis. Epigyne with two long slit sense organs lateral of atrium. Posterior margin of atrium only very slightly rebordered. Atrium separated from epigastric furrow by more than one length of atrium. Membranous bursae with small projections on surface. Spermathecae compact, spermathecal bases short, not extending laterally beyond duct system (Figs 22-23).</paragraph>
+<caption pageId="7" pageNumber="30">
+<paragraph pageId="7" pageNumber="30" type="caption">
+<pageBreakToken pageId="7" pageNumber="30" start="start">FIGURES</pageBreakToken>
+22-27. 22-
+<pageNumber ambiguity="4" fuzzyness="1" pageId="7" pageNumber="30" score="7" value="75">25</pageNumber>
+<taxonomicName _evidence="label" _rankHash="2029813755" genus="Clubiona" pageId="7" pageNumber="30" rank="species" species="lala">Clubiona 
+<taxonomicName _evidence="dynamicLexicon" _rankHash="-506408847" authority="spec" authorityName="spec" genus="Clubiona" pageId="7" pageNumber="30" rank="species" species="lala">lala 
+<taxonomicNameLabel pageId="7" pageNumber="30" rank="species">
+<authority pageId="7" pageNumber="30">spec</authority>
+. nov.
+</taxonomicNameLabel>
+</taxonomicName>
+</taxonomicName>
+, 
+<typeStatus>holotype</typeStatus>
+female from Laos, Luang Nam Tha Province. 26 
+<taxonomicName _evidence="lexicon" _rankHash="1899556377" authority="Thorell" authorityName="Thorell" genus="Clubiona" pageId="7" pageNumber="30" rank="species" species="melanothele">Clubiona melanothele Thorell</taxonomicName>
+, 1895, female from Bolikhamsay Province, Lak Sao. 27 
+<taxonomicName _evidence="lexicon" _rankHash="526761711" authority="Dankittipakul" authorityName="Dankittipakul" genus="Clubiona" pageId="7" pageNumber="30" rank="species" species="abnormis">Clubiona abnormis Dankittipakul</taxonomicName>
+, 2008, female from Champasak Province, That Fane. 22 Epigyne, ventral. 23, 26 Vulva, dorsal. 24 Labium, left chelicera and gnathocoxa, ventral. 25 Eye arrangement, dorsal. 27 Left cheliceral furrow, ventral.
+</paragraph>
+</caption>
+<paragraph pageId="7" pageNumber="30" type="mainText">Colour in ethanol (Figs 28-30). Yellowish to reddish brown with distinct dark colour pattern. Dorsal prosoma with marginal bands and marbled pattern in head region and on frontal chelicerae, the latter reddish brown. Sternum with margin darker. Legs with distinct dark patches. Opisthosoma grey with distinct dark pattern. Dorsal opisthosoma with patches and stripes, in anterior half with band above heart, in posterior half with chevrons, the latter discontinuous. Ventral opisthosoma with broad median band mottled with black. Lateral spinnerets and anal tubercle dark.</paragraph>
+<paragraph pageId="7" pageNumber="30" type="mainText">Male: unknown.</paragraph>
+</subSubSection>
+<subSubSection _generate="added" pageId="7" pageNumber="30" type="distribution">
+<paragraph pageId="7" pageNumber="30" type="mainText">
+Distribution. Known only from the 
+<typeStatus>type</typeStatus>
+locality (Fig. 71: 1).
+</paragraph>
+</subSubSection>
+</treatment>
+<treatment _generate="retained" pageId="7" pageNumber="30">
+<subSubSection _generate="added" pageId="7" pageNumber="30" type="nomenclature">
+<paragraph pageId="7" pageNumber="30" type="mainText">
+<taxonomicName _evidence="lexicon" _rankHash="-2046324416" authority="O. Pickard-Cambridge" authorityName="O. Pickard-Cambridge" genus="Clubiona" pageId="7" pageNumber="30" rank="species" species="filicata">
+Clubiona 
+<misspelling corrections="[Ljava.lang.String;@136d4df" pageId="7" pageNumber="30" type="misspelled">filicata</misspelling>
+O. 
+<misspelling corrections="[Ljava.lang.String;@d1b47d" pageId="7" pageNumber="30" type="misspelled">Pickard-Cambridge</misspelling>
+</taxonomicName>
+, 1874
+</paragraph>
+</subSubSection>
+<subSubSection _generate="added" pageId="7" pageNumber="30" type="description">
+<paragraph pageId="7" pageNumber="30" type="mainText">Fig. 71</paragraph>
+</subSubSection>
+<subSubSection _generate="added" pageId="7" pageNumber="30" type="materials_examined">
+<paragraph pageId="7" pageNumber="30" type="mainText">
+<materialsCitation collectingDate="2004-11-17" collectingMethod="by day and night, by hand" collectionCode="SMF" collectorName="P. Jaeger &amp; V. Vedel" country="Laos" elevation="260 m" latitude="19.012184" location="10 air km N Vang Vieng, Ban Phoxay" longLatPrecision="0" longitude="102.4461" specimenCode="60278" specimenCount="1" specimenCountMale="1" stateProvince="Vientiane Province">
+Material examined. 
+<collectingCountry value="Laos">LAOS</collectingCountry>
+: 
+<collectingRegion>Vientiane Province</collectingRegion>
+: 
+<specimenCount type="generic">1 male</specimenCount>
+, 
+<location country="Laos" latitude="19.012184" longLatPrecision="0" longitude="102.4461" name="10 air km N Vang Vieng, Ban Phoxay" stateProvince="Vientiane Province">10 air km N Vang Vieng, Ban Phoxay</location>
+, 
+<geoCoordinate direction="north" orientation="latitude" precision="0" value="19.012184">N 19°0.731'</geoCoordinate>
+, 
+<geoCoordinate direction="east" orientation="longitude" precision="0" value="102.4461">E 102°26.766'</geoCoordinate>
+, 
+<quantity metricMagnitude="2" metricUnit="m" metricValue="2.6" unit="m" value="260.0">
+<elevation metricMagnitude="2" metricUnit="m" metricValue="2.6" unit="m" value="260.0">260 m</elevation>
+</quantity>
+altitude, shrubs, small trees, 
+<collectingMethod>by day and night, by hand</collectingMethod>
+, 
+<date value="2004-11-17">
+<collectingDate value="2004-11-17">17 November 2004</collectingDate>
+</date>
+, 
+<collectorName>
+P. 
+<normalizedToken originalValue="Jäger" pageId="7" pageNumber="30">Jaeger</normalizedToken>
+&amp; V. Vedel
+</collectorName>
+leg. (
+<collectionCode collectionName="Germany, Frankfurt-am-Main, Forschungsinstitut und Naturmuseum Senckenberg">SMF</collectionCode>
+<specimenCode>60278</specimenCode>
+, L18)
+</materialsCitation>
+.
+</paragraph>
+</subSubSection>
+<subSubSection _generate="added" pageId="7" pageNumber="30" type="discussion">
+<paragraph pageId="7" pageNumber="30" type="mainText">The male was identified according to illustrations of Dankittipakul and Singtripop (2008a). The male copulatory organ was in accordance with the illustrations except for the embolus tip which was not freely visible but hidden behind the distal embolus coil.</paragraph>
+</subSubSection>
+<subSubSection _generate="added" pageId="7" pageNumber="30" type="distribution">
+<paragraph pageId="7" pageNumber="30" type="mainText">First record for Laos (Fig. 71: 6).</paragraph>
+</subSubSection>
+</treatment>
+<subSection _generate="retained" pageId="8" pageNumber="31" type="multiple">
+<caption pageId="8" pageNumber="31">
+<paragraph pageId="8" pageNumber="31" type="caption">
+<pageBreakToken pageId="8" pageNumber="31" start="start">FIGURES</pageBreakToken>
+<pageNumber ambiguity="2147483647" fuzzyness="2147483647" pageId="8" pageNumber="31" score="6" value="76">28</pageNumber>
+-33. 28-30 
+<taxonomicName _evidence="label" _rankHash="2029813755" genus="Clubiona" pageId="8" pageNumber="31" rank="species" species="lala">Clubiona 
+<taxonomicName _evidence="dynamicLexicon" _rankHash="-506408847" authority="spec" authorityName="spec" genus="Clubiona" pageId="8" pageNumber="31" rank="species" species="lala">lala 
+<taxonomicNameLabel pageId="8" pageNumber="31" rank="species">
+<authority pageId="8" pageNumber="31">spec</authority>
+. nov.
+</taxonomicNameLabel>
+</taxonomicName>
+</taxonomicName>
+, holotype female from Laos, Luang Nam Tha Province. 31-33 
+<taxonomicName _evidence="lexicon" _rankHash="526761711" authority="Dankittipakul" authorityName="Dankittipakul" genus="Clubiona" pageId="8" pageNumber="31" rank="species" species="abnormis">Clubiona abnormis Dankittipakul</taxonomicName>
+, 2008 from Champasak Province, That Fane. 28-32 Habitus (28, 31 dorsal, 29, 32 ventral, 30 frontal). 33 Epigyne, not cleared, ventral.
+</paragraph>
+</caption>
+</subSection>
+<treatment _generate="retained" lastPageId="9" lastPageNumber="32" pageId="8" pageNumber="31">
+<subSubSection _generate="added" pageId="8" pageNumber="31" type="nomenclature">
+<paragraph pageId="8" pageNumber="31" type="mainText">
+<taxonomicName _evidence="lexicon" _rankHash="1899556377" authority="Thorell" authorityName="Thorell" genus="Clubiona" pageId="8" pageNumber="31" rank="species" species="melanothele">Clubiona melanothele Thorell</taxonomicName>
+, 1895
+</paragraph>
+</subSubSection>
+<subSubSection _generate="added" pageId="8" pageNumber="31" type="description">
+<paragraph pageId="8" pageNumber="31" type="mainText">Figs 26, 34-36, 71</paragraph>
+</subSubSection>
+<subSubSection _generate="added" pageId="8" pageNumber="31" type="materials_examined">
+<paragraph pageId="8" pageNumber="31" type="mainText">
+<materialsCitation collectingDate="2010-03-02" collectingMethod="at night, by hand" collectionCode="SMF" collectorName="P. Jaeger, J. Martens" country="Laos" location="Lak Sao" specimenCode="60280" specimenCount="1" specimenCountFemale="1" stateProvince="Bolikhamsay Province">
+Material examined. 
+<collectingCountry value="Laos">LAOS</collectingCountry>
+: 
+<collectingRegion>Bolikhamsay Province</collectingRegion>
+: 
+<specimenCount type="generic">1 female</specimenCount>
+, 
+<location country="Laos" name="Lak Sao" stateProvince="Bolikhamsay Province">Lak Sao</location>
+, shrubs, 
+<collectingMethod>at night, by hand</collectingMethod>
+, 
+<date value="2010-03-02">
+<collectingDate value="2010-03-02">2 March 2010</collectingDate>
+</date>
+, 
+<collectorName>
+P. 
+<normalizedToken originalValue="Jäger" pageId="8" pageNumber="31">Jaeger</normalizedToken>
+</collectorName>
+&amp; 
+<collectorName _evidence="leading initial">J. Martens</collectorName>
+leg. (
+<collectionCode collectionName="Germany, Frankfurt-am-Main, Forschungsinstitut und Naturmuseum Senckenberg">SMF</collectionCode>
+<specimenCode>60280</specimenCode>
+, L90)
+</materialsCitation>
+.
+</paragraph>
+<paragraph pageId="8" pageNumber="31" type="mainText">
+<materialsCitation collectionCode="NHM" collectorName="Oates" country="Myanmar" location="Tharrawaddy" specimenCode="1895.9.21.75 - 6" specimenCount="1" specimenCountFemale="1" typeStatus="syntype">
+Material examined for comparison. 
+<specimenCount type="generic">1 female</specimenCount>
+<typeStatus>syntype</typeStatus>
+of 
+<taxonomicName _evidence="lexicon" _rankHash="490800775" genus="Clubiona" pageId="8" pageNumber="31" rank="species" species="melanothele">C. melanothele</taxonomicName>
+, 
+<collectingCountry value="Myanmar">BURMA</collectingCountry>
+: 
+<location country="Myanmar" name="Tharrawaddy">Tharrawaddy</location>
+, 
+<collectorName>Oates</collectorName>
+leg., 1895/217 (
+<collectionCode collectionName="United Kingdom, London, The Natural History Museum [formerly British Museum (Natural History)]">NHM</collectionCode>
+<specimenCode>1895.9.21.75-6</specimenCode>
+)
+</materialsCitation>
+.
+</paragraph>
+</subSubSection>
+<subSubSection _generate="added" pageId="9" pageNumber="32" type="discussion">
+<paragraph pageId="9" pageNumber="32" type="mainText">
+<pageBreakToken pageId="9" pageNumber="32" start="start">Gravely</pageBreakToken>
+(1931: fig. 16 
+<collectionCode>B</collectionCode>
+) and Deeleman-Reinhold (2001: figs 53-54) illustrated the female epigyne, the latter author included additionally a dorsal view of the vulva, but without the membranous posterior bursae (see Fig. 26) shown for a group of related species in Dankittipakul and Singtripop (2008a: 
+<taxonomicName _evidence="lexicon" _rankHash="301631953" genus="Clubiona" pageId="9" pageNumber="32" rank="species" species="suthepica">C. suthepica</taxonomicName>
+, fig. 60; 
+<taxonomicName _evidence="feedback" _rankHash="2132715445" genus="Clubiona" pageId="9" pageNumber="32" rank="species" species="octoginta">C. octoginta</taxonomicName>
+, fig. 47; 
+<taxonomicName _evidence="feedback" _rankHash="2011065173" genus="Clubiona" pageId="9" pageNumber="32" rank="species" species="campylacantha">C. campylacantha</taxonomicName>
+, fig. 40). Characteristic for 
+<taxonomicName _evidence="lexicon" _rankHash="490800775" genus="Clubiona" pageId="9" pageNumber="32" rank="species" species="melanothele">C. melanothele</taxonomicName>
+are the two dark sclerotised circular areas around the copulatory openings and the V-shaped structure in the centre of the epigyne (Figs 35-36). The three species from Thailand, listed above, do not show any of these characteristics, but a distinct anterior margin. Whether or not this species is a junior synoym of 
+<taxonomicName _evidence="lexicon" _rankHash="-2080801703" authority="Thorell" authorityName="Thorell" genus="Clubiona" pageId="9" pageNumber="32" rank="species" species="melanosticta">C. melanosticta Thorell</taxonomicName>
+, 1890, as supposed by Deeleman-Reinhold (2001) and mentioned in Dankittipakul and Singtripop (2008a) remains questionable. According to a comparison of illustrations in Zhang and Yin (1998: figs 1-5), Deeleman-Reinhold (2001: figs 51-54) and Dankittipakul and Singtripop (2008a: fig. 52-54), a species apparently close to 
+<taxonomicName _evidence="lexicon" _rankHash="490800775" genus="Clubiona" pageId="9" pageNumber="32" rank="species" species="melanothele">C. melanothele</taxonomicName>
+and 
+<taxonomicName _evidence="lexicon" _rankHash="-1982480981" genus="Clubiona" pageId="9" pageNumber="32" rank="species" species="melanosticta">C. melanosticta</taxonomicName>
+is 
+<taxonomicName _evidence="feedback" _rankHash="-1756821092" genus="Clubiona" pageId="9" pageNumber="32" rank="species" species="cirrulata">C. cirrulata</taxonomicName>
+Zhang and Yin, 1998 from China (Yunnan: Mengla). Another specimen probably belonging to this species-group is the female 
+<typeStatus>paratype</typeStatus>
+of 
+<taxonomicName _evidence="lexicon" _rankHash="239076430" authority="Zhang &amp; Yin" authorityName="Zhang &amp; Yin" genus="Clubiona" pageId="9" pageNumber="32" rank="species" species="transversa">C. transversa Zhang &amp; Yin</taxonomicName>
+, 1998 (Zhang &amp; Yin 1998: figs 16-17) (see also note under 
+<taxonomicName _evidence="label" _rankHash="1961694966" genus="Clubiona" pageId="9" pageNumber="32" rank="species" species="kuu">C. 
+<taxonomicName _evidence="dynamicLexicon" _rankHash="1643560560" authority="spec" authorityName="spec" genus="Clubiona" pageId="9" pageNumber="32" rank="species" species="kuu">kuu 
+<taxonomicNameLabel pageId="9" pageNumber="32" rank="species">
+<authority pageId="9" pageNumber="32">spec</authority>
+. nov.
+</taxonomicNameLabel>
+</taxonomicName>
+</taxonomicName>
+).
+</paragraph>
+</subSubSection>
+<subSubSection _generate="added" pageId="9" pageNumber="32" type="distribution">
+<paragraph pageId="9" pageNumber="32" type="mainText">First record for Laos (Fig. 71: 7).</paragraph>
+</subSubSection>
+</treatment>
+<subSection _generate="retained" pageId="9" pageNumber="32" type="multiple">
+<caption pageId="9" pageNumber="32">
+<paragraph pageId="9" pageNumber="32" type="caption">
+FIGURES 34-36. 
+<taxonomicName _evidence="lexicon" _rankHash="1899556377" authority="Thorell" authorityName="Thorell" genus="Clubiona" pageId="9" pageNumber="32" rank="species" species="melanothele">Clubiona melanothele Thorell</taxonomicName>
+, 1895, female from Bolikhamsay Province, Lak Sao. 34-35 Habitus (34 dorsal, 35 ventral). 36 Epigyne, not cleared, ventral.
+</paragraph>
+</caption>
+</subSection>
+<treatment _generate="retained" pageId="9" pageNumber="32">
+<subSubSection _generate="added" pageId="9" pageNumber="32" type="nomenclature">
+<paragraph pageId="9" pageNumber="32" type="mainText">
+<taxonomicName _evidence="lexicon" _rankHash="526761711" authority="Dankittipakul" authorityName="Dankittipakul" genus="Clubiona" pageId="9" pageNumber="32" rank="species" species="abnormis">Clubiona abnormis Dankittipakul</taxonomicName>
+, 2008
+</paragraph>
+</subSubSection>
+<subSubSection _generate="added" pageId="9" pageNumber="32" type="description">
+<paragraph pageId="9" pageNumber="32" type="mainText">Figs 27, 31-33, 71</paragraph>
+</subSubSection>
+<subSubSection _generate="added" pageId="9" pageNumber="32" type="materials_examined">
+<paragraph pageId="9" pageNumber="32" type="mainText">
+<materialsCitation collectingDate="2010-03-19" collectingMethod="at night, by hand" collectionCode="SMF" collectorName="P. Jaeger, J. Martens" country="Laos" elevation="952 m" latitude="15.18417" location="E of Pakse, Bolaven Plateau, Ban Lak 38, That Fane" longitude="106.126915" specimenCount="1" specimenCountFemale="1" stateProvince="Champasak Province">
+Material examined. 
+<collectingCountry value="Laos">LAOS</collectingCountry>
+: 
+<collectingRegion>Champasak Province</collectingRegion>
+: 
+<specimenCount type="generic">1 female</specimenCount>
+, 
+<location country="Laos" longitude="106.126915" name="E of Pakse, Bolaven Plateau, Ban Lak 38, That Fane" stateProvince="Champasak Province">E of Pakse, Bolaven Plateau, Ban Lak 38, That Fane</location>
+, 
+<geoCoordinate>
+N 15°11
+<normalizedToken originalValue="’03.0’" pageId="9" pageNumber="32">'03.0&quot;</normalizedToken>
+</geoCoordinate>
+, 
+<geoCoordinate direction="east" orientation="longitude" precision="1" value="106.126915">
+E 106°07
+<normalizedToken originalValue="’36.9’’" pageId="9" pageNumber="32">'36.9''</normalizedToken>
+</geoCoordinate>
+, 
+<quantity metricMagnitude="2" metricUnit="m" metricValue="9.52" unit="m" value="952.0">
+<elevation metricMagnitude="2" metricUnit="m" metricValue="9.52" unit="m" value="952.0">952 m</elevation>
+</quantity>
+altitude, coffee plantation, vegetation and leaf litter, 
+<collectingMethod>at night, by hand</collectingMethod>
+, 
+<date value="2010-03-19">
+<collectingDate value="2010-03-19">19 March 2010</collectingDate>
+</date>
+, 
+<collectorName>
+P. 
+<normalizedToken originalValue="Jäger" pageId="9" pageNumber="32">Jaeger</normalizedToken>
+</collectorName>
+&amp; 
+<collectorName>J. Martens</collectorName>
+leg. (
+<collectionCode collectionName="Germany, Frankfurt-am-Main, Forschungsinstitut und Naturmuseum Senckenberg">SMF</collectionCode>
+, L95)
+</materialsCitation>
+.
+</paragraph>
+</subSubSection>
+<subSubSection _generate="added" pageId="9" pageNumber="32" type="discussion">
+<paragraph pageId="9" pageNumber="32" type="mainText">
+Note. The species was described from Thailand (Nakhorn Ratchasima Province: Khao Yai National Park) by Dankittipakul (in Dankittipakul &amp; Sintripop 2008a). The placement in the japonica-group was uncertain due to the characters of copulatory organs. Generally, characters of the present female are congruent with those illustrated in the original description. The only differences are a paler pattern on dorsal opisthosoma (Fig. 31) and a kidneyshaped dilated terminal portion of spermathecal heads (Fig. 33; ovoid in figs 66-67 of Dankittipakul &amp; Singtripop 2008a). Despite these differences the female is considered as belonging to 
+<taxonomicName _evidence="lexicon" _rankHash="-1005164164" genus="Clubiona" pageId="9" pageNumber="32" rank="species" species="abnormis">C. abnormis</taxonomicName>
+. In the original description no spination pattern was provided, this is added below.
+</paragraph>
+</subSubSection>
+<subSubSection _generate="added" pageId="9" pageNumber="32" type="description">
+<paragraph pageId="9" pageNumber="32" type="mainText">Redescription. PL 2.75, OL 4.3. Spination: Pedipalp femur: 130, patella 020, tibia 2110, tarsus 1115; Femur I-II p001, d111, III-IV p001, d111, r001; Patella IV r010; Tibia I-II v220, III p110, r110, v110, IV p110, r110, v111; Metatarsus I-II v200, III p111, d010, r011, v204, IV p111, d010, r111, v214. Chelicerae with 3 anterior and 2 posterior teeth (Fig. 27). Scopulae on tarsi and metatarsi I-II distinct, in III-IV sparse. Tibiae I-II with two ventral rows of scopula hairs. Tarsi I-II with slightly reduced claw tufts. Opisthosomal colour pattern reduced especially in posterior half of opisthosoma (Fig. 31).</paragraph>
+</subSubSection>
+<subSubSection _generate="added" pageId="9" pageNumber="32" type="distribution">
+<paragraph pageId="9" pageNumber="32" type="mainText">
+First record for Laos (Fig. 
+<pageNumber ambiguity="6" fuzzyness="1" pageId="9" pageNumber="32" score="13" value="77">71</pageNumber>
+: 9).
+</paragraph>
+</subSubSection>
+</treatment>
+<subSection _generate="retained" pageId="10" pageNumber="33" type="multiple">
+<paragraph pageId="10" pageNumber="33" type="mainText">
+<pageBreakToken pageId="10" pageNumber="33" start="start">
+<taxonomicName _evidence="lexicon" _rankHash="1385003183" genus="Clubiona" pageId="10" pageNumber="33" rank="species" species="hystrix">hystrix</taxonomicName>
+</pageBreakToken>
+species-group
+</paragraph>
+</subSection>
+<treatment _generate="retained" lastPageId="null" lastPageNumber="35" pageId="10" pageNumber="33">
+<subSubSection _generate="added" pageId="10" pageNumber="33" type="nomenclature">
+<paragraph pageId="10" pageNumber="33" type="mainText">
+<taxonomicName _evidence="label" _rankHash="764423476" genus="Clubiona" pageId="10" pageNumber="33" rank="species" species="maipai">Clubiona 
+<taxonomicName _evidence="dynamicLexicon" _rankHash="-131377512" authority="spec" authorityName="spec" genus="Clubiona" pageId="10" pageNumber="33" rank="species" species="maipai">maipai 
+<taxonomicNameLabel pageId="10" pageNumber="33" rank="species">
+<authority pageId="10" pageNumber="33">spec</authority>
+. nov.
+</taxonomicNameLabel>
+</taxonomicName>
+</taxonomicName>
+</paragraph>
+</subSubSection>
+<subSubSection _generate="added" pageId="10" pageNumber="33" type="description">
+<paragraph pageId="10" pageNumber="33" type="mainText">
+Figs 
+<pageNumber ambiguity="6" fuzzyness="1" pageId="10" pageNumber="33" score="8" value="32">37</pageNumber>
+-45, 52-56, 71
+</paragraph>
+</subSubSection>
+<subSubSection _generate="added" pageId="10" pageNumber="33" type="materials_examined">
+<paragraph pageId="10" pageNumber="33" type="mainText">
+<materialsCitation collectingDate="2003-09-13" collectingMethod="by hand" collectionCode="SMF" collectorName="D. Kovac" country="Thailand" location="close to Ban Nam Rin" specimenCount="1" specimenCountMale="1" stateProvince="Mae Hong Son Province" typeStatus="Holotype">
+Type material: 
+<typeStatus>Holotype</typeStatus>
+: male, 
+<collectingCountry value="Thailand">THAILAND</collectingCountry>
+: 
+<collectingRegion>Mae Hong Son Province</collectingRegion>
+: 
+<location country="Thailand" name="close to Ban Nam Rin" stateProvince="Mae Hong Son Province">close to Ban Nam Rin</location>
+, logged bamboo, 
+<collectingMethod>by hand</collectingMethod>
+, 
+<date value="2003-09-13">
+<collectingDate value="2003-09-13">13 September 2003</collectingDate>
+</date>
+, 
+<collectorName _evidence="leading initial">D. Kovac</collectorName>
+leg. (
+<collectionCode collectionName="Germany, Frankfurt-am-Main, Forschungsinstitut und Naturmuseum Senckenberg">SMF</collectionCode>
+)
+</materialsCitation>
+.
+</paragraph>
+<paragraph pageId="10" pageNumber="33" type="mainText">
+<materialsCitation collectingDate="2003-09" collectingMethod="by hand" collectionCode="SMF" country="Thailand" location="close to Ban Nam Rin" specimenCount="16" specimenCountFemale="8" specimenCountMale="8" stateProvince="Mae Hong Son Province" typeStatus="Paratype">
+<typeStatus>Paratypes</typeStatus>
+: 8 males, 8 females, same locality as holotype, 
+<date value="2003-09">
+<collectingDate value="2003-09">September 2003</collectingDate>
+</date>
+(
+<collectionCode collectionName="Germany, Frankfurt-am-Main, Forschungsinstitut und Naturmuseum Senckenberg">SMF</collectionCode>
+)
+</materialsCitation>
+<materialsCitation collectingDate="2003-09" collectingMethod="by hand" collectionCode="MHNG" country="Thailand" location="close to Ban Nam Rin" specimenCount="2" specimenCountFemale="1" specimenCountMale="1" stateProvince="Mae Hong Son Province" typeStatus="Paratype">
+, 
+<specimenCount type="generic">1 male</specimenCount>
+, 
+<specimenCount type="generic">1 female</specimenCount>
+, dito (
+<collectionCode collectionName="Switzerland, Geneva, Museum d'Histoire Naturelle">MHNG</collectionCode>
+)
+</materialsCitation>
+.
+</paragraph>
+<paragraph pageId="10" pageNumber="33" type="mainText">
+<materialsCitation collectingDate="1991-07-01" collectionCode="SMF" collectorName="Damir Kovac" country="Malaysia" location="Malay peninsula, Gombak Research Station N of Kuala Lumpur" specimenCode="60487" specimenCount="2" specimenCountFemale="1" specimenCountMale="1" typeStatus="paratype">
+Additional material examined for comparison. 
+<specimenCount type="generic">1 male</specimenCount>
+, 
+<specimenCount type="generic">1 female</specimenCount>
+<typeStatus>paratype</typeStatus>
+of 
+<taxonomicName _evidence="lexicon" _rankHash="2016092228" authority="Deeleman-Reinhold" authorityName="Deeleman-Reinhold" genus="Clubiona" pageId="10" pageNumber="33" rank="species" species="damirkovaci">Clubiona damirkovaci Deeleman-Reinhold</taxonomicName>
+, 2001, 
+<collectingCountry value="Malaysia">MALAYSIA</collectingCountry>
+: 
+<location country="Malaysia" name="Malay peninsula, Gombak Research Station N of Kuala Lumpur">Malay peninsula, Gombak Research Station N of Kuala Lumpur</location>
+, from bamboo internodes, 
+<date value="1991-07-01">
+<collectingDate value="1991-07-01">1 July 1991</collectingDate>
+</date>
+, 
+<collectorName>Damir Kovac</collectorName>
+leg. (
+<collectionCode collectionName="Germany, Frankfurt-am-Main, Forschungsinstitut und Naturmuseum Senckenberg">SMF</collectionCode>
+<specimenCode>60487</specimenCode>
+)
+</materialsCitation>
+.
+</paragraph>
+</subSubSection>
+<subSubSection _generate="added" pageId="10" pageNumber="33" type="etymology">
+<paragraph pageId="10" pageNumber="33" type="mainText">
+Etymology. The species name is derived from the Thai and Lao word 
+<normalizedToken originalValue="“mâipai”" pageId="10" pageNumber="33">&quot;maipai&quot;</normalizedToken>
+, meaning 
+<normalizedToken originalValue="“bamboo”" pageId="10" pageNumber="33">&quot;bamboo&quot;</normalizedToken>
+, referring to the habitat where the 
+<typeStatus>type</typeStatus>
+series was collected by the bamboo researcher Damir Kovac; term in apposition.
+</paragraph>
+</subSubSection>
+<subSubSection _generate="added" pageId="10" pageNumber="33" type="diagnosis">
+<paragraph pageId="10" pageNumber="33" type="mainText">
+Diagnosis. Small sized 
+<taxonomicName _rankHash="73933435" pageId="10" pageNumber="33" rank="subFamily" subFamily="Clubioninae">Clubioninae</taxonomicName>
+with body length of males 
+<quantity metricMagnitude="-2" metricUnit="m" metricValue="5.5" metricValueMax="6.1" metricValueMin="4.9" unit="mm" value="55.0" valueMax="61.0" valueMin="49.0">4.9-6.1 mm</quantity>
+(Figs 52-53) and of females 
+<quantity metricMagnitude="-2" metricUnit="m" metricValue="6.55" metricValueMax="7.6" metricValueMin="5.5" unit="mm" value="65.5" valueMax="76.0" valueMin="55.0">5.5- 7.6 mm</quantity>
+(Figs 54-55), belonging to the 
+<taxonomicName _evidence="lexicon" _rankHash="1385003183" genus="Clubiona" pageId="10" pageNumber="33" rank="species" species="hystrix">hystrix</taxonomicName>
+species-group. Closely related to 
+<taxonomicName _evidence="lexicon" _rankHash="2016092228" authority="Deeleman-Reinhold" authorityName="Deeleman-Reinhold" genus="Clubiona" pageId="10" pageNumber="33" rank="species" species="damirkovaci">Clubiona damirkovaci Deeleman-Reinhold</taxonomicName>
+, 2001 and 
+<taxonomicName _evidence="label" _rankHash="1961694966" genus="Clubiona" pageId="10" pageNumber="33" rank="species" species="kuu">C. 
+<taxonomicName _evidence="dynamicLexicon" _rankHash="1643560560" authority="spec" authorityName="spec" genus="Clubiona" pageId="10" pageNumber="33" rank="species" species="kuu">kuu 
+<taxonomicNameLabel pageId="10" pageNumber="33" rank="species">
+<authority pageId="10" pageNumber="33">spec</authority>
+. nov.
+</taxonomicNameLabel>
+</taxonomicName>
+</taxonomicName>
+Males can be distinguished from both species by 1) the narrow and short base of RTA in retrolateral view (Fig. 38; narrow and long in 
+<taxonomicName _evidence="lexicon" _rankHash="-1343999655" genus="Clubiona" pageId="10" pageNumber="33" rank="species" species="damirkovaci">C. damirkovaci</taxonomicName>
+, wide and short in 
+<taxonomicName _evidence="label" _rankHash="1961694966" genus="Clubiona" pageId="10" pageNumber="33" rank="species" species="kuu">C. 
+<taxonomicName _evidence="dynamicLexicon" _rankHash="1643560560" authority="spec" authorityName="spec" genus="Clubiona" pageId="10" pageNumber="33" rank="species" species="kuu">kuu 
+<taxonomicNameLabel pageId="10" pageNumber="33" rank="species">
+<authority pageId="10" pageNumber="33">spec</authority>
+. nov.
+</taxonomicNameLabel>
+</taxonomicName>
+</taxonomicName>
+), 2) the small but distinct distal tegular hump (Fig. 37; indistinct in 
+<taxonomicName _evidence="lexicon" _rankHash="-1343999655" genus="Clubiona" pageId="10" pageNumber="33" rank="species" species="damirkovaci">C. damirkovaci</taxonomicName>
+, developed more prominent in 
+<taxonomicName _evidence="label" _rankHash="1961694966" genus="Clubiona" pageId="10" pageNumber="33" rank="species" species="kuu">C. 
+<taxonomicName _evidence="dynamicLexicon" _rankHash="1643560560" authority="spec" authorityName="spec" genus="Clubiona" pageId="10" pageNumber="33" rank="species" species="kuu">kuu 
+<taxonomicNameLabel pageId="10" pageNumber="33" rank="species">
+<authority pageId="10" pageNumber="33">spec</authority>
+. nov.
+</taxonomicNameLabel>
+</taxonomicName>
+</taxonomicName>
+), 3) number and arrangement of cheliceral teeth, namely 6 (5-7) anterior and 4 (3-5) posterior teeth in a straight row (Fig. 41; 5 anterior and 4 posterior teeth in a straight row in 
+<taxonomicName _evidence="lexicon" _rankHash="-1343999655" genus="Clubiona" pageId="10" pageNumber="33" rank="species" species="damirkovaci">C. damirkovaci</taxonomicName>
+, 5 anterior and 3 posterior teeth with the two anterior and the distal posterior separated in 
+<taxonomicName _evidence="label" _rankHash="1961694966" genus="Clubiona" pageId="10" pageNumber="33" rank="species" species="kuu">C. 
+<taxonomicName _evidence="dynamicLexicon" _rankHash="1643560560" authority="spec" authorityName="spec" genus="Clubiona" pageId="10" pageNumber="33" rank="species" species="kuu">kuu 
+<taxonomicNameLabel pageId="10" pageNumber="33" rank="species">
+<authority pageId="10" pageNumber="33">spec</authority>
+. nov.
+</taxonomicNameLabel>
+</taxonomicName>
+</taxonomicName>
+). Females can be distinguished from those of 
+<taxonomicName _evidence="lexicon" _rankHash="-1343999655" genus="Clubiona" pageId="10" pageNumber="33" rank="species" species="damirkovaci">C. damirkovaci</taxonomicName>
+by the distinctly longer intromittent ducts (Figs 42-45), and from 
+<taxonomicName _evidence="lexicon" _rankHash="2023571151" authority="Chrysanthus" authorityName="Chrysanthus" genus="Clubiona" pageId="10" pageNumber="33" rank="species" species="papuana">C. papuana Chrysanthus</taxonomicName>
+, 1967 by the presence of glandular appendages at ventral anterior spermathecae (Fig. 42; absent in 
+<taxonomicName _evidence="lexicon" _rankHash="-1357712887" authority=", Chrysanthus" authorityName=", Chrysanthus" genus="Clubiona" pageId="10" pageNumber="33" rank="species" species="papuana">
+C. papuana
+<authority pageId="10" pageNumber="33">, Chrysanthus</authority>
+</taxonomicName>
+, 1967: figs 28-29) and by the fertilisation duct arising from anterior spermathecae (Fig. 43; arising from posterior spermathecae in 
+<taxonomicName _evidence="lexicon" _rankHash="1615534985" genus="Clubiona" pageId="10" pageNumber="33" rank="species" species="papuana">C. papuana</taxonomicName>
+).
+</paragraph>
+</subSubSection>
+<subSubSection _generate="added" lastPageId="null" lastPageNumber="35" pageId="10" pageNumber="33" type="description">
+<paragraph pageId="10" pageNumber="33" type="mainText">
+Description. Male (
+<typeStatus>holotype</typeStatus>
+). PL 2.6, PW 1.8, AW 1.1, OL 3.1, OW 1.3. Eye diametres (Fig. 40): 
+<collectionCode collectionName="USA, Florida, Gainesville, University of Florida, Florida Museum of Natural History, Allyn Museum">AME</collectionCode>
+0.18, ALE 0.16, PME 0.16, PLE 0.18. Eye interdistances: AME-AME 0.07, AME-ALE 0.02, PME-PME 0.25, PME-PLE 0.13, AME-PME 0.09, ALE-PLE 0.04, clypeus 
+<collectionCode collectionName="USA, Florida, Gainesville, University of Florida, Florida Museum of Natural History, Allyn Museum">AME</collectionCode>
+0.02, clypeus ALE 0.03. Leg and pedipalp measurements: pedipalp 2.14 (0.80, 0.33, 0.30, -, 0.71); leg I 5.85 (1.7, 0.9, 1.6, 1.15, 0.5); leg II 7.2 (2.1, 1.0, 2.15, 1.4, 0.55); leg III 5.55 (1.7, 9.65, 1.3, 1.4, 0.5); leg IV 8.1 (2.3, 0.85, 1.9, 2.35, 0.7). Leg formula. 4213. Spination: Pedipalp: femur 130, patella 020, tibia 2102, tarsus 1102; Femur I p011, d111, r011, II p011, d111, r001, III p011, d111, r011, IV p001, d111, r001; Patella IV r010; Tibia I-II v220, III p011, r011, v210, IV p102, r102, v203; Metatarsus I-II v200, III p011, r011, v120, IV p112, r112, v113.
+</paragraph>
+<paragraph pageId="10" pageNumber="33" type="mainText">Chelicerae with frontal bulge, cheliceral furrow with 6 anterior and 4 tiny posterior teeth (Fig. 41). Metatarsi and tibiae I-II with two scopulae bands ventrally. Tarsi I-II with reduced claw tufts. Spinnerets and anal tubercle elongated.</paragraph>
+<paragraph pageId="10" pageNumber="33" type="mainText">Palp as in diagnosis. Tibia diverging distally in retrolateral view. Cymbium distinctly longer than tibia, with less sclerotised ridge retrolatero-distally (probably functional conductor). Small part of subtegulum visible prolatero-proximally. Distal RTA thin and spine-like. Embolus arising prolatero-distally from tegulum, its basal part wide, narrowing to filiform tip. Sperm duct running an elongated loop (Figs 37-39).</paragraph>
+<paragraph pageId="10" pageNumber="33" type="mainText">Colour in ethanol (Figs 52-53). Pale yellowish brown without colour pattern, dorsal prosoma and chelicerae a bit darker, sternum marginally darker.</paragraph>
+<paragraph pageId="10" pageNumber="33" type="mainText">
+Female (
+<typeStatus>paratype</typeStatus>
+, 
+<collectionCode collectionName="Germany, Frankfurt-am-Main, Forschungsinstitut und Naturmuseum Senckenberg">SMF</collectionCode>
+). PL 2.8, PW 2.1, AW 1.35, OL 3.5, OW 1.5. Eye diametres: 
+<collectionCode collectionName="USA, Florida, Gainesville, University of Florida, Florida Museum of Natural History, Allyn Museum">AME</collectionCode>
+0.17, ALE 0.18, PME 0.17, PLE 0.15. Eye interdistances: AME-AME 0.10, AME-ALE 0.05, PME-PME 0.28, PME-PLE 0.15, AME-PME 0.11, ALE-PLE 0.07, clypeus 
+<collectionCode collectionName="USA, Florida, Gainesville, University of Florida, Florida Museum of Natural History, Allyn Museum">AME</collectionCode>
+0.03, clypeus ALE 0.04. Leg and pedipalp measurements: pedipalp 2.31 (0.77, 0.37, 0.52, -, 0.65); leg I 6.0 (1.8, 0.9, 1.6, 1.15, 0.55); leg II 7.25 (2.1, 1.05, 2.1, 1.4, 0.6); leg III 5.8 (1.8, 0.7, 1.3, 1.4, 0.6); leg IV 8.55 (2.5, 0.7, 2.1, 2.45, 0.8). Leg formula. 4213. Spination: Pedipalp: femur 130, patella 010, tibia 2212, tarsus 1013; Femur I p011, d011, II p011, d111, III p011, d111, r001, IV p001, d111, r001; Patella 0; Tibia I-II v220, III p011, r011, v110, IV p011, r011, v110; Metatarsus I-II v200, III p111, r101, v203, IV p111, r111, v113.
+</paragraph>
+<caption pageId="11" pageNumber="34">
+<paragraph pageId="11" pageNumber="34" type="caption">
+<pageBreakToken pageId="11" pageNumber="34" start="start">FIGURES</pageBreakToken>
+<pageNumber ambiguity="6" fuzzyness="1" pageId="11" pageNumber="34" score="6" value="31">37</pageNumber>
+-45. 
+<taxonomicName _evidence="label" _rankHash="764423476" genus="Clubiona" pageId="11" pageNumber="34" rank="species" species="maipai">Clubiona 
+<taxonomicName _evidence="dynamicLexicon" _rankHash="-131377512" authority="spec" authorityName="spec" genus="Clubiona" pageId="11" pageNumber="34" rank="species" species="maipai">maipai 
+<taxonomicNameLabel pageId="11" pageNumber="34" rank="species">
+<authority pageId="11" pageNumber="34">spec</authority>
+. nov.
+</taxonomicNameLabel>
+</taxonomicName>
+</taxonomicName>
+from Thailand, Mae Hong Son Province, Ban Nam Rin (37-41 
+<typeStatus>holotype</typeStatus>
+male, 42-
+<specimenCount type="generic">45 female</specimenCount>
+<typeStatus>paratypes</typeStatus>
+). 37-39 Left palp (37 ventral, 38 retrolateral, 39 dorsal). 40 Eye arrangement, dorsal. 41 Labium, left chelicera and gnathocoxa, ventral. 42, 45 Epigyne, ventral (42 cleared, 45 uncleared). 43 Vulva, dorsal. 44 Schematic course of internal duct system, dorsal.
+</paragraph>
+</caption>
+<paragraph pageId="null" pageNumber="35" type="mainText">
+<pageBreakToken pageId="null" pageNumber="35" start="start">Spinnerets</pageBreakToken>
+and anal tubercle elongated.
+</paragraph>
+<paragraph pageId="null" pageNumber="35" type="mainText">Copulatory organ as in diagnosis. Copulatory openings situated at two small transversal ridges in posterior epigyne. Posterior margin of epigyne medially only slightly bulged. One slit sense organ anterior of epigyne (Fig. 42). Intromittent ducts running from openings parallel and slightly converging, turning between anterior spermathecae at an angle of 180° to the ventral side, coiling and being discharged into posterior spermathecae. Anterior spermathecae slightly smaller than posterior ones, antero-mediad. Fertilisation ducts antero-laterad (Fig. 43). U- shaped parts of intromittent ducts in ventral view varying in length (Figs 42, 45).</paragraph>
+<paragraph pageId="null" pageNumber="35" type="mainText">Colour in ethanol (Figs 54-55). As in male.</paragraph>
+</subSubSection>
+<subSubSection _generate="added" pageId="null" pageNumber="35" type="distribution">
+<paragraph pageId="null" pageNumber="35" type="mainText">
+Distribution. Known only from the 
+<typeStatus>type</typeStatus>
+locality (Fig. 71: 10).
+</paragraph>
+</subSubSection>
+</treatment>
+<treatment _generate="retained" lastPageId="13" lastPageNumber="37" pageId="null" pageNumber="35">
+<subSubSection _generate="added" pageId="null" pageNumber="35" type="nomenclature">
+<paragraph pageId="null" pageNumber="35" type="mainText">
+<taxonomicName _evidence="label" _rankHash="-2012732454" genus="Clubiona" pageId="null" pageNumber="35" rank="species" species="kuu">Clubiona 
+<taxonomicName _evidence="dynamicLexicon" _rankHash="1643560560" authority="spec" authorityName="spec" genus="Clubiona" pageId="null" pageNumber="35" rank="species" species="kuu">kuu 
+<taxonomicNameLabel pageId="null" pageNumber="35" rank="species">
+<authority pageId="null" pageNumber="35">spec</authority>
+. nov.
+</taxonomicNameLabel>
+</taxonomicName>
+</taxonomicName>
+</paragraph>
+</subSubSection>
+<subSubSection _generate="added" pageId="null" pageNumber="35" type="description">
+<paragraph pageId="null" pageNumber="35" type="mainText">Figs 46-50, 57-60, 71-72</paragraph>
+</subSubSection>
+<subSubSection _generate="added" pageId="null" pageNumber="35" type="materials_examined">
+<paragraph pageId="null" pageNumber="35" type="mainText">
+<materialsCitation collectingDate="2006-03-08" collectingMethod="by hand, at night" collectionCode="SMF" collectorName="P. Jaeger &amp; J. Altmann" country="Laos" elevation="372 m" latitude="19.682716" location="SE Luang Prabang, Nam Khan, Ban Keng Koung" longLatPrecision="0" longitude="102.307365" specimenCount="1" specimenCountMale="1" stateProvince="Luang Prabang Province" typeStatus="Holotype">
+Type material: 
+<typeStatus>Holotype</typeStatus>
+: male, 
+<collectingCountry value="Laos">LAOS</collectingCountry>
+: 
+<collectingRegion>Luang Prabang Province</collectingRegion>
+: 
+<location country="Laos" latitude="19.682716" longLatPrecision="0" longitude="102.307365" name="SE Luang Prabang, Nam Khan, Ban Keng Koung" stateProvince="Luang Prabang Province">SE Luang Prabang, Nam Khan, Ban Keng Koung</location>
+, 
+<quantity metricMagnitude="2" metricUnit="m" metricValue="3.72" unit="m" value="372.0">
+<elevation metricMagnitude="2" metricUnit="m" metricValue="3.72" unit="m" value="372.0">372 m</elevation>
+</quantity>
+altitude, 
+<geoCoordinate direction="north" orientation="latitude" precision="0" value="19.682716">N 19°40.963'</geoCoordinate>
+, 
+<geoCoordinate direction="east" orientation="longitude" precision="0" value="102.307365">E 102°18.442'</geoCoordinate>
+, along stream, disturbed forest, cultivated land, at tree bark, 
+<collectingMethod>by hand, at night</collectingMethod>
+, 
+<date value="2006-03-08">
+<collectingDate value="2006-03-08">8 March 2006</collectingDate>
+</date>
+, 
+<collectorName _evidence="leading initial">
+P. 
+<normalizedToken originalValue="Jäger" pageId="null" pageNumber="35">Jaeger</normalizedToken>
+&amp; J. Altmann
+</collectorName>
+leg. (
+<collectionCode collectionName="Germany, Frankfurt-am-Main, Forschungsinstitut und Naturmuseum Senckenberg">SMF</collectionCode>
+, L15)
+</materialsCitation>
+.
+</paragraph>
+<paragraph pageId="null" pageNumber="35" type="mainText">
+<materialsCitation collectingDate="2008-02-29" collectingMethod="at night, by hand" collectionCode="SMF" collectorName="P. Jaeger" country="Laos" elevation="373 m" latitude="20.551367" location="Nam Ou, Nong Khiao, Tham Pathok" longLatPrecision="0" longitude="102.63208" specimenCount="1" specimenCountMale="1" stateProvince="Luang Prabang Province" typeStatus="Paratype">
+<typeStatus>Paratype</typeStatus>
+: 
+<specimenCount type="generic">1 male</specimenCount>
+, 
+<collectingCountry value="Laos">LAOS</collectingCountry>
+: 
+<collectingRegion>Luang Prabang Province</collectingRegion>
+: 
+<location country="Laos" latitude="20.551367" longLatPrecision="0" longitude="102.63208" name="Nam Ou, Nong Khiao, Tham Pathok" stateProvince="Luang Prabang Province">Nam Ou, Nong Khiao, Tham Pathok</location>
+, 
+<quantity metricMagnitude="2" metricUnit="m" metricValue="3.7299999999999995" unit="m" value="373.0">
+<elevation metricMagnitude="2" metricUnit="m" metricValue="3.7299999999999995" unit="m" value="373.0">373 m</elevation>
+</quantity>
+altitude, 
+<geoCoordinate direction="north" orientation="latitude" precision="0" value="20.551367">N 20°33.082'</geoCoordinate>
+, 
+<geoCoordinate direction="east" orientation="longitude" precision="0" value="102.63208">E 102° 37.925'</geoCoordinate>
+, in front of cave, bananas, trees, bushes, 
+<collectingMethod>at night, by hand</collectingMethod>
+, 
+<date value="2008-02-29">
+<collectingDate value="2008-02-29">29 February 2008</collectingDate>
+</date>
+, 
+<collectorName _evidence="leading initial">
+P. 
+<normalizedToken originalValue="Jäger" pageId="null" pageNumber="35">Jaeger</normalizedToken>
+</collectorName>
+leg. (
+<collectionCode collectionName="Germany, Frankfurt-am-Main, Forschungsinstitut und Naturmuseum Senckenberg">SMF</collectionCode>
+, L7)
+</materialsCitation>
+.
+</paragraph>
+<paragraph pageId="null" pageNumber="35" type="mainText">
+<materialsCitation collectingDate="1991-07-01" collectionCode="SMF" collectorName="Damir Kovac" country="Malaysia" location="Malay peninsula, Gombak Research Station N of Kuala Lumpur" specimenCode="60487" specimenCount="2" specimenCountFemale="1" specimenCountMale="1" typeStatus="paratype">
+Additional material examined for comparison. 
+<specimenCount type="generic">1 male</specimenCount>
+, 
+<specimenCount type="generic">1 female</specimenCount>
+<typeStatus>paratype</typeStatus>
+of 
+<taxonomicName _evidence="lexicon" _rankHash="2016092228" authority="Deeleman-Reinhold" authorityName="Deeleman-Reinhold" genus="Clubiona" pageId="null" pageNumber="35" rank="species" species="damirkovaci">Clubiona damirkovaci Deeleman-Reinhold</taxonomicName>
+, 2001: 
+<collectingCountry value="Malaysia">MALAYSIA</collectingCountry>
+: 
+<location country="Malaysia" name="Malay peninsula, Gombak Research Station N of Kuala Lumpur">
+Malay peninsula, 
+<misspelling corrections="[Ljava.lang.String;@1a09081" pageId="null" pageNumber="35" type="misspelled">Gombak</misspelling>
+Research Station N of Kuala Lumpur
+</location>
+, from bamboo internodes, 
+<date value="1991-07-01">
+<collectingDate value="1991-07-01">1 July 1991</collectingDate>
+</date>
+, 
+<collectorName>Damir Kovac</collectorName>
+leg. (
+<collectionCode collectionName="Germany, Frankfurt-am-Main, Forschungsinstitut und Naturmuseum Senckenberg">SMF</collectionCode>
+<specimenCode>60487</specimenCode>
+)
+</materialsCitation>
+.
+</paragraph>
+</subSubSection>
+<subSubSection _generate="added" pageId="null" pageNumber="35" type="etymology">
+<paragraph pageId="null" pageNumber="35" type="mainText">
+Etymology. The species name is derived from the Lao word 
+<normalizedToken originalValue="“kuu”" pageId="null" pageNumber="35">&quot;kuu&quot;</normalizedToken>
+, meaning &quot;to threaten&quot;, referring to the threatened habitats by the human overpopulation; term in apposition.
+</paragraph>
+</subSubSection>
+<subSubSection _generate="added" pageId="null" pageNumber="35" type="diagnosis">
+<paragraph pageId="null" pageNumber="35" type="mainText">
+Diagnosis. Small sized 
+<taxonomicName _rankHash="73933435" pageId="null" pageNumber="35" rank="subFamily" subFamily="Clubioninae">Clubioninae</taxonomicName>
+with body length of males 
+<quantity metricMagnitude="-2" metricUnit="m" metricValue="4.3" unit="mm" value="43.0">4.3 mm</quantity>
+(Figs 57-58), belonging to the 
+<taxonomicName _evidence="lexicon" _rankHash="1385003183" genus="Clubiona" pageId="null" pageNumber="35" rank="species" species="hystrix">hystrix</taxonomicName>
+species-group. Closely related to 
+<taxonomicName _evidence="lexicon" _rankHash="2016092228" authority="Deeleman-Reinhold" authorityName="Deeleman-Reinhold" genus="Clubiona" pageId="null" pageNumber="35" rank="species" species="damirkovaci">Clubiona damirkovaci Deeleman-Reinhold</taxonomicName>
+, 2001 and 
+<taxonomicName _evidence="label" _rankHash="-726723432" genus="Clubiona" pageId="null" pageNumber="35" rank="species" species="maipai">C. 
+<taxonomicName _evidence="dynamicLexicon" _rankHash="-131377512" authority="spec" authorityName="spec" genus="Clubiona" pageId="null" pageNumber="35" rank="species" species="maipai">maipai 
+<taxonomicNameLabel pageId="null" pageNumber="35" rank="species">
+<authority pageId="null" pageNumber="35">spec</authority>
+. nov.
+</taxonomicNameLabel>
+</taxonomicName>
+</taxonomicName>
+Males can be distinguished by 1) smaller size, 2) the wide and short base of RTA in retrolateral view (Fig. 47; narrow and long in 
+<taxonomicName _evidence="lexicon" _rankHash="-1343999655" genus="Clubiona" pageId="null" pageNumber="35" rank="species" species="damirkovaci">C. damirkovaci</taxonomicName>
+, narrow and short in 
+<taxonomicName _evidence="label" _rankHash="-726723432" genus="Clubiona" pageId="null" pageNumber="35" rank="species" species="maipai">C. 
+<taxonomicName _evidence="dynamicLexicon" _rankHash="-131377512" authority="spec" authorityName="spec" genus="Clubiona" pageId="null" pageNumber="35" rank="species" species="maipai">maipai 
+<taxonomicNameLabel pageId="null" pageNumber="35" rank="species">
+<authority pageId="null" pageNumber="35">spec</authority>
+. nov.
+</taxonomicNameLabel>
+</taxonomicName>
+</taxonomicName>
+), 3) the prominent tegular hump (Fig. 46; indistinct in 
+<taxonomicName _evidence="lexicon" _rankHash="-1343999655" genus="Clubiona" pageId="null" pageNumber="35" rank="species" species="damirkovaci">C. damirkovaci</taxonomicName>
+, distinct, but smaller in 
+<taxonomicName _evidence="label" _rankHash="-726723432" genus="Clubiona" pageId="null" pageNumber="35" rank="species" species="maipai">C. 
+<taxonomicName _evidence="dynamicLexicon" _rankHash="-131377512" authority="spec" authorityName="spec" genus="Clubiona" pageId="null" pageNumber="35" rank="species" species="maipai">maipai 
+<taxonomicNameLabel pageId="null" pageNumber="35" rank="species">
+<authority pageId="null" pageNumber="35">spec</authority>
+. nov.
+</taxonomicNameLabel>
+</taxonomicName>
+</taxonomicName>
+), 4) number and arrangement of cheliceral teeth, namely 5 anterior and 3 posterior teeth with the distal two anterior and the distal posterior separated (Fig. 51; 5 anterior and 4 posterior teeth in a continuous, straight row in 
+<taxonomicName _evidence="lexicon" _rankHash="-1343999655" genus="Clubiona" pageId="null" pageNumber="35" rank="species" species="damirkovaci">C. damirkovaci</taxonomicName>
+, 6 (5-7) anterior and 4 (3-5) posterior teeth in a continuous, straight row in 
+<taxonomicName _evidence="label" _rankHash="-726723432" genus="Clubiona" pageId="null" pageNumber="35" rank="species" species="maipai">C. 
+<taxonomicName _evidence="dynamicLexicon" _rankHash="-131377512" authority="spec" authorityName="spec" genus="Clubiona" pageId="null" pageNumber="35" rank="species" species="maipai">maipai 
+<taxonomicNameLabel pageId="null" pageNumber="35" rank="species">
+<authority pageId="null" pageNumber="35">spec</authority>
+. nov.
+</taxonomicNameLabel>
+</taxonomicName>
+</taxonomicName>
+).
+</paragraph>
+</subSubSection>
+<subSubSection _generate="added" pageId="null" pageNumber="35" type="discussion">
+<paragraph pageId="null" pageNumber="35" type="mainText">
+Note. The male of 
+<taxonomicName _evidence="lexicon" _rankHash="-184781910" authority="Zhang" authorityName="Zhang" genus="Clubiona" pageId="null" pageNumber="35" rank="species" species="transversa">C. transversa Zhang</taxonomicName>
+and Yin, 1998 resembles that of 
+<taxonomicName _evidence="label" _rankHash="1961694966" genus="Clubiona" pageId="null" pageNumber="35" rank="species" species="kuu">C. 
+<taxonomicName _evidence="dynamicLexicon" _rankHash="1643560560" authority="spec" authorityName="spec" genus="Clubiona" pageId="null" pageNumber="35" rank="species" species="kuu">kuu 
+<taxonomicNameLabel pageId="null" pageNumber="35" rank="species">
+<authority pageId="null" pageNumber="35">spec</authority>
+. nov.
+</taxonomicNameLabel>
+</taxonomicName>
+</taxonomicName>
+Shape of tegulum, embolus and distal tegular bulge including the course of the sperm duct show striking similarities with males of the 
+<taxonomicName _evidence="lexicon" _rankHash="1385003183" genus="Clubiona" pageId="null" pageNumber="35" rank="species" species="hystrix">hystrix</taxonomicName>
+species-group. However, the RTA lacks in the original description the fine distal part as shown for 
+<taxonomicName _evidence="label" _rankHash="-726723432" genus="Clubiona" pageId="null" pageNumber="35" rank="species" species="maipai">C. 
+<taxonomicName _evidence="dynamicLexicon" _rankHash="-131377512" authority="spec" authorityName="spec" genus="Clubiona" pageId="null" pageNumber="35" rank="species" species="maipai">maipai 
+<taxonomicNameLabel pageId="null" pageNumber="35" rank="species">
+<authority pageId="null" pageNumber="35">spec</authority>
+. nov.
+</taxonomicNameLabel>
+</taxonomicName>
+</taxonomicName>
+and 
+<taxonomicName _evidence="label" _rankHash="1961694966" genus="Clubiona" pageId="null" pageNumber="35" rank="species" species="kuu">C. 
+<taxonomicName _evidence="dynamicLexicon" _rankHash="1643560560" authority="spec" authorityName="spec" genus="Clubiona" pageId="null" pageNumber="35" rank="species" species="kuu">kuu 
+<taxonomicNameLabel pageId="null" pageNumber="35" rank="species">
+<authority pageId="null" pageNumber="35">spec</authority>
+. nov.
+</taxonomicNameLabel>
+</taxonomicName>
+</taxonomicName>
+This tiny tip can either have been overlooked, have been confused with a hair or bristle, or simply have been broken off. Apparently the female 
+<typeStatus>holotype</typeStatus>
+of that species might be not conspecific with the male 
+<typeStatus>paratype</typeStatus>
+, as it shows a completely different bauplan than females of other species of the 
+<taxonomicName _evidence="lexicon" _rankHash="1385003183" genus="Clubiona" pageId="null" pageNumber="35" rank="species" species="hystrix">hystrix</taxonomicName>
+species-group (see note under 
+<taxonomicName _evidence="lexicon" _rankHash="490800775" genus="Clubiona" pageId="null" pageNumber="35" rank="species" species="melanothele">C. melanothele</taxonomicName>
+).
+</paragraph>
+</subSubSection>
+<subSubSection _generate="added" lastPageId="13" lastPageNumber="37" pageId="null" pageNumber="35" type="description">
+<paragraph pageId="null" pageNumber="35" type="mainText">
+Description. Male (
+<typeStatus>holotype</typeStatus>
+). PL 2.0, PW 1.5, AW 0.9, OL 2.3, OW 1.4. Eye diametres (Figs 49-50): 
+<collectionCode collectionName="USA, Florida, Gainesville, University of Florida, Florida Museum of Natural History, Allyn Museum">AME</collectionCode>
+0.13, ALE 0.14, PME 0.12, PLE 0.13. Eye interdistances: AME-AME 0.08, AME-ALE 0.02, PME-PME 0.22, PME-PLE 0.11, AME-PME 0.10, ALE-PLE 0.04, clypeus 
+<collectionCode collectionName="USA, Florida, Gainesville, University of Florida, Florida Museum of Natural History, Allyn Museum">AME</collectionCode>
+0.04, clypeus ALE 0.03. Leg and pedipalp measurements: pedipalp 1.77 (0.63, 0.28, 0.26, -, 0.60); leg I 4.25 (1.2, 0.7, 1.1, 0.8, 0.45); leg II 4.6 (1.3, 0.75, 1.25, 0.85, 0.45); leg III 4.0 (1.1, 0.6, 0.85, 0.95, 0.5); leg IV 5.55 (1.5, 0.7, 1.35, 1.4, 0.6). Leg formula. 4213. Spination: Pedipalp femur: 130, patella 010, tibia 21(thin)01, tarsus 1002; Femur I p001, d111, r01(0)0, II p001, d111, III p001, d111, r001, IV p001, d111, r001; Patella IV r010; Tibia I-II v220, III p100, r100, v010, IV p110, r110, v110; Metatarsus II v100, III p111, r101, v203, IV p111, r101, v123.
+</paragraph>
+<paragraph pageId="null" pageNumber="35" type="mainText">Clypeus with sclerotised margin, chelicerae with distinct frontal bulge (Fig. 59), cheliceral furrow with 5 anterior and 3 smaller posterior teeth (Fig. 51). Tarsi and metatarsi with sparse scopulae, tibiae I-II with two bands of sparse scopulae ventrally. Tarsi I-II with reduced claw tufts. Spinnerets and anal tubercle elongated.</paragraph>
+<paragraph pageId="null" pageNumber="35" type="mainText">
+Palp as in diagnosis. Tibia diverging distally only slightly in retrolateral view. Cymbium distinctly longer than tibia, with less sclerotised ridge 
+<misspelling corrections="[Ljava.lang.String;@6f1c8e" pageId="null" pageNumber="35" type="misspelled">retrolatero-distally</misspelling>
+than in 
+<taxonomicName _evidence="label" _rankHash="-726723432" genus="Clubiona" pageId="null" pageNumber="35" rank="species" species="maipai">C. 
+<taxonomicName _evidence="dynamicLexicon" _rankHash="-131377512" authority="spec" authorityName="spec" genus="Clubiona" pageId="null" pageNumber="35" rank="species" species="maipai">maipai 
+<taxonomicNameLabel pageId="null" pageNumber="35" rank="species">
+<authority pageId="null" pageNumber="35">spec</authority>
+. nov.
+</taxonomicNameLabel>
+</taxonomicName>
+</taxonomicName>
+(probably functional conductor). Small part of subtegulum visible prolatero-proximally. Distal RTA thin and spine-like. Embolus arising prolatero-distally from tegulum, its basal part wide, narrowing to filiform tip. Sperm duct running an elongated loop, extending proximally not as far as that from 
+<taxonomicName _evidence="label" _rankHash="-726723432" genus="Clubiona" pageId="null" pageNumber="35" rank="species" species="maipai">C. 
+<taxonomicName _evidence="dynamicLexicon" _rankHash="-131377512" authority="spec" authorityName="spec" genus="Clubiona" pageId="null" pageNumber="35" rank="species" species="maipai">maipai 
+<taxonomicNameLabel pageId="null" pageNumber="35" rank="species">
+<authority pageId="null" pageNumber="35">spec</authority>
+. nov.
+</taxonomicNameLabel>
+</taxonomicName>
+</taxonomicName>
+(Figs 46-48).
+</paragraph>
+<caption pageId="12" pageNumber="36">
+<paragraph pageId="12" pageNumber="36" type="caption">
+<pageBreakToken pageId="12" pageNumber="36" start="start">FIGURES</pageBreakToken>
+46-51. 
+<taxonomicName _evidence="label" _rankHash="-2012732454" genus="Clubiona" pageId="12" pageNumber="36" rank="species" species="kuu">Clubiona 
+<taxonomicName _evidence="dynamicLexicon" _rankHash="1643560560" authority="spec" authorityName="spec" genus="Clubiona" pageId="12" pageNumber="36" rank="species" species="kuu">kuu 
+<taxonomicNameLabel pageId="12" pageNumber="36" rank="species">
+<authority pageId="12" pageNumber="36">spec</authority>
+. nov.
+</taxonomicNameLabel>
+</taxonomicName>
+</taxonomicName>
+, 
+<typeStatus>holotype</typeStatus>
+male from Laos, Luang Prabang Province, Ban Keng Koung. 46-48 Left palp (46 ventral, 47 retrolateral, 
+<pageNumber ambiguity="2147483647" fuzzyness="2147483647" pageId="12" pageNumber="36" score="5" value="66">48</pageNumber>
+dorsal). 49 Prosoma, frontal. 50 Eye arrangement, dorsal. 51 Labium, left chelicera and gnathocoxa, ventral.
+</paragraph>
+</caption>
+<paragraph pageId="13" pageNumber="37" type="mainText">
+<pageBreakToken pageId="13" pageNumber="37" start="start">Colour</pageBreakToken>
+in ethanol (Figs 
+<pageNumber ambiguity="6" fuzzyness="1" pageId="13" pageNumber="37" score="11" value="67">57</pageNumber>
+-59). Yellowish brown without colour pattern. Dorsal prosoma darker brown anteriorly, fovea distinct. Chelicerae, gnathocoxae and labium darker brown. Sternum marginally darker, with indistinct radial pattern. Appendages and opisthosoma pale yellowish brown. Dorsal opisthosoma with light brown patch above heart (resembling a scutum); ventral opisthosoma with light brown patch in front of epigastric furrow. Spinnerets slightly darker than opisthosoma.
+</paragraph>
+<paragraph pageId="13" pageNumber="37" type="mainText">Female: unknown.</paragraph>
+</subSubSection>
+<subSubSection _generate="added" pageId="13" pageNumber="37" type="distribution">
+<paragraph pageId="13" pageNumber="37" type="mainText">Distribution. Known from Luang Prabang Province, Laos (Fig. 71: 4, 5).</paragraph>
+</subSubSection>
+</treatment>
+<subSection _generate="retained" pageId="13" pageNumber="37" type="multiple">
+<caption pageId="13" pageNumber="37">
+<paragraph pageId="13" pageNumber="37" type="caption">
+FIGURES 52-60. 52-56 
+<taxonomicName _evidence="label" _rankHash="764423476" genus="Clubiona" pageId="13" pageNumber="37" rank="species" species="maipai">Clubiona 
+<taxonomicName _evidence="dynamicLexicon" _rankHash="-131377512" authority="spec" authorityName="spec" genus="Clubiona" pageId="13" pageNumber="37" rank="species" species="maipai">maipai 
+<taxonomicNameLabel pageId="13" pageNumber="37" rank="species">
+<authority pageId="13" pageNumber="37">spec</authority>
+. nov.
+</taxonomicNameLabel>
+</taxonomicName>
+</taxonomicName>
+from Thailand, Mae Hong Son Province, Ban Nam Rin (52-53 holotype male, 54-55 female paratype). 57-60 
+<taxonomicName _evidence="label" _rankHash="-2012732454" genus="Clubiona" pageId="13" pageNumber="37" rank="species" species="kuu">Clubiona 
+<taxonomicName _evidence="dynamicLexicon" _rankHash="1643560560" authority="spec" authorityName="spec" genus="Clubiona" pageId="13" pageNumber="37" rank="species" species="kuu">kuu 
+<taxonomicNameLabel pageId="13" pageNumber="37" rank="species">
+<authority pageId="13" pageNumber="37">spec</authority>
+. nov.
+</taxonomicNameLabel>
+</taxonomicName>
+</taxonomicName>
+, holotype male from Laos, Luang Prabang Province, Ban Keng Koung. 52-55, 57-59 Habitus (52, 54, 57 dorsal, 53, 55, 58 ventral, 59 frontal). 56 Epigyne, not cleared, ventral. 60 Spinnerets, ventral.
+</paragraph>
+</caption>
+</subSection>
+<treatment _generate="retained" lastPageId="14" lastPageNumber="38" pageId="13" pageNumber="37">
+<subSubSection _generate="added" pageId="13" pageNumber="37" type="nomenclature">
+<paragraph pageId="13" pageNumber="37" type="mainText">
+<taxonomicName _evidence="lexicon" _rankHash="1945086602" genus="Malamatidia" pageId="13" pageNumber="37" rank="genus">Malamatidia</taxonomicName>
+Deeleman-Reinhold, 2001
+</paragraph>
+</subSubSection>
+<subSubSection _generate="added" pageId="13" pageNumber="37" type="discussion">
+<paragraph pageId="13" pageNumber="37" type="mainText">
+This genus was described for three species: the 
+<typeStatus>type</typeStatus>
+species 
+<taxonomicName _evidence="lexicon" _rankHash="-1081363017" authority="Deeleman-Reinhold" authorityName="Deeleman-Reinhold" genus="Malamatidia" pageId="13" pageNumber="37" rank="species" species="bohorokensis">Malamatidia bohorokensis Deeleman-Reinhold</taxonomicName>
+, 2001 (Sumatra, Sarawak), 
+<taxonomicName _evidence="lexicon" _rankHash="-1429495922" authority="Deeleman-Reinhold" authorityName="Deeleman-Reinhold" genus="Malamatidia" pageId="13" pageNumber="37" rank="species" species="vethi">M. vethi Deeleman-Reinhold</taxonomicName>
+, 2001 (Malaysian peninsular, Kalimantan), and 
+<taxonomicName _evidence="lexicon" _rankHash="-1744420671" authority="Deeleman-Reinhold" authorityName="Deeleman-Reinhold" genus="Malamatidia" pageId="13" pageNumber="37" rank="species" species="thorelli">M. thorelli Deeleman-Reinhold</taxonomicName>
+, 2001 (Sulawesi). The present specimens represent the first record of the genus for Laos. A single male from Luang Prabang Province and a single female from Luang Nam Tha Province are described as 
+<taxonomicNameLabel pageId="13" pageNumber="37" rank="species">new species</taxonomicNameLabel>
+and represent the northernmost records for this genus. Both are considered separate species due to their different habitat (foliage vs. leaf litter), their different sizes (male with 
+<quantity metricMagnitude="-3" metricUnit="m" metricValue="6.5" unit="mm" value="6.5">6.5 mm</quantity>
+vs. female with 
+<quantity metricMagnitude="-3" metricUnit="m" metricValue="4.5" unit="mm" value="4.5">4.5 mm</quantity>
+body length; other 
+<taxonomicName _evidence="knownData" _evidence_details="genus=Malamatidia, species=spp" _rankHash="1202954013" authority="spp" authorityName="spp" genus="Malamatidia" pageId="13" pageNumber="37" rank="genus">
+Malamatidia 
+<authority pageId="13" pageNumber="37">spp</authority>
+</taxonomicName>
+. with both sexes of about the same size), and their different colours (grass-green in Fig. 73 vs. pale yellowish with distal leg segments bright brown in Fig. 74). Deeleman-Reinhold (personal communication) confirmed that most of small-sized 
+<taxonomicName _rankHash="73923825" family="Clubionidae" pageId="13" pageNumber="37" rank="family">Clubionidae</taxonomicName>
+occurring in natural forests are local endemics with small distribution ranges. According to the currently known distribution range the genus is likely to occur in neighbouring countries like China, Thailand, Myanmar, Vietnam and Cambodia.
+</paragraph>
+</subSubSection>
+<subSubSection _generate="added" pageId="14" pageNumber="38" type="diagnosis">
+<paragraph pageId="14" pageNumber="38" type="mainText">
+<pageBreakToken pageId="14" pageNumber="38" start="start">Diagnostic</pageBreakToken>
+characters are according 
+<pageNumber ambiguity="1" fuzzyness="0" pageId="14" pageNumber="38" score="8" value="10">to</pageNumber>
+Deeleman-Reinhold (2001) beside a pale green colour and a life style in the foliage, a longitudinal rim in the central depression of the female epigyne, and a filiform clockwise curving embolus (left palp) and an S-shaped loop of the sperm duct. From the two 
+<taxonomicNameLabel pageId="14" pageNumber="38" rank="species">new species</taxonomicNameLabel>
+the diagnosis and description should be extended: Colour can be pale yellow with distal leg segments light brown, probably spiders live in the leaf litter (Fig. 74). It can be confirmed that metatarsi I and II have two long ventral spines. Moreover, the female exhibits 4 pairs of ventral tibial spines and -uniquely- one pair of ventral spines on patella I (Fig. 67)! An additional exceptional feature in 
+<taxonomicName _evidence="lexicon" _rankHash="2099822203" authority="spec" authorityName="spec" genus="Malamatidia" pageId="14" pageNumber="38" rank="species" species="christae">M. christae 
+<taxonomicNameLabel pageId="14" pageNumber="38" rank="species">
+<authority pageId="14" pageNumber="38">spec</authority>
+. nov.
+</taxonomicNameLabel>
+</taxonomicName>
+is the female palpal tarsus with its roughly scalene triangle shape in lateral view with the shorter distal side being concave. The size range is extended up to 
+<quantity metricMagnitude="-3" metricUnit="m" metricValue="6.5" unit="mm" value="6.5">6.5 mm</quantity>
+body length (previously known range: 
+<quantity metricMagnitude="-3" metricUnit="m" metricValue="4.525" metricValueMax="5.3" metricValueMin="3.75" unit="mm" value="4.525" valueMax="5.3" valueMin="3.75">3.75-5.3 mm</quantity>
+). Another diagnostic character for males could be the presence of a distinct and abrupt narrowing of the sperm duct in the tegulum (recognisable in 
+<taxonomicName _evidence="lexicon" _rankHash="-1969377516" authority=", M. vethi" authorityName=", M. vethi" genus="Malamatidia" pageId="14" pageNumber="38" rank="species" species="bohorokensis">
+M. bohorokensis
+<authority pageId="14" pageNumber="38">, M. vethi</authority>
+</taxonomicName>
+and M. zu 
+<taxonomicNameLabel pageId="14" pageNumber="38" rank="species">spec. nov.</taxonomicNameLabel>
+; not clear in 
+<taxonomicName _evidence="lexicon" _rankHash="-1980084230" genus="Malamatidia" pageId="14" pageNumber="38" rank="species" species="thorelli">M. thorelli</taxonomicName>
+).
+</paragraph>
+</subSubSection>
+</treatment>
+<treatment _generate="retained" pageId="14" pageNumber="38">
+<subSubSection _generate="added" pageId="14" pageNumber="38" type="nomenclature">
+<paragraph pageId="14" pageNumber="38" type="mainText">
+<taxonomicName _evidence="lexicon" _rankHash="1945086602" genus="Malamatidia" pageId="14" pageNumber="38" rank="genus">Malamatidia</taxonomicName>
+zu 
+<taxonomicNameLabel pageId="14" pageNumber="38" rank="species">spec. nov.</taxonomicNameLabel>
+</paragraph>
+</subSubSection>
+<subSubSection _generate="added" pageId="14" pageNumber="38" type="description">
+<paragraph pageId="14" pageNumber="38" type="mainText">Figs 61-63, 71, 73</paragraph>
+</subSubSection>
+<subSubSection _generate="added" pageId="14" pageNumber="38" type="materials_examined">
+<paragraph pageId="14" pageNumber="38" type="mainText">
+<materialsCitation collectingDate="2008-02-24" collectingMethod="by day, by sweeping" collectionCode="SMF" collectorName="P. Jaeger" country="Laos" elevation="372 m" latitude="19.682716" location="Ban Keng Koung" longLatPrecision="0" longitude="102.307365" specimenCount="1" specimenCountMale="1" stateProvince="Luang Prabang Province" typeStatus="Holotype">
+Type material: 
+<typeStatus>Holotype</typeStatus>
+: male, 
+<collectingCountry value="Laos">LAOS</collectingCountry>
+: 
+<collectingRegion>Luang Prabang Province</collectingRegion>
+: 
+<location country="Laos" latitude="19.682716" longLatPrecision="0" longitude="102.307365" name="Ban Keng Koung" stateProvince="Luang Prabang Province">Ban Keng Koung</location>
+, 
+<geoCoordinate direction="north" orientation="latitude" precision="0" value="19.682716">N 19° 40.963'</geoCoordinate>
+, 
+<geoCoordinate direction="east" orientation="longitude" precision="0" value="102.307365">E 102° 18.442'</geoCoordinate>
+, 
+<quantity metricMagnitude="2" metricUnit="m" metricValue="3.72" unit="m" value="372.0">
+<elevation metricMagnitude="2" metricUnit="m" metricValue="3.72" unit="m" value="372.0">372 m</elevation>
+</quantity>
+altitude, in foliage, vegetation along stream, disturbed forest, 
+<collectingMethod>by day, by sweeping</collectingMethod>
+, 
+<date value="2008-02-24">
+<collectingDate value="2008-02-24">24 February 2008</collectingDate>
+</date>
+, 
+<collectorName>
+P. 
+<normalizedToken originalValue="Jäger" pageId="14" pageNumber="38">Jaeger</normalizedToken>
+</collectorName>
+leg. (
+<collectionCode collectionName="Germany, Frankfurt-am-Main, Forschungsinstitut und Naturmuseum Senckenberg">SMF</collectionCode>
+, L15)
+</materialsCitation>
+.
+</paragraph>
+</subSubSection>
+<subSubSection _generate="added" pageId="14" pageNumber="38" type="etymology">
+<paragraph pageId="14" pageNumber="38" type="mainText">
+Etymology. The species name is derived from the German word 
+<normalizedToken originalValue="“zu”" pageId="14" pageNumber="38">&quot;zu&quot;</normalizedToken>
+, meaning 
+<normalizedToken originalValue="“too”" pageId="14" pageNumber="38">&quot;too&quot;</normalizedToken>
+and generally referring to an unbalanced situation as it is true for the overpopulation, i.e. too many people in a certain area. This is the case in the 
+<typeStatus>type</typeStatus>
+locality Ban Keng Koung where people were settled because of building a dam at the Nam Khan; term in apposition.
+</paragraph>
+</subSubSection>
+<subSubSection _generate="added" pageId="14" pageNumber="38" type="diagnosis">
+<paragraph pageId="14" pageNumber="38" type="mainText">
+Diagnosis. Males can be recognised by having the embolus tip situated at distal tegulum (retrolateral side in other 
+<taxonomicName _evidence="knownData" _evidence_details="genus=Malamatidia, species=spp" _rankHash="1202954013" authority="spp" authorityName="spp" genus="Malamatidia" pageId="14" pageNumber="38" rank="genus">
+Malamatidia 
+<authority pageId="14" pageNumber="38">spp</authority>
+</taxonomicName>
+.) and by the sperm duct with its broad part running straight distad, bent distally 180°, and with its narrow part running a loop before entering the embolus (Fig. 62).
+</paragraph>
+</subSubSection>
+<subSubSection _generate="added" pageId="14" pageNumber="38" type="discussion">
+<paragraph pageId="14" pageNumber="38" type="mainText">
+Note. The prosoma of the 
+<typeStatus>holotype</typeStatus>
+including legs (right pedipalp, leg 
+<collectionCode>I</collectionCode>
+and 
+<collectionCode>II</collectionCode>
+, and right leg 
+<collectionCode>III</collectionCode>
+missing) and chelicerae is strongly damaged. Therefore no characters of these structures can be included in the diagnosis and description.
+</paragraph>
+</subSubSection>
+<subSubSection _generate="added" pageId="14" pageNumber="38" type="description">
+<paragraph pageId="14" pageNumber="38" type="mainText">
+Description. Male (
+<typeStatus>holotype</typeStatus>
+; see note above). PL 2.4, PW 1.4, OL 4.0, OW 0.9. Eye diametres: ALE 0.11, PME 0.10, PLE 0.10. Eye interdistances: PME-PLE 0.09, ALE-PLE 0.07. Eye position similar to that of other 
+<taxonomicName _evidence="knownData" _evidence_details="genus=Malamatidia, species=spp" _rankHash="1202954013" authority="spp" authorityName="spp" genus="Malamatidia" pageId="14" pageNumber="38" rank="genus">
+Malamatidia 
+<authority pageId="14" pageNumber="38">spp</authority>
+</taxonomicName>
+., i.e. PME widely separated and ALE, PME and PLE appearing almost as triads (Deeleman-Reinhold 2001: figs 203-204, 209-210, 217). Leg and pedipalp measurements: pedipalp femur 0.69; leg I and II missing; leg III 4.99 (1.47, 0.58, 1.20, 1.23, 0.51); leg IV 7.63 (2.18, 0.72, 1.95, 2.12, 0.66). Spination: Pedipalp femur: 131; Femur III d111, r010, IV d111; Patella III-IV r010; Tibia III p010, d101, r110, v110, IV p011, d101,r011, v110; Metatarsus III p001, d212, r001, v202, IV p001, d233, r001, v211.
+</paragraph>
+<paragraph pageId="14" pageNumber="38" type="mainText">
+Prosoma, opisthosoma including spinnerets and anal tubercle elongated as in 
+<taxonomicName _evidence="lexicon" _rankHash="1683628249" genus="Malamatidia" pageId="14" pageNumber="38" rank="species" species="bohorokensis">M. bohorokensis</taxonomicName>
+(Deeleman-Reinhold 2001: figs 203-204). Palp with cymbium distinctly longer than tibia. Distal RTA sub-rectangular. Embolus arising from centre of tegulum, sickle-shaped. Prolatero-basal membranous part (=subtegulum/hematodocha?) extending into distal half of tegulum (Figs 61-63). Sperm duct with distinct and abrupt narrowing in distal half of tegulum. Other palpal structures as in diagnosis.
+</paragraph>
+<paragraph pageId="14" pageNumber="38" type="mainText">Colour in ethanol. Pale yellow, dorsal prosoma and chelicerae a bit darker. Dorsal opisthosoma with greyish median band with distinct lateral margins in posterior half. Ventral opisthosoma with distinct dark patch in front of epigastric furrow.</paragraph>
+<paragraph pageId="14" pageNumber="38" type="mainText">
+Colour of a living subadult male was bright green (Fig. 73; the same colour was exhibited by an unidentified individual from Champasak Prov., That Fane, 
+<collectionCode>L</collectionCode>
+95).
+</paragraph>
+<paragraph pageId="14" pageNumber="38" type="mainText">Female: unknown.</paragraph>
+</subSubSection>
+<subSubSection _generate="added" pageId="14" pageNumber="38" type="biology_ecology">
+<paragraph pageId="14" pageNumber="38" type="mainText">
+Natural history. The 
+<typeStatus>holotype</typeStatus>
+of M. zu 
+<taxonomicNameLabel pageId="14" pageNumber="38" rank="species">spec. nov.</taxonomicNameLabel>
+has been collected from foliage in vegetation close to a small stream. This is in accordance with data provided by Deeleman-Reinhold (2001: 191, &quot;Silk-sheets on the under-surface of green leaves&quot;) and with other records of 
+<taxonomicName _evidence="lexicon" _rankHash="1945086602" genus="Malamatidia" pageId="14" pageNumber="38" rank="genus">Malamatidia</taxonomicName>
+spiders in Laos (Champasak Prov.).
+</paragraph>
+</subSubSection>
+<subSubSection _generate="added" pageId="14" pageNumber="38" type="distribution">
+<paragraph pageId="14" pageNumber="38" type="mainText">
+Distribution. Known only from the 
+<typeStatus>type</typeStatus>
+locality (Fig. 71: 5).
+</paragraph>
+</subSubSection>
+</treatment>
+<subSection _generate="retained" pageId="15" pageNumber="39" type="multiple">
+<caption pageId="15" pageNumber="39">
+<paragraph pageId="15" pageNumber="39" type="caption">
+<pageBreakToken pageId="15" pageNumber="39" start="start">FIGURES</pageBreakToken>
+<pageNumber ambiguity="4" fuzzyness="1" pageId="15" pageNumber="39" score="9" value="51">61</pageNumber>
+-66. 61-63 
+<taxonomicName _evidence="lexicon" _rankHash="1945086602" genus="Malamatidia" pageId="15" pageNumber="39" rank="genus">Malamatidia</taxonomicName>
+zu 
+<taxonomicNameLabel pageId="15" pageNumber="39" rank="species">spec. nov.</taxonomicNameLabel>
+, holotype male from Laos, Luang Prabang Province, Ban Keng Koung. 64-65 
+<taxonomicName _evidence="lexicon" _rankHash="157375428" authority="spec" authorityName="spec" genus="Malamatidia" pageId="15" pageNumber="39" rank="species" species="christae">Malamatidia christae 
+<taxonomicNameLabel pageId="15" pageNumber="39" rank="species">
+<authority pageId="15" pageNumber="39">spec</authority>
+. nov.
+</taxonomicNameLabel>
+</taxonomicName>
+, holotype female from Laos, Luang Nam Tha Province, Vieng Phou Kha. 61-63 Left palp (61 prolateral, 62 ventral, 63 retrolateral). 64 Epigyne, ventral. 65 Vulva, dorsal. 66 Schematic course of internal duct system, dorsal.
+</paragraph>
+</caption>
+</subSection>
+<treatment _generate="retained" lastPageId="16" lastPageNumber="40" pageId="15" pageNumber="39">
+<subSubSection _generate="added" pageId="15" pageNumber="39" type="nomenclature">
+<paragraph pageId="15" pageNumber="39" type="mainText">
+<taxonomicName _evidence="lexicon" _rankHash="157375428" authority="spec" authorityName="spec" genus="Malamatidia" pageId="15" pageNumber="39" rank="species" species="christae">Malamatidia christae 
+<taxonomicNameLabel pageId="15" pageNumber="39" rank="species">
+<authority pageId="15" pageNumber="39">spec</authority>
+. nov.
+</taxonomicNameLabel>
+</taxonomicName>
+</paragraph>
+</subSubSection>
+<subSubSection _generate="added" pageId="15" pageNumber="39" type="description">
+<paragraph pageId="15" pageNumber="39" type="mainText">Figs 64-71, 74</paragraph>
+</subSubSection>
+<subSubSection _generate="added" pageId="15" pageNumber="39" type="materials_examined">
+<paragraph pageId="15" pageNumber="39" type="mainText">
+<materialsCitation collectingDate="2008-03-04" collectingMethod="by day, sieving" collectionCode="SMF" collectorName="P. Jaeger" country="Laos" location="Vieng Phou Kha, Phou Pasat, Tham Pasat Thia" specimenCount="1" specimenCountFemale="1" stateProvince="Luang Nam Tha Province" typeStatus="Holotype">
+Type material. 
+<typeStatus>Holotype</typeStatus>
+: female, 
+<collectingCountry value="Laos">LAOS</collectingCountry>
+: 
+<collectingRegion>Luang Nam Tha Province</collectingRegion>
+: 
+<location country="Laos" name="Vieng Phou Kha, Phou Pasat, Tham Pasat Thia" stateProvince="Luang Nam Tha Province">Vieng Phou Kha, Phou Pasat, Tham Pasat Thia</location>
+, outside cave, forest, leaf litter, 
+<collectingMethod>by day, sieving</collectingMethod>
+, 
+<date value="2008-03-04">
+<collectingDate value="2008-03-04">4 March 2008</collectingDate>
+</date>
+, 
+<collectorName>
+P. 
+<normalizedToken originalValue="Jäger" pageId="15" pageNumber="39">Jaeger</normalizedToken>
+</collectorName>
+leg. (
+<collectionCode collectionName="Germany, Frankfurt-am-Main, Forschungsinstitut und Naturmuseum Senckenberg">SMF</collectionCode>
+, L44)
+</materialsCitation>
+.
+</paragraph>
+</subSubSection>
+<subSubSection _generate="added" pageId="15" pageNumber="39" type="etymology">
+<paragraph pageId="15" pageNumber="39" type="mainText">Etymology. The species is named in honour of Dr Christa Deeleman-Reinhold for her invaluable contribution to the knowledge of the Southeast Asian spider fauna; name in genitive case.</paragraph>
+</subSubSection>
+<subSubSection _generate="added" pageId="15" pageNumber="39" type="diagnosis">
+<paragraph pageId="15" pageNumber="39" type="mainText">
+Diagnosis. The longitudinal, posteriorly diverging rim in the central depression of epigyne is diagnostic for 
+<taxonomicName _evidence="knownData" _evidence_details="genus=Malamatidia, species=spp" _rankHash="1202954013" authority="spp" authorityName="spp" genus="Malamatidia" pageId="15" pageNumber="39" rank="genus">
+Malamatidia 
+<authority pageId="15" pageNumber="39">spp</authority>
+</taxonomicName>
+. (Deeleman-Reinhold 2001: 191). The female of 
+<taxonomicName _evidence="lexicon" _rankHash="2099822203" authority="spec" authorityName="spec" genus="Malamatidia" pageId="15" pageNumber="39" rank="species" species="christae">M. christae 
+<taxonomicNameLabel pageId="15" pageNumber="39" rank="species">
+<authority pageId="15" pageNumber="39">spec</authority>
+. nov.
+</taxonomicNameLabel>
+</taxonomicName>
+is distinguished by the large and posteriorly pointed membranous posterior parts of the spermathecae (Fig. 65) (round and smaller in other 
+<taxonomicName _evidence="knownData" _evidence_details="genus=Malamatidia, species=spp" _rankHash="1202954013" authority="spp" authorityName="spp" genus="Malamatidia" pageId="15" pageNumber="39" rank="genus">
+Malamatidia 
+<authority pageId="15" pageNumber="39">spp</authority>
+</taxonomicName>
+.).
+</paragraph>
+</subSubSection>
+<subSubSection _generate="added" lastPageId="16" lastPageNumber="40" pageId="15" pageNumber="39" type="description">
+<paragraph pageId="15" pageNumber="39" type="mainText">
+Description. Female (
+<typeStatus>holotype</typeStatus>
+). PL 1.8, PW 1.2, OL 2.7, OW 0.9. Eye diametres: 
+<collectionCode collectionName="USA, Florida, Gainesville, University of Florida, Florida Museum of Natural History, Allyn Museum">AME</collectionCode>
+0.065, ALE 0.10, PME 0.07, PLE 0.09. Eye interdistances: AME-AME 0.05, AME-ALE 0.35, PME-PME 0.19, PME-PLE 0.08, AME-PME 0.09, ALE-PLE 0.055, clypeus 
+<collectionCode collectionName="USA, Florida, Gainesville, University of Florida, Florida Museum of Natural History, Allyn Museum">AME</collectionCode>
+0.03, clypeus ALE 0.03. Leg and pedipalp measurements: pedipalp 1.56 (0.50, 0.23, 0.36, -, 0.47); leg I 4.80 (1.34, 0.62, 1.42, 0.90, 0.52); leg II 5.64 (1.60, 0.71, 1.68, 1.05, 0.60); leg III 4.10 (1.19, 0.50, 0.96, 1.01, 0.44); leg IV 6.35 (1.75, 0.63, 1.62, 1.76, 0.59). Leg formula. 4213. Spination: Pedipalp femur: 130, patella 000, tibia 2012, tarsus 10(1)13; Femur I-IV d001; Patella I v020; Tibia I 22220, II v20200, III p010, r010, v110, IV p011, r011, v110; Metatarsus I-II v200, III p001, d212, r001, v202, IV p111, d012, r111, v213. Metatarsal ventral spines I-II long (
+<collectionCode>I</collectionCode>
+0.66). Chelicerae length 0.6, with 3 anterior and 2 posterior teeth. Prosoma, opisthosoma including spinnerets and anal tubercle elongated as in 
+<taxonomicName _evidence="lexicon" _rankHash="1683628249" genus="Malamatidia" pageId="15" pageNumber="39" rank="species" species="bohorokensis">M. bohorokensis</taxonomicName>
+(Deeleman-Reinhold 2001: fig. 204).
+</paragraph>
+<paragraph pageId="16" pageNumber="40" type="mainText">
+<pageBreakToken pageId="16" pageNumber="40" start="start">Copulatory</pageBreakToken>
+organ as in diagnosis. Epigynal field dark grey, round (Fig. 
+<pageNumber ambiguity="3" fuzzyness="0" pageId="16" pageNumber="40" score="5" value="70">70</pageNumber>
+). Epigyne with transversal rim distinct, short and slightly undulated. Copulatory ducts short and running in a semicircle into the large membranous posterior parts of the internal duct system. Sclerotised anterior parts spherical and with thick walls. No glandular pores recognisable. Fertilisation duct short and dorsad.
+</paragraph>
+<paragraph pageId="16" pageNumber="40" type="mainText">
+Colour in ethanol. Prosoma and opisthosoma pale yellow with spinnerets and labium light grey and distal leg segments darker (Figs 67-69). Screw-coiled spinning glands visible in ventral view (Fig. 68). Colour of the living 
+<typeStatus>holotype</typeStatus>
+female was bright yellow with darker distal leg segments (Fig. 74).
+</paragraph>
+<paragraph pageId="16" pageNumber="40" type="mainText">Male: unknown.</paragraph>
+</subSubSection>
+<subSubSection _generate="added" pageId="16" pageNumber="40" type="biology_ecology">
+<paragraph pageId="16" pageNumber="40" type="mainText">
+Natural history. The 
+<typeStatus>holotype</typeStatus>
+of 
+<taxonomicName _evidence="lexicon" _rankHash="2099822203" authority="spec" authorityName="spec" genus="Malamatidia" pageId="16" pageNumber="40" rank="species" species="christae">M. christae 
+<taxonomicNameLabel pageId="16" pageNumber="40" rank="species">
+<authority pageId="16" pageNumber="40">spec</authority>
+. nov.
+</taxonomicNameLabel>
+</taxonomicName>
+has been collected by 
+<misspelling corrections="[Ljava.lang.String;@bbb2f5" pageId="16" pageNumber="40" type="misspelled">sieving</misspelling>
+leaf litter in a patch of seemingly primary forest.
+</paragraph>
+</subSubSection>
+<subSubSection _generate="added" pageId="16" pageNumber="40" type="distribution">
+<paragraph pageId="16" pageNumber="40" type="mainText">
+Distribution. Known only from the 
+<typeStatus>type</typeStatus>
+locality (Fig. 71: 2).
+</paragraph>
+</subSubSection>
+</treatment>
+<subSection _generate="retained" pageId="16" pageNumber="40" type="multiple">
+<caption pageId="16" pageNumber="40">
+<paragraph pageId="16" pageNumber="40" type="caption">
+FIGURES 67-70. 
+<taxonomicName _evidence="lexicon" _rankHash="157375428" authority="spec" authorityName="spec" genus="Malamatidia" pageId="16" pageNumber="40" rank="species" species="christae">Malamatidia christae 
+<taxonomicNameLabel pageId="16" pageNumber="40" rank="species">
+<authority pageId="16" pageNumber="40">spec</authority>
+. nov.
+</taxonomicNameLabel>
+</taxonomicName>
+, holotype female from Laos, Luang Nam Tha Province, Vieng Phou Kha. 67-69 Habitus (67 dorsal, 68 ventral, 69 frontal). 70 Epigyne, not cleared, ventral.
+</paragraph>
+</caption>
+</subSection>
+<treatment _generate="retained" pageId="16" pageNumber="40">
+<subSubSection _generate="added" pageId="16" pageNumber="40" type="nomenclature">
+<paragraph pageId="16" pageNumber="40" type="mainText">
+<taxonomicName _evidence="lexicon" _rankHash="541385104" authority="Deeleman-Reinhold" authorityName="Deeleman-Reinhold" genus="Pristidia" pageId="16" pageNumber="40" rank="species" species="viridissima">Pristidia viridissima Deeleman-Reinhold</taxonomicName>
+, 2001
+</paragraph>
+</subSubSection>
+<subSubSection _generate="added" pageId="16" pageNumber="40" type="description">
+<paragraph pageId="16" pageNumber="40" type="mainText">Fig. 71</paragraph>
+</subSubSection>
+<subSubSection _generate="added" pageId="16" pageNumber="40" type="materials_examined">
+<paragraph pageId="16" pageNumber="40" type="mainText">
+<materialsCitation collectingDate="2009-11-03" collectingMethod="at day, by hand" collectionCode="SMF" collectorName="P. Jaeger, S. Bayer" country="Thailand" elevation="30 - 150 m" latitude="12.108383" location="Gulf of Thailand, north side of Ko Chang, Khlong Chao Luam" longLatPrecision="0" longitude="102.30025" specimenCode="60456" specimenCount="1" specimenCountFemale="1" stateProvince="Trat Province">
+Material examined. 
+<collectingCountry value="Thailand">Thailand</collectingCountry>
+: 
+<collectingRegion>Trat Province</collectingRegion>
+: 
+<specimenCount type="generic">1 female</specimenCount>
+, 
+<location country="Thailand" latitude="12.108383" longLatPrecision="0" longitude="102.30025" name="Gulf of Thailand, north side of Ko Chang, Khlong Chao Luam" stateProvince="Trat Province">Gulf of Thailand, north side of Ko Chang, Khlong Chao Luam</location>
+, 
+<geoCoordinate direction="north" orientation="latitude" precision="0" value="12.108383">N 12° 6.503'</geoCoordinate>
+, 
+<geoCoordinate direction="east" orientation="longitude" precision="0" value="102.30025">E 102° 18.015'</geoCoordinate>
+, 
+<quantity metricMagnitude="1" metricUnit="m" metricValue="9.0" metricValueMax="15.0" metricValueMin="3.0" unit="m" value="90.0" valueMax="150.0" valueMin="30.0">
+<elevation metricMagnitude="1" metricUnit="m" metricValue="9.0" metricValueMax="15.0" metricValueMin="3.0" unit="m" value="90.0" valueMax="150.0" valueMin="30.0">30-150 m</elevation>
+</quantity>
+altitude, secondary forest, along stream, vegetation, 
+<collectingMethod>at day, by hand</collectingMethod>
+, 
+<date value="2009-11-03">
+<collectingDate value="2009-11-03">3 November 2009</collectingDate>
+</date>
+, 
+<collectorName>
+P. 
+<normalizedToken originalValue="Jäger" pageId="16" pageNumber="40">Jaeger</normalizedToken>
+</collectorName>
+&amp; 
+<collectorName _evidence="leading initial">S. Bayer</collectorName>
+leg. (
+<collectionCode collectionName="Germany, Frankfurt-am-Main, Forschungsinstitut und Naturmuseum Senckenberg">SMF</collectionCode>
+<specimenCode>60456</specimenCode>
+)
+</materialsCitation>
+.
+</paragraph>
+</subSubSection>
+<subSubSection _generate="added" pageId="16" pageNumber="40" type="discussion">
+<paragraph pageId="16" pageNumber="40" type="mainText">
+With 
+<quantity metricMagnitude="-3" metricUnit="m" metricValue="4.1" unit="mm" value="4.1">4.1 mm</quantity>
+body length this female falls into the size range given by Deeleman-Reinhold (2001: 
+<quantity metricMagnitude="-3" metricUnit="m" metricValue="4.5" metricValueMax="5.5" metricValueMin="3.5" unit="mm" value="4.5" valueMax="5.5" valueMin="3.5">3.5-5.5 mm</quantity>
+). PME-PME is slightly less than two diameters PME and, thus, also in accordance with the range of variability given in the original description.
+</paragraph>
+</subSubSection>
+<subSubSection _generate="added" pageId="16" pageNumber="40" type="distribution">
+<paragraph pageId="16" pageNumber="40" type="mainText">Distribution. Thailand to Borneo (Deeleman-Reinhold 2001) (Fig. 71: 13).</paragraph>
+</subSubSection>
+</treatment>
+<subSection _generate="retained" pageId="17" pageNumber="41" type="multiple">
+<caption pageId="17" pageNumber="41">
+<paragraph pageId="17" pageNumber="41" type="caption">
+<pageBreakToken pageId="17" pageNumber="41" start="start">FIGURE</pageBreakToken>
+71. Localities of 
+<taxonomicName _rankHash="73923825" family="Clubionidae" pageId="17" pageNumber="41" rank="family">Clubionidae</taxonomicName>
+treated in this paper in Laos (1-9) and Thailand (10-13). 1-2 Luang Nam Tha Province (1 2-6 km N of Luang Nam Tha, 2 Vieng Phou Kha). 3 Oudomxai Province, Oudomxai. 4-5 Luang Prabang Province (4 
+<misspelling corrections="[Ljava.lang.String;@e20ee5" pageId="17" pageNumber="41" type="misspelled">Nong</misspelling>
+<misspelling corrections="[Ljava.lang.String;@1400c06" pageId="17" pageNumber="41" type="misspelled">Khiao</misspelling>
+, 5 Ban Keng Koung). 6 Vientiane Province, Vang Vieng, Ban 
+<misspelling corrections="[Ljava.lang.String;@1d59e27" pageId="17" pageNumber="41" type="misspelled">Phoxay</misspelling>
+. 7 Bolikhamsay Province, Lak Sao. 8-9 Champasak Province (8 Pakse, Ban 
+<misspelling corrections="[Ljava.lang.String;@1824fe7" pageId="17" pageNumber="41" type="misspelled">Ke</misspelling>
+; 9 That Fane). 10 Mae Hong Son Province, Ban Nam Rin. 11 Chiang Mai Province, Chiang Mai. 12 Chai Ya Phum Province, Pa Hin 
+<misspelling corrections="[Ljava.lang.String;@4bfcce" pageId="17" pageNumber="41" type="misspelled">Ngam</misspelling>
+National Park. 13 
+<misspelling corrections="[Ljava.lang.String;@c26ee7" language="German" pageId="17" pageNumber="41" type="outOfLanguage">Trat</misspelling>
+Province, Ko 
+<misspelling corrections="[Ljava.lang.String;@ff1185" pageId="17" pageNumber="41" type="misspelled">Chang</misspelling>
+.
+</paragraph>
+</caption>
+</subSection>
+<subSection _generate="retained" pageId="17" pageNumber="41" type="acknowledgments">
+<paragraph pageId="17" pageNumber="41" type="heading">Acknowledgements</paragraph>
+<paragraph pageId="17" pageNumber="41" type="mainText">
+Peter 
+<normalizedToken originalValue="Jäger" pageId="17" pageNumber="41">Jaeger</normalizedToken>
+is grateful to Prof. Dr Bounthob Praxaysombath (National University of Laos, Vientiane), the director Chanthavong Phonnachit and the volunteers Arnaud Vontobel and Antoine Borius from the Water Resources Environment Administration (WREA), Luang Prabang for their various help in the organisation of the field work and for supporting Peter 
+<normalizedToken originalValue="Jäger’s" pageId="17" pageNumber="41">Jaeger's</normalizedToken>
+work within the partnership between the Research Institute Senckenberg and the Nam Khan eco-valley prefiguration study (candidate for The UNESCO Man and the biosphere program) hosted at the WREA in Luang Prabang. Thanks to 
+<normalizedToken originalValue="Jürgen" pageId="17" pageNumber="41">Juergen</normalizedToken>
+Hinderlich and Robby Dehondt (both latter 
+<normalizedToken originalValue="Solidaritätsdienst" pageId="17" pageNumber="41">Solidaritaetsdienst</normalizedToken>
+International e.V., Lak Sao, Laos), Gerry Duckit and Ian Baird (both latter Global Association for People and Environment, Pakse, Laos) for support and logistics in the field in Laos. Damir Kovac (SMF) collected material in Thailand, and Dinendra Raychaudhuri (Calcutta) sent literature. Christa Deeleman-Reinhold (Ossendrecht) provided additional information on the biology and taxonomy of 
+<taxonomicName _rankHash="73933435" pageId="17" pageNumber="41" rank="subFamily" subFamily="Clubioninae">Clubioninae</taxonomicName>
+species. We thank all persons and institutions for their support.
+</paragraph>
+</subSection>
+<subSection _generate="retained" pageId="18" pageNumber="42" type="multiple">
+<caption pageId="18" pageNumber="42">
+<paragraph pageId="18" pageNumber="42" type="caption">
+<pageBreakToken pageId="18" pageNumber="42" start="start">FIGURES</pageBreakToken>
+<pageNumber ambiguity="6" fuzzyness="0" pageId="18" pageNumber="42" score="7" value="72">72</pageNumber>
+-74. 72 
+<taxonomicName _evidence="label" _rankHash="-2012732454" genus="Clubiona" pageId="18" pageNumber="42" rank="species" species="kuu">Clubiona 
+<taxonomicName _evidence="dynamicLexicon" _rankHash="1643560560" authority="spec" authorityName="spec" genus="Clubiona" pageId="18" pageNumber="42" rank="species" species="kuu">kuu 
+<taxonomicNameLabel pageId="18" pageNumber="42" rank="species">
+<authority pageId="18" pageNumber="42">spec</authority>
+. nov.
+</taxonomicNameLabel>
+</taxonomicName>
+</taxonomicName>
+, holotype male from Laos, Luang Prabang Province, Ban Keng Koung, in original habitat at the type locality. 73 
+<taxonomicName _evidence="lexicon" _rankHash="1945086602" genus="Malamatidia" pageId="18" pageNumber="42" rank="genus">Malamatidia</taxonomicName>
+zu 
+<taxonomicNameLabel pageId="18" pageNumber="42" rank="species">spec. nov.</taxonomicNameLabel>
+, subadult male from Laos, Luang Prabang Province, Ban Keng Koung, in original habitat at the type locality. 74 
+<taxonomicName _evidence="lexicon" _rankHash="157375428" authority="spec" authorityName="spec" genus="Malamatidia" pageId="18" pageNumber="42" rank="species" species="christae">Malamatidia christae 
+<taxonomicNameLabel pageId="18" pageNumber="42" rank="species">
+<authority pageId="18" pageNumber="42">spec</authority>
+. nov.
+</taxonomicNameLabel>
+</taxonomicName>
+, holotype female from Laos, Luang Nam Tha Province, Vieng Phou Kha, in origianl habitat at the type locality.
+</paragraph>
+</caption>
+</subSection>
+<subSection _generate="retained" pageId="19" pageNumber="43" type="reference_group">
+<paragraph pageId="19" pageNumber="43" type="mainText">
+<pageBreakToken pageId="19" pageNumber="43" start="start">References</pageBreakToken>
+</paragraph>
+<paragraph pageId="19" pageNumber="43" type="bibRef">
+<bibRef author="Barrion, A. T. &amp; Litsinger, J. A." journalOrPublisher="CAB International" pageId="19" pageNumber="43" title="Riceland Spiders of South and Southeast Asia" type="book" year="1995">
+<author fns="I" npo="LF" pageId="19" pageNumber="43">Barrion, A.T.</author>
+&amp; 
+<author fns="I" npo="LF" pageId="19" pageNumber="43">Litsinger, J.A.</author>
+(
+<year pageId="19" pageNumber="43">1995</year>
+) 
+<title jopScore="0.10563118" pageId="19" pageNumber="43">Riceland Spiders of South and Southeast Asia</title>
+. 
+<journalOrPublisher pageId="19" pageNumber="43">CAB International</journalOrPublisher>
+, Wallingford, UK, xix + 700 pp.
+</bibRef>
+</paragraph>
+<paragraph pageId="19" pageNumber="43" type="bibRef">
+<bibRef author="Biswas, V. &amp; Raychaudhuri, D." journalOrPublisher="Dibrugarh Univ" pageId="19" pageNumber="43" pagination="191 - 210" part="1" title="Clubionid spiders of Bangladesh - I: Genus Clubiona Latreille. Proceeding of recent Advances in Life Sciences (1994)" type="journal article" year="1996">
+<author fns="I" npo="LF" pageId="19" pageNumber="43">Biswas, V.</author>
+&amp; 
+<author fns="I" npo="LF" pageId="19" pageNumber="43">Raychaudhuri, D.</author>
+(
+<year pageId="19" pageNumber="43">1996</year>
+) 
+<title jopScore="0.6672132" pageId="19" pageNumber="43">Clubionid spiders of Bangladesh - I: Genus Clubiona Latreille. Proceeding of recent Advances in Life Sciences (1994)</title>
+, 
+<journalOrPublisher jopScore="1.1889523" pageId="19" pageNumber="43">Dibrugarh Univ</journalOrPublisher>
+, 
+<part pageId="19" pageNumber="43" type="volume">1</part>
+, 
+<pagination pageId="19" pageNumber="43" type="pagination">191-210</pagination>
+.
+</bibRef>
+</paragraph>
+<paragraph pageId="19" pageNumber="43" type="bibRef">
+<bibRef author="Carr, J. &amp; Langhammer, P." journalOrPublisher="Conservation International" pageId="19" pageNumber="43" publicationUrl="http://www.biodiversityhotspots.org/xp/hotspots/Pages/default.aspx" title="Biodiversity hotspots" type="journal article" year="2010">
+<author fns="I" npo="LF" pageId="19" pageNumber="43">Carr, J.</author>
+&amp; 
+<author fns="I" kam="kam" npo="LF" pageId="19" pageNumber="43">Langhammer, P.</author>
+(
+<year pageId="19" pageNumber="43">2010</year>
+) 
+<title jopScore="0.26501766" pageId="19" pageNumber="43">Biodiversity hotspots</title>
+. 
+<journalOrPublisher pageId="19" pageNumber="43">Conservation International</journalOrPublisher>
+. Available from: 
+<publicationUrl pageId="19" pageNumber="43">http://www.biodiversityhotspots.org/xp/hotspots/Pages/default.aspx</publicationUrl>
+(accessed 18 October 2010).
+</bibRef>
+</paragraph>
+<paragraph pageId="19" pageNumber="43" type="bibRef">
+<bibRef author="Chen, S. - H. &amp; Huang, W. - J." journalOrPublisher="BioFormosa" pageId="19" pageNumber="43" pagination="55 - 59" part="39" title="A newly recorded spider of the genus Cheiracanthium (Araneae, Clubionidae) from Taiwan" type="journal article" year="2004">
+<author fns="I" npo="LF" pageId="19" pageNumber="43">Chen, S.-H.</author>
+&amp; 
+<author fns="I" npo="LF" pageId="19" pageNumber="43">Huang, W.-J.</author>
+(
+<year pageId="19" pageNumber="43">2004</year>
+) 
+<title pageId="19" pageNumber="43">A newly recorded spider of the genus Cheiracanthium (Araneae, Clubionidae) from Taiwan</title>
+. 
+<journalOrPublisher pageId="19" pageNumber="43">BioFormosa</journalOrPublisher>
+, 
+<part pageId="19" pageNumber="43" type="volume">39</part>
+, 
+<pagination pageId="19" pageNumber="43" type="pagination">55-59</pagination>
+.
+</bibRef>
+</paragraph>
+<paragraph pageId="19" pageNumber="43" type="bibRef">
+<bibRef author="Chrysanthus, P." journalOrPublisher="Nova Guinea (N. S, Zool.)" pageId="19" pageNumber="43" pagination="401 - 426" part="37" title="Spiders from south New Guinea VIII" type="journal article" year="1967">
+<author fns="I" npo="LF" pageId="19" pageNumber="43">Chrysanthus, P.</author>
+(
+<year pageId="19" pageNumber="43">1967</year>
+) 
+<title pageId="19" pageNumber="43">Spiders from south New Guinea VIII</title>
+. 
+<journalOrPublisher pageId="19" pageNumber="43">Nova Guinea (N.S, Zool.)</journalOrPublisher>
+, 
+<part pageId="19" pageNumber="43" type="volume">37</part>
+, 
+<pagination pageId="19" pageNumber="43" type="pagination">401-426</pagination>
+.
+</bibRef>
+</paragraph>
+<paragraph pageId="19" pageNumber="43" type="bibRef">
+<bibRef author="Dankittipakul, P. &amp; Singtripop, T." journalOrPublisher="Zootaxa" pageId="19" pageNumber="43" pagination="34 - 60" part="1747" title="Five new species of the spider genus Clubiona Latreille (Araneae: Clubionidae) from Thailand" type="journal article" year="2008">
+<author fns="I" npo="LF" pageId="19" pageNumber="43">Dankittipakul, P.</author>
+&amp; 
+<author fns="I" npo="LF" pageId="19" pageNumber="43">Singtripop, T.</author>
+(
+<year pageId="19" pageNumber="43">2008</year>
+a) 
+<title pageId="19" pageNumber="43">Five new species of the spider genus Clubiona Latreille (Araneae: Clubionidae) from Thailand</title>
+. 
+<journalOrPublisher pageId="19" pageNumber="43">Zootaxa</journalOrPublisher>
+, 
+<part pageId="19" pageNumber="43" type="volume">1747</part>
+, 
+<pagination pageId="19" pageNumber="43" type="pagination">34-60</pagination>
+.
+</bibRef>
+</paragraph>
+<paragraph pageId="19" pageNumber="43" type="bibRef">
+<bibRef author="Dankittipakul, P. &amp; Singtripop, T." journalOrPublisher="Zoological Studies" pageId="19" pageNumber="43" pagination="644 - 656" part="47" title="Spiders of the Clubiona corticalis group from Thailand, with descriptions of three new species (Araneae: Clubionidae)" type="journal article" year="2008">
+<author fns="I" npo="LF" pageId="19" pageNumber="43">Dankittipakul, P.</author>
+&amp; 
+<author fns="I" npo="LF" pageId="19" pageNumber="43">Singtripop, T.</author>
+(
+<year pageId="19" pageNumber="43">2008</year>
+b) 
+<title jopScore="0.12515472" pageId="19" pageNumber="43">Spiders of the Clubiona corticalis group from Thailand, with descriptions of three new species (Araneae: Clubionidae)</title>
+. 
+<journalOrPublisher jopScore="0.76575917" pageId="19" pageNumber="43">Zoological Studies</journalOrPublisher>
+, 
+<part pageId="19" pageNumber="43" type="volume">47</part>
+, 
+<pagination pageId="19" pageNumber="43" type="pagination">644-656</pagination>
+.
+</bibRef>
+</paragraph>
+<paragraph pageId="19" pageNumber="43" type="bibRef">
+<bibRef author="Deeleman-Reinhold, C. L." journalOrPublisher="Brill, Leiden" pageId="19" pageNumber="43" title="Forest spiders of South East Asia: with a revision of the sac and ground spiders (Araneae: Clubionidae, Corinnidae, Liocranidae, Gnaphosidae, Prodidomidae and Trochanterriidae)" type="book" year="2001">
+<author fns="I" npo="LF" pageId="19" pageNumber="43">Deeleman-Reinhold, C.L.</author>
+(
+<year pageId="19" pageNumber="43">2001</year>
+) 
+<title jopScore="0.08248299" pageId="19" pageNumber="43">Forest spiders of South East Asia: with a revision of the sac and ground spiders (Araneae: Clubionidae, Corinnidae, Liocranidae, Gnaphosidae, Prodidomidae and Trochanterriidae)</title>
+. 
+<journalOrPublisher jopScore="3.310069" pageId="19" pageNumber="43">Brill, Leiden</journalOrPublisher>
+, 591 pp.
+</bibRef>
+</paragraph>
+<paragraph pageId="19" pageNumber="43" type="bibRef">
+<bibRef author="Gravely, F. H." journalOrPublisher="Records of the Indian Museum, Calcutta" pageId="19" pageNumber="43" pagination="211 - 282" part="33" title="Some Indian spiders of the families Ctenidae, Sparassidae, Selenopidae and Clubionidae" type="journal article" year="1931">
+<author fns="I" npo="LF" pageId="19" pageNumber="43">Gravely, F. H.</author>
+(
+<year pageId="19" pageNumber="43">1931</year>
+) 
+<title jopScore="0.3886351" pageId="19" pageNumber="43">Some Indian spiders of the families Ctenidae, Sparassidae, Selenopidae and Clubionidae</title>
+. 
+<journalOrPublisher jopScore="2.4999099" pageId="19" pageNumber="43">Records of the Indian Museum, Calcutta</journalOrPublisher>
+, 
+<part pageId="19" pageNumber="43" type="volume">33</part>
+, 
+<pagination pageId="19" pageNumber="43" type="pagination">211-282</pagination>
+.
+</bibRef>
+</paragraph>
+<paragraph pageId="19" pageNumber="43" type="bibRef">
+<bibRef author="Jaeger, P." journalOrPublisher="Acta Arachnologica" pageId="19" pageNumber="43" pagination="29 - 58" part="56" title="Spiders (Araneae) from Laos with descriptions of new species" type="journal article" year="2007">
+<author fns="I" kam="kam" npo="LF" pageId="19" pageNumber="43">
+<normalizedToken originalValue="Jäger" pageId="19" pageNumber="43">Jaeger</normalizedToken>
+, P.
+</author>
+(
+<year pageId="19" pageNumber="43">2007</year>
+) 
+<title pageId="19" pageNumber="43">Spiders (Araneae) from Laos with descriptions of new species</title>
+. 
+<journalOrPublisher pageId="19" pageNumber="43">Acta Arachnologica</journalOrPublisher>
+, 
+<part pageId="19" pageNumber="43" type="volume">56</part>
+, 
+<pagination pageId="19" pageNumber="43" type="pagination">29-58</pagination>
+.
+</bibRef>
+</paragraph>
+<paragraph pageId="19" pageNumber="43" type="bibRef">
+<bibRef author="Jaeger, P &amp; Praxaysombath, B." journalOrPublisher="Acta Arachnologica" pageId="19" pageNumber="43" pagination="27 - 51" part="58" title="Spiders from Laos: new species and new records (Arachnida: Araneae)" type="journal article" year="2009">
+<author fns="I" kam="kam" npo="LF" pageId="19" pageNumber="43">
+<normalizedToken originalValue="Jäger" pageId="19" pageNumber="43">Jaeger</normalizedToken>
+, P
+</author>
+&amp; 
+<author fns="I" kam="kam" npo="LF" pageId="19" pageNumber="43">Praxaysombath, B.</author>
+(
+<year pageId="19" pageNumber="43">2009</year>
+) 
+<title pageId="19" pageNumber="43">Spiders from Laos: new species and new records (Arachnida: Araneae)</title>
+. 
+<journalOrPublisher pageId="19" pageNumber="43">Acta Arachnologica</journalOrPublisher>
+, 
+<part pageId="19" pageNumber="43" type="volume">58</part>
+, 
+<pagination pageId="19" pageNumber="43" type="pagination">27-51</pagination>
+.
+</bibRef>
+</paragraph>
+<paragraph pageId="19" pageNumber="43" type="bibRef">
+<bibRef author="Mikhailov, K. G" journalOrPublisher="Arthropoda Selecta" pageId="19" pageNumber="43" pagination="33 - 48" part="4" title="Erection of infrageneric groupings within the spider genus Clubiona Latreille, 1804 (Aranei Clubionidae): a typological approach" type="journal article" year="1995">
+<author fns="I" npo="LF" pageId="19" pageNumber="43">Mikhailov, K.G</author>
+(
+<year pageId="19" pageNumber="43">1995</year>
+) 
+<title jopScore="0.049959823" pageId="19" pageNumber="43">Erection of infrageneric groupings within the spider genus Clubiona Latreille, 1804 (Aranei Clubionidae): a typological approach</title>
+. 
+<journalOrPublisher jopScore="1.6938308" pageId="19" pageNumber="43">Arthropoda Selecta</journalOrPublisher>
+, 
+<part pageId="19" pageNumber="43" type="volume">4</part>
+, 
+<pagination pageId="19" pageNumber="43" type="pagination">33-48</pagination>
+.
+</bibRef>
+</paragraph>
+<paragraph pageId="19" pageNumber="43" type="bibRef">
+<bibRef author="Murphy, F. &amp; Murphy, J." journalOrPublisher="Malaysian Nature Society, Kuala Lumpur" pageId="19" pageNumber="43" title="An introduction to the spiders of South East Asia with notes on all the genera" type="book" year="2000">
+<author fns="I" npo="LF" pageId="19" pageNumber="43">Murphy, F.</author>
+&amp; 
+<author fns="I" npo="LF" pageId="19" pageNumber="43">Murphy, J.</author>
+(
+<year pageId="19" pageNumber="43">2000</year>
+) 
+<title jopScore="0.10508368" pageId="19" pageNumber="43">An introduction to the spiders of South East Asia with notes on all the genera</title>
+. 
+<journalOrPublisher jopScore="1.8438292" pageId="19" pageNumber="43">Malaysian Nature Society, Kuala Lumpur</journalOrPublisher>
+, 625 pp. + 32 pl.
+</bibRef>
+</paragraph>
+<paragraph pageId="19" pageNumber="43" type="bibRef">
+<bibRef author="Ono, H." journalOrPublisher="Bulletin of the national Museum of natural Science Tokyo (A)" pageId="19" pageNumber="43" pagination="1 - 8" part="35" title="Three new spiders of the family Clubionidae, Liocranidae and Gnaphosidae (Arachnida, Araneae) from Vietnam" type="journal article" year="2009">
+<author fns="I" kam="kam" npo="LF" pageId="19" pageNumber="43">Ono, H.</author>
+(
+<year pageId="19" pageNumber="43">2009</year>
+) 
+<title jopScore="0.10423825" pageId="19" pageNumber="43">
+Three new spiders of the family Clubionidae, 
+<misspelling corrections="[Ljava.lang.String;@1d73866" pageId="19" pageNumber="43" type="misspelled">Liocranidae</misspelling>
+and 
+<misspelling corrections="[Ljava.lang.String;@b7e9e7" pageId="19" pageNumber="43" type="misspelled">Gnaphosidae</misspelling>
+(Arachnida, Araneae) from Vietnam
+</title>
+. 
+<journalOrPublisher pageId="19" pageNumber="43">Bulletin of the national Museum of natural Science Tokyo (A)</journalOrPublisher>
+, 
+<part pageId="19" pageNumber="43" type="volume">35</part>
+, 
+<pagination pageId="19" pageNumber="43" type="pagination">1-8</pagination>
+.
+</bibRef>
+</paragraph>
+<paragraph pageId="19" pageNumber="43" type="bibRef">
+<bibRef author="Ono, H. &amp; Hayashi, T." editor="Ono, H." journalOrPublisher="Tokai Univ. Press, Kanagawa" pageId="19" pageNumber="43" pagination="532 - 546" title="Clubionidae" type="book chapter" volumeTitle="The Spiders of Japan with keys to the families and genera and illustrations of the species" year="2009">
+<author fns="I" kam="kam" npo="LF" pageId="19" pageNumber="43">Ono, H.</author>
+&amp; 
+<author fns="I" npo="LF" pageId="19" pageNumber="43">Hayashi, T.</author>
+(
+<year pageId="19" pageNumber="43">2009</year>
+) 
+<title jopScore="0.35984743" pageId="19" pageNumber="43">Clubionidae</title>
+. In. 
+<editor pageId="19" pageNumber="43">Ono, H.</editor>
+(ed.), 
+<volumeTitle jopScore="0.47639018" pageId="19" pageNumber="43">The Spiders of Japan with keys to the families and genera and illustrations of the species</volumeTitle>
+. 
+<journalOrPublisher jopScore="3.9583218" pageId="19" pageNumber="43">Tokai Univ. Press, Kanagawa</journalOrPublisher>
+, pp. 
+<pagination pageId="19" pageNumber="43" type="pagination">532-546</pagination>
+.
+</bibRef>
+</paragraph>
+<paragraph pageId="19" pageNumber="43" type="bibRef">
+<bibRef author="Platnick, N. I." journalOrPublisher="American Museum of Natural History" pageId="19" pageNumber="43" publicationUrl="http://research.amnh.org/iz/spiders/catalog/INTRO1.html" title="The world spider catalog, version 11.0" type="url" year="2010">
+<author fns="I" kam="kam" npo="LF" pageId="19" pageNumber="43">Platnick, N.I.</author>
+(
+<year pageId="19" pageNumber="43">2010</year>
+) 
+<title jopScore="0.16925198" pageId="19" pageNumber="43">The world spider catalog, version 11.0</title>
+. 
+<journalOrPublisher pageId="19" pageNumber="43">American Museum of Natural History</journalOrPublisher>
+. Available from: 
+<publicationUrl pageId="19" pageNumber="43">http://research.amnh.org/iz/spiders/catalog/INTRO1.html</publicationUrl>
+(accessed 18 October 2010).
+</bibRef>
+</paragraph>
+<paragraph pageId="19" pageNumber="43" type="bibRef">
+<bibRef author="Raven, R. J." journalOrPublisher="Zootaxa" pageId="19" pageNumber="43" pagination="1 - 40" part="2035" title="Revisions of Australian ground-hunting spiders: IV. The spider subfamily Diaprograptinae subfam. nov. (Araneomorphae: Miturgidae)" type="journal article" year="2009">
+<author fns="I" kam="kam" npo="LF" pageId="19" pageNumber="43">Raven, R.J.</author>
+(
+<year pageId="19" pageNumber="43">2009</year>
+) 
+<title jopScore="0.8185474" pageId="19" pageNumber="43">Revisions of Australian ground-hunting spiders: IV. The spider subfamily Diaprograptinae subfam. nov. (Araneomorphae: Miturgidae)</title>
+. 
+<journalOrPublisher jopScore="3.7849152" pageId="19" pageNumber="43">Zootaxa</journalOrPublisher>
+, 
+<part pageId="19" pageNumber="43" type="volume">2035</part>
+, 
+<pagination pageId="19" pageNumber="43" type="pagination">1-40</pagination>
+.
+</bibRef>
+</paragraph>
+<paragraph pageId="19" pageNumber="43" type="bibRef">
+<bibRef author="Zhang, Y. - J. &amp; Yin, C. - M." journalOrPublisher="Acta zootaxononomica sinica" pageId="19" pageNumber="43" pagination="9 - 17" part="23" title="Six new species of the spiders of genus Clubiona from China (Araneae: Clubionidae)" type="journal article" year="1998">
+<author fns="I" npo="LF" pageId="19" pageNumber="43">Zhang, Y.-J.</author>
+&amp; 
+<author fns="I" kam="kam" npo="LF" pageId="19" pageNumber="43">Yin, C.-M.</author>
+(
+<year pageId="19" pageNumber="43">1998</year>
+) 
+<title pageId="19" pageNumber="43">Six new species of the spiders of genus Clubiona from China (Araneae: Clubionidae)</title>
+. 
+<journalOrPublisher pageId="19" pageNumber="43">Acta zootaxononomica sinica</journalOrPublisher>
+, 
+<part pageId="19" pageNumber="43" type="volume">23</part>
+, 
+<pagination pageId="19" pageNumber="43" type="pagination">9-17</pagination>
+.
+</bibRef>
+</paragraph>
+<paragraph pageId="19" pageNumber="43" type="bibRef">
+<bibRef author="Zhang, Y. - J. &amp; Yin, C. - M." journalOrPublisher="Acta zootaxonomica sinica" pageId="19" pageNumber="43" pagination="285 - 290" part="24" title="Two new species of the genus Cheiracanthium from China with notes on male spiders of two species (Araneae: Clubionidae)" type="journal article" year="1999">
+<author fns="I" npo="LF" pageId="19" pageNumber="43">Zhang, Y.-J.</author>
+&amp; 
+<author fns="I" kam="kam" npo="LF" pageId="19" pageNumber="43">Yin, C.-M.</author>
+(
+<year pageId="19" pageNumber="43">1999</year>
+) 
+<title pageId="19" pageNumber="43">Two new species of the genus Cheiracanthium from China with notes on male spiders of two species (Araneae: Clubionidae)</title>
+. 
+<journalOrPublisher pageId="19" pageNumber="43">Acta zootaxonomica sinica</journalOrPublisher>
+, 
+<pageNumber ambiguity="2147483647" fuzzyness="2147483647" pageId="19" pageNumber="43" score="3" value="73">
+<part pageId="19" pageNumber="43" type="volume">24</part>
+</pageNumber>
+, 
+<pagination pageId="19" pageNumber="43" type="pagination">285-290</pagination>
+.
+</bibRef>
+</paragraph>
+</subSection>
+</document>

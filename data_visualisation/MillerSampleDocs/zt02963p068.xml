@@ -1,0 +1,2614 @@
+﻿<document ENCODING="UTF-8">
+<mods:mods>
+<mods:titleInfo>
+<mods:title>A new trapdoor spider species from the southern Coast Ranges of California (Mygalomorphae, Antrodiaetidae, Aliatypus coylei, sp. nov,), including consideration of mitochondrial phylogeographic structuring</mods:title>
+</mods:titleInfo>
+<mods:name>
+<mods:role>
+<mods:roleTerm>Author</mods:roleTerm>
+</mods:role>
+<mods:namePart>Marshal Hediin</mods:namePart>
+</mods:name>
+<mods:name>
+<mods:role>
+<mods:roleTerm>Author</mods:roleTerm>
+</mods:role>
+<mods:namePart>Dave Carlson</mods:namePart>
+</mods:name>
+<mods:typeOfResource>text</mods:typeOfResource>
+<mods:relatedItem>
+<mods:titleInfo>
+<mods:title>Zootaxa</mods:title>
+</mods:titleInfo>
+<mods:part>
+<mods:date>2011</mods:date>
+<mods:detail>
+<mods:number>2963</mods:number>
+</mods:detail>
+<mods:extent>
+<mods:start>55</mods:start>
+<mods:end>68</mods:end>
+</mods:extent>
+</mods:part>
+</mods:relatedItem>
+<mods:location>
+<mods:url>http://www.mapress.com/zootaxa/2011/f/zt02963p068.pdf</mods:url>
+</mods:location>
+<mods:classification>journal article</mods:classification>
+<mods:identifier>zt02963p068</mods:identifier>
+</mods:mods>
+<subSection _generate="added" pageId="0" pageNumber="-1" type="document_head">
+<paragraph pageId="0" pageNumber="-1" type="mainText">
+<pageBreakToken pageId="0" pageNumber="55" start="start">Ξ</pageBreakToken>
+Zootaxa 2963: 55-68 (2011) ISSN 1175-5326 (print edition)<br/>
+www.mapress.com/zootaxa/ Article ZOOTAXA<br/>
+Copyright © 2011 · Magnolia Press ISSN 1175-5334 (online edition)
+</paragraph>
+</subSection>
+<subSection _generate="added" pageId="0" pageNumber="-1" type="multiple">
+<paragraph pageId="0" pageNumber="-1" type="mainText">
+A new trapdoor spider species from the southern Coast Ranges of California<br/>
+(Mygalomorphae, 
+<taxonomicName LSID-HNS="urn:lsid:biosci.ohio-state.edu:osuc_concepts:47161" _rankHash="-804510362" family="Antrodiaetidae" lsidName-HNS="Antrodiaetidae " pageId="0" pageNumber="-1" rank="family">Antrodiaetidae</taxonomicName>
+, 
+<taxonomicName _rankHash="-1469439715" genus="Aliatypus" pageId="0" pageNumber="-1" rank="species" species="coylei">Aliatypus coylei</taxonomicName>
+, sp. nov,), including<br/>
+consideration of mitochondrial phylogeographic structuring
+</paragraph>
+</subSection>
+<subSection _generate="added" pageId="0" pageNumber="-1" type="multiple">
+<paragraph pageId="0" pageNumber="-1" type="mainText">MARSHAL HEDIN &amp; DAVE CARLSON</paragraph>
+</subSection>
+<subSection _generate="added" pageId="0" pageNumber="-1" type="multiple">
+<paragraph pageId="0" pageNumber="-1" type="mainText">Department of Biology, San Diego State University, San Diego, CA 92182-4614, USA. E-mail: mhedin@sciences.sdsu.edu</paragraph>
+</subSection>
+<subSection _generate="added" pageId="0" pageNumber="-1" type="abstract">
+<paragraph pageId="0" pageNumber="-1" type="heading">Abstract</paragraph>
+<paragraph pageId="0" pageNumber="-1" type="mainText">
+The trapdoor spider genus 
+<taxonomicName _rankHash="-688989786" genus="Aliatypus" pageId="0" pageNumber="-1" rank="genus">Aliatypus</taxonomicName>
+(
+<taxonomicName _rankHash="914879051" higher="Araneae" pageId="0" pageNumber="-1" rank="higher">Araneae</taxonomicName>
+, Mygalomorphae, 
+<taxonomicName LSID-HNS="urn:lsid:biosci.ohio-state.edu:osuc_concepts:47161" _rankHash="-804510362" family="Antrodiaetidae" lsidName-HNS="Antrodiaetidae " pageId="0" pageNumber="-1" rank="family">Antrodiaetidae</taxonomicName>
+) includes 11 described species, 10 of<br/>
+which are endemic to California. 
+<taxonomicName _rankHash="-688989786" genus="Aliatypus" pageId="0" pageNumber="-1" rank="genus">Aliatypus</taxonomicName>
+species are known from most physiographic provinces in California, with the<br/>
+noticeable absence of described species from the southern Coast Ranges. This paper describes a 
+<taxonomicNameLabel pageId="0" pageNumber="-1" rank="species">new species</taxonomicNameLabel>
+(
+<taxonomicName _rankHash="-1469439715" genus="Aliatypus" pageId="0" pageNumber="-1" rank="species" species="coylei">Aliatypus<br/>
+coylei</taxonomicName>
+, 
+<taxonomicNameLabel pageId="0" pageNumber="-1" rank="species">sp. nov.</taxonomicNameLabel>
+) that is shown to occur at more than 20 locations, most of which are in the southern Coast Ranges. This<br/>
+species is morphologically most similar to members of the 
+<taxonomicName _evidence="lexicon" _rankHash="-1620247141" genus="Aliatypus" pageId="0" pageNumber="-1" rank="species" species="erebus">A. erebus</taxonomicName>
+species group (
+<taxonomicName _evidence="lexicon" _rankHash="685809889" authority="Coyle" authorityName="Coyle" genus="Aliatypus" pageId="0" pageNumber="-1" rank="species" species="erebus">A. erebus Coyle</taxonomicName>
+and 
+<taxonomicName _evidence="lexicon" _rankHash="1370969709" authority="Coyle" authorityName="Coyle" genus="Aliatypus" pageId="0" pageNumber="-1" rank="species" species="torridus">
+A. torridus<br/>
+<authority pageId="0" pageNumber="-1">Coyle</authority>
+</taxonomicName>
+), but males differ from those of these latter species in several features. Female specimens are more difficult to distinguish from 
+<taxonomicName _evidence="lexicon" _rankHash="-1620247141" genus="Aliatypus" pageId="0" pageNumber="-1" rank="species" species="erebus">A. erebus</taxonomicName>
+and 
+<taxonomicName _evidence="lexicon" _rankHash="112053287" genus="Aliatypus" pageId="0" pageNumber="-1" rank="species" species="torridus">A. torridus</taxonomicName>
+, but can be easily separated using DNA characters. Collection of mitochondrial<br/>
+DNA sequence data from 21 sites shows that 
+<taxonomicName _evidence="lexicon" _rankHash="-1679671082" genus="Aliatypus" pageId="0" pageNumber="-1" rank="species" species="coylei">A. coylei</taxonomicName>
+is genetically very divergent from all described 
+<taxonomicName _rankHash="-688989786" genus="Aliatypus" pageId="0" pageNumber="-1" rank="genus">Aliatypus</taxonomicName>
+species,<br/>
+and reveals extreme population subdivision across the fragmented southern Coast Range landscape.
+</paragraph>
+<paragraph pageId="0" pageNumber="-1" type="mainText">Key words: Population subdivision, spermathecal variation, California biodiversity, mygalomorph spider</paragraph>
+</subSection>
+<subSection _generate="added" lastPageId="1" lastPageNumber="8" pageId="0" pageNumber="-1" type="introduction">
+<paragraph pageId="0" pageNumber="-1" type="heading">Introduction</paragraph>
+<paragraph pageId="0" pageNumber="-1" type="mainText">
+Mygalomorph spiders comprise a distinct clade of the Order 
+<taxonomicName _rankHash="914879051" higher="Araneae" pageId="0" pageNumber="-1" rank="higher">Araneae</taxonomicName>
+, and include the trapdoor spiders, tarantulas,<br/>
+and kin (Raven 1985, Hedin &amp; Bond 2006). The mygalomorph spider fauna of California is one of the richest in the<br/>
+northern hemisphere, with the highest familial, generic, and species-diversity in the United States. Members of the<br/>
+families 
+<taxonomicName LSID-HNS="urn:lsid:biosci.ohio-state.edu:osuc_concepts:47161" _rankHash="-804510362" family="Antrodiaetidae" lsidName-HNS="Antrodiaetidae " pageId="0" pageNumber="-1" rank="family">Antrodiaetidae</taxonomicName>
+(Coyle 1968, 1971, 1974; Coyle &amp; Icenogle 1994; Ramirez &amp; Chi 2004; Starrett &amp; Hedin<br/>
+2007) and 
+<taxonomicName LSID-HNS="urn:lsid:biosci.ohio-state.edu:osuc_concepts:47165" _rankHash="868605262" family="Cyrtaucheniidae" lsidName-HNS="Cyrtaucheniidae " pageId="0" pageNumber="-1" rank="family">Cyrtaucheniidae</taxonomicName>
+(Bond et al. 2001; Bond &amp; Opell 2002; Stockman &amp; Bond 2007; Bond &amp; Stockman<br/>
+2008) comprise the great bulk of this species diversity, and both families include genera that have radiated extensively and almost exclusively in California. An example is the antrodiaetid genus 
+<taxonomicName _rankHash="-688989786" genus="Aliatypus" pageId="0" pageNumber="-1" rank="genus">Aliatypus</taxonomicName>
+, which includes eleven<br/>
+described species, ten of which are endemic to California. 
+<taxonomicName _rankHash="-688989786" genus="Aliatypus" pageId="0" pageNumber="-1" rank="genus">Aliatypus</taxonomicName>
+are stocky, medium-sized (6-20 mm) ground-dwelling spiders that cover their burrows with a thin, flap-like trapdoor (Fig. 1A, B). Most species in the genus<br/>
+occur in chaparral or mid-elevation forest habitats, although some species are also found in redwood forest or high-elevation pine forests (Coyle 1974, Coyle &amp; Icenogle 1994).
+</paragraph>
+<paragraph pageId="0" pageNumber="-1" type="mainText">
+When Coyle (1974) revised 
+<taxonomicName _rankHash="-688989786" genus="Aliatypus" pageId="0" pageNumber="-1" rank="genus">Aliatypus</taxonomicName>
+, he studied material from most physiographic provinces in California,<br/>
+but had few specimens available from the southern Coast Ranges. These ranges include a relatively low-lying set of<br/>
+north to south trending uplands, occupying a region from the San Francisco Bay south to the confluence with the<br/>
+Transverse Ranges at the southern terminus of the Central Valley (Fig. 1C; Schoenherr 1992). The southern Coast<br/>
+Ranges are bounded on the east by the Central Valley, and extend from here westward to the coast. The present-day<br/>
+highlands are potentially young (~0.4 Ma, Page et al. 1998), and the region is still very geologically active, as it is<br/>
+bisected by the San Andreas fault. Older Pliocene seaways also once fragmented the region (Hall 2002; Bowersox<br/>
+2005). Modern upland habitats are characterized by standard California Floristic Province vegetation, including<br/>
+chaparral, oak woodlands, and limited conifer woodlands. Higher western ranges (e.g., Santa Lucia Range) create a<br/>
+severe rain shadow and correspondingly steep environmental gradient, with desert-like eastern habitats (along the<br/>
+southwestern edge of the Central Valley) much drier than coastal habitats. Many endemic taxa have evolved in this<br/>
+region, including species of vertebrates (e.g., Jockusch et al. 2001; Davis et al. 2008; Parham &amp; Papenfuss 2009),<br/>
+plants (Stebbins &amp; Major 1965; Kraft et al. 2010), and arthropods (e.g., Platnick &amp; Ubick 2001; Ubick &amp; Briggs<br/>
+2008; Bond &amp; Stockman 2008).
+</paragraph>
+<paragraph pageId="1" pageNumber="8" type="mainText">
+<pageBreakToken pageId="1" pageNumber="56" start="start">Coyle</pageBreakToken>
+(1974) did not include definitive species records of 
+<taxonomicName _rankHash="-688989786" genus="Aliatypus" pageId="1" pageNumber="8" rank="genus">Aliatypus</taxonomicName>
+from the southern Coast Ranges, but<br/>
+instead included three records simply labeled as &quot;unidentifiable 
+<taxonomicName _rankHash="-688989786" genus="Aliatypus" pageId="1" pageNumber="8" rank="genus">Aliatypus</taxonomicName>
+&quot; (map 1 &amp; 4, Coyle 1974). Although not<br/>
+explicitly discussed, it is presumed that these records represent immature specimens, or locations with small numbers of female specimens only. Coyle (1974) did not provide collecting locality information for these specimens,<br/>
+and we have not examined this material. Based on on-going fieldwork conducted over the past 5-10 years, a moderate sample of fresh 
+<taxonomicName _rankHash="-688989786" genus="Aliatypus" pageId="1" pageNumber="8" rank="genus">Aliatypus</taxonomicName>
+specimens from the southern Coast Ranges (and adjacent areas) has been accumulated. Most of these specimens represent a distinctive and previously undescribed species of 
+<taxonomicName _rankHash="-688989786" genus="Aliatypus" pageId="1" pageNumber="8" rank="genus">Aliatypus</taxonomicName>
+, which we<br/>
+herein describe. We have also collected mitochondrial DNA sequence data from specimens representing most<br/>
+known records of this 
+<taxonomicNameLabel pageId="1" pageNumber="8" rank="species">new species</taxonomicNameLabel>
+(21 geographic sites represented). These phylogeographic data reveal extreme<br/>
+mitochondrial population genetic structuring and high genetic divergences in the southern Coast Ranges. The phylogenetic placement of this 
+<taxonomicNameLabel pageId="1" pageNumber="8" rank="species">new species</taxonomicNameLabel>
+is briefly considered here, but is treated more comprehensively in a separate paper (Satler et al. in review).
+</paragraph>
+</subSection>
+<subSection _generate="added" pageId="1" pageNumber="8" type="materials_methods">
+<paragraph pageId="1" pageNumber="8" type="heading">Methods</paragraph>
+<paragraph pageId="1" pageNumber="8" type="mainText">We searched appropriate microhabitats for spider burrows, and extracted spiders from burrows using entrenching<br/>
+shovels and smaller specialized digging tools. From any particular location we attempted to collect adult spiders<br/>
+(almost always females), but sometimes collected only immature spiders, or collected a mixture of adult and immature spiders. Immature spiders were provisionally identified to species based on association with identifiable adult<br/>
+specimens from the same location, or molecular clade association. Most spiders were transported live to the lab.<br/>
+For adults, 1-2 legs were removed from freshly-killed specimens and preserved for DNA analysis in 100% EtOH<br/>
+at minus 80° C; voucher specimens were stored separately in 80% EtOH at minus 20° C. Immature spiders were<br/>
+preserved as entire specimens in 100% EtOH at minus 80° C. All specimens were assigned a unique specimen<br/>
+identification number (MY number; see Table 1). Type specimens have been deposited at the California Academy<br/>
+of Sciences (CAS), San Francisco, California. Upon completion of our on-going studies, additional voucher specimens will be deposited at the CAS. Geographic location data was taken in the field using a global positioning system (GPS) device, and later verified/adjusted using Google Earth. A Google Earth kmz file of sampling sites is<br/>
+available as a Supplementary File.</paragraph>
+<paragraph pageId="1" pageNumber="8" type="mainText">Specimens were imaged using a Visionary Digital BK plus system (http://www.visionarydigital.com), including a Canon 40D digital camera, Infinity Optics Long Distance Microscope, P-51 camera controller, and FX2 lighting system. Individual images were combined into a composite image using Helicon Focus V5.1 software (http://<br/>
+www.heliconsoft.com/heliconfocus.html), which was then edited using Adobe Photoshop CS3. Seminal receptacles (= spermathecae) were dissected from adult female specimens using fine forceps, immersed for 2-5 minutes in<br/>
+BioQuip specimen clearing fluid (www.bioquip.com) on a depression slide, then imaged directly in this fluid on<br/>
+slides. Other images were taken with specimens immersed in filtered 70% EtOH, using KY jelly or fine sand to<br/>
+secure specimens. All digital images have been deposited at Morphbank (www.morphbank.net; see Table 1).</paragraph>
+<paragraph pageId="1" pageNumber="8" type="mainText">Specimen measurements were taken from digital images using a calibrated ruler tool in Photoshop CS3. All<br/>
+appendage measurements were recorded from the left appendage, unless otherwise indicated. Measurements mirrored those of Coyle (1974), and only brief character descriptions are provided here. The reader is referred to Coyle<br/>
+(1974, figs 2-7) for more thorough character definitions: CL, CW-carapace length and width, PCL-length of<br/>
+pars cephalica; IFL, ITL, IML, ITarL-lengths of leg I segments (except for patella), viewed retrolaterally; IVFL,<br/>
+IVTL, IVML, IVTarL-lengths of leg IV segments (except for patella), viewed retrolaterally; PFL, PPL, PTL- lengths of male pedipalp segments, viewed retrolaterally; PTT-maximum depth of male pedipalp; PTX-length of male pedipalp at maximum depth; PED-distance of base of embolus to tip of conductor; PCA-distance from<br/>
+PED line to edge of outer conductor sclerite; SL, SW-sternum length and width; PSS-minimum distance<br/>
+between posterior sigilla; PSL-maximum diameter of right posterior sigilla. All measurements are reported in<br/>
+millimeters (mm).</paragraph>
+</subSection>
+<subSection _generate="added" lastPageId="3" lastPageNumber="1" pageId="2" pageNumber="0" type="multiple">
+<paragraph pageId="2" pageNumber="0" type="table">
+<table border="1" pageId="2" pageNumber="0">
+<tr pageId="2" pageNumber="0">
+<td colspan="9" pageId="2" pageNumber="0">
+<pageBreakToken pageId="2" pageNumber="57" start="start">TABLE</pageBreakToken>
+<pageNumber ambiguity="2147483647" fuzzyness="2147483647" pageId="2" pageNumber="0" score="3" value="0">1</pageNumber>
+. Specimen Information.
+</td>
+</tr>
+<tr pageId="2" pageNumber="0">
+<td pageId="2" pageNumber="0">Site#</td>
+<td pageId="2" pageNumber="0">Lab#</td>
+<td pageId="2" pageNumber="0">Locality Description</td>
+<td pageId="2" pageNumber="0">Latitude</td>
+<td pageId="2" pageNumber="0">Longitude</td>
+<td pageId="2" pageNumber="0" style="vertical-align:bottom;">Collection<br/>
+Date</td>
+<td pageId="2" pageNumber="0" style="vertical-align:bottom;">COI<br/>
+GenBank</td>
+<td pageId="2" pageNumber="0" style="vertical-align:bottom;">Sternum<br/>
+Image</td>
+<td pageId="2" pageNumber="0" style="vertical-align:bottom;">Spermathecal<br/>
+Image</td>
+</tr>
+<tr pageId="2" pageNumber="0">
+<materialsCitation collectingDate="2010-03-27" collectionCode="MCH 10_006" collectorName="M. Hedin, J. Starrett, D. Carlson, B. Keith" country="United States of America" latitude="36.8369" location="Monterey Co., Hidden Valley Road, E. of Elkhorn Slough" longitude="-121.7021" specimenCode="MY 4167 I, MY 4168 I, MY 4169 I, MY 4170 I, MY 4362 F" specimenCount="5" specimenCountFemale="1" specimenCountOther="4" stateProvince="California">
+<td pageId="2" pageNumber="0">1</td>
+<td pageId="2" pageNumber="0" style="vertical-align:bottom;">
+<specimenCode>MY4167I,<br/>
+MY4168I,<br/>
+MY4169I,<br/>
+MY4170I,<br/>
+MY4362F</specimenCode>
+</td>
+<td pageId="2" pageNumber="0" style="vertical-align:bottom;">
+<collectingRegion>CA</collectingRegion>
+: 
+<location>
+<collectingCounty>Monterey Co.</collectingCounty>
+, Hidden<br/>
+Valley Road, E. of Elkhorn<br/>
+Slough
+</location>
+, oak-woodland roadcut;<br/>
+coll. 
+<collectorName>M. Hedin</collectorName>
+, 
+<collectorName>J. Starrett</collectorName>
+, 
+<collectorName>D.<br/>
+Carlson</collectorName>
+, 
+<collectorName>B. Keith</collectorName>
+; MCH 10_006
+</td>
+<td pageId="2" pageNumber="0">
+<geoCoordinate>36.8369</geoCoordinate>
+</td>
+<td pageId="2" pageNumber="0">
+<geoCoordinate>-121.7021</geoCoordinate>
+</td>
+<td pageId="2" pageNumber="0">
+<collectingDate>27 March<br/>
+2010</collectingDate>
+</td>
+<td pageId="2" pageNumber="0">MY4169<br/>
+(JN034059)</td>
+<td pageId="2" pageNumber="0">MY4362<br/>
+(588003)</td>
+<td pageId="2" pageNumber="0">MY4362<br/>
+(588004)</td>
+</materialsCitation>
+</tr>
+<tr pageId="2" pageNumber="0">
+<materialsCitation collectingDate="2006-11-28" collectorName="J Starrett" country="United States of America" latitude="36.8676" location="Monterey Co., Tarpey Road, 0.6 mi. E of Maher Road" longitude="-121.6786" specimenCode="MY 1145 I, MY 11461, MY 4361 F" specimenCount="3" specimenCountFemale="1" specimenCountOther="2" stateProvince="California">
+<td pageId="2" pageNumber="0">2</td>
+<td pageId="2" pageNumber="0">
+<specimenCode>MY1145I,<br/>
+MY 1146I,<br/>
+MY4361F</specimenCode>
+</td>
+<td pageId="2" pageNumber="0">
+<collectingRegion>CA</collectingRegion>
+: 
+<location>
+<collectingCounty>Monterey Co.</collectingCounty>
+, Tarpey<br/>
+Road, 0.6 mi. E of Maher Road
+</location>
+;<br/>
+coll. 
+<collectorName>J Starrett</collectorName>
+</td>
+<td pageId="2" pageNumber="0">
+<geoCoordinate>36.8676</geoCoordinate>
+</td>
+<td pageId="2" pageNumber="0">
+<geoCoordinate>-121.6786</geoCoordinate>
+</td>
+<td pageId="2" pageNumber="0" style="vertical-align:bottom;">
+<collectingDate>28<br/>
+November<br/>
+2006</collectingDate>
+</td>
+<td pageId="2" pageNumber="0">MY1145<br/>
+(JN034060)</td>
+<td pageId="2" pageNumber="0">MY4361<br/>
+(588005)</td>
+<td pageId="2" pageNumber="0">MY4361<br/>
+(588006)</td>
+</materialsCitation>
+</tr>
+<tr pageId="2" pageNumber="0">
+<materialsCitation collectingDate="2006-03-11" collectionCode="MY 1117I" collectorName="M. Hedin, J. Starrett" country="United States of America" latitude="36.8602" location="San Benito Co., 1400 Hwy 101, Monterey Vacation RV Park, below Pinacate Peak, N-facing oak hillside" longitude="-121.6126" specimenCode="MY 1117 I" specimenCount="1" specimenCountOther="1" stateProvince="California">
+<td pageId="2" pageNumber="0">3</td>
+<td pageId="2" pageNumber="0">
+<specimenCode>MY 1117I</specimenCode>
+</td>
+<td pageId="2" pageNumber="0" style="vertical-align:bottom;">
+CA: 
+<location>
+<collectingCounty>San Benito Co.</collectingCounty>
+, 1400 Hwy<br/>
+101, Monterey Vacation RV<br/>
+Park, below Pinacate Peak, N-facing oak hillside
+</location>
+; coll. 
+<collectorName>M.<br/>
+Hedin</collectorName>
+, 
+<collectorName>J. Starrett</collectorName>
+; MCH 06_015
+</td>
+<td pageId="2" pageNumber="0">
+<geoCoordinate>36.8602</geoCoordinate>
+</td>
+<td pageId="2" pageNumber="0">
+<geoCoordinate>-121.6126</geoCoordinate>
+</td>
+<td pageId="2" pageNumber="0">
+<collectingDate>11 March<br/>
+2006</collectingDate>
+</td>
+<td pageId="2" pageNumber="0">JN034061</td>
+<td isEmpty="true" pageId="2" pageNumber="0">-</td>
+<td isEmpty="true" pageId="2" pageNumber="0">-</td>
+</materialsCitation>
+</tr>
+<tr pageId="2" pageNumber="0">
+<materialsCitation collectingDate="2003-04-05" collectionCode="MCH 03_049" collectorName="M. Hedin, J. Starrett, P. Paquin" country="United States of America" latitude="36.7858" location="San Benito Co., San Juan Canyon Road, vie. Fremont State Park" longitude="-121.4607" specimenCode="MY 827 F, MY 828 I" specimenCount="2" specimenCountFemale="1" specimenCountOther="1" stateProvince="California">
+<td pageId="2" pageNumber="0">4</td>
+<td pageId="2" pageNumber="0">
+<specimenCode>MY827F,<br/>
+MY828I</specimenCode>
+</td>
+<td pageId="2" pageNumber="0" style="vertical-align:bottom;">
+CA: 
+<location>
+<collectingCounty>San Benito Co.</collectingCounty>
+, San Juan<br/>
+Canyon Road, vie. Fremont<br/>
+State Park
+</location>
+; coll. 
+<collectorName>M. Hedin</collectorName>
+, 
+<collectorName>J.<br/>
+Starrett</collectorName>
+, 
+<collectorName>P. Paquin</collectorName>
+; MCH<br/>
+03_049
+</td>
+<td pageId="2" pageNumber="0">
+<geoCoordinate>36.7858</geoCoordinate>
+</td>
+<td pageId="2" pageNumber="0">
+<geoCoordinate>-121.4607</geoCoordinate>
+</td>
+<td pageId="2" pageNumber="0">
+<collectingDate>5 April 2003</collectingDate>
+</td>
+<td pageId="2" pageNumber="0">MY827<br/>
+(JN034062)</td>
+<td pageId="2" pageNumber="0">MY827<br/>
+(588007)</td>
+<td pageId="2" pageNumber="0">MY827<br/>
+(588008)</td>
+</materialsCitation>
+</tr>
+<tr pageId="2" pageNumber="0">
+<materialsCitation collectingDate="2010-04-01" collectionCode="MCH 10 03 5" collectorName="M. Hedin, J. Starrett, D. Carlson, B. Keith" country="United States of America" county="San Benito Co." latitude="36.6948" location="San Benito Co., Harlan Mtn Road, W of Cienega Rd." longitude="-121.3536" specimenCode="MY 4194 F, MY 4195 F" specimenCount="2" specimenCountFemale="2" stateProvince="California">
+<td pageId="2" pageNumber="0">5</td>
+<td pageId="2" pageNumber="0">
+<specimenCode>MY4194F,<br/>
+MY4195F</specimenCode>
+</td>
+<td pageId="2" pageNumber="0" style="vertical-align:bottom;">
+<collectingRegion>CA</collectingRegion>
+: 
+<location>
+<collectingCounty>San Benito Co.</collectingCounty>
+, Harlan Mtn<br/>
+Road, W of Cienega Rd.
+</location>
+, in<br/>
+oak/chamise/ghost pine<br/>
+woodland; coll. 
+<collectorName>M. Hedin</collectorName>
+, 
+<collectorName>J.<br/>
+Starrett</collectorName>
+, 
+<collectorName>D. Carlson</collectorName>
+, 
+<collectorName>B. Keith</collectorName>
+;<br/>
+<collectionCode>MCH 10 03 5</collectionCode>
+</td>
+<td pageId="2" pageNumber="0">
+<geoCoordinate>36.6948</geoCoordinate>
+</td>
+<td pageId="2" pageNumber="0">
+<geoCoordinate>-121.3536</geoCoordinate>
+</td>
+<td pageId="2" pageNumber="0">
+<collectingDate>1 April 2010</collectingDate>
+</td>
+<td pageId="2" pageNumber="0">MY4194<br/>
+(JN034063)</td>
+<td pageId="2" pageNumber="0">MY4194<br/>
+(588009)</td>
+<td pageId="2" pageNumber="0">MY4194<br/>
+(588010)</td>
+</materialsCitation>
+</tr>
+<tr pageId="2" pageNumber="0">
+<materialsCitation collectingDate="2010-04-01" collectionCode="MCH 10 03 6" collectorName="M. Hedin, J. Starrett, D. Carlson" country="United States of America" county="San Benito Co." latitude="36.6921" location="San Benito Co., Cienega Road" longitude="-121.3052" specimenCode="MY 4196 F, MY 4197 F" specimenCount="2" specimenCountFemale="2" stateProvince="California">
+<td pageId="2" pageNumber="0">6</td>
+<td pageId="2" pageNumber="0">
+<specimenCode>MY4196F,<br/>
+MY4197F</specimenCode>
+</td>
+<td pageId="2" pageNumber="0" style="vertical-align:bottom;">
+<collectingRegion>CA</collectingRegion>
+: 
+<location>
+<collectingCounty>San Benito Co.</collectingCounty>
+, Cienega<br/>
+Road
+</location>
+, shaded oak roadcut; coll.<br/>
+<collectorName>M. Hedin</collectorName>
+, 
+<collectorName>J. Starrett</collectorName>
+, 
+<collectorName>D. Carlson</collectorName>
+;<br/>
+<collectionCode>MCH 10 03 6</collectionCode>
+</td>
+<td pageId="2" pageNumber="0">
+<geoCoordinate>36.6921</geoCoordinate>
+</td>
+<td pageId="2" pageNumber="0">
+<geoCoordinate>-121.3052</geoCoordinate>
+</td>
+<td pageId="2" pageNumber="0">
+<collectingDate>1 April 2010</collectingDate>
+</td>
+<td pageId="2" pageNumber="0">MY4196<br/>
+(JN034064)</td>
+<td pageId="2" pageNumber="0">MY4196<br/>
+(588011)</td>
+<td pageId="2" pageNumber="0">MY4196<br/>
+(588012)</td>
+</materialsCitation>
+</tr>
+<tr pageId="2" pageNumber="0">
+<materialsCitation collectingDate="2007-03-24" collectionCode="MCH 07 012" collectorName="M. Hedin, R. Keith, J. Starrett, D. Leavitt" country="United States of America" county="San Benito Co." latitude="36.5213" location="San Benito Co., Hwy. 25, N of jnct. with Hwy 146, Bear Valley" longitude="-121.1399" specimenCode="MY 1214 F, MY 1215 I" specimenCount="2" specimenCountFemale="1" specimenCountOther="1" stateProvince="California">
+<td pageId="2" pageNumber="0">7</td>
+<td pageId="2" pageNumber="0">
+<specimenCode>MY1214F,<br/>
+MY1215I</specimenCode>
+</td>
+<td pageId="2" pageNumber="0" style="vertical-align:bottom;">
+CA: 
+<location>
+<collectingCounty>San Benito Co.</collectingCounty>
+, Hwy. 25, N<br/>
+of jnct. with Hwy 146, Bear<br/>
+Valley
+</location>
+, N-facing mixed<br/>
+oak/ghost pine woodland; coll.<br/>
+<collectorName>M. Hedin</collectorName>
+, 
+<collectorName>R. Keith</collectorName>
+, 
+<collectorName>J. Starrett</collectorName>
+,<br/>
+<collectorName>D. Leavitt</collectorName>
+; 
+<collectionCode>MCH 07 012</collectionCode>
+</td>
+<td pageId="2" pageNumber="0">
+<geoCoordinate>36.5213</geoCoordinate>
+</td>
+<td pageId="2" pageNumber="0">
+<geoCoordinate>-121.1399</geoCoordinate>
+</td>
+<td pageId="2" pageNumber="0">
+<collectingDate>24 March<br/>
+2007</collectingDate>
+</td>
+<td pageId="2" pageNumber="0">MY1214<br/>
+(JN034065)</td>
+<td pageId="2" pageNumber="0">MY1214<br/>
+(588013)</td>
+<td pageId="2" pageNumber="0">MY1214<br/>
+(588014)</td>
+</materialsCitation>
+</tr>
+<tr pageId="2" pageNumber="0">
+<materialsCitation collectingDate="2003-08-22" collectorName="J Starrett, I Ballard" country="United States of America" county="San Benito Co." latitude="36.4883" location="San Benito Co., Pinnacles NM, Hwy 146 (W entrance)" longitude="-121.217" specimenCode="MY 955 F" specimenCount="1" specimenCountFemale="1">
+<td pageId="2" pageNumber="0">8</td>
+<td pageId="2" pageNumber="0">
+<specimenCode>MY955F</specimenCode>
+</td>
+<td pageId="2" pageNumber="0">
+CA: 
+<location>
+<collectingCounty>San Benito Co.</collectingCounty>
+, Pinnacles<br/>
+NM, Hwy 146 (W entrance)
+</location>
+,<br/>
+woodland ravine; coll. 
+<collectorName>J Starrett</collectorName>
+,<br/>
+<collectorName>I Ballard</collectorName>
+</td>
+<td pageId="2" pageNumber="0">
+<geoCoordinate>36.4883</geoCoordinate>
+</td>
+<td pageId="2" pageNumber="0">
+<geoCoordinate>-121.217</geoCoordinate>
+</td>
+<td pageId="2" pageNumber="0">
+<collectingDate>22 August<br/>
+2003</collectingDate>
+</td>
+<td pageId="2" pageNumber="0">JN034066</td>
+<td pageId="2" pageNumber="0">588015</td>
+<td pageId="2" pageNumber="0">588016</td>
+</materialsCitation>
+</tr>
+<tr pageId="2" pageNumber="0">
+<td pageId="2" pageNumber="0">Site #</td>
+<td pageId="2" pageNumber="0">Lab #</td>
+<td pageId="2" pageNumber="0">Locality Description</td>
+<td pageId="2" pageNumber="0">Latitude</td>
+<td pageId="2" pageNumber="0">Longitude</td>
+<td pageId="2" pageNumber="0" style="vertical-align:bottom;">Collection<br/>
+Date</td>
+<td pageId="2" pageNumber="0" style="vertical-align:bottom;">COI<br/>
+GenBank</td>
+<td pageId="2" pageNumber="0" style="vertical-align:bottom;">Sternum<br/>
+Image</td>
+<td pageId="2" pageNumber="0" style="vertical-align:bottom;">Spermathecal<br/>
+Image</td>
+</tr>
+<tr pageId="2" pageNumber="0">
+<materialsCitation collectingDate="2003-10-11" collectionCode="MCH 03 105" collectorName="M. Hedin, J. Starrett" county="San Benito Co." latitude="36.4867" location="San Benito Co., Pinnacles NM, 1.4 mi. beyond W park entrance" longitude="-121.2231" specimenCode="MY 4360 M" specimenCount="1" specimenCountMale="1">
+<td pageId="2" pageNumber="0">9</td>
+<td pageId="2" pageNumber="0">
+<specimenCode>MY4360M</specimenCode>
+</td>
+<td pageId="2" pageNumber="0" style="vertical-align:bottom;">
+CA: 
+<location>
+<collectingCounty>San Benito Co.</collectingCounty>
+, Pinnacles<br/>
+NM, 1.4 mi. beyond W park<br/>
+entrance
+</location>
+, woodland ravine; coll.<br/>
+<collectorName>M. Hedin</collectorName>
+, 
+<collectorName>J. Starrett</collectorName>
+; 
+<collectionCode>MCH<br/>
+03 105</collectionCode>
+</td>
+<td pageId="2" pageNumber="0">
+<geoCoordinate>36.4867</geoCoordinate>
+</td>
+<td pageId="2" pageNumber="0">
+<geoCoordinate>-121.2231</geoCoordinate>
+</td>
+<td pageId="2" pageNumber="0">
+<collectingDate>11 October<br/>
+2003</collectingDate>
+</td>
+<td isEmpty="true" pageId="2" pageNumber="0">-</td>
+<td isEmpty="true" pageId="2" pageNumber="0">-</td>
+<td isEmpty="true" pageId="2" pageNumber="0">-</td>
+</materialsCitation>
+</tr>
+<tr pageId="2" pageNumber="0">
+<materialsCitation collectingDate="2009-03-30" collectionCode="MCH 09 042" collectorName="M. Hedin, D. Leavitt, J. Satler, J. Starrett" country="United States of America" county="San Benito Co." latitude="36.38" location="San Benito Co., Coalinga Road, west of Hernandez Reservoir" longitude="-120.9222" specimenCode="MY 1645 F, MY 1646 I" specimenCount="2" specimenCountFemale="1" specimenCountOther="1" stateProvince="California">
+<td pageId="2" pageNumber="0">10</td>
+<td pageId="2" pageNumber="0">
+<specimenCode>MY1645F,<br/>
+MY 1646I</specimenCode>
+</td>
+<td pageId="2" pageNumber="0" style="vertical-align:bottom;">
+CA: 
+<location>
+<collectingCounty>San Benito Co.</collectingCounty>
+, Coalinga<br/>
+Road, west of Hernandez<br/>
+Reservoir
+</location>
+, mixed oak/ghost pine<br/>
+/chamise (some S-facing); coll.<br/>
+<collectorName>M. Hedin</collectorName>
+, 
+<collectorName>D. Leavitt</collectorName>
+, 
+<collectorName>J. Satler</collectorName>
+, 
+<collectorName>J.<br/>
+Starrett</collectorName>
+; 
+<collectionCode>MCH 09 042</collectionCode>
+</td>
+<td pageId="2" pageNumber="0">
+<geoCoordinate>36.38</geoCoordinate>
+</td>
+<td pageId="2" pageNumber="0">
+<geoCoordinate>-120.9222</geoCoordinate>
+</td>
+<td pageId="2" pageNumber="0">
+<collectingDate>30 March<br/>
+2009</collectingDate>
+</td>
+<td pageId="2" pageNumber="0">MY 1645<br/>
+(JN034067)<br/>
+MY 1646<br/>
+(JN034068)</td>
+<td pageId="2" pageNumber="0">MY 1645<br/>
+(588017)</td>
+<td pageId="2" pageNumber="0">MY 1645<br/>
+(588018)</td>
+</materialsCitation>
+</tr>
+<tr pageId="2" pageNumber="0">
+<materialsCitation collectingDate="2009-03-30" collectionCode="MCH 09 _ 041" collectorName="M. Hedin, D. Leavitt, J. Satler, J. Starrett" country="United States of America" county="San Benito Co." latitude="36.2927" location="San Benito Co., Lonoak Road, E of King City" longitude="-120.9878" specimenCode="MY 1642 F" specimenCount="1" specimenCountFemale="1" stateProvince="California">
+<td pageId="2" pageNumber="0">11</td>
+<td pageId="2" pageNumber="0">
+<specimenCode>MY1642F</specimenCode>
+</td>
+<td pageId="2" pageNumber="0" style="vertical-align:bottom;">
+CA: 
+<location>
+<collectingCounty>San Benito Co.</collectingCounty>
+, Lonoak<br/>
+Road, E of King City
+</location>
+, sparse oak<br/>
+woodland merging to grassland;<br/>
+coll. 
+<collectorName>M. Hedin</collectorName>
+, 
+<collectorName>D. Leavitt</collectorName>
+, 
+<collectorName>J.<br/>
+Satler</collectorName>
+, 
+<collectorName>J. Starrett</collectorName>
+; 
+<collectionCode>MCH 09_041</collectionCode>
+</td>
+<td pageId="2" pageNumber="0">
+<geoCoordinate>36.2927</geoCoordinate>
+</td>
+<td pageId="2" pageNumber="0">
+<geoCoordinate>-120.9878</geoCoordinate>
+</td>
+<td pageId="2" pageNumber="0">
+<collectingDate>30 March<br/>
+2009</collectingDate>
+</td>
+<td pageId="2" pageNumber="0">JN034069</td>
+<td pageId="2" pageNumber="0">588019</td>
+<td pageId="2" pageNumber="0">588020</td>
+</materialsCitation>
+</tr>
+<tr pageId="2" pageNumber="0">
+<materialsCitation collectingDate="2002-07-27" collectionCode="MCH 02119" collectorName="M. Hedin, P. Paquin, J. Starrett" country="United States of America" county="Monterey Co." latitude="36.5717" location="Monterey Co., near entrance of Jack's Peak County Park, off Hwy 68" longitude="-121.8575" specimenCode="MY 373 F, MY 374 F, MY 375 I" specimenCount="3" specimenCountFemale="2" specimenCountOther="1" stateProvince="California">
+<td pageId="2" pageNumber="0">12</td>
+<td pageId="2" pageNumber="0">
+<specimenCode>MY373F,<br/>
+MY374F,<br/>
+MY375I</specimenCode>
+</td>
+<td pageId="2" pageNumber="0" style="vertical-align:bottom;">
+CA: 
+<location>
+<collectingCounty>Monterey Co.</collectingCounty>
+, near<br/>
+entrance of Jack's 
+<collectingCounty>Peak County</collectingCounty>
+Park, off Hwy 68
+</location>
+, roadside<br/>
+bank/sparse forest; coll. 
+<collectorName>M.<br/>
+Hedin</collectorName>
+, 
+<collectorName>P. Paquin</collectorName>
+, 
+<collectorName>J. Starrett</collectorName>
+;<br/>
+<specimenCode>MCH 02119</specimenCode>
+</td>
+<td pageId="2" pageNumber="0">
+<geoCoordinate>36.5717</geoCoordinate>
+</td>
+<td pageId="2" pageNumber="0">
+<geoCoordinate>-121.8575</geoCoordinate>
+</td>
+<td pageId="2" pageNumber="0">
+<collectingDate>27 July 2002</collectingDate>
+</td>
+<td pageId="2" pageNumber="0">MY373<br/>
+(JN034070)<br/>
+MY374<br/>
+(JN034071)</td>
+<td pageId="2" pageNumber="0">MY374<br/>
+(588021)</td>
+<td pageId="2" pageNumber="0">MY374<br/>
+(588022)</td>
+</materialsCitation>
+</tr>
+<tr pageId="2" pageNumber="0">
+<materialsCitation collectingDate="2007-12-21" collectionCode="MCH 07 _ 182" collectorName="M. Hedin, J. Starrett, D. Leavitt" country="United States of America" county="Monterey Co." latitude="36.524" location="Monterey Co., G 20 (Laureles Grade Road), 0.5 mi. S of Laureles Summit" longitude="-121.7558" specimenCode="MY 1326 F" specimenCount="1" specimenCountFemale="1" stateProvince="California">
+<td pageId="2" pageNumber="0">13</td>
+<td pageId="2" pageNumber="0">
+<specimenCode>MY1326F</specimenCode>
+</td>
+<td pageId="2" pageNumber="0" style="vertical-align:bottom;">
+CA: 
+<location>
+<collectingCounty>Monterey Co.</collectingCounty>
+, G20<br/>
+(Laureles Grade Road), 0.5 mi. S<br/>
+of Laureles Summit
+</location>
+, roadside<br/>
+oak ravine; coll. 
+<collectorName>M. Hedin</collectorName>
+, 
+<collectorName>J.<br/>
+Starrett</collectorName>
+, 
+<collectorName>D. Leavitt</collectorName>
+; 
+<collectionCode>MCH<br/>
+07_182</collectionCode>
+</td>
+<td pageId="2" pageNumber="0">
+<geoCoordinate>36.524</geoCoordinate>
+</td>
+<td pageId="2" pageNumber="0">
+<geoCoordinate>-121.7558</geoCoordinate>
+</td>
+<td pageId="2" pageNumber="0">
+<collectingDate>21 December<br/>
+2007</collectingDate>
+</td>
+<td pageId="2" pageNumber="0">JN034072</td>
+<td pageId="2" pageNumber="0">588023</td>
+<td pageId="2" pageNumber="0">588024</td>
+</materialsCitation>
+</tr>
+<tr pageId="2" pageNumber="0">
+<materialsCitation collectingDate="2007-12-21" collectionCode="MCH 07 _ 181" collectorName="M. Hedin, J. Starrett, D. Leavitt" country="United States of America" county="Monterey Co." latitude="36.575" location="Monterey Co., N. of Pine Canyon, Sierra de Salinas, off Pine Canyon Rd" longitude="-121.6281" specimenCode="MY 1322 F, MY 1323 F" specimenCount="2" specimenCountFemale="2" stateProvince="California">
+<td pageId="2" pageNumber="0">14</td>
+<td pageId="2" pageNumber="0">
+<specimenCode>MY1322F,<br/>
+MY1323F</specimenCode>
+</td>
+<td pageId="2" pageNumber="0" style="vertical-align:bottom;">
+CA: 
+<location>
+<collectingCounty>Monterey Co.</collectingCounty>
+, N. of Pine<br/>
+Canyon, Sierra de Salinas, off<br/>
+Pine Canyon Rd
+</location>
+, E/W tending<br/>
+ravine; Monterey pine &amp; oak;<br/>
+coll. 
+<collectorName>M. Hedin</collectorName>
+, 
+<collectorName>J. Starrett</collectorName>
+, 
+<collectorName>D.<br/>
+Leavitt</collectorName>
+; 
+<collectionCode>MCH 07_181</collectionCode>
+</td>
+<td pageId="2" pageNumber="0">
+<geoCoordinate>36.575</geoCoordinate>
+</td>
+<td pageId="2" pageNumber="0">
+<geoCoordinate>-121.6281</geoCoordinate>
+</td>
+<td pageId="2" pageNumber="0">
+<collectingDate>21 December<br/>
+2007</collectingDate>
+</td>
+<td pageId="2" pageNumber="0">MY 1322<br/>
+(JN034073)</td>
+<td pageId="2" pageNumber="0">MY 1322<br/>
+(588025)</td>
+<td pageId="2" pageNumber="0">MY1322<br/>
+(588026)</td>
+</materialsCitation>
+</tr>
+<tr pageId="2" pageNumber="0">
+<materialsCitation collectingDate="2005-03-17" collectionCode="JEB 05 - 030" collectorName="J. Bond" country="United States of America" county="Monterey Co." latitude="36.3997" location="Monterey Co., Palo Colorado Road, 0.9 mi E. of Hwy 1, near Rocky Point" longitude="-121.8915" specimenCode="MY 3058 F, MY 3059 F" specimenCount="2" specimenCountFemale="2" stateProvince="California">
+<td pageId="2" pageNumber="0">15</td>
+<td pageId="2" pageNumber="0">
+<specimenCode>MY3058F,<br/>
+MY3059F</specimenCode>
+</td>
+<td pageId="2" pageNumber="0">
+CA: 
+<location>
+<collectingCounty>Monterey Co.</collectingCounty>
+, Palo<br/>
+Colorado Road, 0.9 mi E. of<br/>
+Hwy 1, near Rocky Point
+</location>
+,<br/>
+redwood forest; coll. 
+<collectorName>J. Bond</collectorName>
+;<br/>
+<collectionCode>JEB 05-030</collectionCode>
+</td>
+<td pageId="2" pageNumber="0">
+<geoCoordinate>36.3997</geoCoordinate>
+</td>
+<td pageId="2" pageNumber="0">
+<geoCoordinate>-121.8915</geoCoordinate>
+</td>
+<td pageId="2" pageNumber="0">
+<collectingDate>17 March<br/>
+2005</collectingDate>
+</td>
+<td pageId="2" pageNumber="0">MY3059<br/>
+(JN034074)</td>
+<td pageId="2" pageNumber="0">MY3059<br/>
+(588027)</td>
+<td pageId="2" pageNumber="0">MY3059<br/>
+(588028)</td>
+</materialsCitation>
+</tr>
+<tr pageId="2" pageNumber="0">
+<td pageId="2" pageNumber="0">Site#</td>
+<td pageId="2" pageNumber="0">Lab#</td>
+<td pageId="2" pageNumber="0">Locality Description</td>
+<td pageId="2" pageNumber="0">Latitude</td>
+<td pageId="2" pageNumber="0">Longitude</td>
+<td pageId="2" pageNumber="0">Collection<br/>
+Date</td>
+<td pageId="2" pageNumber="0">COI<br/>
+GenBank</td>
+<td pageId="2" pageNumber="0">Sternum<br/>
+Image</td>
+<td pageId="2" pageNumber="0">Spermathecal<br/>
+Image</td>
+</tr>
+<tr pageId="2" pageNumber="0">
+<materialsCitation collectingDate="2009-03-29" collectionCode="MCH 09 03 7" collectorName="M. Hedin, D. Leavitt, J. Satler, J. Starrett" country="United States of America" county="Monterey Co." latitude="36.3987" location="Monterey Co., Palo Colorado Road, E of Hwy 1" longitude="-121.8864" specimenCode="MY 1643 F, MY 1644 I" specimenCount="2" specimenCountFemale="1" specimenCountOther="1" stateProvince="California">
+<td pageId="2" pageNumber="0">16</td>
+<td pageId="2" pageNumber="0">
+<specimenCode>MY1643F,<br/>
+MY 1644I</specimenCode>
+</td>
+<td pageId="2" pageNumber="0">
+CA: 
+<location>
+<collectingCounty>Monterey Co.</collectingCounty>
+, Palo<br/>
+Colorado Road, E of Hwy 1
+</location>
+,<br/>
+redwood forest ravine; coll. 
+<collectorName>M.<br/>
+Hedin</collectorName>
+, 
+<collectorName>D. Leavitt</collectorName>
+, 
+<collectorName>J. Satler</collectorName>
+, 
+<collectorName>J.<br/>
+Starrett</collectorName>
+; 
+<collectionCode>MCH 09 03 7</collectionCode>
+</td>
+<td pageId="2" pageNumber="0">36.3987</td>
+<td pageId="2" pageNumber="0">-121.8864</td>
+<td pageId="2" pageNumber="0">29 March<br/>
+2009</td>
+<td isEmpty="true" pageId="2" pageNumber="0">-</td>
+<td pageId="2" pageNumber="0">MY 1643<br/>
+(588029)</td>
+<td pageId="2" pageNumber="0">MY 1643<br/>
+(588030)</td>
+</materialsCitation>
+</tr>
+<tr pageId="2" pageNumber="0">
+<materialsCitation collectingDate="2004-12-23" collectionCode="JRS 04 013" collectorName="J. Starrett" country="United States of America" county="Monterey Co." latitude="36.4248" location="Monterey Co., Cachagua Road, 6.9 mi. N. Tassajara Road" longitude="-121.6835" specimenCode="MY 1043 F" specimenCount="1" specimenCountFemale="1" stateProvince="California">
+<td pageId="2" pageNumber="0">17</td>
+<td pageId="2" pageNumber="0">
+<specimenCode>MY1043F</specimenCode>
+</td>
+<td pageId="2" pageNumber="0">
+CA: 
+<location>
+<collectingCounty>Monterey Co.</collectingCounty>
+, Cachagua<br/>
+Road, 6.9 mi. N. Tassajara Road
+</location>
+,<br/>
+oak woodland, roadbank; coll. 
+<collectorName>J.<br/>
+Starrett</collectorName>
+; 
+<collectionCode>JRS 04 013</collectionCode>
+</td>
+<td pageId="2" pageNumber="0">36.4248</td>
+<td pageId="2" pageNumber="0">-121.6835</td>
+<td pageId="2" pageNumber="0">23 December<br/>
+2004</td>
+<td isEmpty="true" pageId="2" pageNumber="0">-</td>
+<td pageId="2" pageNumber="0">588031</td>
+<td pageId="2" pageNumber="0">588032</td>
+</materialsCitation>
+</tr>
+<tr pageId="2" pageNumber="0">
+<materialsCitation collectingDate="2003-11-25" collectorName="J. Starrett" country="United States of America" county="Monterey Co." latitude="36.4068" location="Monterey Co., Carmel Valley Road, ~ 1.25 KM N of Tassajara Road" longitude="-121.5918" specimenCode="MY 1013 F, CASENT9039431" specimenCount="1" specimenCountFemale="1" stateProvince="California" typeStatus="paratype">
+<td pageId="2" pageNumber="0">18</td>
+<td pageId="2" pageNumber="0">
+<specimenCode>MY1013F</specimenCode>
+<typeStatus>paratype</typeStatus>
+</td>
+<td pageId="2" pageNumber="0">
+CA: 
+<location>
+<collectingCounty>Monterey Co.</collectingCounty>
+, Carmel<br/>
+Valley Road, ~ 1.25 KM N of<br/>
+Tassajara Road
+</location>
+; coll. 
+<collectorName>J. Starrett</collectorName>
+</td>
+<td pageId="2" pageNumber="0">36.4068</td>
+<td pageId="2" pageNumber="0">-121.5918</td>
+<td pageId="2" pageNumber="0">25<br/>
+November<br/>
+2003</td>
+<td pageId="2" pageNumber="0">JN034075</td>
+<td pageId="2" pageNumber="0">588033</td>
+<td pageId="2" pageNumber="0">588034</td>
+</materialsCitation>
+</tr>
+<tr pageId="2" pageNumber="0">
+<materialsCitation collectingDate="2003-10-12" collectionCode="MCH 03108" collectorName="M. Hedin, J. Starrett" country="United States of America" county="Monterey Co." latitude="36.2332" location="Monterey Co., west of Arroyo Center, road above Arroyo Seco Gorge" longitude="-121.4921" specimenCode="MY 999 M, CASENT9039430" specimenCount="1" specimenCountMale="1" stateProvince="California" typeStatus="holotype">
+<td pageId="2" pageNumber="0">19</td>
+<td pageId="2" pageNumber="0">
+<specimenCode>MY999M</specimenCode>
+<typeStatus>holotype</typeStatus>
+</td>
+<td pageId="2" pageNumber="0">
+CA: 
+<location>
+<collectingCounty>Monterey Co.</collectingCounty>
+, west of<br/>
+Arroyo Center, road above<br/>
+Arroyo Seco Gorge
+</location>
+; coll. 
+<collectorName>M.<br/>
+Hedin</collectorName>
+, 
+<collectorName>J. Starrett</collectorName>
+; 
+<collectionCode>MCH 03108</collectionCode>
+</td>
+<td pageId="2" pageNumber="0">36.2332</td>
+<td pageId="2" pageNumber="0">-121.4921</td>
+<td pageId="2" pageNumber="0">12 October<br/>
+2003</td>
+<td pageId="2" pageNumber="0">JN034076</td>
+<td pageId="2" pageNumber="0">588043-47</td>
+<td isEmpty="true" pageId="2" pageNumber="0">-</td>
+</materialsCitation>
+</tr>
+<tr pageId="2" pageNumber="0">
+<materialsCitation collectingDate="2003-11-25" collectorName="J. Starrett" country="United States of America" county="Monterey Co." latitude="35.8366" location="Monterey Co., Nathaniel Owings Redwood Grove, 4 mi. S of Gorda (Hwy 1)" longitude="-121.3922" specimenCode="MY 1010 F" specimenCount="1" specimenCountFemale="1" stateProvince="California">
+<td pageId="2" pageNumber="0">20</td>
+<td pageId="2" pageNumber="0">
+<specimenCode>MY1010F</specimenCode>
+</td>
+<td pageId="2" pageNumber="0">
+CA: 
+<location>
+<collectingCounty>Monterey Co.</collectingCounty>
+, Nathaniel<br/>
+Owings Redwood Grove, 4 mi. S<br/>
+of Gorda (Hwy 1)
+</location>
+; coll. 
+<collectorName>J.<br/>
+Starrett</collectorName>
+</td>
+<td pageId="2" pageNumber="0">35.8366</td>
+<td pageId="2" pageNumber="0">-121.3922</td>
+<td pageId="2" pageNumber="0">25<br/>
+November<br/>
+2003</td>
+<td pageId="2" pageNumber="0">JN034077</td>
+<td pageId="2" pageNumber="0">588035</td>
+<td pageId="2" pageNumber="0">588036</td>
+</materialsCitation>
+</tr>
+<tr pageId="2" pageNumber="0">
+<materialsCitation collectingDate="2003-11-25" collectorName="J. Starrett" country="United States of America" county="Monterey Co." latitude="35.7994" location="Monterey Co., Hwy 1 turnoff, 1.8 mi. S of Salmon Creek Trail" longitude="-121.3463" specimenCode="MY 1011 F, MY 1012 I" specimenCount="2" specimenCountFemale="1" specimenCountOther="1" stateProvince="California">
+<td pageId="2" pageNumber="0">21</td>
+<td pageId="2" pageNumber="0">
+<specimenCode>MY1011F,<br/>
+MY1012I</specimenCode>
+</td>
+<td pageId="2" pageNumber="0">
+CA: 
+<location>
+<collectingCounty>Monterey Co.</collectingCounty>
+, Hwy 1<br/>
+turnoff, 1.8 mi. S of Salmon<br/>
+Creek Trail
+</location>
+; coll. 
+<collectorName>J. Starrett</collectorName>
+</td>
+<td pageId="2" pageNumber="0">35.7994</td>
+<td pageId="2" pageNumber="0">-121.3463</td>
+<td pageId="2" pageNumber="0">25<br/>
+November<br/>
+2003</td>
+<td pageId="2" pageNumber="0">MY1011<br/>
+(JN034078)</td>
+<td pageId="2" pageNumber="0">MY 1011<br/>
+(588037)</td>
+<td pageId="2" pageNumber="0">MY1011<br/>
+(588038)</td>
+</materialsCitation>
+</tr>
+<tr pageId="2" pageNumber="0">
+<materialsCitation collectingDate="2003-04-05" collectionCode="MCH 03 _ 051" collectorName="M. Hedin, Paquin, J. Starrett" country="United States of America" county="San Luis Obispo Co." latitude="35.4168" location="San Luis Obispo Co., Hwy 58, 4.1 mi E. of Santa Margarita" longitude="-120.5567" specimenCode="MY 829 F, MY 830 F, MY 831 F, MY 832 F, MY 833 I" specimenCount="5" specimenCountFemale="4" specimenCountOther="1" stateProvince="California">
+<td pageId="2" pageNumber="0">22</td>
+<td pageId="2" pageNumber="0">
+<specimenCode>MY829F,<br/>
+MY830F,<br/>
+MY831F,<br/>
+MY832F,<br/>
+MY833I</specimenCode>
+</td>
+<td pageId="2" pageNumber="0">
+CA: 
+<location>
+<collectingCounty>San Luis Obispo Co.</collectingCounty>
+, Hwy<br/>
+58, 4.1 mi E. of Santa Margarita
+</location>
+;<br/>
+coll. 
+<collectorName>M. Hedin</collectorName>
+, 
+<collectorName>Paquin</collectorName>
+, 
+<collectorName>J.<br/>
+Starrett</collectorName>
+; 
+<collectionCode>MCH 03_051</collectionCode>
+</td>
+<td pageId="2" pageNumber="0">35.4168</td>
+<td pageId="2" pageNumber="0">-120.5567</td>
+<td pageId="2" pageNumber="0">5 April 2003</td>
+<td pageId="2" pageNumber="0">MY829<br/>
+(JN034079)<br/>
+MY830<br/>
+(JN034080)</td>
+<td pageId="2" pageNumber="0">MY829<br/>
+(588039)</td>
+<td pageId="2" pageNumber="0">MY829<br/>
+(588040)</td>
+</materialsCitation>
+</tr>
+<tr pageId="2" pageNumber="0">
+<materialsCitation collectingDate="2010-07-27" collectionCode="MCH 10 066" collectorName="M. Hedin, J. Satler, D. Carlson" country="United States of America" county="Kern Co." latitude="34.8624" location="Kern Co., San Emigdio Mountains, San Emigdio Creek, off Mil Potrero Hwy" longitude="-119.1275" specimenCode="MY 4338 I, MY 4343 I" specimenCount="2" specimenCountOther="2" stateProvince="California">
+<td pageId="2" pageNumber="0">23</td>
+<td pageId="2" pageNumber="0">
+<specimenCode>MY4338I,<br/>
+MY4343I</specimenCode>
+</td>
+<td pageId="2" pageNumber="0">
+CA: 
+<location>
+<collectingCounty>Kern Co.</collectingCounty>
+, San Emigdio<br/>
+Mountains, San Emigdio Creek,<br/>
+off Mil Potrero Hwy
+</location>
+, oak-dominated streamcourse; coll.<br/>
+<collectorName>M. Hedin</collectorName>
+, 
+<collectorName>J. Satler</collectorName>
+, 
+<collectorName>D. Carlson</collectorName>
+;<br/>
+<collectionCode>MCH 10 066</collectionCode>
+</td>
+<td pageId="2" pageNumber="0">34.8624</td>
+<td pageId="2" pageNumber="0">-119.1275</td>
+<td pageId="2" pageNumber="0">27 July 2010</td>
+<td pageId="2" pageNumber="0">MY4343<br/>
+(JN034081)<br/>
+MY4338<br/>
+(JN034082)</td>
+<td isEmpty="true" pageId="2" pageNumber="0">-</td>
+<td isEmpty="true" pageId="2" pageNumber="0">-</td>
+</materialsCitation>
+</tr>
+<tr pageId="2" pageNumber="0">
+<materialsCitation collectingDate="2004-03-17" collectionCode="JEB 04 - 036" collectorName="J. Bond, C. Spruill, D. Beamer" country="United States of America" county="Los Angeles Co." latitude="34.0592" location="Los Angeles Co., Point Dume, Kanan Dume Rd." longitude="-118.7994" specimenCode="MY 2671 F" specimenCount="1" specimenCountFemale="1" stateProvince="California">
+<td pageId="2" pageNumber="0">24</td>
+<td pageId="2" pageNumber="0">
+<specimenCode>MY2671F</specimenCode>
+</td>
+<td pageId="2" pageNumber="0">
+CA: 
+<location>
+<collectingCounty>Los Angeles Co.</collectingCounty>
+, Point<br/>
+Dume, Kanan Dume Rd.
+</location>
+, small<br/>
+oakscrub ravine; coll. 
+<collectorName>J. Bond</collectorName>
+,<br/>
+<collectorName>C. Spruill</collectorName>
+, 
+<collectorName>D. Beamer</collectorName>
+; 
+<collectionCode>JEB 04-<br/>
+036</collectionCode>
+</td>
+<td pageId="2" pageNumber="0">34.0592</td>
+<td pageId="2" pageNumber="0">-118.7994</td>
+<td pageId="2" pageNumber="0">17 March<br/>
+2004</td>
+<td pageId="2" pageNumber="0">JN034083</td>
+<td pageId="2" pageNumber="0">588041</td>
+<td pageId="2" pageNumber="0">588042</td>
+</materialsCitation>
+</tr>
+<tr pageId="2" pageNumber="0">
+<td colspan="9" pageId="2" pageNumber="0">Notes. Site numbers correspond to Fig. 1.1 = immature, F = female, M = male. Latitude/longitude data in decimal degrees.</td>
+</tr>
+</table>
+</paragraph>
+<div lastPageId="11" lastPageNumber="7" pageId="3" pageNumber="1">
+<paragraph pageId="3" pageNumber="1" type="mainText">
+<pageBreakToken pageId="3" pageNumber="60" start="start">Genomic</pageBreakToken>
+DNA was extracted from leg tissue using a DNAeasy kit 
+<pageNumber ambiguity="1" fuzzyness="0" pageId="3" pageNumber="1" score="11" value="1">(</pageNumber>
+Qiagen). The polymerase chain reaction<br/>
+was used to amplify a fragment of the COI mitochondrial gene, using the C1-J-1751RIV (5'-GAGTTCCTGATA-<br/>
+TRGCTTTTCC-3') and C1-N-2776S (5'-GGATAATCAGAATANCGNCGAGG-3') primers reported in Starrett<br/>
+and Hedin (2007). PCR amplicons were directly sequenced in both directions, and contigs were assembled and<br/>
+edited using Sequencher 4.5 (Gene Codes Corporation, MI). Sequence data lacked indels, and were aligned manually in MacClade 4 (Maddison &amp; Maddison 2003). Genbank accession numbers of all newly generated sequences<br/>
+are provided in Table 1. A reference amino acid alignment can be retrieved using the Barcode of Life Data Systems<br/>
+(BOLD; www.boldsystems.org/), project code = CAMYG.
+</paragraph>
+<paragraph pageId="3" pageNumber="1" type="mainText">
+A Bayesian analysis of the aligned COI matrix was conducted using MrBayes 3.1.2 (Huelsenbeck &amp; Ronquist<br/>
+2001, Ronquist &amp; Huelsenbeck 2003) on both partitioned (three partitions corresponding to codon positions) and<br/>
+unpartitioned data matrices. Models of DNA sequence evolution for data partitions were chosen using jModelTest<br/>
+0.1.1 (Posada 2008); model likelihoods were calculated under three substitution schemes (JC, HKY, GTR) on a<br/>
+fixed BIONJ tree, allowing for unequal base frequencies and among-site rate variation. From these likelihood<br/>
+scores model selection was based on the Akaike Information Criterion (AIC). In partitioned analyses, partition<br/>
+parameters except for tree topology and branch lengths were estimated separately for individual partitions (using<br/>
+the unlink command in MrBayes). All Bayesian analyses consisted of two simultaneous independent runs, each<br/>
+consisting of four independent Metropolis-coupled Monte Carlo Markov chains. We used default hot and cold<br/>
+chain temperatures and swap frequencies, with uniform priors. As a convergence diagnostic, analyses were permitted to run until the standard deviation of split frequencies fell below 0.01 (Ronquist et al. 2005). The first 40% of<br/>
+trees were discarded as burn-in, with remaining trees used to reconstruct a 50% majority rule consensus tree. Split<br/>
+frequencies were interpreted as posterior probabilities (pp) of clades. For purposes of tree rooting we used COI<br/>
+sequences representing all described 
+<taxonomicName _rankHash="-688989786" genus="Aliatypus" pageId="3" pageNumber="1" rank="genus">Aliatypus</taxonomicName>
+taxa, and included multiple divergent sequences for species known<br/>
+to show geographic variation (data from Satler et al. in review).
+</paragraph>
+<subSection _generate="added" pageId="3" pageNumber="1" type="multiple">
+<paragraph pageId="3" pageNumber="1" type="heading">Systematics</paragraph>
+<paragraph pageId="3" pageNumber="1" type="mainText">
+Family 
+<taxonomicName LSID-HNS="urn:lsid:biosci.ohio-state.edu:osuc_concepts:47161" _rankHash="-804510362" family="Antrodiaetidae" lsidName-HNS="Antrodiaetidae " pageId="3" pageNumber="1" rank="family">Antrodiaetidae</taxonomicName>
+Gertsch, in Comstock, 1940: 236 [urn:lsid:amnh.org:spiderfam:0002]
+</paragraph>
+<paragraph pageId="3" pageNumber="1" type="mainText">
+Genus 
+<taxonomicName _rankHash="-688989786" genus="Aliatypus" pageId="3" pageNumber="1" rank="genus">Aliatypus</taxonomicName>
+Smith, 1908 [urn:lsid:amnh.org:spidergen:00006]
+</paragraph>
+</subSection>
+<treatment _generate="added" lastPageId="6" lastPageNumber="2" pageId="3" pageNumber="1">
+<subSubSection _generate="added" pageId="3" pageNumber="1" type="nomenclature">
+<paragraph pageId="3" pageNumber="1" type="mainText">
+<taxonomicName _rankHash="-1469439715" genus="Aliatypus" pageId="3" pageNumber="1" rank="species" species="coylei">Aliatypus coylei</taxonomicName>
+<taxonomicNameLabel pageId="3" pageNumber="1" rank="species">new species</taxonomicNameLabel>
+</paragraph>
+</subSubSection>
+<subSubSection _generate="added" pageId="3" pageNumber="1" type="description">
+<paragraph pageId="3" pageNumber="1" type="mainText">Figs 1-5</paragraph>
+</subSubSection>
+<subSubSection _generate="added" pageId="3" pageNumber="1" type="materials_examined">
+<paragraph pageId="3" pageNumber="1" type="mainText">
+<typeStatus>Type</typeStatus>
+material. Male 
+<typeStatus>holotype</typeStatus>
+from Arroyo 
+<misspelling pageId="3" pageNumber="1" type="misspelled">Seco</misspelling>
+Gorge, W of Arroyo Center, Monterey County, 
+<collectingRegion>California</collectingRegion>
+,<br/>
+<geoCoordinate direction="north" orientation="latitude" precision="1" value="36.2332">36.2332°N</geoCoordinate>
+, 
+<geoCoordinate direction="west" orientation="longitude" precision="1" value="-121.4921">121.4921°W</geoCoordinate>
+, collected 
+<date>12 October 2003</date>
+, M. Hedin &amp; J. Starrett (
+<collectionCode>MY</collectionCode>
+999, CASENT9039430). COI<br/>
+GenBank JN034076, MorphBank images 588043-47. Female 
+<typeStatus>paratype</typeStatus>
+from Carmel Valley Road, 
+<quantity>1.25 km</quantity>
+N of<br/>
+intersection with 
+<misspelling pageId="3" pageNumber="1" type="misspelled">Tassajara</misspelling>
+Road, Monterey County, California, 
+<geoCoordinate direction="north" orientation="latitude" precision="1" value="36.4068">36.4068°N</geoCoordinate>
+, 
+<geoCoordinate direction="west" orientation="longitude" precision="1" value="-121.5918">121.5918°W</geoCoordinate>
+, collected 
+<date>25 November<br/>
+2003</date>
+, J. Starrett (
+<collectionCode>MY</collectionCode>
+1013, CASENT9039431). COI GenBank JN034075, MorphBank images 588033-34.
+</paragraph>
+</subSubSection>
+<subSubSection _generate="added" pageId="3" pageNumber="1" type="etymology">
+<paragraph pageId="3" pageNumber="1" type="mainText">
+Etymology. Patronym honoring mentor and friend Dr. Fred Coyle, in recognition of his rigorous and inspirational systematic research conducted on mygalomorph spiders, including the genus 
+<taxonomicName _rankHash="-688989786" genus="Aliatypus" pageId="3" pageNumber="1" rank="genus">Aliatypus</taxonomicName>
+.
+</paragraph>
+</subSubSection>
+<subSubSection _generate="added" pageId="3" pageNumber="1" type="diagnosis">
+<paragraph pageId="3" pageNumber="1" type="mainText">
+Diagnosis (Figs 2-4). Males are distinguished from those of other 
+<taxonomicName _rankHash="-688989786" genus="Aliatypus" pageId="3" pageNumber="1" rank="genus">Aliatypus</taxonomicName>
+species by the following combination of characters-sternum like 
+<taxonomicName _evidence="lexicon" _rankHash="2133627688" authority="Coyle" authorityName="Coyle" genus="Aliatypus" pageId="3" pageNumber="1" rank="species" species="thompsoni">
+A. thompsoni 
+<authority pageId="3" pageNumber="1">Coyle</authority>
+</taxonomicName>
+and species of the 
+<taxonomicName _evidence="lexicon" _rankHash="-1620247141" genus="Aliatypus" pageId="3" pageNumber="1" rank="species" species="erebus">A. erebus</taxonomicName>
+group, with relatively large, relatively closely-spaced posterior sternal sigilla (Coyle 1974, figs 60-64). This shape is best captured by the CL/PSL<br/>
+and SW/PSS ratios (Table 2). The shape of the 
+<taxonomicName _evidence="lexicon" _rankHash="-1679671082" genus="Aliatypus" pageId="3" pageNumber="1" rank="species" species="coylei">A. coylei</taxonomicName>
+palpal tibia (banana-shaped) is unlike the above species,<br/>
+except for 
+<taxonomicName _evidence="lexicon" _rankHash="112053287" genus="Aliatypus" pageId="3" pageNumber="1" rank="species" species="torridus">A. torridus</taxonomicName>
+(Coyle 1974, fig. 91). This shape is best captured by the PTX/PTL ratio (Table 2). Leg I segments of 
+<taxonomicName _evidence="lexicon" _rankHash="-1679671082" genus="Aliatypus" pageId="3" pageNumber="1" rank="species" species="coylei">A. coylei</taxonomicName>
+males are relatively longer than 
+<taxonomicName _evidence="lexicon" _rankHash="112053287" genus="Aliatypus" pageId="3" pageNumber="1" rank="species" species="torridus">A. torridus</taxonomicName>
+males (
+<collectionCode>CL</collectionCode>
+/ 
+<collectionCode>IFL</collectionCode>
+ratio, Table 2).
+</paragraph>
+<paragraph pageId="3" pageNumber="1" type="mainText">
+Females are distinguished from those of other 
+<taxonomicName _rankHash="-688989786" genus="Aliatypus" pageId="3" pageNumber="1" rank="genus">Aliatypus</taxonomicName>
+species by the following combination of characters-sternum most like species of the 
+<taxonomicName _evidence="lexicon" _rankHash="-1620247141" genus="Aliatypus" pageId="3" pageNumber="1" rank="species" species="erebus">A. erebus</taxonomicName>
+group, with relatively large posterior sternal sigilla (Coyle 1974, figs<br/>
+74-77), but not as closely spaced as those of 
+<taxonomicName _evidence="lexicon" _rankHash="1360130338" genus="Aliatypus" pageId="3" pageNumber="1" rank="species" species="thompsoni">A. thompsoni</taxonomicName>
+(see 
+<collectionCode>PSL</collectionCode>
+/ 
+<collectionCode>PSS</collectionCode>
+ratio, Table 2). 
+<taxonomicName _rankHash="-1469439715" genus="Aliatypus" pageId="3" pageNumber="1" rank="species" species="coylei">Aliatypus coylei</taxonomicName>
+also differs from 
+<taxonomicName _evidence="lexicon" _rankHash="1360130338" genus="Aliatypus" pageId="3" pageNumber="1" rank="species" species="thompsoni">A. thompsoni</taxonomicName>
+in having few ensiform macrosetae on metatarsus I, in possessing a thoracic pit, and in the<br/>
+shape of the seminal receptacles. Females of 
+<taxonomicName _evidence="lexicon" _rankHash="-1679671082" genus="Aliatypus" pageId="3" pageNumber="1" rank="species" species="coylei">A. coylei</taxonomicName>
+are relatively short-legged, again like members of the 
+<taxonomicName _evidence="lexicon" _rankHash="-1620247141" genus="Aliatypus" pageId="3" pageNumber="1" rank="species" species="erebus">A. erebus</taxonomicName>
+group (e.g., 
+<collectionCode>CL</collectionCode>
+/ 
+<collectionCode>IVTL</collectionCode>
+ratio, Table 2), and possess similar-shaped seminal receptacles (Coyle 1974, figs 174- 194). Of the species in the 
+<taxonomicName _evidence="lexicon" _rankHash="-1620247141" genus="Aliatypus" pageId="3" pageNumber="1" rank="species" species="erebus">A. erebus</taxonomicName>
+group, 
+<taxonomicName _evidence="lexicon" _rankHash="-1620247141" genus="Aliatypus" pageId="3" pageNumber="1" rank="species" species="erebus">A. erebus</taxonomicName>
+and 
+<taxonomicName _evidence="lexicon" _rankHash="112053287" genus="Aliatypus" pageId="3" pageNumber="1" rank="species" species="torridus">A. torridus</taxonomicName>
+are most likely to be confused with 
+<taxonomicName _evidence="lexicon" _rankHash="-1679671082" genus="Aliatypus" pageId="3" pageNumber="1" rank="species" species="coylei">A. coylei</taxonomicName>
+(
+<taxonomicName _evidence="lexicon" _rankHash="281725112" authority="Coyle" authorityName="Coyle" genus="Aliatypus" pageId="3" pageNumber="1" rank="species" species="trophonius">
+A. trophonius 
+<authority pageId="3" pageNumber="1">Coyle</authority>
+</taxonomicName>
+is diminutive, and 
+<taxonomicName _evidence="lexicon" _rankHash="-445885347" authority="Coyle" authorityName="Coyle" genus="Aliatypus" pageId="3" pageNumber="1" rank="species" species="plutonis">
+A. plutonis 
+<authority pageId="3" pageNumber="1">Coyle</authority>
+</taxonomicName>
+is known only from far southern California). Although<br/>
+CL/PSL and SW/PSL ratios may be useful in distinguishing 
+<taxonomicName _evidence="lexicon" _rankHash="-1679671082" genus="Aliatypus" pageId="3" pageNumber="1" rank="species" species="coylei">A. coylei</taxonomicName>
+from 
+<taxonomicName _evidence="lexicon" _rankHash="-1620247141" genus="Aliatypus" pageId="3" pageNumber="1" rank="species" species="erebus">A. erebus</taxonomicName>
+and 
+<taxonomicName _evidence="lexicon" _rankHash="112053287" genus="Aliatypus" pageId="3" pageNumber="1" rank="species" species="torridus">A. torridus</taxonomicName>
+(see Table 2),<br/>
+these morphological characters are unlikely to be strictly diagnostic. If genomic resources are available, the following amino acid changes in the COI reference alignment can be used to separate 
+<taxonomicName _evidence="lexicon" _rankHash="-1679671082" genus="Aliatypus" pageId="3" pageNumber="1" rank="species" species="coylei">A. coylei</taxonomicName>
+from all members of the 
+<taxonomicName _evidence="lexicon" _rankHash="-1620247141" genus="Aliatypus" pageId="3" pageNumber="1" rank="species" species="erebus">A.<br/>
+erebus</taxonomicName>
+group: position 15 (Phe in 
+<taxonomicName _evidence="lexicon" _rankHash="657370934" authority=", Ser" authorityName=", Ser" genus="Aliatypus" pageId="3" pageNumber="1" rank="species" species="coylei">
+A. coylei
+<authority pageId="3" pageNumber="1">, Ser</authority>
+</taxonomicName>
+in 
+<taxonomicName _evidence="lexicon" _rankHash="-1620247141" genus="Aliatypus" pageId="3" pageNumber="1" rank="species" species="erebus">A. erebus</taxonomicName>
+group members), position 17 (Val, Glu), position 153<br/>
+(Ile, Val), position 294 (Tyr, Asn), and position 310 (Cys, Asn).
+</paragraph>
+</subSubSection>
+<subSubSection _generate="added" pageId="4" pageNumber="-1" type="discussion">
+<paragraph pageId="4" pageNumber="-1" type="table">
+<table border="1" pageId="4" pageNumber="-1">
+<tr pageId="4" pageNumber="-1">
+<td colspan="7" pageId="4" pageNumber="-1">
+<pageBreakToken pageId="4" pageNumber="61" start="start">TABLE</pageBreakToken>
+2. Comparison of informative character ratios in 
+<taxonomicName _rankHash="-688989786" genus="Aliatypus" pageId="4" pageNumber="-1" rank="genus">Aliatypus</taxonomicName>
+.
+</td>
+</tr>
+<tr pageId="4" pageNumber="-1">
+<td pageId="4" pageNumber="-1">Females</td>
+<td pageId="4" pageNumber="-1">CL/IVTL</td>
+<td pageId="4" pageNumber="-1">CL/PSS</td>
+<td pageId="4" pageNumber="-1">CL/PSL</td>
+<td pageId="4" pageNumber="-1">SW/PSS</td>
+<td pageId="4" pageNumber="-1">SW/PSL</td>
+<td pageId="4" pageNumber="-1">PSL/PSS</td>
+</tr>
+<tr pageId="4" pageNumber="-1">
+<td pageId="4" pageNumber="-1">
+<taxonomicName _evidence="lexicon" _rankHash="-1767091189" genus="Aliatypus" pageId="4" pageNumber="-1" rank="species" species="californicus">A. californicus</taxonomicName>
+group
+</td>
+<td pageId="4" pageNumber="-1">2.3-2.9</td>
+<td pageId="4" pageNumber="-1">4.7-8.3</td>
+<td pageId="4" pageNumber="-1">12.1-33.2</td>
+<td pageId="4" pageNumber="-1">2.6-4.4</td>
+<td pageId="4" pageNumber="-1">6.5-16.2</td>
+<td pageId="4" pageNumber="-1">0.2-0.7</td>
+</tr>
+<tr pageId="4" pageNumber="-1">
+<td pageId="4" pageNumber="-1">
+<taxonomicName _evidence="lexicon" _rankHash="2059571027" genus="Aliatypus" pageId="4" pageNumber="-1" rank="species" species="aquilonius">A. aquilonius</taxonomicName>
+</td>
+<td pageId="4" pageNumber="-1">2.5-2.8</td>
+<td pageId="4" pageNumber="-1">4.4-6.8</td>
+<td pageId="4" pageNumber="-1">17.5-41</td>
+<td pageId="4" pageNumber="-1">2.3-3.4</td>
+<td pageId="4" pageNumber="-1">8.8-20</td>
+<td pageId="4" pageNumber="-1">0.1-0.4</td>
+</tr>
+<tr pageId="4" pageNumber="-1">
+<td pageId="4" pageNumber="-1">
+<taxonomicName _evidence="lexicon" _rankHash="-1115276115" genus="Aliatypus" pageId="4" pageNumber="-1" rank="species" species="gulosus">A. gulosus</taxonomicName>
+</td>
+<td pageId="4" pageNumber="-1">2.9-3.3</td>
+<td pageId="4" pageNumber="-1">4.8-6.3</td>
+<td pageId="4" pageNumber="-1">13.5-22.2</td>
+<td pageId="4" pageNumber="-1">2.6-3.4</td>
+<td pageId="4" pageNumber="-1">7.1-13.7</td>
+<td pageId="4" pageNumber="-1">0.2-0.4</td>
+</tr>
+<tr pageId="4" pageNumber="-1">
+<td pageId="4" pageNumber="-1">
+<taxonomicName _evidence="lexicon" _rankHash="1360130338" genus="Aliatypus" pageId="4" pageNumber="-1" rank="species" species="thompsoni">A. thompsoni</taxonomicName>
+</td>
+<td pageId="4" pageNumber="-1">2.6-3.1</td>
+<td pageId="4" pageNumber="-1">12.7-31.6</td>
+<td pageId="4" pageNumber="-1">6.5-10.9</td>
+<td pageId="4" pageNumber="-1">6.6-18.4</td>
+<td pageId="4" pageNumber="-1">3.3-5.7</td>
+<td pageId="4" pageNumber="-1">1.3-4.1</td>
+</tr>
+<tr pageId="4" pageNumber="-1">
+<td pageId="4" pageNumber="-1">
+<taxonomicName _evidence="lexicon" _rankHash="-1620247141" genus="Aliatypus" pageId="4" pageNumber="-1" rank="species" species="erebus">A. erebus</taxonomicName>
+</td>
+<td pageId="4" pageNumber="-1">3.0-3.5</td>
+<td pageId="4" pageNumber="-1">7.7-14.7</td>
+<td pageId="4" pageNumber="-1">6.5-9.8</td>
+<td pageId="4" pageNumber="-1">4.3-8.5</td>
+<td pageId="4" pageNumber="-1">3.8-5.3</td>
+<td pageId="4" pageNumber="-1">0.8-2.0</td>
+</tr>
+<tr pageId="4" pageNumber="-1">
+<td pageId="4" pageNumber="-1">
+<taxonomicName _evidence="lexicon" _rankHash="112053287" genus="Aliatypus" pageId="4" pageNumber="-1" rank="species" species="torridus">A. torridus</taxonomicName>
+</td>
+<td pageId="4" pageNumber="-1">3.1-3.4</td>
+<td pageId="4" pageNumber="-1" style="vertical-align:middle;">8-10</td>
+<td pageId="4" pageNumber="-1">8.3-10</td>
+<td pageId="4" pageNumber="-1">4.4-5.4</td>
+<td pageId="4" pageNumber="-1">4.6-5.4</td>
+<td pageId="4" pageNumber="-1" style="vertical-align:middle;">0.8-1.1</td>
+</tr>
+<tr pageId="4" pageNumber="-1">
+<td pageId="4" pageNumber="-1">
+<taxonomicName _evidence="lexicon" _rankHash="-1679671082" genus="Aliatypus" pageId="4" pageNumber="-1" rank="species" species="coylei">A. coylei</taxonomicName>
+</td>
+<td pageId="4" pageNumber="-1">3.1</td>
+<td pageId="4" pageNumber="-1">9.3</td>
+<td pageId="4" pageNumber="-1" style="vertical-align:middle;">10.8</td>
+<td pageId="4" pageNumber="-1">4.9</td>
+<td pageId="4" pageNumber="-1">5.7</td>
+<td pageId="4" pageNumber="-1">0.9</td>
+</tr>
+<tr pageId="4" pageNumber="-1">
+<td isEmpty="true" pageId="4" pageNumber="-1">-</td>
+<td isEmpty="true" pageId="4" pageNumber="-1">-</td>
+<td isEmpty="true" pageId="4" pageNumber="-1">-</td>
+<td isEmpty="true" pageId="4" pageNumber="-1">-</td>
+<td isEmpty="true" pageId="4" pageNumber="-1">-</td>
+<td isEmpty="true" pageId="4" pageNumber="-1">-</td>
+<td isEmpty="true" pageId="4" pageNumber="-1">-</td>
+</tr>
+<tr pageId="4" pageNumber="-1">
+<td pageId="4" pageNumber="-1">Males</td>
+<td pageId="4" pageNumber="-1">CL/IFL</td>
+<td pageId="4" pageNumber="-1">CL/PPL</td>
+<td pageId="4" pageNumber="-1">PTT/PTL</td>
+<td pageId="4" pageNumber="-1">PTX/PTL</td>
+<td pageId="4" pageNumber="-1">CL/PSL</td>
+<td pageId="4" pageNumber="-1">SW/PSS</td>
+</tr>
+<tr pageId="4" pageNumber="-1">
+<td pageId="4" pageNumber="-1">
+<taxonomicName _evidence="lexicon" _rankHash="-1767091189" genus="Aliatypus" pageId="4" pageNumber="-1" rank="species" species="californicus">A. californicus</taxonomicName>
+group
+</td>
+<td pageId="4" pageNumber="-1">0.9-1.2</td>
+<td pageId="4" pageNumber="-1">1.3-1.9</td>
+<td pageId="4" pageNumber="-1">0.2-0.3</td>
+<td pageId="4" pageNumber="-1">0.7-0.8</td>
+<td pageId="4" pageNumber="-1">13.6-24.4</td>
+<td pageId="4" pageNumber="-1">2.2-4.3</td>
+</tr>
+<tr pageId="4" pageNumber="-1">
+<td pageId="4" pageNumber="-1">
+<taxonomicName _evidence="lexicon" _rankHash="2059571027" genus="Aliatypus" pageId="4" pageNumber="-1" rank="species" species="aquilonius">A. aquilonius</taxonomicName>
+</td>
+<td pageId="4" pageNumber="-1">0.9-1</td>
+<td pageId="4" pageNumber="-1">1.3-1.4</td>
+<td pageId="4" pageNumber="-1" style="vertical-align:middle;">0.2</td>
+<td pageId="4" pageNumber="-1">0.7</td>
+<td pageId="4" pageNumber="-1">24.3-34.1</td>
+<td pageId="4" pageNumber="-1">2.2-2.5</td>
+</tr>
+<tr pageId="4" pageNumber="-1">
+<td pageId="4" pageNumber="-1">
+<taxonomicName _evidence="lexicon" _rankHash="-1115276115" genus="Aliatypus" pageId="4" pageNumber="-1" rank="species" species="gulosus">A. gulosus</taxonomicName>
+</td>
+<td pageId="4" pageNumber="-1">0.9-1</td>
+<td pageId="4" pageNumber="-1">1.3-1.5</td>
+<td pageId="4" pageNumber="-1" style="vertical-align:middle;">0.2</td>
+<td pageId="4" pageNumber="-1">0.4-0.5</td>
+<td pageId="4" pageNumber="-1">22.1-30.7</td>
+<td pageId="4" pageNumber="-1">2.2-2.9</td>
+</tr>
+<tr pageId="4" pageNumber="-1">
+<td pageId="4" pageNumber="-1">
+<taxonomicName _evidence="lexicon" _rankHash="1360130338" genus="Aliatypus" pageId="4" pageNumber="-1" rank="species" species="thompsoni">A. thompsoni</taxonomicName>
+</td>
+<td pageId="4" pageNumber="-1">0.8-0.9</td>
+<td pageId="4" pageNumber="-1">1.3-1.6</td>
+<td pageId="4" pageNumber="-1">0.2-0.3</td>
+<td pageId="4" pageNumber="-1">0.7-0.8</td>
+<td pageId="4" pageNumber="-1">8-10.7</td>
+<td pageId="4" pageNumber="-1">5.9-12.5</td>
+</tr>
+<tr pageId="4" pageNumber="-1">
+<td pageId="4" pageNumber="-1">
+<taxonomicName _evidence="lexicon" _rankHash="-1620247141" genus="Aliatypus" pageId="4" pageNumber="-1" rank="species" species="erebus">A. erebus</taxonomicName>
+</td>
+<td pageId="4" pageNumber="-1">1.2-1.3</td>
+<td pageId="4" pageNumber="-1">1.6-2.0</td>
+<td pageId="4" pageNumber="-1">0.4</td>
+<td pageId="4" pageNumber="-1">0.7-0.8</td>
+<td pageId="4" pageNumber="-1">8.8-13.4</td>
+<td pageId="4" pageNumber="-1">3. 3-5.4</td>
+</tr>
+<tr pageId="4" pageNumber="-1">
+<td pageId="4" pageNumber="-1">
+<taxonomicName _evidence="lexicon" _rankHash="112053287" genus="Aliatypus" pageId="4" pageNumber="-1" rank="species" species="torridus">A. torridus</taxonomicName>
+</td>
+<td pageId="4" pageNumber="-1">1-1.1</td>
+<td pageId="4" pageNumber="-1">1.6-1.9</td>
+<td pageId="4" pageNumber="-1">0.3</td>
+<td pageId="4" pageNumber="-1">0.6-0.7</td>
+<td pageId="4" pageNumber="-1">10.3-14.4</td>
+<td pageId="4" pageNumber="-1">3.4-4.1</td>
+</tr>
+<tr pageId="4" pageNumber="-1">
+<td pageId="4" pageNumber="-1">
+<taxonomicName _evidence="lexicon" _rankHash="-1679671082" genus="Aliatypus" pageId="4" pageNumber="-1" rank="species" species="coylei">A. coylei</taxonomicName>
+</td>
+<td pageId="4" pageNumber="-1">0.9</td>
+<td pageId="4" pageNumber="-1">1.3</td>
+<td pageId="4" pageNumber="-1" style="vertical-align:middle;">0.2</td>
+<td pageId="4" pageNumber="-1">0.5</td>
+<td pageId="4" pageNumber="-1">12.3</td>
+<td pageId="4" pageNumber="-1">3.8</td>
+</tr>
+<tr pageId="4" pageNumber="-1">
+<td colspan="7" pageId="4" pageNumber="-1" style="vertical-align:bottom;">
+Notes. Male and female data for species other than 
+<taxonomicName _evidence="lexicon" _rankHash="-1679671082" genus="Aliatypus" pageId="4" pageNumber="-1" rank="species" species="coylei">A. coylei</taxonomicName>
+are from Tables 1 &amp; 2 of Coyle (1974). All measurements in millimeters.
+</td>
+</tr>
+</table>
+</paragraph>
+</subSubSection>
+<subSubSection _generate="added" pageId="4" pageNumber="-1" type="description">
+<paragraph pageId="4" pageNumber="-1" type="mainText">
+<typeStatus>Holotype</typeStatus>
+male (Fig. 2). Carapace 3.7 long, 3.2 wide, pars cephalica 2.2 long. Thoracic groove slightly oval,<br/>
+pit-like, anterior edge recurved. Cluster of postocular setae forming small backwards-pointing triangle. Leg I IFL<br/>
+4.2, ITL 2.7, 
+<collectionCode collectionName="Argentina, Tucuman, Universidad Nacional de Tucuman, Fundacion e Instituto Miguel Lillo">IML</collectionCode>
+2.6, ITarL 1.5. Dorsal setae on tibia and metatarsus mostly appressed, ventral ensiform macrosetae on tibia and metatarsus numerous, tibial dorsal macrosetae erect. Pedipalp PFL 4.7, PPL 2.8, PTL 3.9, PTX 2.0,<br/>
+PTT 0.7, PED 1.0, PCA 0.4. Tibia elongate, roughly banana-shaped, hirsute. Palpal bulb with loosely looped sperm<br/>
+reservoir, base of embolus relatively distant from base of inner conductor sclerite (
+<collectionCode>ICS</collectionCode>
+). Sternum SL 2.2, SW 1.9,<br/>
+posterior sternal sigilla moderately close (
+<collectionCode>PSS</collectionCode>
+0.5), oval-shaped, faint. Abdomen tergite II large, tergite III subequal<br/>
+to tergite II, boundary indistinct; tergite I minute.
+</paragraph>
+<paragraph pageId="4" pageNumber="-1" type="mainText">
+<typeStatus>Paratype</typeStatus>
+female (Figs 3-4). Carapace 6.5 long, 4.9 wide, pars cephalica 4.2 long. Thoracic groove pit-like,<br/>
+anterior edge slightly recurved. Cluster of postocular setae forming small backwards-pointing triangle. Chelicerae<br/>
+with row of 2 retrolateral macroteeth, 6 prolateral macroteeth, 7-8 intermediate microteeth. Leg I IFL 4.0, ITL 2.4,<br/>
+<collectionCode collectionName="Argentina, Tucuman, Universidad Nacional de Tucuman, Fundacion e Instituto Miguel Lillo">IML</collectionCode>
+1.8, ITarL 1.0, 11 ensiform macrosetae on metatarsus. Leg IV (right) IVFL 4.1, IVTL 2.1, IVML 3.2, IVTarL<br/>
+1.4. Pedipalp tarsus with 7 ensiform macrosetae on prolateral surface, 3 ensiform macrosetae on retrolateral surface. Sternum SL 4.2, SW 3.4, posterior sternal sigilla well separated (
+<collectionCode>PSS</collectionCode>
+= 0.7), large (
+<collectionCode>PSL</collectionCode>
+= 0.6), oval-shaped.<br/>
+Seminal receptacles with relatively large bulbs as compared to stalk diameter, stalks short, with single bend.
+</paragraph>
+</subSubSection>
+<subSubSection _generate="added" pageId="4" pageNumber="-1" type="materials_examined">
+<paragraph pageId="4" pageNumber="-1" type="mainText">
+Other records. The species is known from 20 other geographic locations, represented by 
+<specimenCount type="generic">28 adult</specimenCount>
+specimens<br/>
+(Table 1). Two other locations are represented only by immature specimens (sites 3 and 23, Table 1); DNA analyses<br/>
+indicate that these immatures are 
+<taxonomicName _evidence="lexicon" _rankHash="-1679671082" genus="Aliatypus" pageId="4" pageNumber="-1" rank="species" species="coylei">A. coylei</taxonomicName>
+specimens.
+</paragraph>
+</subSubSection>
+<subSubSection _generate="added" lastPageId="6" lastPageNumber="2" pageId="5" pageNumber="-1" type="multiple">
+<caption pageId="5" pageNumber="-1">
+<paragraph pageId="5" pageNumber="-1" type="caption">
+<pageBreakToken pageId="5" pageNumber="62" start="start">FIGURE</pageBreakToken>
+1. A) Adult female 
+<taxonomicName _rankHash="-1469439715" genus="Aliatypus" pageId="5" pageNumber="-1" rank="species" species="coylei">Aliatypus coylei</taxonomicName>
+(
+<collectionCode>MY</collectionCode>
+4194), Harlan Mountain Road, Gabilan Range, San Benito County; 
+<collectionCode>B</collectionCode>
+) 
+<taxonomicName _rankHash="-688989786" genus="Aliatypus" pageId="5" pageNumber="-1" rank="genus">Aliatypus</taxonomicName>
+trapdoor, Harlan Mountain Road, Gabilan Range, San Benito County; 
+<collectionCode>C</collectionCode>
+) Known distribution of 
+<taxonomicName _rankHash="-1469439715" genus="Aliatypus" pageId="5" pageNumber="-1" rank="species" species="coylei">Aliatypus coylei</taxonomicName>
+. Site<br/>
+numbers correspond to Table 1; some geographically adjacent sites are represented by a single white circle. Regional records of<br/>
+other 
+<taxonomicName _rankHash="-688989786" genus="Aliatypus" pageId="5" pageNumber="-1" rank="genus">Aliatypus</taxonomicName>
+species as follows: red dots = 
+<taxonomicName _evidence="lexicon" _rankHash="506043682" genus="Aliatypus" pageId="5" pageNumber="-1" rank="species" species="janus">A. janus</taxonomicName>
+, blue dots = 
+<taxonomicName _evidence="lexicon" _rankHash="112053287" genus="Aliatypus" pageId="5" pageNumber="-1" rank="species" species="torridus">A. torridus</taxonomicName>
+(records from Coyle 1974, Coye &amp; Icenogle<br/>
+1994; Satler et al. in review; personal observations). San Luc = Santa Lucia Range, Gab = Gabilan Range, Diablo = Diablo<br/>
+Range.
+</paragraph>
+</caption>
+<caption pageId="6" pageNumber="2">
+<paragraph pageId="6" pageNumber="2" type="caption">
+<pageBreakToken pageId="6" pageNumber="63" start="start">FIGURE</pageBreakToken>
+<pageNumber ambiguity="2" fuzzyness="0" pageId="6" pageNumber="2" score="11" value="2">2</pageNumber>
+. Male 
+<typeStatus>holotype</typeStatus>
+, MY999 (CASENT9039430), W of Arroyo Center (site 19): A) carapace and abdomen, viewed<br/>
+dorsally, B) left pedipalp, viewed retrolaterally, C) left leg I, viewed retrolaterally, D) sternum and chelicerae, viewed ventrally,<br/>
+E) palpal bulb, viewed ventrally. Scale bar A-D = 
+<quantity>1 mm</quantity>
+, E = 
+<quantity>0.5 mm</quantity>
+.
+</paragraph>
+</caption>
+</subSubSection>
+<subSubSection _generate="added" pageId="6" pageNumber="2" type="discussion">
+<paragraph pageId="6" pageNumber="2" type="mainText">
+Geographic variation. A male from site 9 (Table 1) is smaller-bodied than the 
+<typeStatus>holotype</typeStatus>
+male, but otherwise<br/>
+conforms to the 
+<typeStatus>holotype</typeStatus>
+in shape of palpal tibia, details of the bulb, and shape of sternal sigilla. Female specimens<br/>
+vary noticeably in shape of the seminal receptacles, although most possess relatively large bulbs, with short, narrow stalks. An exception is MY2671 from site 24 (Table 1), with seminal receptacles not unlike 
+<taxonomicName _evidence="lexicon" _rankHash="-251737485" authority="Coyle" authorityName="Coyle" genus="Aliatypus" pageId="6" pageNumber="2" rank="species" species="gulosus">
+A. gulosus 
+<authority pageId="6" pageNumber="2">Coyle</authority>
+</taxonomicName>
+,<br/>
+with straight, short stalks leading to bulbs of only slightly larger diameter (Fig. 3 
+<collectionCode>L</collectionCode>
+). Specimens from several sites<br/>
+include more stalk bends than the 
+<typeStatus>holotype</typeStatus>
+female (e.g., Fig. 
+<geoCoordinate direction="east" orientation="longitude" precision="1" value="3.0">
+3 
+<collectionCode>E</collectionCode>
+</geoCoordinate>
+, 
+<collectionCode>G</collectionCode>
+, 
+<collectionCode>J</collectionCode>
+, 
+<collectionCode>K</collectionCode>
+). The general characteristics of sternal sigilla morphology (large, fairly close together, diverging oblong shape) is similar among female specimens, with<br/>
+minor exceptions. For example, specimen MY374 from site 12 (Table 1) has relatively widely spaced, less elongate<br/>
+posterior sigilla (Fig. 4 
+<collectionCode>B</collectionCode>
+). Several other females have irregular-shaped sigilla (e.g., Figs 4 
+<collectionCode>D</collectionCode>
+, 
+<collectionCode>E</collectionCode>
+).
+</paragraph>
+</subSubSection>
+<subSubSection _generate="added" pageId="6" pageNumber="2" type="distribution">
+<paragraph pageId="6" pageNumber="2" type="mainText">Distribution. Most records are from the southern Coast Ranges, including the Gabilan, Diablo, Santa Lucia,<br/>
+and La Panza Ranges. Two isolated records are from further south in California, with a record from the Transverse<br/>
+Ranges (site 23, Table 1, Fig. 1), and a record from the Santa Monica Mountains (site 24, Table 1, Fig. 1).</paragraph>
+</subSubSection>
+<subSubSection _generate="added" pageId="6" pageNumber="2" type="biology_ecology">
+<paragraph pageId="6" pageNumber="2" type="mainText">
+Natural history. Consistent with the relatively broad geographic distribution of this species, populations have<br/>
+been found in several habitat 
+<typeStatus>types</typeStatus>
+including coastal redwood forest, Monterey Pine forest, mixed 
+<taxonomicName _evidence="feedback" _rankHash="361720631" genus="Pinus" pageId="6" pageNumber="2" rank="species" species="sabiniana">Pinus sabiniana</taxonomicName>
+/ 
+<taxonomicName _evidence="feedback" _rankHash="-1975231824" genus="Quercus" pageId="6" pageNumber="2" rank="genus">Quercus</taxonomicName>
+woodland, and habitats dominated by 
+<taxonomicName _evidence="feedback" _rankHash="388357536" genus="Adenostemma" pageId="6" pageNumber="2" rank="genus">Adenostemma</taxonomicName>
+/ 
+<taxonomicName _evidence="feedback" _rankHash="1776857794" genus="Arctostaphylos" pageId="6" pageNumber="2" rank="genus">Arctostaphylos</taxonomicName>
+chaparral scrub. Essentially all collections are from more mesic microhabitats within these larger habitat 
+<typeStatus>types</typeStatus>
+, including north-facing ravines, shaded banks, and shaded roadcuts. Burrows have been found on essentially vertical banks (e.g., sites 1, 5, 13, 15), but also<br/>
+on shallower slopes (e.g., sites 10, 12, 22). Many burrows were characterized by almost a complete absence of silk.<br/>
+Adult females have been collected throughout the year; two adult male specimens were collected from burrows in<br/>
+October (Table 1).
+</paragraph>
+</subSubSection>
+</treatment>
+<subSection _generate="added" lastPageId="8" lastPageNumber="4" pageId="7" pageNumber="3" type="multiple">
+<caption pageId="7" pageNumber="3">
+<paragraph pageId="7" pageNumber="3" type="caption">
+<pageBreakToken pageId="7" pageNumber="64" start="start">FIGURE</pageBreakToken>
+<pageNumber ambiguity="2" fuzzyness="0" pageId="7" pageNumber="3" score="9" value="3">3</pageNumber>
+. Female spermathecae, viewed ventrally: A) MY1013 (CASENT9039431) paratype female, Carmel Valley Road<br/>
+(site 18), B) MY1326, Laureles Grade Road (site 13), C) MY374, 
+<normalizedToken originalValue="Jack’s" pageId="7" pageNumber="3">Jack's</normalizedToken>
+Peak County Park (site 12), D) MY955, W of Pinnacles NM (site 8), E) MY3059, Palo Colorado Road (site 15), F) MY4194, Harlan Mtn Road (site 5), G) MY4362, Hidden Valley Road (site 1), H) MY1645, 
+<misspelling pageId="7" pageNumber="3" type="misspelled">Coalinga</misspelling>
+Road (site 10), I) MY1642, Lonoak Road (site 11), J) MY829, E of Santa Margarita<br/>
+(site 22), K) MY1010, S of 
+<misspelling pageId="7" pageNumber="3" type="misspelled">Gorda</misspelling>
+(site 20), L) MY2671, Kanan Dume Road (site 24). Colored dots correspond to genetic<br/>
+groups of Fig. 5. Site numbers correspond to Table 1 and Fig. 1C. Scale bar = 0.5 mm.
+</paragraph>
+</caption>
+<caption pageId="8" pageNumber="4">
+<paragraph pageId="8" pageNumber="4" type="caption">
+<pageBreakToken pageId="8" pageNumber="65" start="start">FIGURE</pageBreakToken>
+<pageNumber ambiguity="1" fuzzyness="0" pageId="8" pageNumber="4" score="9" value="4">4</pageNumber>
+. Female sternal sigilla, viewed ventrally: A) paratype female, MY1013, Carmel Valley Road (site 18), B) MY374,<br/>
+<normalizedToken originalValue="Jack’s" pageId="8" pageNumber="4">Jack's</normalizedToken>
+Peak County Park (site 12), C) MY2671, Kanan Dume Road (site 24), D) MY4194, Harlan Mtn Road (site 5), E)<br/>
+MY1642, Lonoak Road (site 11) F) MY829, E of Santa Margarita (site 22). Colored dots correspond to genetic groups of Fig.<br/>
+5. Site numbers correspond to Table 1 and Fig. 1C. Scale bar = 1 mm.
+</paragraph>
+</caption>
+</subSection>
+<subSection _generate="added" lastPageId="10" lastPageNumber="6" pageId="8" pageNumber="4" type="multiple">
+<paragraph pageId="8" pageNumber="4" type="heading">Molecular phylogenetic results and discussion</paragraph>
+<paragraph pageId="8" pageNumber="4" type="mainText">
+Phylogenetic Placement. Mitochondrial COI DNA sequences were generated from 19 adult 
+<taxonomicName _evidence="lexicon" _rankHash="-1679671082" genus="Arctostaphylos" pageId="8" pageNumber="4" rank="species" species="coylei">A. coylei</taxonomicName>
+specimens<br/>
+collected from 17 geographic locations (Table 1). These data were combined with 21 COI sequences representing<br/>
+all other described 
+<taxonomicName _rankHash="-688989786" genus="Aliatypus" pageId="8" pageNumber="4" rank="genus">Aliatypus</taxonomicName>
+species, and sequences from six immature 
+<taxonomicName _rankHash="-688989786" genus="Aliatypus" pageId="8" pageNumber="4" rank="genus">Aliatypus</taxonomicName>
+specimens. Three immatures<br/>
+were collected syntopically with 
+<taxonomicName _evidence="lexicon" _rankHash="-1679671082" genus="Aliatypus" pageId="8" pageNumber="4" rank="species" species="coylei">A. coylei</taxonomicName>
+adults (sites 1-2, 10; Table 1), and we expected them to fall within an 
+<taxonomicName _evidence="lexicon" _rankHash="-1679671082" genus="Aliatypus" pageId="8" pageNumber="4" rank="species" species="coylei">A.<br/>
+coylei</taxonomicName>
+molecular clade. Three other immatures (sites 3, 23; Table 1) were identified based solely on molecular<br/>
+clade membership.
+</paragraph>
+<paragraph pageId="8" pageNumber="4" type="mainText">
+Partitioned and unpartitioned Bayesian analyses result in nearly identical tree topologies and very similar posterior probability values (Fig. 5). Results of the partitioned analysis are discussed below, with differences between<br/>
+analyses noted where applicable. We rooted the Bayesian majority rule consensus tree presuming an early-diverging placement of 
+<taxonomicName _evidence="lexicon" _rankHash="-1115276115" genus="Aliatypus" pageId="8" pageNumber="4" rank="species" species="gulosus">A. gulosus</taxonomicName>
+(following Coyle 1974, 1994; Satler et al. in review). Given this root placement, five<br/>
+other major 
+<taxonomicName _rankHash="-688989786" genus="Aliatypus" pageId="8" pageNumber="4" rank="genus">Aliatypus</taxonomicName>
+lineages are recovered, including the multispecies 
+<taxonomicName _evidence="lexicon" _rankHash="-1767091189" genus="Aliatypus" pageId="8" pageNumber="4" rank="species" species="californicus">A. californicus</taxonomicName>
+and 
+<taxonomicName _evidence="lexicon" _rankHash="-1620247141" genus="Aliatypus" pageId="8" pageNumber="4" rank="species" species="erebus">A. erebus</taxonomicName>
+groups, and<br/>
+three phylogenetically isolated species: 
+<taxonomicName _evidence="feedback" _rankHash="-577813192" genus="Aliatypus" pageId="8" pageNumber="4" rank="species" species="aquilonious">A. aquilonious</taxonomicName>
+Coyle, 
+<taxonomicName _evidence="lexicon" _rankHash="1360130338" genus="Aliatypus" pageId="8" pageNumber="4" rank="species" species="thompsoni">A. thompsoni</taxonomicName>
+, and 
+<taxonomicName _evidence="lexicon" _rankHash="-1679671082" genus="Aliatypus" pageId="8" pageNumber="4" rank="species" species="coylei">A. coylei</taxonomicName>
+(Fig. 5A). A single topological difference within the 
+<taxonomicName _evidence="lexicon" _rankHash="-1767091189" genus="Aliatypus" pageId="8" pageNumber="4" rank="species" species="californicus">A. californicus</taxonomicName>
+group distinguishes the unpartitioned and partitioned analyses at this<br/>
+deeper phylogenetic level.
+</paragraph>
+<caption pageId="9" pageNumber="-1">
+<paragraph pageId="9" pageNumber="-1" type="caption">
+<pageBreakToken pageId="9" pageNumber="66" start="start">FIGURE</pageBreakToken>
+5. A) Majority-rule consensus phylogram resulting from partitioned Bayesian analysis. 
+<taxonomicName _rankHash="-1469439715" genus="Aliatypus" pageId="9" pageNumber="-1" rank="species" species="coylei">Aliatypus coylei</taxonomicName>
+haplotypes<br/>
+are labeled with specimen number, location abbreviation, and site number (corresponding to Fig. 1). Posterior probability values are shown for both partitioned (above branches) and unpartitioned (below branches) analyses. Samples with morphological<br/>
+images included in Figs 3 and 4 are highlighted. B) Geographic distribution of haplotype groupings. Site numbers correspond<br/>
+to Fig. 1.
+</paragraph>
+</caption>
+<paragraph pageId="9" pageNumber="-1" type="mainText">
+Sequences from immature specimens from sites 3 and 23 are deeply nested within a well-supported 
+<taxonomicName _evidence="lexicon" _rankHash="-1679671082" genus="Aliatypus" pageId="9" pageNumber="-1" rank="species" species="coylei">A. coylei</taxonomicName>
+clade (pp = 1.0). The 
+<taxonomicName _evidence="lexicon" _rankHash="-1679671082" genus="Aliatypus" pageId="9" pageNumber="-1" rank="species" species="coylei">A. coylei</taxonomicName>
+molecular clade is found to be sister to the 
+<taxonomicName _evidence="lexicon" _rankHash="-1620247141" genus="Aliatypus" pageId="9" pageNumber="-1" rank="species" species="erebus">A. erebus</taxonomicName>
+group on the COI gene tree (pp<br/>
+= 1.0). A close molecular phylogenetic relationship between 
+<taxonomicName _evidence="lexicon" _rankHash="-1679671082" genus="Aliatypus" pageId="9" pageNumber="-1" rank="species" species="coylei">A. coylei</taxonomicName>
+and the 
+<taxonomicName _evidence="lexicon" _rankHash="-1620247141" genus="Aliatypus" pageId="9" pageNumber="-1" rank="species" species="erebus">A. erebus</taxonomicName>
+group agrees with the<br/>
+observed morphological similarities of these taxa (see Diagnosis).
+</paragraph>
+<paragraph pageId="9" pageNumber="-1" type="mainText">
+Phylogeographic Patterns. Mitochondrial DNA sequence variation within 
+<taxonomicName _evidence="lexicon" _rankHash="-1679671082" genus="Aliatypus" pageId="9" pageNumber="-1" rank="species" species="coylei">A. coylei</taxonomicName>
+is characterized by extreme<br/>
+population genetic subdivision and high among-population divergence. There are no COI haplotypes shared among<br/>
+sampling sites, despite the close proximity of several sites. For example, site pairs 1-2, 5-6, 7-8, 12-13 and 20-21<br/>
+(Fig. 1C) are separated by distances of 3-9 kilometers, but in all cases spiders from these sites carry different COI<br/>
+haplotypes (Kimura 2-parameter pairwise distances range from 1.1-7.8%, Kimura 1980). This indicates that mutational differences in 
+<taxonomicName _evidence="lexicon" _rankHash="-1679671082" genus="Aliatypus" pageId="9" pageNumber="-1" rank="species" species="coylei">A. coylei</taxonomicName>
+mitochondrial genomes arise at very fine spatial scales, and that unique haplotypes<br/>
+are rarely exchanged among populations by female-based gene flow. These genetic patterns are consistent with the<br/>
+biology of 
+<taxonomicName _rankHash="-688989786" genus="Aliatypus" pageId="9" pageNumber="-1" rank="genus">Aliatypus</taxonomicName>
+spiders (microhabitat specialists, often found in aggregations at suitable sites, high female<br/>
+burrow fidelity; see Coyle 1971, 1974), and also consistent with patterns of fine-scale mitochondrial population<br/>
+structure found in other antrodiaetid taxa (Hendrixson &amp; Bond 2005, 2007; Starrett &amp; Hedin 2007).
+</paragraph>
+<paragraph pageId="9" pageNumber="-1" type="mainText">
+The level of genetic divergence seen across the entire distribution of 
+<taxonomicName _evidence="lexicon" _rankHash="-1679671082" genus="Aliatypus" pageId="9" pageNumber="-1" rank="species" species="coylei">A. coylei</taxonomicName>
+is extreme (average K2P for all<br/>
+pairwise comparisons = 11.7%), and this genetic variation is partitioned geographically (Fig. 5). One genetic group<br/>
+is found in the Sierra de Salinas and adjacent northern Santa Lucia Range (sites 12-19, Fig. 5), but also includes<br/>
+two sampled sites from the Gabilan Range (sites 7-8, Fig. 5). In unpartitioned analyses, this genetic group forms a<br/>
+weakly supported clade (PP &lt;70) that includes basal sequences from site 15. The Salinas-Gabilan genetic connection is surprising given that these uplands are separated by the low elevation Salinas Valley. A second phylogeographic group includes two outlier southern sites (sites 23-24, Fig. 5), which are only moderately genetic divergent<br/>
+(pairwise K2P = 6.8%) despite their large geographic separation. A final genetic group includes samples mostly<br/>
+from the Gabilan Range (sites 1-6, 10-11, Fig. 5), but also includes a clade of three 
+<normalizedToken originalValue="“mid-latitude”" pageId="9" pageNumber="-1">&quot;mid-latitude&quot;</normalizedToken>
+sites (sites 20- 22, Fig. 5). Sites 20 and 21 are in the Santa Lucia Range, but are genetically divergent from more northerly Santa<br/>
+Lucia sites.
+</paragraph>
+<paragraph pageId="10" pageNumber="6" type="mainText">
+<pageBreakToken pageId="10" pageNumber="67" start="start">The</pageBreakToken>
+phylogeographic structuring and very high genetic divergences observed in 
+<taxonomicName _evidence="lexicon" _rankHash="-1679671082" genus="Aliatypus" pageId="10" pageNumber="6" rank="species" species="coylei">A. coylei</taxonomicName>
+suggest the possibility that this taxon may actually comprise a complex of closely related species. However, given evidence currently<br/>
+available, we prefer a single species hypothesis for three reasons. First, very high levels of intraspecific mitochondrial genetic divergence are common in antrodiaetid species-these divergences reflect the extremely dispersal-limited biology of female spiders in these taxa. Second, patterns of geographic variation in spermathecal morphology do not coincide with genetic groupings (Figs 3, 5), suggesting a lack of geographic subgroups that show coincident genetic and morphological divergence. Finally, DNA sequences from several independent nuclear gene<br/>
+regions reveal limited divergence within 
+<taxonomicName _evidence="lexicon" _rankHash="-1679671082" genus="Aliatypus" pageId="10" pageNumber="6" rank="species" species="coylei">A. coylei</taxonomicName>
+(Satler et al. in review). For example, the average pairwise K2P<br/>
+distance between 28S rDNA sequences representing all three mitochondrial groups (from sites 4, 8, 12, 15, 19, 24)<br/>
+is less than one percent (Satler et al. in review). This finding suggests that male-mediated nuclear gene flow may be<br/>
+acting as a cohesive force in this taxon, at least over evolutionary time. Similar contrasts in patterns of female- versus male-based genetic differentiation have been shown in dispersal-limited salamander species from the same geographic region (Jockusch &amp; Wake 2002). As for all taxonomic hypotheses, more data will ultimately be needed<br/>
+(e.g., more male specimens, data from additional nuclear genes) to rigorously test our single species hypothesis.
+</paragraph>
+<paragraph pageId="10" pageNumber="6" type="mainText">
+Distributional Limits &amp; Syntopy. While we still clearly have much to learn about the distribution of 
+<taxonomicName _evidence="lexicon" _rankHash="-1679671082" genus="Aliatypus" pageId="10" pageNumber="6" rank="species" species="coylei">A. coylei</taxonomicName>
+,<br/>
+we hypothesize that our current sample likely captures the geographic boundaries of this species. The northern<br/>
+boundary appears to coincide with the &quot;Pajaro Gap&quot;, a well-known biogeographic boundary found in many disparate taxa (Wake 1997). North of this gap, in the Santa Cruz Mountains, we find other 
+<taxonomicName _rankHash="-688989786" genus="Aliatypus" pageId="10" pageNumber="6" rank="genus">Aliatypus</taxonomicName>
+species (Coyle<br/>
+1974, Satler et al. in review). The eastern boundary of 
+<taxonomicName _evidence="lexicon" _rankHash="-1679671082" genus="Aliatypus" pageId="10" pageNumber="6" rank="species" species="coylei">A. coylei</taxonomicName>
+should not extend beyond the western edge of the<br/>
+Central Valley, but whether 
+<taxonomicName _evidence="lexicon" _rankHash="-1679671082" genus="Aliatypus" pageId="10" pageNumber="6" rank="species" species="coylei">A. coylei</taxonomicName>
+is actually found in the easternmost southern Coast Ranges (i.e., Diablo<br/>
+Range) remains to be determined. Most fieldwork conducted in this difficult-to-access area has resulted in the collection of 
+<taxonomicName _evidence="lexicon" _rankHash="-1898758360" authority="Coyle" authorityName="Coyle" genus="Aliatypus" pageId="10" pageNumber="6" rank="species" species="janus">
+A. janus 
+<authority pageId="10" pageNumber="6">Coyle</authority>
+</taxonomicName>
+(Fig. 1C), but 
+<taxonomicName _evidence="lexicon" _rankHash="-1679671082" genus="Aliatypus" pageId="10" pageNumber="6" rank="species" species="coylei">A. coylei</taxonomicName>
+and 
+<taxonomicName _evidence="lexicon" _rankHash="506043682" genus="Aliatypus" pageId="10" pageNumber="6" rank="species" species="janus">A. janus</taxonomicName>
+are syntopic at sites 10 and 11 (Fig. 1C), indicating<br/>
+that they could also be syntopic further east. The southern and southeastern distributional limits of 
+<taxonomicName _evidence="lexicon" _rankHash="-1679671082" genus="Aliatypus" pageId="10" pageNumber="6" rank="species" species="coylei">A. coylei</taxonomicName>
+remain<br/>
+obscure. The collection of 
+<taxonomicName _evidence="lexicon" _rankHash="-1679671082" genus="Aliatypus" pageId="10" pageNumber="6" rank="species" species="coylei">A. coylei</taxonomicName>
+at sites 23 and 24 was surprising to us, as other 
+<taxonomicName _rankHash="-688989786" genus="Aliatypus" pageId="10" pageNumber="6" rank="genus">Aliatypus</taxonomicName>
+species are abundant<br/>
+in this region (e.g., 
+<taxonomicName _evidence="lexicon" _rankHash="2017070161" authority=", A. torridus" authorityName=", A. torridus" genus="Aliatypus" pageId="10" pageNumber="6" rank="species" species="thompsoni">
+A. thompsoni
+<authority pageId="10" pageNumber="6">
+, 
+<taxonomicName _evidence="lexicon" _rankHash="567557291" authority=", Coyle" authorityName=", Coyle" genus="Aliatypus" pageId="10" pageNumber="6" rank="species" species="torridus">
+A. torridus
+<authority pageId="10" pageNumber="6">, Coyle</authority>
+</taxonomicName>
+</authority>
+</taxonomicName>
+1974; Satler et al. in review; unpublished observations). For<br/>
+example, we have collected 
+<taxonomicName _evidence="lexicon" _rankHash="1360130338" genus="Aliatypus" pageId="10" pageNumber="6" rank="species" species="thompsoni">A. thompsoni</taxonomicName>
+at nearly 100 sites in the central Transverse Ranges and Santa Ynez<br/>
+Mountains without encountering 
+<taxonomicName _evidence="lexicon" _rankHash="-1679671082" genus="Aliatypus" pageId="10" pageNumber="6" rank="species" species="coylei">A. coylei</taxonomicName>
+, using the same search image applied further north. It seems that 
+<taxonomicName _evidence="lexicon" _rankHash="-1679671082" genus="Aliatypus" pageId="10" pageNumber="6" rank="species" species="coylei">A.<br/>
+coylei</taxonomicName>
+exists in this southern region, but unpredictably and at low densities.
+</paragraph>
+</subSection>
+<subSection _generate="added" pageId="10" pageNumber="6" type="acknowledgments">
+<paragraph pageId="10" pageNumber="6" type="heading">Acknowledgements</paragraph>
+<paragraph pageId="10" pageNumber="6" type="mainText">We thank the many people who helped to collect specimens, including Ian Ballard, Chad Spruill, Dave Beamer,<br/>
+Lars Hedin, Pierre Paquin, Bob Keith, Dean Leavitt and Jason Bond. Jordan Satler and Jim Starrett in particular<br/>
+provided many key specimens. Some fieldwork was supported by National Science Foundation grant DEB<br/>
+0108575 (to M. Hedin and Jason Bond). Many land owners allowed us to collect on their property. Comments from<br/>
+Amber Beavis, Bob Keith, Robert Raven, and members of the Hedin lab helped to improve the manuscript.</paragraph>
+</subSection>
+<subSection _generate="added" lastPageId="11" lastPageNumber="7" pageId="10" pageNumber="6" type="reference_group">
+<paragraph pageId="10" pageNumber="6" type="heading">Literature cited</paragraph>
+<paragraph pageId="10" pageNumber="6" type="bibRef">
+<bibRef author="Bond, J. E. &amp; Opell, B. D." journalOrPublisher="Zoological Journal of the Linnean Society" pageId="10" pageNumber="6" pagination="487 - 534" part="136" title="Phylogeny and taxonomy of the genera of south-western North American Euctenizinae trapdoor spiders and their relatives (Araneae: Mygalomorphae: Cyrtaucheniidae)" type="journal article" year="2002">
+<author pageId="10" pageNumber="6">Bond, J.E.</author>
+&amp; 
+<author pageId="10" pageNumber="6">Opell, B.D.</author>
+(
+<year pageId="10" pageNumber="6">2002</year>
+) 
+<title pageId="10" pageNumber="6">Phylogeny and taxonomy of the genera of south-western North American Euctenizinae trapdoor spiders and their relatives (Araneae: Mygalomorphae: Cyrtaucheniidae)</title>
+. 
+<journalOrPublisher pageId="10" pageNumber="6">Zoological Journal of the Linnean Society</journalOrPublisher>
+,<br/>
+<part pageId="10" pageNumber="6">136</part>
+, 
+<pagination pageId="10" pageNumber="6">487-534</pagination>
+.
+</bibRef>
+</paragraph>
+<paragraph pageId="10" pageNumber="6" type="bibRef">
+<bibRef author="Bond, J. E. &amp; Stockman, A. K." journalOrPublisher="Systematic Biology" pageId="10" pageNumber="6" pagination="628 - 646" part="57" title="An integrative method for delimiting cohesion species: Finding the population: species interface in a group of Californian trapdoor spiders with extreme genetic divergence and geographic structuring" type="journal article" year="2008">
+<author pageId="10" pageNumber="6">Bond, J.E.</author>
+&amp; 
+<author pageId="10" pageNumber="6">Stockman, A.K.</author>
+(
+<year pageId="10" pageNumber="6">2008</year>
+) 
+<title pageId="10" pageNumber="6">An integrative method for delimiting cohesion species: Finding the population: species<br/>
+interface in a group of Californian trapdoor spiders with extreme genetic divergence and geographic structuring</title>
+. 
+<journalOrPublisher pageId="10" pageNumber="6">Systematic Biology</journalOrPublisher>
+, 
+<part pageId="10" pageNumber="6">57</part>
+, 
+<pagination pageId="10" pageNumber="6">628-646</pagination>
+.
+</bibRef>
+</paragraph>
+<paragraph pageId="10" pageNumber="6" type="bibRef">
+<bibRef author="Bond, J. E. &amp; Hedin, M. C. &amp; Ramirez, M. G. &amp; Opell, B. D." journalOrPublisher="Molecular Ecology" pageId="10" pageNumber="6" pagination="899 - 910" part="10" title="Deep molecular divergence in the absence of morphological and ecological change in the Californian coastal dune endemic trapdoor spider Aptostichus simus" type="journal article" year="2001">
+<author pageId="10" pageNumber="6">Bond, J.E.</author>
+, 
+<author pageId="10" pageNumber="6">Hedin, M.C.</author>
+, 
+<author pageId="10" pageNumber="6">Ramirez, M.G.</author>
+&amp; 
+<author pageId="10" pageNumber="6">Opell, B.D.</author>
+(
+<year pageId="10" pageNumber="6">2001</year>
+) 
+<title pageId="10" pageNumber="6">Deep molecular divergence in the absence of morphological and<br/>
+ecological change in the Californian coastal dune endemic trapdoor spider Aptostichus simus</title>
+. 
+<journalOrPublisher pageId="10" pageNumber="6">Molecular Ecology</journalOrPublisher>
+, 
+<part pageId="10" pageNumber="6">10</part>
+,<br/>
+<pagination pageId="10" pageNumber="6">899-910</pagination>
+.
+</bibRef>
+</paragraph>
+<paragraph pageId="10" pageNumber="6" type="bibRef">
+<bibRef author="Bowersox, J. R." journalOrPublisher="Paleogeography, Paleoclimatology, Paleoecology" pageId="10" pageNumber="6" pagination="55 - 82" part="221" title="Reassessment of extinction patterns of Pliocene molluscs from California and environmental forcing of extinction in the San Joaquin Basin" type="journal article" year="2005">
+<author pageId="10" pageNumber="6">Bowersox, J.R.</author>
+(
+<year pageId="10" pageNumber="6">2005</year>
+) 
+<title pageId="10" pageNumber="6">Reassessment of extinction patterns of Pliocene molluscs from California and environmental forcing of<br/>
+extinction in the San Joaquin Basin</title>
+. 
+<journalOrPublisher pageId="10" pageNumber="6">Paleogeography, Paleoclimatology, Paleoecology</journalOrPublisher>
+<part pageId="10" pageNumber="6">221</part>
+, 
+<pagination pageId="10" pageNumber="6">55-82</pagination>
+.
+</bibRef>
+</paragraph>
+<paragraph pageId="11" pageNumber="7" type="bibRef">
+<bibRef author="Coyle, F. A." journalOrPublisher="Psyche" pageId="11" pageNumber="7" pagination="157 - 194" part="75" title="The mygalomorph spider genus Atypoides (Araneae: Antrodiaetidae)" type="journal article" year="1968">
+<author pageId="11" pageNumber="7">
+<pageBreakToken pageId="11" pageNumber="68" start="start">Coyle</pageBreakToken>
+, F.A.
+</author>
+(
+<year pageId="11" pageNumber="7">1968</year>
+<pageNumber ambiguity="2" fuzzyness="1" pageId="11" pageNumber="7" score="19" value="7">)</pageNumber>
+<title pageId="11" pageNumber="7">The mygalomorph spider genus Atypoides (Araneae: Antrodiaetidae)</title>
+. 
+<journalOrPublisher pageId="11" pageNumber="7">Psyche</journalOrPublisher>
+, 
+<part pageId="11" pageNumber="7">75</part>
+, 
+<pagination pageId="11" pageNumber="7">157-194</pagination>
+.
+</bibRef>
+</paragraph>
+<paragraph pageId="11" pageNumber="7" type="bibRef">
+<bibRef author="Coyle, F. A." journalOrPublisher="Bulletin of the Museum of Comparative Zoology" pageId="11" pageNumber="7" pagination="269 - 402" part="141" title="Systematics and natural history of the mygalomorph spider genus Antrodiaetus and related genera (Araneae: Antrodiaetidae)" type="journal article" year="1971">
+<author pageId="11" pageNumber="7">Coyle, F.A.</author>
+(
+<year pageId="11" pageNumber="7">1971</year>
+) 
+<title pageId="11" pageNumber="7">Systematics and natural history of the mygalomorph spider genus Antrodiaetus and related genera (Araneae:<br/>
+Antrodiaetidae)</title>
+. 
+<journalOrPublisher pageId="11" pageNumber="7">Bulletin of the Museum of Comparative Zoology</journalOrPublisher>
+, 
+<part pageId="11" pageNumber="7">141</part>
+, 
+<pagination pageId="11" pageNumber="7">269-402</pagination>
+.
+</bibRef>
+</paragraph>
+<paragraph pageId="11" pageNumber="7" type="bibRef">
+<bibRef author="Coyle, FA." journalOrPublisher="Psyche" pageId="11" pageNumber="7" pagination="431 - 500" part="81" title="Systematics of the trapdoor spider genus Aliatypus (Araneae: Antrodiaetidae)" type="journal article" year="1974">
+<author pageId="11" pageNumber="7">Coyle, FA.</author>
+(
+<year pageId="11" pageNumber="7">1974</year>
+) 
+<title pageId="11" pageNumber="7">Systematics of the trapdoor spider genus Aliatypus (Araneae: Antrodiaetidae)</title>
+. 
+<journalOrPublisher pageId="11" pageNumber="7">Psyche</journalOrPublisher>
+, 
+<part pageId="11" pageNumber="7">81</part>
+, 
+<pagination pageId="11" pageNumber="7">431-500</pagination>
+.
+</bibRef>
+</paragraph>
+<paragraph pageId="11" pageNumber="7" type="bibRef">
+<bibRef author="Coyle, F. A." journalOrPublisher="The Journal of Arachnology" pageId="11" pageNumber="7" pagination="218 - 224" part="22" title="Cladistic analysis of the species of the trapdoor spider genus Aliatypus (Araneae, Antrodiaetidae)" type="journal article" year="1994">
+<author pageId="11" pageNumber="7">Coyle, F.A.</author>
+(
+<year pageId="11" pageNumber="7">1994</year>
+) 
+<title pageId="11" pageNumber="7">Cladistic analysis of the species of the trapdoor spider genus Aliatypus (Araneae, Antrodiaetidae)</title>
+. 
+<journalOrPublisher pageId="11" pageNumber="7">The Journal of Arachnology</journalOrPublisher>
+<part pageId="11" pageNumber="7">22</part>
+, 
+<pagination pageId="11" pageNumber="7">218-224</pagination>
+.
+</bibRef>
+</paragraph>
+<paragraph pageId="11" pageNumber="7" type="bibRef">
+<bibRef author="Coyle, F. A. &amp; Icenogle, W. R." journalOrPublisher="The Journal of Arachnology" pageId="11" pageNumber="7" pagination="225 - 255" part="22" title="Natural history of the Californian trapdoor spider genus Aliatypus (Araneae, Antrodiaetidae)" type="journal article" year="1994">
+<author pageId="11" pageNumber="7">Coyle, F.A.</author>
+&amp; 
+<author pageId="11" pageNumber="7">Icenogle, W.R.</author>
+(
+<year pageId="11" pageNumber="7">1994</year>
+) 
+<title pageId="11" pageNumber="7">Natural history of the Californian trapdoor spider genus Aliatypus (Araneae, Antrodiaetidae)</title>
+. 
+<journalOrPublisher pageId="11" pageNumber="7">The Journal of Arachnology</journalOrPublisher>
+<part pageId="11" pageNumber="7">22</part>
+, 
+<pagination pageId="11" pageNumber="7">225-255</pagination>
+.
+</bibRef>
+</paragraph>
+<paragraph pageId="11" pageNumber="7" type="bibRef">
+<bibRef author="Davis, E. B. &amp; Koo, M. S. &amp; Conroy, C. &amp; Patton, J. L. &amp; Moritz, C." journalOrPublisher="Molecular Ecology" pageId="11" pageNumber="7" pagination="120 - 138" part="17" title="The California hotspots project: identifying regions of rapid diversification of mammals" type="journal article" year="2008">
+<author pageId="11" pageNumber="7">Davis, E.B.</author>
+, 
+<author pageId="11" pageNumber="7">Koo, M.S.</author>
+, 
+<author pageId="11" pageNumber="7">Conroy, C.</author>
+, 
+<author pageId="11" pageNumber="7">Patton, J.L.</author>
+&amp; 
+<author pageId="11" pageNumber="7">Moritz, C.</author>
+(
+<year pageId="11" pageNumber="7">2008</year>
+) 
+<title pageId="11" pageNumber="7">The California hotspots project: identifying regions of<br/>
+rapid diversification of mammals</title>
+. 
+<journalOrPublisher pageId="11" pageNumber="7">Molecular Ecology</journalOrPublisher>
+.; 
+<part pageId="11" pageNumber="7">17</part>
+, 
+<pagination pageId="11" pageNumber="7">120-138</pagination>
+.
+</bibRef>
+</paragraph>
+<paragraph pageId="11" pageNumber="7" type="bibRef">
+<bibRef author="Gertsch, WJ." editor="W. J. Gertsch" journalOrPublisher="Cornell Univ. Press" pageId="11" pageNumber="7" title="The Spider Book" type="book" year="1940">
+<author pageId="11" pageNumber="7">Gertsch, WJ.</author>
+(
+<year pageId="11" pageNumber="7">1940</year>
+) in Comstock, J. H. 1940. 
+<title pageId="11" pageNumber="7">The Spider Book</title>
+, revised and edited by 
+<editor pageId="11" pageNumber="7">W. J. Gertsch</editor>
+. 
+<journalOrPublisher pageId="11" pageNumber="7">Cornell Univ. Press</journalOrPublisher>
+,<br/>
+Ithaca, xi + 727 pp.
+</bibRef>
+</paragraph>
+<paragraph pageId="11" pageNumber="7" type="bibRef">
+<bibRef author="Hall, C. A. J." journalOrPublisher="Geological Society America, Special Paper" pageId="11" pageNumber="7" pagination="v- 489" part="357" title="Nearshore marine paleoclimate regions, increasing zoogeographic provinciality, molluscan extinctions, and paleoshorelines, California: late Oligocene (27 Ma) to late Pliocene (2.5 Ma)" type="journal article" year="2002">
+<author pageId="11" pageNumber="7">Hall, C.A.J.</author>
+(
+<year pageId="11" pageNumber="7">2002</year>
+) 
+<title pageId="11" pageNumber="7">Nearshore marine paleoclimate regions, increasing zoogeographic provinciality, molluscan extinctions, and<br/>
+paleoshorelines, California: late Oligocene (27 Ma) to late Pliocene (2.5 Ma)</title>
+. 
+<journalOrPublisher pageId="11" pageNumber="7">Geological Society America, Special Paper</journalOrPublisher>
+,<br/>
+<part pageId="11" pageNumber="7">357</part>
+, 
+<pagination pageId="11" pageNumber="7">v-489</pagination>
+.
+</bibRef>
+</paragraph>
+<paragraph pageId="11" pageNumber="7" type="bibRef">
+<bibRef author="Hedin, M. &amp; Bond, J. E." journalOrPublisher="Molecular Phylogenetics and Evolution" pageId="11" pageNumber="7" pagination="454 - 471" part="41" title="Molecular phylogenetics of the spider Infraorder Mygalomorphae using nuclear rRNA genes (18 S and 28 S): Conflict and agreement with the current system of classification" type="journal article" year="2006">
+<author pageId="11" pageNumber="7">Hedin, M.</author>
+&amp; 
+<author pageId="11" pageNumber="7">Bond, J.E.</author>
+(
+<year pageId="11" pageNumber="7">2006</year>
+) 
+<title pageId="11" pageNumber="7">Molecular phylogenetics of the spider Infraorder Mygalomorphae using nuclear rRNA genes<br/>
+(18S and 28S): Conflict and agreement with the current system of classification</title>
+. 
+<journalOrPublisher pageId="11" pageNumber="7">Molecular Phylogenetics and Evolution</journalOrPublisher>
+,<br/>
+<part pageId="11" pageNumber="7">41</part>
+, 
+<pagination pageId="11" pageNumber="7">454-471</pagination>
+.
+</bibRef>
+</paragraph>
+<paragraph pageId="11" pageNumber="7" type="bibRef">
+<bibRef author="Hendrixson, B. E. &amp; Bond, J. E." journalOrPublisher="Molecular Phylogenetics and Evolution" pageId="11" pageNumber="7" pagination="405 - 416" part="36" title="Testing species boundaries in the Antrodiaetus unicolor complex (Araneae: Mygalomorphae: Antrodiaetidae): &quot; paraphyly &quot; and cryptic diversity" type="journal article" year="2005">
+<author pageId="11" pageNumber="7">Hendrixson, B.E.</author>
+&amp; 
+<author pageId="11" pageNumber="7">Bond, J.E.</author>
+(
+<year pageId="11" pageNumber="7">2005</year>
+) 
+<title pageId="11" pageNumber="7">
+Testing species boundaries in the Antrodiaetus unicolor complex (Araneae: Mygalomorphae: Antrodiaetidae): 
+<normalizedToken originalValue="“paraphyly”" pageId="11" pageNumber="7">&quot;paraphyly&quot;</normalizedToken>
+and cryptic diversity
+</title>
+. 
+<journalOrPublisher pageId="11" pageNumber="7">Molecular Phylogenetics and Evolution</journalOrPublisher>
+, 
+<part pageId="11" pageNumber="7">36</part>
+, 
+<pagination pageId="11" pageNumber="7">405-416</pagination>
+.
+</bibRef>
+</paragraph>
+<paragraph pageId="11" pageNumber="7" type="bibRef">
+<bibRef author="Hendrixson, B. E. &amp; Bond, J. E." journalOrPublisher="Molecular Phylogenetics and Evolution" pageId="11" pageNumber="7" pagination="738 - 755" part="42" title="Molecular phylogeny and biogeography of an ancient Holarctic lineage of mygalomorph spiders (Araneae: Antrodiaetidae: Antrodiaetus)" type="journal article" year="2007">
+<author pageId="11" pageNumber="7">Hendrixson, B.E.</author>
+&amp; 
+<author pageId="11" pageNumber="7">Bond, J.E.</author>
+(
+<year pageId="11" pageNumber="7">2007</year>
+) 
+<title pageId="11" pageNumber="7">Molecular phylogeny and biogeography of an ancient Holarctic lineage of mygalomorph<br/>
+spiders (Araneae: Antrodiaetidae: Antrodiaetus)</title>
+. 
+<journalOrPublisher pageId="11" pageNumber="7">Molecular Phylogenetics and Evolution</journalOrPublisher>
+, 
+<part pageId="11" pageNumber="7">42</part>
+, 
+<pagination pageId="11" pageNumber="7">738-755</pagination>
+.
+</bibRef>
+</paragraph>
+<paragraph pageId="11" pageNumber="7" type="bibRef">
+<bibRef author="Huelsenbeck, J. P. &amp; Ronquist, F." journalOrPublisher="Bioinformatics" pageId="11" pageNumber="7" pagination="754 - 755" part="17" title="MRBAYES: Bayesian inference of phylogeny" type="journal article" year="2001">
+<author pageId="11" pageNumber="7">Huelsenbeck, J.P.</author>
+&amp; 
+<author pageId="11" pageNumber="7">Ronquist, F.</author>
+(
+<year pageId="11" pageNumber="7">2001</year>
+) 
+<title pageId="11" pageNumber="7">MRBAYES: Bayesian inference of phylogeny</title>
+. 
+<journalOrPublisher pageId="11" pageNumber="7">Bioinformatics</journalOrPublisher>
+, 
+<part pageId="11" pageNumber="7">17</part>
+, 
+<pagination pageId="11" pageNumber="7">754-755</pagination>
+.
+</bibRef>
+</paragraph>
+<paragraph pageId="11" pageNumber="7" type="bibRef">
+<bibRef author="Jockusch, E. L. &amp; Wake, D. B." journalOrPublisher="Biological Journal of the Linnean Society" pageId="11" pageNumber="7" pagination="361 - 391" part="76" title="Falling apart and merging: diversification of slender salamanders (Plethodontidae: Batrachoseps) in the American West" type="journal article" year="2002">
+<author pageId="11" pageNumber="7">Jockusch, E.L.</author>
+&amp; 
+<author pageId="11" pageNumber="7">Wake, D.B.</author>
+(
+<year pageId="11" pageNumber="7">2002</year>
+) 
+<title pageId="11" pageNumber="7">Falling apart and merging: diversification of slender salamanders (Plethodontidae: Batrachoseps) in the American West</title>
+. 
+<journalOrPublisher pageId="11" pageNumber="7">Biological Journal of the Linnean Society</journalOrPublisher>
+<part pageId="11" pageNumber="7">76</part>
+, 
+<pagination pageId="11" pageNumber="7">361-391</pagination>
+.
+</bibRef>
+</paragraph>
+<paragraph pageId="11" pageNumber="7" type="bibRef">
+<bibRef author="Jockusch, E. L. &amp; Yanev, K. P. &amp; Wake, D. B." journalOrPublisher="Herpetological Monographs" pageId="11" pageNumber="7" pagination="54 - 99" part="15" title="Molecular phylogenetic analysis of slender salamanders, genus Batrachoseps (Amphibia: Pletodontidae), from central coastal California with descriptions of four new species" type="journal article" year="2001">
+<author pageId="11" pageNumber="7">Jockusch, E.L.</author>
+, 
+<author pageId="11" pageNumber="7">Yanev, K.P.</author>
+&amp; 
+<author pageId="11" pageNumber="7">Wake, D.B.</author>
+(
+<year pageId="11" pageNumber="7">2001</year>
+) 
+<title pageId="11" pageNumber="7">Molecular phylogenetic analysis of slender salamanders, genus Batrachoseps<br/>
+(Amphibia: Pletodontidae), from central coastal California with descriptions of four new species</title>
+. 
+<journalOrPublisher pageId="11" pageNumber="7">Herpetological Monographs</journalOrPublisher>
+, 
+<part pageId="11" pageNumber="7">15</part>
+, 
+<pagination pageId="11" pageNumber="7">54-99</pagination>
+.
+</bibRef>
+</paragraph>
+<paragraph pageId="11" pageNumber="7" type="bibRef">
+<bibRef author="Kimura, M." journalOrPublisher="Journal of Molecular Evolution" pageId="11" pageNumber="7" pagination="111 - 120" part="16" title="A simple method for estimating evolutionary rates of base substitutions through comparative studies of nucleotide sequences" type="journal article" year="1980">
+<author pageId="11" pageNumber="7">Kimura, M.</author>
+(
+<year pageId="11" pageNumber="7">1980</year>
+) 
+<title pageId="11" pageNumber="7">A simple method for estimating evolutionary rates of base substitutions through comparative studies of<br/>
+nucleotide sequences</title>
+. 
+<journalOrPublisher pageId="11" pageNumber="7">Journal of Molecular Evolution</journalOrPublisher>
+, 
+<part pageId="11" pageNumber="7">16</part>
+, 
+<pagination pageId="11" pageNumber="7">111-120</pagination>
+.
+</bibRef>
+</paragraph>
+<paragraph pageId="11" pageNumber="7" type="bibRef">
+<bibRef author="Kraft, N. J. B. &amp; Baldwin, B. G. &amp; Ackerly, D. D." journalOrPublisher="Diversity and Distributions" pageId="11" pageNumber="7" pagination="403 - 413" part="16" title="Range size, taxon age and hotspots of neoendemism in the California flora" type="journal article" year="2010">
+<author pageId="11" pageNumber="7">Kraft, N.J.B.</author>
+, 
+<author pageId="11" pageNumber="7">Baldwin, B.G.</author>
+&amp; 
+<author pageId="11" pageNumber="7">Ackerly, D.D.</author>
+(
+<year pageId="11" pageNumber="7">2010</year>
+) 
+<title pageId="11" pageNumber="7">Range size, taxon age and hotspots of neoendemism in the California<br/>
+flora</title>
+. 
+<journalOrPublisher pageId="11" pageNumber="7">Diversity and Distributions</journalOrPublisher>
+, 
+<part pageId="11" pageNumber="7">16</part>
+, 
+<pagination pageId="11" pageNumber="7">403-413</pagination>
+.
+</bibRef>
+</paragraph>
+<paragraph pageId="11" pageNumber="7" type="bibRef">
+<bibRef author="Maddison, D. R. &amp; Maddison, W. P." journalOrPublisher="Sinauer Associates" pageId="11" pageNumber="7" title="MacClade 4.06: Analysis of phylogeny and character evolution. Version 4.06" type="book" year="2003">
+<author pageId="11" pageNumber="7">Maddison, D.R.</author>
+&amp; 
+<author pageId="11" pageNumber="7">Maddison, W.P.</author>
+(
+<year pageId="11" pageNumber="7">2003</year>
+) 
+<title pageId="11" pageNumber="7">MacClade 4.06: Analysis of phylogeny and character evolution. Version 4.06</title>
+.<br/>
+<journalOrPublisher pageId="11" pageNumber="7">Sinauer Associates</journalOrPublisher>
+, Sunderland, MA, USA.
+</bibRef>
+</paragraph>
+<paragraph pageId="11" pageNumber="7" type="bibRef">
+<bibRef author="Page, B. M. &amp; Thompson, G. A. &amp; Coleman, R. G." journalOrPublisher="GSA Bulletin" pageId="11" pageNumber="7" pagination="846 - 876" part="110" title="Late Cenozoic tectonics of the central and southern Coast Ranges of California" type="journal article" year="1998">
+<author pageId="11" pageNumber="7">Page, B.M.</author>
+, 
+<author pageId="11" pageNumber="7">Thompson, G.A.</author>
+&amp; 
+<author pageId="11" pageNumber="7">Coleman, R.G.</author>
+(
+<year pageId="11" pageNumber="7">1998</year>
+) 
+<title pageId="11" pageNumber="7">Late Cenozoic tectonics of the central and southern Coast Ranges of California</title>
+. 
+<journalOrPublisher pageId="11" pageNumber="7">GSA Bulletin</journalOrPublisher>
+, 
+<part pageId="11" pageNumber="7">110</part>
+, 
+<pagination pageId="11" pageNumber="7">846-876</pagination>
+.
+</bibRef>
+</paragraph>
+<paragraph pageId="11" pageNumber="7" type="bibRef">
+<bibRef author="Parham, J. F. &amp; Papenfuss, T. J." journalOrPublisher="Conservation Genetics" pageId="11" pageNumber="7" pagination="169 - 176" part="10" title="High genetic diversity among fossorial lizard populations (Anniella pulchra) in a rapidly developing landscape (Central California)" type="journal article" year="2009">
+<author pageId="11" pageNumber="7">Parham, J.F.</author>
+&amp; 
+<author pageId="11" pageNumber="7">Papenfuss, T.J.</author>
+(
+<year pageId="11" pageNumber="7">2009</year>
+) 
+<title pageId="11" pageNumber="7">High genetic diversity among fossorial lizard populations (Anniella pulchra) in a rapidly<br/>
+developing landscape (Central California)</title>
+. 
+<journalOrPublisher pageId="11" pageNumber="7">Conservation Genetics</journalOrPublisher>
+<part pageId="11" pageNumber="7">10</part>
+, 
+<pagination pageId="11" pageNumber="7">169-176</pagination>
+.
+</bibRef>
+</paragraph>
+<paragraph pageId="11" pageNumber="7" type="bibRef">
+<bibRef author="Platnick, N. I. &amp; Ubick, D." journalOrPublisher="American Museum Novitates" pageId="11" pageNumber="7" pagination="1 - 25" part="3339" title="A revision of the North America spiders of the new genus Socalchemmis (Araneae, Tengellidae)" type="journal article" year="2001">
+<author pageId="11" pageNumber="7">Platnick, N.I.</author>
+&amp; 
+<author pageId="11" pageNumber="7">Ubick, D.</author>
+(
+<year pageId="11" pageNumber="7">2001</year>
+) 
+<title pageId="11" pageNumber="7">A revision of the North America spiders of the new genus Socalchemmis (Araneae, Tengellidae)</title>
+. 
+<journalOrPublisher pageId="11" pageNumber="7">American Museum Novitates</journalOrPublisher>
+, 
+<part pageId="11" pageNumber="7">3339</part>
+, 
+<pagination pageId="11" pageNumber="7">1-25</pagination>
+.
+</bibRef>
+</paragraph>
+<paragraph pageId="11" pageNumber="7" type="bibRef">
+<bibRef author="Posada, D." journalOrPublisher="Molecular Biology and Evolution" pageId="11" pageNumber="7" pagination="1253 - 1256" part="25" title="jModelTest: Phylogenetic model averaging" type="journal article" year="2008">
+<author pageId="11" pageNumber="7">Posada, D.</author>
+(
+<year pageId="11" pageNumber="7">2008</year>
+) 
+<title pageId="11" pageNumber="7">
+<misspelling pageId="11" pageNumber="7" type="misspelled">jModelTest</misspelling>
+: Phylogenetic model averaging
+</title>
+. 
+<journalOrPublisher pageId="11" pageNumber="7">Molecular Biology and Evolution</journalOrPublisher>
+, 
+<part pageId="11" pageNumber="7">25</part>
+, 
+<pagination pageId="11" pageNumber="7">1253-1256</pagination>
+.
+</bibRef>
+</paragraph>
+<paragraph pageId="11" pageNumber="7" type="bibRef">
+<bibRef author="Ramirez, M. &amp; Chi, B." journalOrPublisher="Biological Journal of the Linnean Society" pageId="11" pageNumber="7" pagination="27 - 37" part="82" title="Cryptic speciation, genetic diversity and gene flow in the California turret spider Antrodiaetus riversi (Araneae: Antrodiaetidae)" type="journal article" year="2004">
+<author pageId="11" pageNumber="7">Ramirez, M.</author>
+&amp; 
+<author pageId="11" pageNumber="7">Chi, B.</author>
+(
+<year pageId="11" pageNumber="7">2004</year>
+) 
+<title pageId="11" pageNumber="7">Cryptic speciation, genetic diversity and gene flow in the California turret spider Antrodiaetus<br/>
+riversi (Araneae: Antrodiaetidae)</title>
+. 
+<journalOrPublisher pageId="11" pageNumber="7">Biological Journal of the Linnean Society</journalOrPublisher>
+<part pageId="11" pageNumber="7">82</part>
+, 
+<pagination pageId="11" pageNumber="7">27-37</pagination>
+.
+</bibRef>
+</paragraph>
+<paragraph pageId="11" pageNumber="7" type="bibRef">
+<bibRef author="Raven, R. J." journalOrPublisher="Bulletin of the American Museum of Natural History" pageId="11" pageNumber="7" pagination="1 - 180" part="182" title="The spider infraorder Mygalomorphae (Araneae): cladistics and systematics" type="journal article" year="1985">
+<author pageId="11" pageNumber="7">Raven, R.J.</author>
+(
+<year pageId="11" pageNumber="7">1985</year>
+) 
+<title pageId="11" pageNumber="7">The spider infraorder Mygalomorphae (Araneae): cladistics and systematics</title>
+. 
+<journalOrPublisher pageId="11" pageNumber="7">Bulletin of the American<br/>
+Museum of Natural History</journalOrPublisher>
+, 
+<part pageId="11" pageNumber="7">182</part>
+, 
+<pagination pageId="11" pageNumber="7">1-180</pagination>
+.
+</bibRef>
+</paragraph>
+<paragraph pageId="11" pageNumber="7" type="bibRef">
+<bibRef author="Ronquist, F. &amp; Huelsenbeck, J. P." journalOrPublisher="Bioinformatics" pageId="11" pageNumber="7" pagination="1572 - 1574" part="19" title="MRBAYES 3: Bayesian phylogenetic inference under mixed models" type="journal article" year="2003">
+<author pageId="11" pageNumber="7">Ronquist, F.</author>
+&amp; 
+<author pageId="11" pageNumber="7">Huelsenbeck, J.P.</author>
+(
+<year pageId="11" pageNumber="7">2003</year>
+) 
+<title pageId="11" pageNumber="7">MRBAYES 3: Bayesian phylogenetic inference under mixed models</title>
+. 
+<misspelling pageId="11" pageNumber="7" type="misspelled">
+<journalOrPublisher pageId="11" pageNumber="7">Bioinformatics</journalOrPublisher>
+</misspelling>
+,<br/>
+<part pageId="11" pageNumber="7">19</part>
+, 
+<pagination pageId="11" pageNumber="7">1572-1574</pagination>
+.
+</bibRef>
+</paragraph>
+<paragraph pageId="11" pageNumber="7" type="bibRef">
+<bibRef author="Ronquist, F. &amp; Huelsenbeck, J. P. &amp; van der Mark, P." journalOrPublisher="Bioinformatics" pageId="11" pageNumber="7" publicationUrl="http://mrbayes.csit.fsu.edu/manual.php" title="MrBayes 3.1 Manual" type="journal article" year="2005">
+<author pageId="11" pageNumber="7">Ronquist, F.</author>
+, 
+<author pageId="11" pageNumber="7">Huelsenbeck, J.P.</author>
+&amp; 
+<author pageId="11" pageNumber="7">van der Mark, P.</author>
+(
+<year pageId="11" pageNumber="7">2005</year>
+) 
+<title pageId="11" pageNumber="7">MrBayes 3.1 Manual</title>
+, Draft 5/26/2005, online at 
+<publicationUrl pageId="11" pageNumber="7">http://<br/>
+mrbayes.csit.fsu.edu/manual.php</publicationUrl>
+(last accessed 4 February, 2011).
+</bibRef>
+</paragraph>
+<paragraph pageId="11" pageNumber="7" type="bibRef">
+<bibRef author="Satler, J. &amp; Starrett, J. &amp; Hayashi, C. &amp; Hedin, M." journalOrPublisher="Bioinformatics" pageId="11" pageNumber="7" title="Inferring species trees from gene trees in a radiation of California trapdoor spiders (Araneae, Antrodiaetidae, Aliatypus)" type="book" year="2011">
+<author pageId="11" pageNumber="7">Satler, J.</author>
+, 
+<author pageId="11" pageNumber="7">Starrett, J.</author>
+, 
+<author pageId="11" pageNumber="7">Hayashi, C.</author>
+&amp; 
+<author pageId="11" pageNumber="7">Hedin, M.</author>
+(
+<year pageId="11" pageNumber="7">2011</year>
+) 
+<title pageId="11" pageNumber="7">Inferring species trees from gene trees in a radiation of California trapdoor spiders (Araneae, Antrodiaetidae, Aliatypus)</title>
+. In review.
+</bibRef>
+</paragraph>
+<paragraph pageId="11" pageNumber="7" type="bibRef">
+<bibRef author="Schoenherr, A. A." journalOrPublisher="University of California Press" pageId="11" pageNumber="7" title="A Natural History of California" type="book" year="1992">
+<author pageId="11" pageNumber="7">Schoenherr, A.A.</author>
+(
+<year pageId="11" pageNumber="7">1992</year>
+) 
+<title pageId="11" pageNumber="7">A Natural History of California</title>
+, 
+<journalOrPublisher pageId="11" pageNumber="7">University of California Press</journalOrPublisher>
+.
+</bibRef>
+</paragraph>
+<paragraph pageId="11" pageNumber="7" type="bibRef">
+<bibRef author="Starrett, J. &amp; Hedin, M." journalOrPublisher="Molecular Ecology" pageId="11" pageNumber="7" pagination="583 - 604" part="16" title="Multilocus genealogies reveal multiple cryptic species and biogeographical complexity in the California turret spider Antrodiaetus riversi (Mygalomorphae, Antrodiaetidae)" type="journal article" year="2007">
+<author pageId="11" pageNumber="7">Starrett, J.</author>
+&amp; 
+<author pageId="11" pageNumber="7">Hedin, M.</author>
+(
+<year pageId="11" pageNumber="7">2007</year>
+) 
+<title pageId="11" pageNumber="7">Multilocus genealogies reveal multiple cryptic species and biogeographical complexity in the<br/>
+California turret spider Antrodiaetus riversi (Mygalomorphae, Antrodiaetidae)</title>
+. 
+<journalOrPublisher pageId="11" pageNumber="7">Molecular Ecology</journalOrPublisher>
+<part pageId="11" pageNumber="7">16</part>
+, 
+<pagination pageId="11" pageNumber="7">583-604</pagination>
+.
+</bibRef>
+</paragraph>
+<paragraph pageId="11" pageNumber="7" type="bibRef">
+<bibRef author="Stebbins, GL. &amp; Major, J." journalOrPublisher="Ecological Monographs" pageId="11" pageNumber="7" pagination="1 - 35" part="35" title="Endemism and speciation in the California flora" type="journal article" year="1965">
+<author pageId="11" pageNumber="7">Stebbins, GL.</author>
+&amp; 
+<author pageId="11" pageNumber="7">Major, J.</author>
+(
+<year pageId="11" pageNumber="7">1965</year>
+) 
+<title pageId="11" pageNumber="7">Endemism and speciation in the California flora</title>
+. 
+<journalOrPublisher pageId="11" pageNumber="7">Ecological Monographs</journalOrPublisher>
+, 
+<part pageId="11" pageNumber="7">35</part>
+, 
+<pagination pageId="11" pageNumber="7">1-35</pagination>
+.
+</bibRef>
+</paragraph>
+<paragraph pageId="11" pageNumber="7" type="bibRef">
+<bibRef author="Stockman, A. K. &amp; Bond, J. E." journalOrPublisher="Molecular Ecology" pageId="11" pageNumber="7" pagination="3374 - 3392" part="16" title="Delimiting cohesion species: extreme population structure and the role of ecological interchangeability" type="journal article" year="2007">
+<author pageId="11" pageNumber="7">Stockman, A.K.</author>
+&amp; 
+<author pageId="11" pageNumber="7">Bond, J.E.</author>
+(
+<year pageId="11" pageNumber="7">2007</year>
+) 
+<title pageId="11" pageNumber="7">Delimiting cohesion species: extreme population structure and the role of ecological interchangeability</title>
+. 
+<journalOrPublisher pageId="11" pageNumber="7">Molecular Ecology</journalOrPublisher>
+, 
+<part pageId="11" pageNumber="7">16</part>
+, 
+<pagination pageId="11" pageNumber="7">3374-3392</pagination>
+.
+</bibRef>
+</paragraph>
+<paragraph pageId="11" pageNumber="7" type="bibRef">
+<bibRef author="Swofford, D. L." journalOrPublisher="Sinauer Associates" pageId="11" pageNumber="7" title="PAUP *: Phylogenetic Analysis Using Parsimony (* and Other Methods). Version 4" type="book chapter" year="2002">
+<author pageId="11" pageNumber="7">Swofford, D.L.</author>
+(
+<year pageId="11" pageNumber="7">2002</year>
+) 
+<title pageId="11" pageNumber="7">PAUP*: Phylogenetic Analysis Using Parsimony (*and Other Methods). Version 4</title>
+. 
+<journalOrPublisher pageId="11" pageNumber="7">
+<misspelling pageId="11" pageNumber="7" type="misspelled">Sinauer</misspelling>
+Associates
+</journalOrPublisher>
+,<br/>
+<misspelling pageId="11" pageNumber="7" type="misspelled">Sunderland</misspelling>
+, Massachusetts.
+</bibRef>
+</paragraph>
+<paragraph pageId="11" pageNumber="7" type="bibRef">
+<bibRef author="Ubick, D. &amp; Briggs, T. S." journalOrPublisher="Proceedings of the California Academy of Sciences" pageId="11" pageNumber="7" pagination="1 - 108" part="59" title="The harvestman family Phalangodidae 6. Revision of the Sitalcina complex (Opiliones, Laniatores)" type="journal article" year="2008">
+<author pageId="11" pageNumber="7">Ubick, D.</author>
+&amp; 
+<author pageId="11" pageNumber="7">Briggs, T.S.</author>
+(
+<year pageId="11" pageNumber="7">2008</year>
+) 
+<title pageId="11" pageNumber="7">The harvestman family Phalangodidae 6. Revision of the Sitalcina complex (Opiliones, Laniatores)</title>
+. 
+<journalOrPublisher pageId="11" pageNumber="7">Proceedings of the California Academy of Sciences</journalOrPublisher>
+, 
+<part pageId="11" pageNumber="7">59</part>
+, 
+<pagination pageId="11" pageNumber="7">1-108</pagination>
+.
+</bibRef>
+</paragraph>
+<paragraph pageId="11" pageNumber="7" type="bibRef">
+<bibRef author="Wake, D." journalOrPublisher="Proceedings of the National Academy of Sciences, USA" pageId="11" pageNumber="7" pagination="7761 - 7767" part="94" title="Incipient species formation in salamanders of the Ensatina complex" type="journal article" year="1997">
+<author pageId="11" pageNumber="7">Wake, D.</author>
+(
+<year pageId="11" pageNumber="7">1997</year>
+) 
+<title pageId="11" pageNumber="7">Incipient species formation in salamanders of the Ensatina complex</title>
+. 
+<journalOrPublisher pageId="11" pageNumber="7">Proceedings of the National Academy of<br/>
+Sciences, USA</journalOrPublisher>
+, 
+<part pageId="11" pageNumber="7">94</part>
+, 
+<pagination pageId="11" pageNumber="7">7761-7767</pagination>
+.
+</bibRef>
+</paragraph>
+</subSection>
+</div>
+</subSection>
+</document>

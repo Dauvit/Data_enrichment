@@ -1,0 +1,530 @@
+﻿<document ENCODING="UTF-8" checkinTime="1384880450885" checkinUser="jeremy" checkoutTime="1389021949209" checkoutUser="jeremy" docAuthor="Barbara Patoleta &amp; Joanna Gardzinska" docDate="2013" docId="5F0874966D43E238148656B9DDDEF779" docName="zt03646p592.xml" docOrigin="Zootaxa 3646" docSource="http://www.mapress.com/zootaxa/2013/f/zt03646p592.pdf" docTitle="Redescription of Lystrocteisa Simon, 1884 (Araneae: Salticidae) from New Caledonia" lastPageNumber="592" pageNumber="587" updateTime="1384962109560" updateUser="jeremy">
+<mods:mods>
+<mods:titleInfo>
+<mods:title>Redescription of Lystrocteisa Simon, 1884 (Araneae: Salticidae) from New Caledonia</mods:title>
+</mods:titleInfo>
+<mods:name type="personal">
+<mods:role>
+<mods:roleTerm>Author</mods:roleTerm>
+</mods:role>
+<mods:namePart>Barbara Patoleta</mods:namePart>
+</mods:name>
+<mods:name type="personal">
+<mods:role>
+<mods:roleTerm>Author</mods:roleTerm>
+</mods:role>
+<mods:namePart>Joanna Gardzinska</mods:namePart>
+</mods:name>
+<mods:typeOfResource>text</mods:typeOfResource>
+<mods:relatedItem type="host">
+<mods:titleInfo>
+<mods:title>Zootaxa</mods:title>
+</mods:titleInfo>
+<mods:part>
+<mods:date>2013</mods:date>
+<mods:detail type="volume">
+<mods:number>3646</mods:number>
+</mods:detail>
+<mods:extent unit="page">
+<mods:start>587</mods:start>
+<mods:end>592</mods:end>
+</mods:extent>
+</mods:part>
+</mods:relatedItem>
+<mods:location>
+<mods:url>http://www.mapress.com/zootaxa/2013/f/zt03646p592.pdf</mods:url>
+</mods:location>
+<mods:classification>journal article</mods:classification>
+</mods:mods>
+<subSection _generate="added" pageId="0" pageNumber="587" type="document_head">
+<paragraph pageId="0" pageNumber="587" type="mainText">
+<pageBreakToken pageId="0" pageNumber="587" start="start">Redescription</pageBreakToken>
+of 
+<taxonomicName _evidence="lexicon" _rankHash="1987136814" genus="Lystrocteisa" pageId="0" pageNumber="587" rank="genus">Lystrocteisa</taxonomicName>
+Simon, 1884 (
+<taxonomicName _evidence="lexicon" _rankHash="914879051" higher="Araneae" pageId="0" pageNumber="587" rank="higher">Araneae</taxonomicName>
+: 
+<taxonomicName _evidence="lexicon" _rankHash="-438259057" family="Salticidae" pageId="0" pageNumber="587" rank="family">Salticidae</taxonomicName>
+) from New Caledonia BARBARA PATOLETA 
+<sup pageId="0" pageNumber="587">1</sup>
+&amp; JOANNA GARDZINSKA Department of Zoology, Siedlce University of Natural Sciences and Humanities, Prusa 12, 08-110 Siedlce, Poland. E-mail: patoleta@uph.edu.pl 
+<sup pageId="0" pageNumber="587">1</sup>
+Corresponding author
+</paragraph>
+</subSection>
+<subSection _generate="added" pageId="0" pageNumber="587" type="abstract">
+<paragraph pageId="0" pageNumber="587" type="heading">Abstract</paragraph>
+<paragraph pageId="0" pageNumber="587" type="mainText">
+The monotypic jumping spider genus 
+<taxonomicName _evidence="lexicon" _rankHash="1987136814" genus="Lystrocteisa" pageId="0" pageNumber="587" rank="genus">Lystrocteisa</taxonomicName>
+Simon, 1884 is redescribed. A new generic diagnosis is provided, based on both sexes, together with redescriptions of the male and description and illustration of the hitherto unknown female of the type species. Key words: 
+<taxonomicName _evidence="lexicon" _rankHash="1527405324" genus="Lystrocteisa" pageId="0" pageNumber="587" rank="species" species="myrmex">Lystrocteisa myrmex</taxonomicName>
+, jumping spiders, Pacific Islands
+</paragraph>
+</subSection>
+<subSection _generate="added" pageId="0" pageNumber="587" type="introduction">
+<paragraph pageId="0" pageNumber="587" type="heading">Introduction</paragraph>
+<paragraph pageId="0" pageNumber="587" type="mainText">
+The monotypic genus 
+<taxonomicName _evidence="lexicon" _rankHash="1987136814" genus="Lystrocteisa" pageId="0" pageNumber="587" rank="genus">Lystrocteisa</taxonomicName>
+was erected by Simon in 1884 for 
+<taxonomicName _evidence="lexicon" _rankHash="208485464" genus="Lystrocteisa" pageId="0" pageNumber="587" rank="species" species="myrmex">L. myrmex</taxonomicName>
+, known only from the male specimen from 
+<normalizedToken originalValue="Nouméa" pageId="0" pageNumber="587">Noumea</normalizedToken>
+, New Caledonia. Zabka (1988) re-described the type species of the genus, giving the illustrations of the body form and palpal organ of the male holotype.
+</paragraph>
+<paragraph pageId="0" pageNumber="587" type="mainText">
+Until now 
+<taxonomicName _evidence="lexicon" _rankHash="208485464" genus="Lystrocteisa" pageId="0" pageNumber="587" rank="species" species="myrmex">L. myrmex</taxonomicName>
+has been known only by one sex only. The position of the genus within 
+<taxonomicName _evidence="lexicon" _rankHash="-438259057" family="Salticidae" pageId="0" pageNumber="587" rank="family">Salticidae</taxonomicName>
+has been discussed by Simon (1901), who placed 
+<taxonomicName _evidence="lexicon" _rankHash="1987136814" genus="Lystrocteisa" pageId="0" pageNumber="587" rank="genus">Lystrocteisa</taxonomicName>
+into the group 
+<taxonomicName _evidence="lexicon" _rankHash="-1041245653" pageId="0" pageNumber="587" rank="tribe" tribe="Diolenieae">Diolenieae</taxonomicName>
+, together with 
+<taxonomicName _evidence="lexicon" _rankHash="-1419061380" genus="Diolenius" pageId="0" pageNumber="587" rank="genus">Diolenius</taxonomicName>
+Thorell, 1870, 
+<taxonomicName _evidence="feedback" _rankHash="1905580794" genus="Discocnemius" pageId="0" pageNumber="587" rank="genus">Discocnemius</taxonomicName>
+Thorell, 1881, 
+<taxonomicName _evidence="lexicon" _rankHash="1865541531" genus="Chalcolecta" pageId="0" pageNumber="587" rank="genus">Chalcolecta</taxonomicName>
+Simon, 1884 and 
+<taxonomicName _evidence="lexicon" _rankHash="126613064" genus="Tarodes" pageId="0" pageNumber="587" rank="genus">Tarodes</taxonomicName>
+Pocock, 1890, referring to the body form, elongated first trochanter and location of posterior eyes on tubercles. However, taxonomic revision of the group 
+<taxonomicName _evidence="data" _evidence_details="round: 1, species=sensu" _rankHash="-726682704" authority="sensu lato" authorityName="sensu lato" pageId="0" pageNumber="587" rank="tribe" tribe="Dioleniae">
+Dioleniae 
+<authority pageId="0" pageNumber="587">sensu lato</authority>
+</taxonomicName>
+, pointed 
+<taxonomicName _evidence="lexicon" _rankHash="-1419061380" genus="Diolenius" pageId="0" pageNumber="587" rank="genus">Diolenius</taxonomicName>
+, 
+<taxonomicName _evidence="lexicon" _rankHash="1163202584" genus="Ohilimia" pageId="0" pageNumber="587" rank="genus">Ohilimia</taxonomicName>
+Strand, 1911 and 
+<taxonomicName _evidence="lexicon" _rankHash="1865541531" genus="Chalcolecta" pageId="0" pageNumber="587" rank="genus">Chalcolecta</taxonomicName>
+as the closest relatives with the following synapomorphies: legs I of mantid-like appearance, with elongate trochanters, PME and PLE on marked tubercles, embolus partly hidden behind tegulum, epigyne with strongly sclerotized wing-shaped lateral margins, insemination ducts with terminal chambers, accompanied by accessory glands and connected with spermathecae via narrow channels (Gardzinska 2004, 2006; Gardzinska &amp; Zabka 2005, 2006).
+</paragraph>
+<paragraph pageId="0" pageNumber="587" type="mainText">
+New morphology data presented here, particularly concerning structure of the female epigyne, as well as the structure of the male palp (with the embolus fixed to the tegulum), suggest close relationship to 
+<taxonomicName _evidence="lexicon" _rankHash="516207743" genus="Rogmocrypta" pageId="0" pageNumber="587" rank="genus">Rogmocrypta</taxonomicName>
+Simon, 1885. According to Maddison et al. (2008) 
+<taxonomicName _evidence="lexicon" _rankHash="1987136814" genus="Lystrocteisa" pageId="0" pageNumber="587" rank="genus">Lystrocteisa</taxonomicName>
+belongs to the Australasian Astioida clade.
+</paragraph>
+<paragraph pageId="0" pageNumber="587" type="mainText">The aim of this study is to redefine the genus and describe the female for the first time, providing diagnostic drawings and photos.</paragraph>
+</subSection>
+<subSection _generate="added" lastPageId="1" lastPageNumber="588" pageId="0" pageNumber="587" type="materials_methods">
+<paragraph pageId="0" pageNumber="587" type="heading">Material and methods</paragraph>
+<paragraph lastPageId="1" lastPageNumber="588" pageId="0" pageNumber="587" type="mainText">
+The work is part of a long-term project aimed to study salticids of SW Pacific region. 
+<taxonomicName _evidence="lexicon" _rankHash="1987136814" genus="Lystrocteisa" pageId="0" pageNumber="587" rank="genus">Lystrocteisa</taxonomicName>
+specimens were chosen from the material gathered by professionals (hand collecting, fogging, light and pitfall trapping, sieving) in different periods and areas, from collections of Queensland Museum, Brisbane (QM); Museum National 
+<normalizedToken originalValue="d’Histoire" pageId="0" pageNumber="587">d'Histoire</normalizedToken>
+Naturelle, Paris (MNHN); American Museum of Natural History, New York (AMNH). The drawings were made using a grid system. A Canon PowerShoot A620 digital camera, attached to the stereomicroscope and Helicon 
+<pageBreakToken pageId="1" pageNumber="588" start="start">Focus</pageBreakToken>
+software were used for photographing specimens. Measurements are given in millimeters and were taken using MultiScan software.
+</paragraph>
+<paragraph pageId="1" pageNumber="588" type="mainText">
+Abbreviations used
+<pageNumber ambiguity="1" fuzzyness="0" pageId="1" pageNumber="588" score="5" value="1">:</pageNumber>
+AEW-anterior eye width, ag-accessory glands, AME-anterior medial eyes, AL- abdomen length, cd-copulatory ducts, CH-cephalothorax height, CL-cephalothorax length, clyp-clypeus, ClypH-clypeus height, co-copulatory openings, const-constriction, cs-cheek swelling, CW-cephalothorax width, DAM-diameter of anterior medial eyes, e-embolus, EFL-eye field length, F-female, ho-hookshaped outgrowths, L-leg, M-male, n-notch, PEW-posterior eye width, rta-retrolateral tibial apophysis, sspermathecae, sp-spermophore, ta-tibial apophysis, tl-tegular lobe.
+</paragraph>
+</subSection>
+<treatment _generate="added" pageId="1" pageNumber="588">
+<subSubSection _generate="added" pageId="1" pageNumber="588" type="nomenclature">
+<paragraph pageId="1" pageNumber="588" type="mainText">
+Genus 
+<taxonomicName _evidence="lexicon" _rankHash="1987136814" genus="Lystrocteisa" pageId="1" pageNumber="588" rank="genus">Lystrocteisa</taxonomicName>
+Simon, 1884
+</paragraph>
+</subSubSection>
+<subSubSection _generate="added" pageId="1" pageNumber="588" type="reference_group">
+<paragraph pageId="1" pageNumber="588" type="mainText">
+<taxonomicName _evidence="lexicon" _rankHash="1987136814" genus="Lystrocteisa" pageId="1" pageNumber="588" rank="genus">Lystrocteisa</taxonomicName>
+Simon 1884, p. 228; Peckham &amp; Peckham 1885, pp. 272-273; Simon 1901, pp. 478-481.
+</paragraph>
+</subSubSection>
+<subSubSection _generate="added" pageId="1" pageNumber="588" type="nomenclature">
+<paragraph pageId="1" pageNumber="588" type="mainText">
+<typeStatus pageId="1" pageNumber="588">Type</typeStatus>
+species: 
+<taxonomicName _evidence="lexicon" _rankHash="-121440574" authority="Simon" authorityName="Simon" genus="Lystrocteisa" pageId="1" pageNumber="588" rank="species" species="myrmex">Lystrocteisa myrmex Simon</taxonomicName>
+1884, by monotypy.
+</paragraph>
+</subSubSection>
+<subSubSection _generate="added" pageId="1" pageNumber="588" type="diagnosis">
+<paragraph pageId="1" pageNumber="588" type="mainText">Diagnosis. Cephalothorax moderately low, with posterior lateral eyes located on protuberances. Legs I longer and more robust than others, armed with 3 and 2 pairs of ventral spines on tibiae and metatarsi respectively. Palpal organ with embolus fixed to the tegulum. Epigyne with posterior notch.</paragraph>
+</subSubSection>
+<subSubSection _generate="added" pageId="1" pageNumber="588" type="description">
+<paragraph pageId="1" pageNumber="588" type="mainText">
+Description. Myrmecomorph spiders, 3.5-
+<quantity metricMagnitude="-3" metricUnit="m" metricValue="4.0" pageId="1" pageNumber="588" unit="mm" value="4.0">4 mm</quantity>
+long. Sexes similar in appearance, though males with more distinct transverse constriction of the cephalothorax, cheek swelling (Fig. 21 
+<normalizedToken originalValue="“cs”" pageId="1" pageNumber="588">&quot;cs&quot;</normalizedToken>
+), and raptor-like development of first legs, with strongly swollen tibiae and relatively longer trochanters I (Figs 12, 18). Female carapace with granulated integument on the dorsum. Cephalothorax low and relatively narrow (
+<collectionCode pageId="1" pageNumber="588">CW</collectionCode>
+&lt;70% of 
+<collectionCode pageId="1" pageNumber="588">CL</collectionCode>
+) in both sexes, with distinct posterior slope and constriction between posterior medial and lateral eyes (Fig. 22). Eye field trapezoid, long (about 60% of 
+<collectionCode pageId="1" pageNumber="588">CL</collectionCode>
+), PME considerably more distant from PLE than from ALE, the last ones situated on protuberances. Fovea short, located behind PLE. Clypeus very narrow (about 10% of 
+<collectionCode collectionName="USA, Florida, Gainesville, University of Florida, Florida Museum of Natural History, Allyn Museum" pageId="1" pageNumber="588">AME</collectionCode>
+diameter). Chelicerae of fissident pattern, with frontal surfaces flattened and rugose (Figs 10, 17). Endites slightly divergent, lateral modifications possible (Fig. 24 
+<normalizedToken originalValue="“ho”" pageId="1" pageNumber="588">&quot;ho&quot;</normalizedToken>
+). Sternum scutiform (Figs 3, 25). Abdomen elongate ovoid, slightly constricted in anterior third, pedicel moderately long, visible in dorsal view (Fig. 22). Legs I the longest and more robust than others. Trochanters I elongate (but shorter than tibiae 
+<collectionCode pageId="1" pageNumber="588">I</collectionCode>
+: about 50% of tibiae 
+<collectionCode pageId="1" pageNumber="588">I</collectionCode>
+length). Ventral spination of first legs: tibia 2-2-2, metatarsus 2-2. Legs formula: I-IV-III=II or I-IV-II-III. Palpal organ: cymbium unmodified, tegulum triangular in ventral view (Figs 11, 19), embolus thin, anteriorly set (at 10 
+<normalizedToken originalValue="o’clock" pageId="1" pageNumber="588">o'clock</normalizedToken>
+position), tibial apophysis short and slender (Fig. 20 
+<normalizedToken originalValue="“rta”" pageId="1" pageNumber="588">&quot;rta&quot;</normalizedToken>
+). Epigyne: copulatory openings widely separated, insemination ducts and spermathecae elongate and curved, the last ones accompanied with accessory glands (Fig. 7).
+</paragraph>
+</subSubSection>
+</treatment>
+<treatment _generate="added" lastPageId="4" lastPageNumber="591" pageId="1" pageNumber="588">
+<subSubSection _generate="added" pageId="1" pageNumber="588" type="nomenclature">
+<paragraph pageId="1" pageNumber="588" type="mainText">
+<taxonomicName _evidence="lexicon" _rankHash="1527405324" genus="Lystrocteisa" pageId="1" pageNumber="588" rank="species" species="myrmex">Lystrocteisa myrmex</taxonomicName>
+</paragraph>
+</subSubSection>
+<subSubSection _generate="added" pageId="1" pageNumber="588" type="description">
+<paragraph pageId="1" pageNumber="588" type="mainText">(Figs 1-26)</paragraph>
+</subSubSection>
+<subSubSection _generate="added" pageId="1" pageNumber="588" type="reference_group">
+<paragraph pageId="1" pageNumber="588" type="mainText">
+<taxonomicName _evidence="lexicon" _rankHash="-1491947762" authority="Simon" authorityName="Simon" genus="Lystrocteisa" pageId="1" pageNumber="588" rank="species" species="myrmex">L. myrmex Simon</taxonomicName>
+, 1884 p. 229, Simon 1901, pp. 478-481, Zabka 1988 p. 460.
+</paragraph>
+</subSubSection>
+<subSubSection _generate="added" pageId="1" pageNumber="588" type="materials_examined">
+<paragraph pageId="1" pageNumber="588" type="mainText">
+<materialsCitation collectingDate="1884-01-01" collectingDateMax="1884-12-31" collectingDateMin="1884-01-01" collectionCode="MNHN" collectorName="Simon" country="New Caledonia" location="Noumea" municipality="Noumea" pageId="1" pageNumber="588" specimenCode="3235" specimenCount="1" specimenCountMale="1" typeStatus="Holotype">
+Type material examined. 
+<typeStatus pageId="1" pageNumber="588">Holotype</typeStatus>
+, 
+<specimenCount pageId="1" pageNumber="588">1M</specimenCount>
+(
+<collectionCode collectionName="France, Paris, Museum National d'Histoire Naturelle" pageId="1" pageNumber="588">MNHN</collectionCode>
+, 
+<specimenCode pageId="1" pageNumber="588">3235</specimenCode>
+), 
+<collectingCountry pageId="1" pageNumber="588" value="New Caledonia">New Caledonia</collectingCountry>
+, 
+<normalizedToken originalValue="Nouméa" pageId="1" pageNumber="588">
+<collectingMunicipality pageId="1" pageNumber="588">Noumea</collectingMunicipality>
+</normalizedToken>
+, 
+<collectorName pageId="1" pageNumber="588">Simon</collectorName>
+. Other material examined
+</materialsCitation>
+. 
+<materialsCitation collectingDate="1993-02-24" collectingMethod="Rf by creek" collectionCode="QM" collectorName="R. Raven" country="New Caledonia" elevation="380 - 440 m" latitude="-20.066668" location="Mt. Mou" pageId="1" pageNumber="588" specimenCode="S 35741" specimenCount="2" specimenCountFemale="1" specimenCountMale="1">
+<collectingCountry pageId="1" pageNumber="588" value="New Caledonia">New Caledonia</collectingCountry>
+: 
+<specimenCount pageId="1" pageNumber="588">1M, 1F</specimenCount>
+(
+<collectionCode collectionName="Australia, Queensland, South Brisbane, Queensland Museum" pageId="1" pageNumber="588">QM</collectionCode>
+, 
+<specimenCode pageId="1" pageNumber="588">S35741</specimenCode>
+), 
+<location country="New Caledonia" latitude="-20.066668" name="Mt. Mou" pageId="1" pageNumber="588">Mt. Mou</location>
+, 
+<quantity metricMagnitude="2" metricUnit="m" metricValue="4.1" metricValueMax="4.4" metricValueMin="3.8" pageId="1" pageNumber="588" unit="m" value="410.0" valueMax="440.0" valueMin="380.0">
+<elevation metricMagnitude="2" metricUnit="m" metricValue="4.1" metricValueMax="4.4" metricValueMin="3.8" pageId="1" pageNumber="588" unit="m" value="410.0" valueMax="440.0" valueMin="380.0">380-440m</elevation>
+</quantity>
+, 
+<geoCoordinate direction="south" orientation="latitude" pageId="1" pageNumber="588" precision="1" value="-20.066668">20° 04' S</geoCoordinate>
+, 
+<geoCoordinate pageId="1" pageNumber="588">166° 21 E</geoCoordinate>
+, 
+<collectingMethod pageId="1" pageNumber="588">Rf by creek</collectingMethod>
+, 
+<date pageId="1" pageNumber="588" value="1993-02-24">
+<collectingDate pageId="1" pageNumber="588" value="1993-02-24">24 February 1993</collectingDate>
+</date>
+, 
+<collectorName _evidence="leading initial" pageId="1" pageNumber="588">R. Raven</collectorName>
+.
+</materialsCitation>
+<materialsCitation collectingDate="1987-05-29" collectingMethod="Berlese" collectionCode="AMNH" collectorName="N. I. Platnick, R. J. Raven" country="New Caledonia" elevation="490 m" location="Col des Rousettes" pageId="1" pageNumber="588" specimenCount="1" specimenCountMale="1">
+<specimenCount pageId="1" pageNumber="588">1 M</specimenCount>
+(
+<collectionCode collectionName="USA, New York, New York, American Museum of Natural History" pageId="1" pageNumber="588">AMNH</collectionCode>
+) 
+<location country="New Caledonia" name="Col des Rousettes" pageId="1" pageNumber="588">Col des Rousettes</location>
+, 
+<quantity metricMagnitude="2" metricUnit="m" metricValue="4.9" pageId="1" pageNumber="588" unit="m" value="490.0">
+<elevation metricMagnitude="2" metricUnit="m" metricValue="4.9" pageId="1" pageNumber="588" unit="m" value="490.0">490m</elevation>
+</quantity>
+, 
+<collectingMethod pageId="1" pageNumber="588">Berlese</collectingMethod>
+, litter, dry forest, 
+<date pageId="1" pageNumber="588" value="1987-05-29">
+<collectingDate pageId="1" pageNumber="588" value="1987-05-29">29 May 1987</collectingDate>
+</date>
+, 
+<collectorName _evidence="leading initial" pageId="1" pageNumber="588">N. I. Platnick</collectorName>
+, 
+<collectorName _evidence="leading initial" pageId="1" pageNumber="588">R. J. Raven</collectorName>
+</materialsCitation>
+.
+</paragraph>
+</subSubSection>
+<subSubSection _generate="added" pageId="1" pageNumber="588" type="diagnosis">
+<paragraph pageId="1" pageNumber="588" type="mainText">
+Diagnosis. Spiders with ant-like appearance. Cephalothorax and abdomen with transverse constrictions. External margins of endites with lateral hook-shaped outgrowths (Fig. 24). Legs I with trochanters longer than coxae. Palpal tegulum with retrolateral lobe (Fig. 19 
+<normalizedToken originalValue="“tl”" pageId="1" pageNumber="588">&quot;tl&quot;</normalizedToken>
+), embolus rather thin, arising anteriorly, sperm ducts C- shaped, tibial apophysis conical (Figs 19-20). Epigyne with copulatory openings located anteriorly (Fig. 5 
+<normalizedToken originalValue="“co”" pageId="1" pageNumber="588">&quot;co&quot;</normalizedToken>
+), insemination ducts long, spermathecae duct-like (Fig. 7).
+</paragraph>
+</subSubSection>
+<subSubSection _generate="added" lastPageId="4" lastPageNumber="591" pageId="1" pageNumber="588" type="description">
+<paragraph lastPageId="5" lastPageNumber="592" pageId="1" pageNumber="588" type="mainText">
+Description. Male. (Figs 9-13, 18-26). Carapace brown, somewhat paler in eye field; whole surface with scattered, fine, brownish hairs. Eyes surrounded in black. Clypeus and chelicerae brown, endites and labium of the similar colour, with lighter chewing margins. Sternum brown. Abdomen greyish-brown, sparsely covered with fine, pallid hairs, more numerous anteriorly. Venter grey, with paler transverse belt below the epigastric furrow 
+<pageBreakToken pageId="5" pageNumber="592" start="start">(</pageBreakToken>
+Fig. 26). Spinnerets greyish. Legs I with robust femora, patellae and strongly swollen tibiae, armed and fringed as in generic description (Figs 12, 18). Legs I brown, others yellow, with brown markings. Legs formula: I-IV-IIMI. Pedipalps light brown. Palpal organ as in Figures 11, 19-20.
+</paragraph>
+<caption pageId="2" pageNumber="589">
+<paragraph pageId="2" pageNumber="589" type="caption">
+<pageBreakToken pageId="2" pageNumber="589" start="start">FIGURES</pageBreakToken>
+1-8. 
+<taxonomicName _evidence="lexicon" _rankHash="1527405324" genus="Lystrocteisa" pageId="2" pageNumber="589" rank="species" species="myrmex">Lystrocteisa myrmex</taxonomicName>
+, female. 1 general appearance; 
+<pageNumber ambiguity="2" fuzzyness="0" pageId="2" pageNumber="589" score="4" value="2">2</pageNumber>
+cephalothorax, lateral view; 3 sternum; 4 first leg; 5 epigyne; 6 anterior view; 7 vulva; 8 cheliceral teeth.
+</paragraph>
+</caption>
+<caption pageId="3" pageNumber="590">
+<paragraph pageId="3" pageNumber="590" type="caption">
+<pageBreakToken pageId="3" pageNumber="590" start="start">FIGURES</pageBreakToken>
+9-17. 
+<taxonomicName _evidence="lexicon" _rankHash="1527405324" genus="Lystrocteisa" pageId="3" pageNumber="590" rank="species" species="myrmex">Lystrocteisa myrmex</taxonomicName>
+. 
+<specimenCount pageId="3" pageNumber="590" type="generic">9 male</specimenCount>
+, dorsal view; 
+<specimenCount pageId="3" pageNumber="590" type="generic">
+<pageNumber ambiguity="2" fuzzyness="0" pageId="3" pageNumber="590" score="2" value="10">10</pageNumber>
+male
+</specimenCount>
+, anterior view; 11 palpal organ; 
+<specimenCount pageId="3" pageNumber="590" type="generic">12 male</specimenCount>
+, first leg; 
+<specimenCount pageId="3" pageNumber="590" type="generic">13 male</specimenCount>
+, antero-lateral view; 
+<specimenCount pageId="3" pageNumber="590" type="generic">14 female</specimenCount>
+, dorsal view; 
+<specimenCount pageId="3" pageNumber="590" type="generic">15 female</specimenCount>
+, lateral view; 
+<specimenCount pageId="3" pageNumber="590" type="generic">16 female</specimenCount>
+, ventral view of the anterior part of abdomen; 
+<specimenCount pageId="3" pageNumber="590" type="generic">17 female</specimenCount>
+, anterior view. Scale 1.00 mm.
+</paragraph>
+</caption>
+<caption pageId="4" pageNumber="591">
+<paragraph pageId="4" pageNumber="591" type="caption">
+<pageBreakToken pageId="4" pageNumber="591" start="start">FIGURES</pageBreakToken>
+<pageNumber ambiguity="2147483647" fuzzyness="2147483647" pageId="4" pageNumber="591" score="3" value="4">18</pageNumber>
+-26. 
+<taxonomicName _evidence="lexicon" _rankHash="1527405324" genus="Lystrocteisa" pageId="4" pageNumber="591" rank="species" species="myrmex">Lystrocteisa myrmex</taxonomicName>
+, 
+<typeStatus pageId="4" pageNumber="591">holotype</typeStatus>
+. 18 dorsal view; 19 palpal organ, ventral view; 2G palpal organ, retrolateral view; 21 anterior view; 22 lateral view; 23 
+<misspelling pageId="4" pageNumber="591" type="misspelled">cheliceral</misspelling>
+dentition; 24 endites and labium; 25 sternum; 26. abdomen, ventral view.
+</paragraph>
+</caption>
+<paragraph pageId="4" pageNumber="591" type="mainText">
+Dimensions: CL 1.72, CW 1.13, CH 0.73, AL 1.82, AW 0.99, EFL 1.07, AEW 0.88, PEW 0.98, 
+<collectionCode collectionName="Douglas Allan Macaulay" pageId="4" pageNumber="591">DAM</collectionCode>
+0.29, ClypH 0.03, LI 5.92, LII 3.47, LIII 3.20, LIV 4.39.
+</paragraph>
+<paragraph pageId="4" pageNumber="591" type="mainText">Female. (Figs 1-7, 14-17). Similar to the male in general appearance and the colour pattern. Dorsal surface of carapace granulated and covered with sparse whitish hairs. Clypeus, chelicerae, endites and labium brown, chewing margins yellowish. Sternum brown. Abdomen greyish-brown, with pattern rather indistinct. Venter greybrown with pallid triangle belt behind the epigastric furrow (Fig. 16). Spinnerets yellowish. Legs I strong and more robust than others however, compared to the male, the all segments unmodified and rather slender, besides somewhat swollen femora (Figs 4, 14-15). Legs yellow-brown, with formula: I-IV-III-II. Epigyne as in Figs 5, 7 and 16.</paragraph>
+<paragraph pageId="4" pageNumber="591" type="mainText">
+Dimensions: CL 1.67, CW 1.08, CH 0.66, EFL 0.94, AEW 0.88, PEW 0.97, 
+<collectionCode collectionName="Douglas Allan Macaulay" pageId="4" pageNumber="591">DAM</collectionCode>
+0.30, AL 2.09, AW 1.11, ClypH 0.03, LI 4.59, LII 3.05, LIII 3.12, LIV 4.22.
+</paragraph>
+</subSubSection>
+</treatment>
+<subSection _generate="added" pageId="4" pageNumber="591" type="acknowledgments">
+<paragraph pageId="4" pageNumber="591" type="heading">Acknowledgments</paragraph>
+<paragraph pageId="4" pageNumber="591" type="mainText">
+We wish to thank Prof. Norman Platnick (American Museum of Natural History, New York), Dr. Christine Rollard (Museum National 
+<normalizedToken originalValue="d’Histoire" pageId="4" pageNumber="591">d'Histoire</normalizedToken>
+Naturelle, Paris) and Dr. Robert Raven (Queensland Museum, 
+<misspelling language="German" pageId="4" pageNumber="591" type="outOfLanguage">Brisbane</misspelling>
+) for providing specimens for study. This work was supported by Polish Ministry of Science and Higher Education under grant N N303 416437.
+</paragraph>
+</subSection>
+<subSection _generate="added" pageId="4" pageNumber="591" type="reference_group">
+<paragraph pageId="4" pageNumber="591" type="heading">References</paragraph>
+<paragraph pageId="4" pageNumber="591" type="bibRef">
+<bibRef _Flag="true" author="Gardzinska, J." journalOrPublisher="PhD thesis" pageId="4" pageNumber="591" title="Rewizja taksonomiczna grupy Diolenieae (Araneae: Salticidae)" type="book" year="2004">
+<author fns="I" kam="kam" npo="LF" pageId="4" pageNumber="591">Gardzinska, J.</author>
+(
+<year pageId="4" pageNumber="591">2004</year>
+) 
+<title pageId="4" pageNumber="591">Rewizja taksonomiczna grupy Diolenieae (Araneae: Salticidae)</title>
+. 
+<journalOrPublisher pageId="4" pageNumber="591">PhD thesis</journalOrPublisher>
+, 147 pp.
+</bibRef>
+</paragraph>
+<paragraph pageId="4" pageNumber="591" type="bibRef">
+<bibRef author="Gardzinska, J." journalOrPublisher="Annales Zoologici" pageId="4" pageNumber="591" pagination="375 - 385" part="56" title="A revision of the spider genus Ohilimia Strand, 1911 (Araneae; Salticidae" type="journal article" year="2006">
+<author fns="I" kam="kam" npo="LF" pageId="4" pageNumber="591">Gardzinska, J.</author>
+(
+<year pageId="4" pageNumber="591">2006</year>
+) 
+<title pageId="4" pageNumber="591">
+A revision of the spider genus 
+<misspelling pageId="4" pageNumber="591" type="misspelled">Ohilimia</misspelling>
+Strand, 1911 (Araneae; Salticidae
+</title>
+). 
+<journalOrPublisher jopScore="1.8669778" pageId="4" pageNumber="591">Annales Zoologici</journalOrPublisher>
+, 
+<part pageId="4" pageNumber="591" type="volume">56</part>
+(2), 
+<pagination pageId="4" pageNumber="591" type="pagination">375-385</pagination>
+.
+</bibRef>
+</paragraph>
+<paragraph pageId="4" pageNumber="591" type="bibRef">
+<bibRef author="Gardzinska, J. &amp; Zabka, M." journalOrPublisher="Annales Zoologici" pageId="4" pageNumber="591" pagination="437 - 448" part="55" title="A revision of the spider genus Chalcolecta Simon, 1884 (Araneae; Salticidae)" type="journal article" year="2005">
+<author fns="I" kam="kam" npo="LF" pageId="4" pageNumber="591">Gardzinska, J.</author>
+&amp; 
+<author fns="I" kam="kam" npo="LF" pageId="4" pageNumber="591">Zabka, M.</author>
+(
+<year pageId="4" pageNumber="591">2005</year>
+) 
+<title pageId="4" pageNumber="591">A revision of the spider genus Chalcolecta Simon, 1884 (Araneae; Salticidae)</title>
+. 
+<journalOrPublisher jopScore="1.8496939" pageId="4" pageNumber="591">Annales Zoologici</journalOrPublisher>
+, 
+<part pageId="4" pageNumber="591" type="volume">55</part>
+(3), 
+<pagination pageId="4" pageNumber="591" type="pagination">437-448</pagination>
+.
+</bibRef>
+</paragraph>
+<paragraph pageId="4" pageNumber="591" type="bibRef">
+<bibRef author="Gardzinska, J &amp; Zabka, M." journalOrPublisher="Annales Zoologici" pageId="4" pageNumber="591" pagination="387 - 433" part="56" title="A revision of the spider genus Diolenius Thorell, 1870 (Araneae; Salticidae)" type="journal article" year="2006">
+<author fns="I" kam="kam" npo="LF" pageId="4" pageNumber="591">Gardzinska, J</author>
+&amp; 
+<author fns="I" kam="kam" npo="LF" pageId="4" pageNumber="591">Zabka, M.</author>
+(
+<year pageId="4" pageNumber="591">2006</year>
+) 
+<title pageId="4" pageNumber="591">A revision of the spider genus Diolenius Thorell, 1870 (Araneae; Salticidae)</title>
+. 
+<journalOrPublisher jopScore="1.8496939" pageId="4" pageNumber="591">Annales Zoologici</journalOrPublisher>
+, 
+<part pageId="4" pageNumber="591" type="volume">56</part>
+(2), 
+<pagination pageId="4" pageNumber="591" type="pagination">387-433</pagination>
+.
+</bibRef>
+</paragraph>
+<paragraph pageId="4" pageNumber="591" type="bibRef">
+<bibRef author="Maddison, W. P. &amp; Bodner, M. R. &amp; Needham, K. M." journalOrPublisher="Zootaxa" pageId="4" pageNumber="591" pagination="49 - 64" part="1893" title="Salticid spider phylogeny revisited, with the discovery of a large Australasian clade (Araneae; Salticidae)" type="journal article" year="2008">
+<author fns="I" kam="kam" npo="LF" pageId="4" pageNumber="591">Maddison, W.P.</author>
+, 
+<author fns="I" kam="kam" npo="LF" pageId="4" pageNumber="591">Bodner, M.R.</author>
+, 
+<author fns="I" kam="kam" npo="LF" pageId="4" pageNumber="591">Needham, K.M.</author>
+(
+<year pageId="4" pageNumber="591">2008</year>
+) 
+<title jopScore="0.09028943" pageId="4" pageNumber="591">Salticid spider phylogeny revisited, with the discovery of a large Australasian clade (Araneae; Salticidae)</title>
+. 
+<journalOrPublisher jopScore="3.0561209" pageId="4" pageNumber="591">Zootaxa</journalOrPublisher>
+, 
+<part pageId="4" pageNumber="591" type="volume">1893</part>
+, 
+<pagination pageId="4" pageNumber="591" type="pagination">49-64</pagination>
+.
+</bibRef>
+</paragraph>
+<paragraph pageId="4" pageNumber="591" type="bibRef">
+<bibRef author="Peckham, GW. &amp; Peckham, E. G." journalOrPublisher="Transactions of the Wisconsin Academy of Sciences, Arts, and Letters" pageId="4" pageNumber="591" pagination="255 - 342" part="6" title="Genera of the family Attidae; with a partial synonymy" type="journal article" year="1885">
+<author fns="I" kam="kam" npo="LF" pageId="4" pageNumber="591">Peckham, GW.</author>
+&amp; 
+<author fns="I" kam="kam" npo="LF" pageId="4" pageNumber="591">Peckham, E.G.</author>
+(
+<year pageId="4" pageNumber="591">1885</year>
+) 
+<title jopScore="0.11328569" pageId="4" pageNumber="591">Genera of the family Attidae; with a partial synonymy</title>
+. 
+<journalOrPublisher jopScore="2.822863" pageId="4" pageNumber="591">Transactions of the Wisconsin Academy of Sciences, Arts, and Letters</journalOrPublisher>
+, 
+<part pageId="4" pageNumber="591" type="volume">6</part>
+, 
+<pagination pageId="4" pageNumber="591" type="pagination">255-342</pagination>
+.
+</bibRef>
+</paragraph>
+<paragraph pageId="4" pageNumber="591" type="bibRef">
+<bibRef author="Simon, E." journalOrPublisher="Annales de la Societe entomologique de Belgique" pageId="4" pageNumber="591" pagination="225 - 231" part="28" title="Note sur le groupe des Diolenii (famille des Attidae) et descriptions d'especes nouvelles" type="journal article" year="1884">
+<author fns="I" kam="kam" npo="LF" pageId="4" pageNumber="591">Simon, E.</author>
+(
+<year pageId="4" pageNumber="591">1884</year>
+) 
+<title pageId="4" pageNumber="591">
+Note sur le groupe des Diolenii (famille des Attidae) et descriptions 
+<normalizedToken originalValue="d'espèces" pageId="4" pageNumber="591">d'especes</normalizedToken>
+nouvelles
+</title>
+. 
+<journalOrPublisher pageId="4" pageNumber="591">
+Annales de la 
+<normalizedToken originalValue="Société" pageId="4" pageNumber="591">Societe</normalizedToken>
+entomologique de Belgique
+</journalOrPublisher>
+, 
+<part pageId="4" pageNumber="591" type="volume">28</part>
+, 
+<pagination pageId="4" pageNumber="591" type="pagination">225-231</pagination>
+.
+</bibRef>
+</paragraph>
+<paragraph pageId="4" pageNumber="591" type="bibRef">
+<bibRef author="Simon, E." journalOrPublisher="Annales de la Societe entomologique de Belgique" pageId="4" pageNumber="591" pagination="381 - 668" part="2" publisher="Paris" title="Histoire Naturelle des Araignees" type="journal article" year="1901">
+<author fns="I" kam="kam" npo="LF" pageId="4" pageNumber="591">Simon, E.</author>
+(
+<year pageId="4" pageNumber="591">1901</year>
+) 
+<title pageId="4" pageNumber="591">
+Histoire Naturelle des 
+<normalizedToken originalValue="Araignées" pageId="4" pageNumber="591">Araignees</normalizedToken>
+</title>
+. 
+<publisher pageId="4" pageNumber="591">Paris</publisher>
+, 
+<part pageId="4" pageNumber="591">2</part>
+(3), 
+<pagination pageId="4" pageNumber="591" type="pagination">381-668</pagination>
+.
+</bibRef>
+</paragraph>
+<paragraph pageId="4" pageNumber="591" type="bibRef">
+<bibRef author="Zabka, M." journalOrPublisher="Annales Zoologici" pageId="4" pageNumber="591" pagination="421 - 478" part="41" title="Salticidae (Araneae) of Oriental, Australian and Pacific regions, III" type="journal article" year="1988">
+<author fns="I" kam="kam" npo="LF" pageId="4" pageNumber="591">Zabka, M.</author>
+(
+<year pageId="4" pageNumber="591">1988</year>
+) 
+<title jopScore="0.49025795" pageId="4" pageNumber="591">Salticidae (Araneae) of Oriental, Australian and Pacific regions, III</title>
+. 
+<journalOrPublisher jopScore="2.0234191" pageId="4" pageNumber="591">Annales Zoologici</journalOrPublisher>
+, 
+<part pageId="4" pageNumber="591" type="volume">41</part>
+(14), 
+<pagination pageId="4" pageNumber="591" type="pagination">421-478</pagination>
+.
+</bibRef>
+</paragraph>
+</subSection>
+</document>

@@ -1,0 +1,35 @@
+From:	Jeremy Miller <jeremy.miller@naturalis.nl>
+Sent:	17 February 2014 19:27
+To:	Soraya Sierra; Vos, R.A.
+Cc:	David.King
+Subject:	Re:
+Attachments:	MillerSampleDocs.zip; markupDataExtractionFields.xls; 
+MillerScienceApplicationsMarkupDataManagement.ppt
+
+Hello all,
+Here is a proposal for the hackathon that should be pretty close to the core of pro-iBiosphere. 
+The idea is simply to extract structured data from treatments in a simple spreadsheet-friendly 
+format for the purposes of quality control and visualization. I have made a list of the desired 
+fields (fields tab in markupDataExtractionFields.xls) and attached several documents that have 
+been marked up using GoldenGATE. I've organized the fields into two tables, one for authors 
+and institutions, and the other for data (there can be many authors/institutions per publication). 
+The tabs exampleDataTable and exampleAuthorTable are populated with a small amount real 
+data for illustration of the desired output. 
+With data structured in this way, several forms of visualization/dashboarding are possible. Some 
+mocked up examples are given in the attached ppt. The first step in this process would be to 
+produce a series of charts, maps and lists that at a glance deliver a wealth of information about 
+the data that underlies any individual treatment. These would include data on proportions of male 
+and female specimens, the proportion of specimens that come from major collections institutions, 
+a list of countries, and a map of georeferenced data points. Visualizations based on sets of 
+treatments could follow proportions of specimens from major institutions as published in a 
+taxonomic journal over time, or follow the activity of a particular collector over space and time. 
+Ultimately, the goal is a kind of reverse Biodiversity Data Journal - resurrect the primary data 
+from legacy literature for aggregation and reanalysis. 
+Kind regards,
+Jeremy
+
+
+T 071-5687652, M  
+ 
+Darwinweg 2 - 2333 CR Leiden 
+E Jeremy.Miller@naturalis.nl I , www.naturalis.nl 
