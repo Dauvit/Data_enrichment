@@ -1,0 +1,35 @@
+{
+    "institutions": [
+        [
+            ["Institution 1", 9],
+            ["Institution 2", 8],
+            ["Institution 3", 7]
+        ]
+    ],
+
+    "species": [
+        [
+            ["Adult male", 51],
+            ["Adult female", 46],
+            ["Other", 2]
+        ]
+    ],
+
+    "specimens_distribution": {
+        "ticks": ["1900", "1910", "1920", "1930"],
+        "data": [ [2, 6, 7, 10] ]
+    },
+
+    "citations": {
+        "data": [
+            [2, 6, 7, 10],
+            [7, 5, 3, 4],
+            [14, 9, 3, 8]
+        ],
+        "labels": [
+            {"label": "Nature"},
+            {"label": "Science"},
+            {"label": "Zootaxa"}
+        ]
+    }
+}
