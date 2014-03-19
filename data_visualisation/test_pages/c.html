@@ -1,16 +1,18 @@
 <!DOCTYPE html>
 <html lang="en">
   <head>
-  <title>Test page for jQuery AJAX to GoldenGATE</title>
+  <title>Test page for remote data</title>
   <meta charset="utf-8">
-  <meta name="description" content="Test piece for jQuery AJAX">
+  <meta name="description" content="Test piece for remote javascript data">
   <meta name="author" content="David King">
-  <!--[if lt IE 9]><script src="/dist/excanvas.js"></script><![endif]-->
+  <meta http-equiv="Cache-Control" content="no-cache"/>
   <script src="dist/jquery.min.js"></script>
-  <script src="c2.js"></script>
+  <script src="c.js"></script>
+  <script id="runme" src="http://localhost/amati/data.js?0000"></script>
 </head>
 <body>
 <p>Here is data from GoldenGATE:</p>
 <p id="result">nothing here</p>
+<button id="pressme" >Press me</button>
 </body>
 </html>
