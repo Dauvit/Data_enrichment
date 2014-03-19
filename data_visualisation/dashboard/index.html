@@ -6,11 +6,12 @@
 <head>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <title></title>
+    <title>Dashboard</title>
     <meta name="description" content="">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <link rel="stylesheet" type="text/css" href="style/jquery.jqplot.min.css" />
     <link rel="stylesheet" type="text/css" href="style/jqueryui/themes/smoothness/jquery-ui.css" />
+    <link rel="stylesheet" media="all" href="style/jquery-jvectormap.css"/>
     <link rel="stylesheet" href="style/normalize.css">
     <link rel="stylesheet" href="style/main.css">
     <!--[if lt IE 9]><script src="js/vendor/excanvas.js"></script><![endif]-->
@@ -33,6 +34,13 @@
                 <div class="ui-widget-header ui-corner-top">Species</div>
                 <div class="ui-widget-content ui-corner-bottom" >
                     <div id="species"></div>
+                </div>
+            </div>
+
+            <div class="ui-widget ui-corner-all">
+                <div class="ui-widget-header ui-corner-top">Georeferenced Materials Citations</div>
+                <div class="ui-widget-content ui-corner-bottom">
+                    <div id="map1" style="height: 500px"></div>
                 </div>
             </div>
 
@@ -68,6 +76,8 @@
     <script src="js/vendor/jqplot.plugins/jqplot.canvasTextRenderer.min.js"></script>
     <script src="js/vendor/jqplot.plugins/jqplot.canvasAxisTickRenderer.min.js"></script>
     <script src="js/vendor/jqplot.plugins/jqplot.dateAxisRenderer.min.js"></script>
+    <script src="js/vendor/jquery-jvectormap-1.2.2.min.js"></script>
+    <script src="js/vendor/vectormap.assets/jquery-jvectormap-world-merc-en.js"></script>
     <script src="js/plugins.js"></script>
     <script src="js/main.js"></script>
 

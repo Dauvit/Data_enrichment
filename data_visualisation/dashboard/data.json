@@ -31,5 +31,11 @@
             {"label": "Science"},
             {"label": "Zootaxa"}
         ]
-    }
+    },
+
+    "georeferenced": [
+        {"latLng": [52.50, 13.39], "name": "Citation 1"},
+        {"latLng": [53.56, 10.00], "name": "Citation 2"},
+        {"latLng": [48.13, 11.56], "name": "Citation 3"}
+    ]
 }

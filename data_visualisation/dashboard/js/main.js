@@ -97,6 +97,36 @@ jQuery(document).ready(function(){
             }
         });
 
+        // Plot map
+        $(function(){
+            $('#map1').vectorMap({
+                map: 'world_merc_en',
+                regionsSelectable: true,
+                markersSelectable: true,
+                markers: data.georeferenced,
+                markerStyle: {
+                    initial: {
+                        fill: '#4DAC26'
+                    },
+                    selected: {
+                        fill: '#CA0020'
+                    }
+                },
+                regionStyle: {
+                    initial: {
+                        fill: '#B8E186'
+                    },
+                    selected: {
+                        fill: '#F4A582'
+                    }
+                },
+                series: {
+                    markers: [{
+                        attribute: 'r'
+                    }]
+                }
+            });
+        });
     };
 
     // Get JSON data from a URL.
