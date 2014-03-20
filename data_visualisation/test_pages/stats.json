@@ -1,0 +1,20 @@
+{
+	"labels": {
+		"DocCount": "DocCount",
+		"BibAuthor": "Author",
+		"BibYear": "Year",
+		"MatCitSpecimenCount": "SpecimenCount"
+	},
+	"data": [{
+		"DocCount": "34",
+		"BibAuthor": "Charles R. Haddad",
+		"BibYear": "2010",
+		"MatCitSpecimenCount": "36"
+	},
+	{
+		"DocCount": "8",
+		"BibAuthor": "Dikowwww, T.",
+		"BibYear": "2010",
+		"MatCitSpecimenCount": "8"
+	}]
+}
