@@ -98,17 +98,8 @@ textarea {
    ========================================================================== */
 
 /*
- * Dashboard
+ * General
  */
-
-.dash-widgets > div {
-    margin-bottom: 1em;
-}
-
-.float-left {
-    float: left;
-}
-
 .col.width-50 {
     width: 50%;
 }
@@ -116,6 +107,18 @@ textarea {
 .col {
     float: left;
     min-height: 100px;
+}
+
+.form-item {
+    display: block;
+}
+
+/*
+ * Dashboard
+ */
+
+#widgets-container > div {
+    margin-bottom: 1em;
 }
 
 /*
@@ -131,6 +134,14 @@ textarea {
 }
 
 .ui-widget-content {
+    padding: 5px;
+}
+
+/*
+ * Search form
+ */
+
+#search-form {
     padding: 5px;
 }
 

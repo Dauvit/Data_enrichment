@@ -1,109 +1,146 @@
-var ajaxGetData = function(url) {
-    var ret = null;
-    jQuery.ajax({
-        async: false,
-        url: url,
-        dataType: "json",
-        success: function(data) {
-            ret = data;
-        }
-    });
-    return ret;
-};
+jQuery.jqplot.config.enablePlugins = true;
 
-jQuery(document).ready(function(){
+jQuery(document).ready(function($){
 
-    jQuery.jqplot.config.enablePlugins = true;
+    var data_url_base = "http://hacking.localhost/data.php?f=json&";
 
-    var drawPlots = function(data) {
-        // Plot Institutions
-        var plot2 = $('#insitutions').jqplot(data.institutions,
-            {
-                //title: 'Institutions',
-                seriesDefaults: {
-                    shadow: true,
-                    renderer: jQuery.jqplot.PieRenderer,
-                    rendererOptions: {
-                        showDataLabels: true
-                    }
-                },
-                legend: {
-                    show:true
-                }
+    function ajaxGetData(url) {
+        var ret = null;
+        $.ajax({
+            async: false,
+            url: url,
+            dataType: "json",
+            success: function(data) {
+                ret = data;
             }
-        );
+        });
+        return ret;
+    };
+
+    function drawPlots(data) {
+
+        // Plot Institutions
+        if (data.institutions) {
+            $('#insitutions').parent().parent().show();
+
+            if (typeof plot_institutions == 'object') {
+                plot_institutions.destroy();
+            }
+
+            plot_institutions = $.jqplot('insitutions', data.institutions,
+                {
+                    //title: 'Institutions',
+                    seriesDefaults: {
+                        shadow: true,
+                        renderer: $.jqplot.PieRenderer,
+                        rendererOptions: {
+                            showDataLabels: true
+                        }
+                    },
+                    legend: {
+                        show:true
+                    }
+                }
+            );
+        }
 
         // Plot Species
-        var plot3 = $('#species').jqplot(data.species,
-            {
-                //title: 'Species',
+        if (data.species) {
+            $('#species').parent().parent().show();
+
+            if (typeof plot_species == 'object') {
+                plot_species.destroy();
+            }
+
+            plot_species = $.jqplot('species', data.species,
+                {
+                    //title: 'Species',
+                    seriesDefaults: {
+                        shadow: true,
+                        renderer: $.jqplot.PieRenderer,
+                        rendererOptions: {
+                            showDataLabels: true
+                        }
+                    },
+                    legend: {
+                        show:true
+                    }
+                }
+            );
+        }
+
+        // Plot Specimens Distribution
+        if (data.specimens) {
+            $('#specimens').parent().parent().show();
+
+            if (typeof plot_specimens == 'object') {
+                plot_specimens.destroy();
+            }
+
+            plot_specimens = $.jqplot('specimens', data.specimens.data, {
+                //title: 'Specimens Distribution',
                 seriesDefaults: {
-                    shadow: true,
-                    renderer: jQuery.jqplot.PieRenderer,
+                    renderer: $.jqplot.BarRenderer,
+                    pointLabels: { show: true }
+                },
+                axes: {
+                    xaxis: {
+                        renderer: $.jqplot.CategoryAxisRenderer,
+                        ticks: data.specimens.ticks
+                    }
+                },
+                highlighter: { show: false }
+            });
+        }
+
+        // Plot Materials Citations Records by Journal
+        if (data.citations) {
+            $('#citations').parent().parent().show();
+
+            if (typeof plot_citations == 'object') {
+                plot_citations.destroy();
+            }
+
+            plot_citations = $.jqplot('citations', data.citations.data, {
+                //title: "Materials Citations Records by Journal",
+                stackSeries: true,
+                seriesDefaults: {
+                    renderer: $.jqplot.BarRenderer,
                     rendererOptions: {
-                        showDataLabels: true
+                        barMargin: 30
+                    },
+                    pointLabels: {show: true}
+                },
+                series: data.citations.labels,
+                axes: {
+                    xaxis: {
+                        renderer: $.jqplot.CategoryAxisRenderer
+                    },
+                    yaxis: {
+                        // Don't pad out the bottom of the data range.  By default,
+                        // axes scaled as if data extended 10% above and below the
+                        // actual range to prevent data points right on grid boundaries.
+                        // Don't want to do that here.
+                        padMin: 0
                     }
                 },
                 legend: {
-                    show:true
+                    show: true,
+                    location: 'ne',
+                    //placement: 'outside'
                 }
-            }
-        );
-
-        // Plot Specimens Distribution
-        var plot4 = $('#specimens_distribution').jqplot(data.specimens_distribution.data, {
-            //title: 'Specimens Distribution',
-            seriesDefaults: {
-                renderer: $.jqplot.BarRenderer,
-                pointLabels: { show: true }
-            },
-            axes: {
-                xaxis: {
-                    renderer: $.jqplot.CategoryAxisRenderer,
-                    ticks: data.specimens_distribution.ticks
-                }
-            },
-            highlighter: { show: false }
-        });
-
-        // Plot Materials Citations Records by Journal
-        var plot5 = $('#citations').jqplot(data.citations.data, {
-            //title: "Materials Citations Records by Journal",
-            stackSeries: true,
-            seriesDefaults: {
-                renderer: $.jqplot.BarRenderer,
-                rendererOptions: {
-                    barMargin: 30
-                },
-                pointLabels: {show: true}
-            },
-            series: data.citations.labels,
-            axes: {
-                xaxis: {
-                    renderer: $.jqplot.CategoryAxisRenderer
-                },
-                yaxis: {
-                    // Don't pad out the bottom of the data range.  By default,
-                    // axes scaled as if data extended 10% above and below the
-                    // actual range to prevent data points right on grid boundaries.
-                    // Don't want to do that here.
-                    padMin: 0
-                }
-            },
-            legend: {
-                show: true,
-                location: 'ne',
-                //placement: 'outside'
-            }
-        });
+            });
+        }
 
         // Plot map
-        $(function(){
-            $('#map1').vectorMap({
+        if (data.georef) {
+            $('#georef').parent().parent().show();
+
+            map_georef = $('#georef').vectorMap({
                 map: 'world_merc_en',
                 regionsSelectable: true,
                 markersSelectable: true,
-                markers: data.georeferenced,
+                markers: data.georef,
                 markerStyle: {
                     initial: {
                         fill: '#4DAC26'
@@ -126,16 +163,39 @@ jQuery(document).ready(function(){
                     }]
                 }
             });
-        });
+        }
     };
 
-    // Get JSON data from a URL.
-    var url = "data.json";
-    var data = ajaxGetData(url);
+    // Make the buttons pretty.
+    $( "input[type='submit'], button" )
+        .button()
+        .click(function( event ) {
+            event.preventDefault();
+        });
 
-    // Draw plots.
-    if (data) {
-        drawPlots(data);
-    }
+    // Hide all widgets by default.
+    $("#widgets-container .ui-widget").hide();
+
+    // Set Refresh button callback.
+    $( "input[name='refresh']" ).click(function() {
+        var data = null;
+        var form_get = $("form[name='search']").serialize();
+
+        // Hide all widgets.
+        $("#widgets-container .ui-widget").hide();
+
+        // Get JSON data from a URL.
+        data = ajaxGetData(data_url_base + form_get);
+
+        //$("#request-data").attr('src', data_url_base + form_get).ready(function(){
+        //    console.log("Got data..." + data);
+        //});
+
+        if (data) {
+            // Update plots.
+            console.log("Refreshing plots...");
+            drawPlots(data);
+        }
+    });
 
 });
