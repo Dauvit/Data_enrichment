@@ -1,7 +1,12 @@
 # GoldenGATE statistical queries #
 
-Notes on how to extract statistical information from GoldenGATE’s document repository.
+This document provides notes on how to extract statistical information from GoldenGATE’s document repository. This query functionality was added to GoldenGATE during the [Data enrichment hackathon](http://wiki.pro-ibiosphere.eu/wiki/Hackathon_%22Pimp_my_Data%22,_March_17-21_2014) at Naturalis, Monday 17 March 2014 to Friday 21 March 2014.
 
+The document concludes to show how the data can be visualised in a [data visualisation component](https://github.com/Dauvit/Data_enrichment/tree/master/data_visualisation) developed during the hackathon too.
+
+This master version of this document resides <https://github.com/Dauvit/Data_enrichment/tree/master/data_visualisation>. 
+
+----
 
 ## Available data and search terms ##
 
@@ -434,13 +439,30 @@ Perhaps it is more useful to restrict the query to authors who have contributed 
 
 Having explored some of the possibilties on getting statistical data out of GoldenGATE, we will next consider how to view the data.
 
+----
 
 ## Data visualisation in practice ##
 
-The query results can be viewed in the data visualisation component.
+The query results can be viewed in the data visualisation component, developed alongside the goldenGATE query component. 
 
 ![Overloaded chart with too many authors to show](plot_too_much_data.png "Overloaded chart") 
 
-The data visualisation component also permits filtering of results, by selecting, for example, the *top* ten authors. Exactly what they are *top* in will be determined by the original query and its `orderingFields` parameter, such as number of specimens contributed.
+The chart shows what happens when too much data is presented for visualisation. In this case, we are showing authors’ specimen contributions by year. However, the result is too overloaded to be readily comprehensible. A key part of data visualisation is understanding your data.
 
-The data visualisation tool filter has the extra benefit that it will combine the remaining results so that alongside the individual results that have been explicitly selected, the other results will be combined ans shown as *Other* as can been in 
+As we have seen it is possible to restrict the amount of data returned by a query. However, that approach to filtering data throws away the data that is not selected. Hence, if we select only the ten most prolific authors, we would lose sight of all the other authors.
+
+The solution is to make use of the filtering we have provided in the data visualisation component.
+
+![Reasonable chart with sufficient authors to show](plot_fewer_data.png "Reasonable chart")
+
+In this chart there are only 20 entries shown: 19 individual authors with the remaining authors aggregated as *Other*.
+
+This demonstrates that often, data visualisation has to be an interactive process in which you continually ask, *“So what? What is this data telling me?”*
+
+----
+
+## Conclusion ##
+
+This document has introduced you to the queries available to extract statistical data from GoldenGATE. The output from these queries can be used in the data visualisation component to produce charts.
+
+Final note, as might be expected with these two components being the product of a hackathon, even a generously week-long hackathon, they are capable of development and refinement.
