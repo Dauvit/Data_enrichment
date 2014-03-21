@@ -1,0 +1,14 @@
+{
+    "citations": {
+        "data": [
+            [2, 6, 7, 10],
+            [7, 5, 3, 4],
+            [14, 9, 3, 8]
+        ],
+        "labels": [
+            {"label": "Nature"},
+            {"label": "Science"},
+            {"label": "Zootaxa"}
+        ]
+    }
+}

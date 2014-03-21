@@ -2,45 +2,82 @@
 
 Notes on how to extract statistical information from GoldenGATE’s document repository.
 
-Assembling statistics data URLs:
-- Generally, use full field names, as listed in field list:
-   JSON: http://plazi.cs.umb.edu/GgServer/srsStats/fields/json
-   XML: http://plazi.cs.umb.edu/GgServer/srsStats/fields/xml
-   Text: http://plazi.cs.umb.edu/GgServer/srsStats/fields/txt
 
-- Define which fields go in the output:
-   outputFields=<outFieldName1>+<outFieldName2>+...+<outFieldNameN>
+## Available data and search terms ##
 
-- Define which fields to group by:
-   groupingFields=<grpFieldName1>+<grpFieldName2>+...+<grpFieldNameN>
 
-- Define which fields to order by:
-   orderingFields=<ordFieldName1>+<ordFieldName2>+...+<ordFieldNameN>
+_Assembling statistics data queries as URLs._
 
-- Filter by the value of a specific field:
-   FP-<fieldName>=X (field value equals X)
-   FP-<fieldName>=X-Y (field value between X and Y, inclusive)
-   FP-<fieldName>=X- (field value equal to or larger than X)
-   FP-<fieldName>=-Y (field value less than or equal to Y)
 
-- Specify a custom aggregate function for a field
-   (to overwrite default listed in field list):
-   FA-<fieldName>=<aggregate>
-   Legal aggregates for all fields are count, count-distinct, min, max
-   Additional legal aggregates for numbers are sum, avg
+A field name list is available in the following formats:
+    - JSON: <http://plazi.cs.umb.edu/GgServer/srsStats/fields/json>
+    - XML: <http://plazi.cs.umb.edu/GgServer/srsStats/fields/xml>
+    - Text: <http://plazi.cs.umb.edu/GgServer/srsStats/fields/txt>
 
-- Filter by the aggregate over some field:
-   AP-<fieldName>=X (aggregate value equals X)
-   AP-<fieldName>=X-Y (aggregate value between X and Y, inclusive)
-   AP-<fieldName>=X- (aggregate value equal to or larger than X)
-   AP-<fieldName>=-Y (aggregate value less than or equal to Y)
-   Filters over aggregates are only legal for fields not used for grouping
+Use the fully qualified name, eg bib.author for an articles author, when building queries.
 
-- Set output format:
-   format=<formatName>
-   Legal format names are JSON, XML, and CSV
 
-- Assemble whole URL (broken down for readability, put in single line for use):
+Define which fields go in the output:
+```
+    outputFields=<outFieldName1>+<outFieldName2>+...+<outFieldNameN>`
+```
+
+
+Define which fields to group the results by:
+```
+    groupingFields=<grpFieldName1>+<grpFieldName2>+...+<grpFieldNameN>
+```
+
+
+Define which fields to order the results by:
+```
+    orderingFields=<ordFieldName1>+<ordFieldName2>+...+<ordFieldNameN>
+```
+
+
+Restrict the results by the value of a specific field:
+```  
+    FP-<fieldName>=X (field value equals X)  
+    FP-<fieldName>=X-Y (field value between X and Y, inclusive)  
+    FP-<fieldName>=X- (field value equal to or larger than X)  
+    FP-<fieldName>=-Y (field value less than or equal to Y)  
+```
+
+
+Specify a custom aggregate function for a field to use instead of default shown in field list:
+```
+    FA-<fieldName>=<aggregate>
+```
+
+Legal aggregate functions for all fields are `count`, `count-distinct`, `min`, `max`.
+
+Additional legal aggregate functions for numbers only are `sum` and `avg`.
+
+
+Filter by the aggregate over some field:
+```
+    AP-<fieldName>=X (aggregate value equals X)
+    AP-<fieldName>=X-Y (aggregate value between X and Y, inclusive)
+    AP-<fieldName>=X- (aggregate value equal to or larger than X)-
+    AP-<fieldName>=-Y (aggregate value less than or equal to Y)
+```
+
+You cannot use the same field to group and aggregate results in a query.
+
+
+Set output format:
+```
+    format=<formatName>
+```
+
+Legal format names are `JSON`, `XML`, and `CSV`.
+
+
+## Building queries ##
+
+
+Using the fields listed above, a query URL looks like (broken down for readability, single line for actual use):
+```
    http://plazi.cs.umb.edu/GgServer/srsStats/stats
    ?outputFields=<outFieldName1>+<outFieldName2>+...+<outFieldNameN>
    &groupingFields=<grpFieldName1>+<grpFieldName2>+...+<grpFieldNameN>
@@ -49,12 +86,17 @@ Assembling statistics data URLs:
    &FA-<fieldName1>=<aggregate1>&...&FA-<fieldNameN>=<aggregateN>
    &AP-<fieldName1>=X&...&AP-<fieldNameN>=Z
    &format=<format>
+```
 
-For text as well as values in your output ensure you specify the desired name in both `groupingFields` as well as `outputFields`.
+For text as well as values in your output ensure you specify the desired name in both `groupingFields` as well as `outputFields`. Otherwise you will simply retrieve the aggregate value for that field. See examples below.
+ 
+
+## Examples ###
+
 
 For example to retrieve author, year of publication and specimen count for each author, restricting the query to the publication years 2004 and 2005 we can call:
 
-http://plazi.cs.umb.edu/GgServer/srsStats/stats?outputFields=bib.author+bib.year+matCit.specimenCount&FP-bib.year=2004-2005&format=json
+<http://plazi.cs.umb.edu/GgServer/srsStats/stats?outputFields=bib.author+bib.year+matCit.specimenCount&FP-bib.year=2004-2005&format=json>
 
 
 This will produce the not very helpful statistics:
@@ -76,7 +118,9 @@ This will produce the not very helpful statistics:
 ]
 }
 ```
-However, if we add the extra commands as in this call:
+
+
+However, if we add the extra grouping commands for author and year as in this query URL:
 
 http://plazi.cs.umb.edu/GgServer/srsStats/stats?outputFields=bib.author+bib.year+matCit.specimenCount&FP-bib.year=2004-2010&groupingFields=bib.author+bib.year&orderingFields=bib.year&format=json
 
