@@ -109,14 +109,21 @@ jQuery(document).ready(function($){
                     rendererOptions: {
                         barMargin: 30
                     },
-                    pointLabels: {show: true}
+                    pointLabels: {show: false}
                 },
-                series: data.citations.labels,
+                series: data.citations.series,
                 axes: {
                     xaxis: {
-                        renderer: $.jqplot.CategoryAxisRenderer
+                        renderer: $.jqplot.CategoryAxisRenderer,
+                        ticks: data.citations.xlabels,
+                        tickRenderer: $.jqplot.CanvasAxisTickRenderer,
+                        tickOptions: {
+                            formatString: "%Y",
+                            angle: -30
+                        },
                     },
                     yaxis: {
+                        //renderer: $.jqplot.LogAxisRenderer,
                         // Don't pad out the bottom of the data range.  By default,
                         // axes scaled as if data extended 10% above and below the
                         // actual range to prevent data points right on grid boundaries.
@@ -125,9 +132,20 @@ jQuery(document).ready(function($){
                     }
                 },
                 legend: {
-                    show: true,
+                    show: false,
+                    //renderer: $.jqplot.EnhancedLegendRenderer,
                     location: 'ne',
-                    //placement: 'outside'
+                    placement: 'outside',
+                    rendererOptions: {
+                        numberRows: 30
+                    }
+                },
+                highlighter: {
+                    tooltipAxes: 'y',
+                    // Display the series labels on mouseover.
+                    tooltipContentEditor: function(str, seriesIndex, pointIndex, plot){
+                        return data.citations.series[seriesIndex].label + ': ' + str;
+                    },
                 }
             });
         }
