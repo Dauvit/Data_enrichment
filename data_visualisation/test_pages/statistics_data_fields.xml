@@ -1,0 +1,58 @@
+<fieldSet label="Plazi Treatment Collection Statistics">
+<fieldGroup name="doc" label="Document &amp; User Data">
+<field name="uuid" fullName="doc.uuid" label="Document UUID" type="string" length="32" defAggregate="count-distinct" statColName="DocUuid"/>
+<field name="name" fullName="doc.name" label="Document Name" type="string" length="64" defAggregate="count-distinct" statColName="DocName"/>
+<field name="uploadUser" fullName="doc.uploadUser" label="User to first Upload Document" type="string" length="32" defAggregate="count-distinct" statColName="DocUploadUser"/>
+<field name="uploadDate" fullName="doc.uploadDate" label="Timestamp of first Upload" type="string" length="10" defAggregate="count-distinct" statColName="DocUploadDate"/>
+<field name="uploadYear" fullName="doc.uploadYear" label="Year of first Upload" type="integer" defAggregate="sum" statColName="DocUploadYear"/>
+<field name="uploadMonth" fullName="doc.uploadMonth" label="Month of first Upload" type="integer" defAggregate="sum" statColName="DocUploadMonth"/>
+<field name="updateUser" fullName="doc.updateUser" label="User to last Update Document" type="string" length="32" defAggregate="count-distinct" statColName="DocUpdateUser"/>
+<field name="updateDate" fullName="doc.updateDate" label="Timestamp of last Update" type="string" length="10" defAggregate="count-distinct" statColName="DocUpdateDate"/>
+<field name="updateYear" fullName="doc.updateYear" label="Year of last Update" type="integer" defAggregate="sum" statColName="DocUpdateYear"/>
+<field name="updateMonth" fullName="doc.updateMonth" label="Month of last Update" type="integer" defAggregate="sum" statColName="DocUpdateMonth"/>
+</fieldGroup>
+<fieldGroup name="bib" label="Bibliographic Meta Data">
+<field name="author" fullName="bib.author" label="Document Author" type="string" length="64" defAggregate="count-distinct" statColName="BibAuthor"/>
+<field name="title" fullName="bib.title" label="Document Title" type="string" length="256" defAggregate="count-distinct" statColName="BibTitle"/>
+<field name="year" fullName="bib.year" label="Year of Publication" type="integer" defAggregate="sum" statColName="BibYear"/>
+<field name="origin" fullName="bib.origin" label="Document Origin" type="string" length="128" defAggregate="count-distinct" statColName="BibOrigin"/>
+<field name="firstPage" fullName="bib.firstPage" label="First Page" type="integer" defAggregate="sum" statColName="BibFirstPage"/>
+<field name="lastPage" fullName="bib.lastPage" label="Last Page" type="integer" defAggregate="sum" statColName="BibLastPage"/>
+<field name="modsID" fullName="bib.modsID" label="HNS Document ID" type="string" length="64" defAggregate="count-distinct" statColName="BibModsID"/>
+<field name="pdfUrl" fullName="bib.pdfUrl" label="URL of PDF Version" type="string" length="128" defAggregate="count-distinct" statColName="BibPdfUrl"/>
+</fieldGroup>
+<fieldGroup name="tax" label="Taxonomic Data">
+<field name="name" fullName="tax.name" label="Verbatim Taxon Name" type="string" length="64" defAggregate="count-distinct" statColName="TaxName"/>
+<field name="rank" fullName="tax.rank" label="Rank of Taxon" type="string" length="16" defAggregate="count-distinct" statColName="TaxRank"/>
+<field name="orderEpithet" fullName="tax.orderEpithet" label="Taxonomic Order" type="string" length="32" defAggregate="count-distinct" statColName="TaxOrderEpithet"/>
+<field name="familyEpithet" fullName="tax.familyEpithet" label="Taxonomic Family" type="string" length="32" defAggregate="count-distinct" statColName="TaxFamilyEpithet"/>
+<field name="genusEpithet" fullName="tax.genusEpithet" label="Taxon Genus" type="string" length="32" defAggregate="count-distinct" statColName="TaxGenusEpithet"/>
+<field name="speciesEpithet" fullName="tax.speciesEpithet" label="Taxon Species" type="string" length="32" defAggregate="count-distinct" statColName="TaxSpeciesEpithet"/>
+<field name="authority" fullName="tax.authority" label="Taxon Autority" type="string" length="64" defAggregate="count-distinct" statColName="TaxAuthority"/>
+<field name="status" fullName="tax.status" label="Taxonomic Status" type="string" length="16" defAggregate="count-distinct" statColName="TaxStatus"/>
+</fieldGroup>
+<fieldGroup name="matCit" label="Materials Citation Data">
+<field name="country" fullName="matCit.country" label="Collecting Country" type="string" length="64" defAggregate="count-distinct" statColName="MatCitCountry"/>
+<field name="region" fullName="matCit.region" label="Collecting Region" type="string" length="64" defAggregate="count-distinct" statColName="MatCitRegion"/>
+<field name="municipality" fullName="matCit.municipality" label="Collecting Municipality" type="string" length="64" defAggregate="count-distinct" statColName="MatCitMunicipality"/>
+<field name="location" fullName="matCit.location" label="Collecting Location" type="string" length="64" defAggregate="count-distinct" statColName="MatCitLocation"/>
+<field name="longitude" fullName="matCit.longitude" label="Decimal Longitude" type="real" defAggregate="sum" statColName="MatCitLongitude"/>
+<field name="latitude" fullName="matCit.latitude" label="Decimal Latitude" type="real" defAggregate="sum" statColName="MatCitLatitude"/>
+<field name="longLatPrecision" fullName="matCit.longLatPrecision" label="Coordinate Precision" type="integer" defAggregate="sum" statColName="MatCitLongLatPrecision"/>
+<field name="elevation" fullName="matCit.elevation" label="Elevation above Sea Level" type="integer" defAggregate="sum" statColName="MatCitElevation"/>
+<field name="date" fullName="matCit.date" label="Collecting Date" type="string" length="10" defAggregate="count-distinct" statColName="MatCitDate"/>
+<field name="decade" fullName="matCit.decade" label="Collecting Decade" type="integer" defAggregate="sum" statColName="MatCitDecade"/>
+<field name="year" fullName="matCit.year" label="Collecting Year" type="integer" defAggregate="sum" statColName="MatCitYear"/>
+<field name="month" fullName="matCit.month" label="Collecting Month" type="integer" defAggregate="sum" statColName="MatCitMonth"/>
+<field name="collector" fullName="matCit.collector" label="Collector Name" type="string" length="64" defAggregate="count-distinct" statColName="MatCitCollector"/>
+<field name="collectionCode" fullName="matCit.collectionCode" label="Collection Code" type="string" length="16" defAggregate="count-distinct" statColName="MatCitCollectionCode"/>
+<field name="specimenCode" fullName="matCit.specimenCode" label="Specimen Code" type="string" length="64" defAggregate="count-distinct" statColName="MatCitSpecimenCode"/>
+<field name="typeStatus" fullName="matCit.typeStatus" label="Type Status" type="string" length="16" defAggregate="count-distinct" statColName="MatCitTypeStatus"/>
+<field name="specimenCount" fullName="matCit.specimenCount" label="Specimen Count (overall)" type="integer" defAggregate="sum" statColName="MatCitSpecimenCount"/>
+<field name="specimenCountMale" fullName="matCit.specimenCountMale" label="Specimen Count (males)" type="integer" defAggregate="sum" statColName="MatCitSpecimenCountMale"/>
+<field name="specimenCountFemale" fullName="matCit.specimenCountFemale" label="Specimen Count (females)" type="integer" defAggregate="sum" statColName="MatCitSpecimenCountFemale"/>
+<field name="specimenCountWorker" fullName="matCit.specimenCountWorker" label="Specimen Count (workers)" type="integer" defAggregate="sum" statColName="MatCitSpecimenCountWorker"/>
+<field name="specimenCountSoldier" fullName="matCit.specimenCountSoldier" label="Specimen Count (soldiers)" type="integer" defAggregate="sum" statColName="MatCitSpecimenCountSoldier"/>
+<field name="specimenCountQueen" fullName="matCit.specimenCountQueen" label="Specimen Count (queens)" type="integer" defAggregate="sum" statColName="MatCitSpecimenCountQueen"/>
+</fieldGroup>
+</fieldSet>

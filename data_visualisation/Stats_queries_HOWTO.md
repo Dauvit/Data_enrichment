@@ -35,7 +35,7 @@ Define which fields to order the results by:
 ```
 
 
-Restrict the results by the value of a specific field:
+Restrict the results by the value of a specific field, eg bib.author or bib.year which have fixed values:
 ```  
     FP-<fieldName>=X (field value equals X)  
     FP-<fieldName>=X-Y (field value between X and Y, inclusive)  
@@ -54,7 +54,7 @@ Legal aggregate functions for all fields are `count`, `count-distinct`, `min`, `
 Additional legal aggregate functions for numbers only are `sum` and `avg`.
 
 
-Filter by the aggregate over some field:
+Restrict the results by the value of an aggregate field, eg maxCit.specimentCount which has a generated value:
 ```
     AP-<fieldName>=X (aggregate value equals X)
     AP-<fieldName>=X-Y (aggregate value between X and Y, inclusive)
@@ -94,37 +94,157 @@ For text as well as values in your output ensure you specify the desired name in
 ## Examples ###
 
 
-For example to retrieve author, year of publication and specimen count for each author, restricting the query to the publication years 2004 and 2005 we can call:
+_If you re-run the sample queries below you might get different results because more articles will have been added to GoldenGATE since this documentation was prepared._
 
-<http://plazi.cs.umb.edu/GgServer/srsStats/stats?outputFields=bib.author+bib.year+matCit.specimenCount&FP-bib.year=2004-2005&format=json>
+_Some of the query results shown below are truncated because the results sets are so large. You will see an ellipsis, …, as the last line in the sample results._
 
+For example to retrieve author, year of publication and specimen count for each author, restricting the query to publication years in the range from 2004 to 2010 we can call:
 
-This will produce the not very helpful statistics:
+<http://plazi.cs.umb.edu/GgServer/srsStats/stats?outputFields=bib.author+bib.year+matCit.specimenCount&FP-bib.year=2004-2010&format=json>
+
+This will produce the not overly helpful statistics:
 
 ```
 {"labels": {
-"DocCount": "DocCount",
-"BibAuthor": "Author",
-"BibYear": "Year",
-"MatCitSpecimenCount": "SpecimenCount"
+"DocCount": "Number of Treatments",
+"BibAuthor": "Document Author",
+"BibYear": "Year of Publication",
+"MatCitSpecimenCount": "Specimen Count (overall)"
 },
 "data": [
 {
-"DocCount": "2911",
-"BibAuthor": "66",
-"BibYear": "5835874",
-"MatCitSpecimenCount": "3083"
+"DocCount": "15495",
+"BibAuthor": "219",
+"BibYear": "31095281",
+"MatCitSpecimenCount": "15882"
 }
 ]
 }
 ```
-
+----
 
 However, if we add the extra grouping commands for author and year as in this query URL:
 
-http://plazi.cs.umb.edu/GgServer/srsStats/stats?outputFields=bib.author+bib.year+matCit.specimenCount&FP-bib.year=2004-2010&groupingFields=bib.author+bib.year&orderingFields=bib.year&format=json
+<http://plazi.cs.umb.edu/GgServer/srsStats/stats?outputFields=bib.author+bib.year+matCit.specimenCount&FP-bib.year=2004-2010&groupingFields=bib.author+bib.year&format=json>
 
-We will get the more useful result:
+We will see the author and year values.
+
+```
+{"labels": {
+"DocCount": "Number of Treatments",
+"BibAuthor": "Document Author",
+"BibYear": "Year of Publication",
+"MatCitSpecimenCount": "Specimen Count (overall)"
+},
+"data": [
+{
+"DocCount": "13",
+"BibAuthor": "Maurice Kottelat",
+"BibYear": "2004",
+"MatCitSpecimenCount": "13"
+},
+{
+"DocCount": "49",
+"BibAuthor": "Paul H. Skelton",
+"BibYear": "2007",
+"MatCitSpecimenCount": "49"
+},
+{
+"DocCount": "9",
+"BibAuthor": "José L. Blanco",
+"BibYear": "2006",
+"MatCitSpecimenCount": "9"
+},
+{
+"DocCount": "24",
+"BibAuthor": "Gastón Aguilera",
+"BibYear": "2005",
+"MatCitSpecimenCount": "24"
+},
+{
+"DocCount": "239",
+"BibAuthor": "Michael W. Littmann",
+"BibYear": "2007",
+"MatCitSpecimenCount": "239"
+},
+{
+"DocCount": "3",
+"BibAuthor": "Ogata, K.",
+"BibYear": "2007",
+"MatCitSpecimenCount": "3"
+},
+…
+```
+----
+
+Our next refinement is sort the results using `orderingFields`. This example sorts the results by year.
+
+<http://plazi.cs.umb.edu/GgServer/srsStats/stats?outputFields=bib.author+bib.year+matCit.specimenCount&FP-bib.year=2004-2010&groupingFields=bib.author+bib.year&orderingFields=bib.year&format=json>
+
+
+```
+{"labels": {
+"DocCount": "Number of Treatments",
+"BibAuthor": "Document Author",
+"BibYear": "Year of Publication",
+"MatCitSpecimenCount": "Specimen Count (overall)"
+},
+"data": [
+{
+"DocCount": "34",
+"BibAuthor": "Charles R. Haddad",
+"BibYear": "2010",
+"MatCitSpecimenCount": "36"
+},
+{
+"DocCount": "8",
+"BibAuthor": "Dikow, T.",
+"BibYear": "2010",
+"MatCitSpecimenCount": "8"
+},
+{
+"DocCount": "6",
+"BibAuthor": "Hamm, C. A.",
+"BibYear": "2010",
+"MatCitSpecimenCount": "6"
+},
+{
+"DocCount": "1",
+"BibAuthor": "Hawkes, P. G.",
+"BibYear": "2010",
+"MatCitSpecimenCount": "1"
+},
+{
+"DocCount": "51",
+"BibAuthor": "Jeremy A. Miller",
+"BibYear": "2010",
+"MatCitSpecimenCount": "133"
+},
+{
+"DocCount": "6",
+"BibAuthor": "Joanna Gardzinska",
+"BibYear": "2010",
+"MatCitSpecimenCount": "6"
+},
+{
+"DocCount": "13",
+"BibAuthor": "Miko, L.",
+"BibYear": "2010",
+"MatCitSpecimenCount": "13"
+},
+{
+"DocCount": "57",
+"BibAuthor": "Paknia, O.",
+"BibYear": "2010",
+"MatCitSpecimenCount": "57"
+},
+…
+```
+----
+
+This example sorts the results by author.
+
+<http://plazi.cs.umb.edu/GgServer/srsStats/stats?outputFields=bib.author+bib.year+matCit.specimenCount&FP-bib.year=2004-2010&groupingFields=bib.author+bib.year&orderingFields=bib.author&format=json>
 
 ```
 {"labels": {
@@ -203,4 +323,124 @@ We will get the more useful result:
 …
 ```
 
-In other words, not only do we know that 66 authors meet the query specification, but we now know their names too. This also allows exploration and reconciliation of issues such as the authors appearing under several names, for example *Peter Jaeger* and *Peter Jäger*.
+This facilitates exploration and reconciliation of issues such as the authors appearing under several names, for example *Peter Jaeger* and *Peter Jäger* in the results shown above.
+
+----
+
+One potential problem with the data is simply that there can be too much of it. We have seen one use of `FP`, *fixed predicate*, already in our queries. This is how we restricted the range of years in the results by specifying `&FP-bib.year=2004-2010`. We can filter on any term with a fixed value, such as year, using `FP`.
+
+To restrict a calculated value, we have to use `AP`, for *aggregated predicate*. In our example the material citations count is a calculated value. Hence to filter on this field we will have to use `AP` not `FP`. Therefore if we repeat the query above, but show only authors who have provided five or less specimen citations, we would add `&AP-matCit.specimenCount=-5` to the query.
+
+<http://plazi.cs.umb.edu/GgServer/srsStats/stats?outputFields=bib.author+bib.year+matCit.specimenCount&FP-bib.year=2004-2010&groupingFields=bib.author+bib.year&orderingFields=bib.author&AP-matCit.specimenCount=-5&format=json>
+
+```
+<{"labels": {
+"DocCount": "Number of Treatments",
+"BibAuthor": "Document Author",
+"BibYear": "Year of Publication",
+"MatCitSpecimenCount": "Specimen Count (overall)"
+},
+"data": [
+{
+"DocCount": "2",
+"BibAuthor": "Alec B. M. Moore",
+"BibYear": "2007",
+"MatCitSpecimenCount": "2"
+},
+{
+"DocCount": "2",
+"BibAuthor": "Anthony C. Gill",
+"BibYear": "2006",
+"MatCitSpecimenCount": "2"
+},
+{
+"DocCount": "2",
+"BibAuthor": "Benjamin C. Victor",
+"BibYear": "2007",
+"MatCitSpecimenCount": "2"
+},
+{
+"DocCount": "4",
+"BibAuthor": "Bernard Séret",
+"BibYear": "2007",
+"MatCitSpecimenCount": "4"
+},
+{
+"DocCount": "2",
+"BibAuthor": "Bezděčka, P.",
+"BibYear": "2009",
+"MatCitSpecimenCount": "2"
+},
+…
+```
+----
+
+Perhaps it is more useful to restrict the query to authors who have contributed 20 or more specimen citations.
+
+<http://plazi.cs.umb.edu/GgServer/srsStats/stats?outputFields=bib.author+bib.year+matCit.specimenCount&FP-bib.year=2004-2010&groupingFields=bib.author+bib.year&orderingFields=bib.author&AP-matCit.specimenCount=20-&format=json>
+
+```
+{"labels": {
+"DocCount": "Number of Treatments",
+"BibAuthor": "Document Author",
+"BibYear": "Year of Publication",
+"MatCitSpecimenCount": "Specimen Count (overall)"
+},
+"data": [
+{
+"DocCount": "23",
+"BibAuthor": "Alexandre C. Ribeiro",
+"BibYear": "2007",
+"MatCitSpecimenCount": "23"
+},
+{
+"DocCount": "754",
+"BibAuthor": "Alexandre P. Marceniuk",
+"BibYear": "2007",
+"MatCitSpecimenCount": "754"
+},
+{
+"DocCount": "24",
+"BibAuthor": "Alexandre Scharcansky",
+"BibYear": "2007",
+"MatCitSpecimenCount": "24"
+},
+{
+"DocCount": "313",
+"BibAuthor": "Alfred W. Thomson",
+"BibYear": "2006",
+"MatCitSpecimenCount": "313"
+},
+{
+"DocCount": "52",
+"BibAuthor": "Anton Lamboj",
+"BibYear": "2004",
+"MatCitSpecimenCount": "52"
+},
+{
+"DocCount": "26",
+"BibAuthor": "Anton Lamboj",
+"BibYear": "2005",
+"MatCitSpecimenCount": "26"
+},
+{
+"DocCount": "43",
+"BibAuthor": "Barry Chernoff",
+"BibYear": "2005",
+"MatCitSpecimenCount": "43"
+},
+…
+```
+
+Having explored some of the possibilties on getting statistical data out of GoldenGATE, we will next consider how to view the data.
+
+
+## Data visualisation in practice ##
+
+The query results can be viewed in the data visualisation component.
+
+![Overloaded chart with too many authors to show](plot_too_much_data.png "Overloaded chart") 
+
+The data visualisation component also permits filtering of results, by selecting, for example, the *top* ten authors. Exactly what they are *top* in will be determined by the original query and its `orderingFields` parameter, such as number of specimens contributed.
+
+The data visualisation tool filter has the extra benefit that it will combine the remaining results so that alongside the individual results that have been explicitly selected, the other results will be combined ans shown as *Other* as can been in 
