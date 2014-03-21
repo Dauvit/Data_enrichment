@@ -102,6 +102,7 @@ textarea {
  */
 body {
     padding: 5px;
+    line-height: 1.6;
 }
 
 .col.width-50 {
@@ -115,6 +116,7 @@ body {
 
 .form-item {
     display: block;
+    margin: 3px 0;
 }
 
 /*

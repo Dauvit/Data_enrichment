@@ -1,0 +1,1617 @@
+{"labels": {
+"DocCount": "DocCount",
+"BibAuthor": "Author",
+"BibYear": "Year",
+"MatCitSpecimenCount": "SpecimenCount"
+},
+"data": [
+{
+"DocCount": "34",
+"BibAuthor": "Charles R. Haddad",
+"BibYear": "2010",
+"MatCitSpecimenCount": "36"
+},
+{
+"DocCount": "8",
+"BibAuthor": "Dikow, T.",
+"BibYear": "2010",
+"MatCitSpecimenCount": "8"
+},
+{
+"DocCount": "6",
+"BibAuthor": "Hamm, C. A.",
+"BibYear": "2010",
+"MatCitSpecimenCount": "6"
+},
+{
+"DocCount": "1",
+"BibAuthor": "Hawkes, P. G.",
+"BibYear": "2010",
+"MatCitSpecimenCount": "1"
+},
+{
+"DocCount": "51",
+"BibAuthor": "Jeremy A. Miller",
+"BibYear": "2010",
+"MatCitSpecimenCount": "133"
+},
+{
+"DocCount": "6",
+"BibAuthor": "Joanna Gardzinska",
+"BibYear": "2010",
+"MatCitSpecimenCount": "6"
+},
+{
+"DocCount": "13",
+"BibAuthor": "Miko, L.",
+"BibYear": "2010",
+"MatCitSpecimenCount": "13"
+},
+{
+"DocCount": "57",
+"BibAuthor": "Paknia, O.",
+"BibYear": "2010",
+"MatCitSpecimenCount": "57"
+},
+{
+"DocCount": "25",
+"BibAuthor": "Peter Jaeger",
+"BibYear": "2010",
+"MatCitSpecimenCount": "25"
+},
+{
+"DocCount": "23",
+"BibAuthor": "Peter Jäger",
+"BibYear": "2010",
+"MatCitSpecimenCount": "41"
+},
+{
+"DocCount": "2",
+"BibAuthor": "Rabeling, Ch.",
+"BibYear": "2010",
+"MatCitSpecimenCount": "2"
+},
+{
+"DocCount": "7",
+"BibAuthor": "Radchenko",
+"BibYear": "2010",
+"MatCitSpecimenCount": "7"
+},
+{
+"DocCount": "47",
+"BibAuthor": "Torbjörn Kronestedt",
+"BibYear": "2010",
+"MatCitSpecimenCount": "160"
+},
+{
+"DocCount": "756",
+"BibAuthor": "Xin-Ping Wang",
+"BibYear": "2010",
+"MatCitSpecimenCount": "756"
+},
+{
+"DocCount": "2",
+"BibAuthor": "Bezděčka, P.",
+"BibYear": "2009",
+"MatCitSpecimenCount": "2"
+},
+{
+"DocCount": "8",
+"BibAuthor": "Eguchi, K.",
+"BibYear": "2009",
+"MatCitSpecimenCount": "8"
+},
+{
+"DocCount": "6",
+"BibAuthor": "Fisher, B. L.",
+"BibYear": "2009",
+"MatCitSpecimenCount": "6"
+},
+{
+"DocCount": "8",
+"BibAuthor": "Hosoishi, S.",
+"BibYear": "2009",
+"MatCitSpecimenCount": "8"
+},
+{
+"DocCount": "2",
+"BibAuthor": "Huber, Bernhard A.",
+"BibYear": "2009",
+"MatCitSpecimenCount": "2"
+},
+{
+"DocCount": "12",
+"BibAuthor": "Johnson, R. A.",
+"BibYear": "2009",
+"MatCitSpecimenCount": "12"
+},
+{
+"DocCount": "6",
+"BibAuthor": "Mahunka, S.",
+"BibYear": "2009",
+"MatCitSpecimenCount": "6"
+},
+{
+"DocCount": "1",
+"BibAuthor": "Ono, H.",
+"BibYear": "2009",
+"MatCitSpecimenCount": "1"
+},
+{
+"DocCount": "17",
+"BibAuthor": "Rogério Bertani",
+"BibYear": "2009",
+"MatCitSpecimenCount": "17"
+},
+{
+"DocCount": "433",
+"BibAuthor": "Seifert, B.",
+"BibYear": "2009",
+"MatCitSpecimenCount": "433"
+},
+{
+"DocCount": "62",
+"BibAuthor": "Shattuck, S. O.",
+"BibYear": "2009",
+"MatCitSpecimenCount": "62"
+},
+{
+"DocCount": "4",
+"BibAuthor": "Silva, R. R.",
+"BibYear": "2009",
+"MatCitSpecimenCount": "4"
+},
+{
+"DocCount": "12",
+"BibAuthor": "Smith, D. J.",
+"BibYear": "2009",
+"MatCitSpecimenCount": "12"
+},
+{
+"DocCount": "9",
+"BibAuthor": "Sorger, D. M.",
+"BibYear": "2009",
+"MatCitSpecimenCount": "9"
+},
+{
+"DocCount": "42",
+"BibAuthor": "van Noort, S.",
+"BibYear": "2009",
+"MatCitSpecimenCount": "42"
+},
+{
+"DocCount": "35",
+"BibAuthor": "Ward, P. S.",
+"BibYear": "2009",
+"MatCitSpecimenCount": "35"
+},
+{
+"DocCount": "23",
+"BibAuthor": "Bayartogtokh, B.",
+"BibYear": "2008",
+"MatCitSpecimenCount": "23"
+},
+{
+"DocCount": "1",
+"BibAuthor": "Buschinger, A.",
+"BibYear": "2008",
+"MatCitSpecimenCount": "1"
+},
+{
+"DocCount": "31",
+"BibAuthor": "Deans, A. R.",
+"BibYear": "2008",
+"MatCitSpecimenCount": "31"
+},
+{
+"DocCount": "231",
+"BibAuthor": "Feitosa, R. M.",
+"BibYear": "2008",
+"MatCitSpecimenCount": "231"
+},
+{
+"DocCount": "425",
+"BibAuthor": "Fisher, B. L.",
+"BibYear": "2008",
+"MatCitSpecimenCount": "425"
+},
+{
+"DocCount": "1",
+"BibAuthor": "Mbanyana, N.",
+"BibYear": "2008",
+"MatCitSpecimenCount": "1"
+},
+{
+"DocCount": "18",
+"BibAuthor": "Miko, L.",
+"BibYear": "2008",
+"MatCitSpecimenCount": "18"
+},
+{
+"DocCount": "567",
+"BibAuthor": "Paknia, O.",
+"BibYear": "2008",
+"MatCitSpecimenCount": "567"
+},
+{
+"DocCount": "55",
+"BibAuthor": "Sarnat, E. M.",
+"BibYear": "2008",
+"MatCitSpecimenCount": "55"
+},
+{
+"DocCount": "90",
+"BibAuthor": "Seifert, B.",
+"BibYear": "2008",
+"MatCitSpecimenCount": "90"
+},
+{
+"DocCount": "122",
+"BibAuthor": "Shattuck, S. O.",
+"BibYear": "2008",
+"MatCitSpecimenCount": "122"
+},
+{
+"DocCount": "22",
+"BibAuthor": "Weigmann, G.",
+"BibYear": "2008",
+"MatCitSpecimenCount": "22"
+},
+{
+"DocCount": "1",
+"BibAuthor": "Yamane, S.",
+"BibYear": "2008",
+"MatCitSpecimenCount": "1"
+},
+{
+"DocCount": "2",
+"BibAuthor": "Alec B. M. Moore",
+"BibYear": "2007",
+"MatCitSpecimenCount": "2"
+},
+{
+"DocCount": "23",
+"BibAuthor": "Alexandre C. Ribeiro",
+"BibYear": "2007",
+"MatCitSpecimenCount": "23"
+},
+{
+"DocCount": "754",
+"BibAuthor": "Alexandre P. Marceniuk",
+"BibYear": "2007",
+"MatCitSpecimenCount": "754"
+},
+{
+"DocCount": "24",
+"BibAuthor": "Alexandre Scharcansky",
+"BibYear": "2007",
+"MatCitSpecimenCount": "24"
+},
+{
+"DocCount": "8",
+"BibAuthor": "Alpert, G. D.",
+"BibYear": "2007",
+"MatCitSpecimenCount": "8"
+},
+{
+"DocCount": "2",
+"BibAuthor": "Benjamin C. Victor",
+"BibYear": "2007",
+"MatCitSpecimenCount": "2"
+},
+{
+"DocCount": "4",
+"BibAuthor": "Bernard Séret",
+"BibYear": "2007",
+"MatCitSpecimenCount": "4"
+},
+{
+"DocCount": "14",
+"BibAuthor": "Bihn, J. H.",
+"BibYear": "2007",
+"MatCitSpecimenCount": "14"
+},
+{
+"DocCount": "1",
+"BibAuthor": "Borowiec, M. L.",
+"BibYear": "2007",
+"MatCitSpecimenCount": "1"
+},
+{
+"DocCount": "122",
+"BibAuthor": "Brett A. Human",
+"BibYear": "2007",
+"MatCitSpecimenCount": "122"
+},
+{
+"DocCount": "3",
+"BibAuthor": "Cesar A. Castellanos-Morales",
+"BibYear": "2007",
+"MatCitSpecimenCount": "3"
+},
+{
+"DocCount": "6",
+"BibAuthor": "Christian Akum",
+"BibYear": "2007",
+"MatCitSpecimenCount": "6"
+},
+{
+"DocCount": "36",
+"BibAuthor": "Clouse, R. M.",
+"BibYear": "2007",
+"MatCitSpecimenCount": "36"
+},
+{
+"DocCount": "4",
+"BibAuthor": "Cover, S. P.",
+"BibYear": "2007",
+"MatCitSpecimenCount": "4"
+},
+{
+"DocCount": "167",
+"BibAuthor": "Csösz S.",
+"BibYear": "2007",
+"MatCitSpecimenCount": "167"
+},
+{
+"DocCount": "30",
+"BibAuthor": "David A. Ebert",
+"BibYear": "2007",
+"MatCitSpecimenCount": "30"
+},
+{
+"DocCount": "1",
+"BibAuthor": "Deyrup, M.",
+"BibYear": "2007",
+"MatCitSpecimenCount": "1"
+},
+{
+"DocCount": "301",
+"BibAuthor": "Early, J. W.",
+"BibYear": "2007",
+"MatCitSpecimenCount": "301"
+},
+{
+"DocCount": "2",
+"BibAuthor": "Eguchi, K.",
+"BibYear": "2007",
+"MatCitSpecimenCount": "2"
+},
+{
+"DocCount": "2",
+"BibAuthor": "Espadaler, X.",
+"BibYear": "2007",
+"MatCitSpecimenCount": "2"
+},
+{
+"DocCount": "51",
+"BibAuthor": "Fadl, H.",
+"BibYear": "2007",
+"MatCitSpecimenCount": "51"
+},
+{
+"DocCount": "3",
+"BibAuthor": "Fernández, F.",
+"BibYear": "2007",
+"MatCitSpecimenCount": "3"
+},
+{
+"DocCount": "12",
+"BibAuthor": "Fisher, B. L.",
+"BibYear": "2007",
+"MatCitSpecimenCount": "12"
+},
+{
+"DocCount": "52",
+"BibAuthor": "Francoeur, A.",
+"BibYear": "2007",
+"MatCitSpecimenCount": "52"
+},
+{
+"DocCount": "102",
+"BibAuthor": "Heok Hee Ng",
+"BibYear": "2007",
+"MatCitSpecimenCount": "102"
+},
+{
+"DocCount": "55",
+"BibAuthor": "Hiroyuki Motomura",
+"BibYear": "2007",
+"MatCitSpecimenCount": "55"
+},
+{
+"DocCount": "10",
+"BibAuthor": "Horácio Higuchi",
+"BibYear": "2007",
+"MatCitSpecimenCount": "10"
+},
+{
+"DocCount": "26",
+"BibAuthor": "Hugo F. Gante",
+"BibYear": "2007",
+"MatCitSpecimenCount": "26"
+},
+{
+"DocCount": "37",
+"BibAuthor": "Ian P. Jacobsen",
+"BibYear": "2007",
+"MatCitSpecimenCount": "37"
+},
+{
+"DocCount": "18",
+"BibAuthor": "I. Linthoingambi",
+"BibYear": "2007",
+"MatCitSpecimenCount": "18"
+},
+{
+"DocCount": "1",
+"BibAuthor": "Ingvar Byrkjedal",
+"BibYear": "2007",
+"MatCitSpecimenCount": "1"
+},
+{
+"DocCount": "140",
+"BibAuthor": "James D. Williams",
+"BibYear": "2007",
+"MatCitSpecimenCount": "140"
+},
+{
+"DocCount": "9",
+"BibAuthor": "Jian Yang",
+"BibYear": "2007",
+"MatCitSpecimenCount": "9"
+},
+{
+"DocCount": "37",
+"BibAuthor": "Jinlu Li",
+"BibYear": "2007",
+"MatCitSpecimenCount": "37"
+},
+{
+"DocCount": "16",
+"BibAuthor": "Jonathan H. Walsh",
+"BibYear": "2007",
+"MatCitSpecimenCount": "16"
+},
+{
+"DocCount": "21",
+"BibAuthor": "Jonathan W. Armbruster",
+"BibYear": "2007",
+"MatCitSpecimenCount": "21"
+},
+{
+"DocCount": "300",
+"BibAuthor": "Juan J. Schmitter-Soto",
+"BibYear": "2007",
+"MatCitSpecimenCount": "300"
+},
+{
+"DocCount": "29",
+"BibAuthor": "Juan Marcos Mirande",
+"BibYear": "2007",
+"MatCitSpecimenCount": "29"
+},
+{
+"DocCount": "9",
+"BibAuthor": "Katiane M. Ferreira",
+"BibYear": "2007",
+"MatCitSpecimenCount": "9"
+},
+{
+"DocCount": "48",
+"BibAuthor": "Kevin W. Conway",
+"BibYear": "2007",
+"MatCitSpecimenCount": "48"
+},
+{
+"DocCount": "69",
+"BibAuthor": "Kohout, R. J.",
+"BibYear": "2007",
+"MatCitSpecimenCount": "69"
+},
+{
+"DocCount": "1",
+"BibAuthor": "Lattke, J. E.",
+"BibYear": "2007",
+"MatCitSpecimenCount": "1"
+},
+{
+"DocCount": "335",
+"BibAuthor": "Longino, J. T.",
+"BibYear": "2007",
+"MatCitSpecimenCount": "335"
+},
+{
+"DocCount": "2",
+"BibAuthor": "Luis Fernandez",
+"BibYear": "2007",
+"MatCitSpecimenCount": "2"
+},
+{
+"DocCount": "6",
+"BibAuthor": "Luis Fernández",
+"BibYear": "2007",
+"MatCitSpecimenCount": "6"
+},
+{
+"DocCount": "41",
+"BibAuthor": "Marcelo R. S. Melo",
+"BibYear": "2007",
+"MatCitSpecimenCount": "41"
+},
+{
+"DocCount": "8",
+"BibAuthor": "Mark W. Westneat",
+"BibYear": "2007",
+"MatCitSpecimenCount": "8"
+},
+{
+"DocCount": "2",
+"BibAuthor": "Maurice Kottelat",
+"BibYear": "2007",
+"MatCitSpecimenCount": "2"
+},
+{
+"DocCount": "55",
+"BibAuthor": "Mayhé-Nunes, A. J.",
+"BibYear": "2007",
+"MatCitSpecimenCount": "55"
+},
+{
+"DocCount": "7",
+"BibAuthor": "Melanie L. J. Stiassny",
+"BibYear": "2007",
+"MatCitSpecimenCount": "7"
+},
+{
+"DocCount": "9",
+"BibAuthor": "Michael S. Taylor",
+"BibYear": "2007",
+"MatCitSpecimenCount": "9"
+},
+{
+"DocCount": "239",
+"BibAuthor": "Michael W. Littmann",
+"BibYear": "2007",
+"MatCitSpecimenCount": "239"
+},
+{
+"DocCount": "15",
+"BibAuthor": "Naércio A. Menezes",
+"BibYear": "2007",
+"MatCitSpecimenCount": "15"
+},
+{
+"DocCount": "775",
+"BibAuthor": "Nurettin Meriç",
+"BibYear": "2007",
+"MatCitSpecimenCount": "775"
+},
+{
+"DocCount": "3",
+"BibAuthor": "Ogata, K.",
+"BibYear": "2007",
+"MatCitSpecimenCount": "3"
+},
+{
+"DocCount": "6",
+"BibAuthor": "Olszanowski, Z.",
+"BibYear": "2007",
+"MatCitSpecimenCount": "6"
+},
+{
+"DocCount": "49",
+"BibAuthor": "Paul H. Skelton",
+"BibYear": "2007",
+"MatCitSpecimenCount": "49"
+},
+{
+"DocCount": "6",
+"BibAuthor": "Paulo H. F. Lucinda",
+"BibYear": "2007",
+"MatCitSpecimenCount": "6"
+},
+{
+"DocCount": "24",
+"BibAuthor": "Paul V. Loiselle",
+"BibYear": "2007",
+"MatCitSpecimenCount": "24"
+},
+{
+"DocCount": "82",
+"BibAuthor": "Peter R. Last",
+"BibYear": "2007",
+"MatCitSpecimenCount": "82"
+},
+{
+"DocCount": "40",
+"BibAuthor": "Piet Verburg",
+"BibYear": "2007",
+"MatCitSpecimenCount": "40"
+},
+{
+"DocCount": "6",
+"BibAuthor": "Prosanta Chakrabarty",
+"BibYear": "2007",
+"MatCitSpecimenCount": "6"
+},
+{
+"DocCount": "8",
+"BibAuthor": "Pyle, R. L.",
+"BibYear": "2007",
+"MatCitSpecimenCount": "8"
+},
+{
+"DocCount": "401",
+"BibAuthor": "Rabeling, Ch.",
+"BibYear": "2007",
+"MatCitSpecimenCount": "401"
+},
+{
+"DocCount": "2",
+"BibAuthor": "Rafael M. Campos-Paiva",
+"BibYear": "2007",
+"MatCitSpecimenCount": "2"
+},
+{
+"DocCount": "25",
+"BibAuthor": "Rainer Sonnenberg",
+"BibYear": "2007",
+"MatCitSpecimenCount": "25"
+},
+{
+"DocCount": "60",
+"BibAuthor": "Raphael Covain",
+"BibYear": "2007",
+"MatCitSpecimenCount": "60"
+},
+{
+"DocCount": "11",
+"BibAuthor": "Ricardo C. Benine",
+"BibYear": "2007",
+"MatCitSpecimenCount": "11"
+},
+{
+"DocCount": "47",
+"BibAuthor": "Robert H. Robins",
+"BibYear": "2007",
+"MatCitSpecimenCount": "47"
+},
+{
+"DocCount": "19",
+"BibAuthor": "Robert Schelly",
+"BibYear": "2007",
+"MatCitSpecimenCount": "19"
+},
+{
+"DocCount": "22",
+"BibAuthor": "Rodrigo L. Moura",
+"BibYear": "2007",
+"MatCitSpecimenCount": "22"
+},
+{
+"DocCount": "319",
+"BibAuthor": "Schoedl,",
+"BibYear": "2007",
+"MatCitSpecimenCount": "319"
+},
+{
+"DocCount": "2",
+"BibAuthor": "Schultz, T. R.",
+"BibYear": "2007",
+"MatCitSpecimenCount": "2"
+},
+{
+"DocCount": "5",
+"BibAuthor": "Schulz, A.",
+"BibYear": "2007",
+"MatCitSpecimenCount": "5"
+},
+{
+"DocCount": "6",
+"BibAuthor": "Sharaf, M. R.",
+"BibYear": "2007",
+"MatCitSpecimenCount": "6"
+},
+{
+"DocCount": "185",
+"BibAuthor": "Shattuck, S. O.",
+"BibYear": "2007",
+"MatCitSpecimenCount": "185"
+},
+{
+"DocCount": "195",
+"BibAuthor": "Snelling, G. C.",
+"BibYear": "2007",
+"MatCitSpecimenCount": "195"
+},
+{
+"DocCount": "29",
+"BibAuthor": "Snelling, R. R.",
+"BibYear": "2007",
+"MatCitSpecimenCount": "29"
+},
+{
+"DocCount": "8",
+"BibAuthor": "Stefano Valdesalici",
+"BibYear": "2007",
+"MatCitSpecimenCount": "8"
+},
+{
+"DocCount": "252",
+"BibAuthor": "Stevens, N. B.",
+"BibYear": "2007",
+"MatCitSpecimenCount": "252"
+},
+{
+"DocCount": "29",
+"BibAuthor": "Thiago N. A. Pereira",
+"BibYear": "2007",
+"MatCitSpecimenCount": "29"
+},
+{
+"DocCount": "26",
+"BibAuthor": "Timo Moritz",
+"BibYear": "2007",
+"MatCitSpecimenCount": "26"
+},
+{
+"DocCount": "51",
+"BibAuthor": "Trager, J. C.",
+"BibYear": "2007",
+"MatCitSpecimenCount": "51"
+},
+{
+"DocCount": "164",
+"BibAuthor": "Uriel Angel Buitrago-Suárez",
+"BibYear": "2007",
+"MatCitSpecimenCount": "164"
+},
+{
+"DocCount": "28",
+"BibAuthor": "Vinícius Abilhoa",
+"BibYear": "2007",
+"MatCitSpecimenCount": "28"
+},
+{
+"DocCount": "49",
+"BibAuthor": "Wild, A. L.",
+"BibYear": "2007",
+"MatCitSpecimenCount": "49"
+},
+{
+"DocCount": "40",
+"BibAuthor": "William T. White",
+"BibYear": "2007",
+"MatCitSpecimenCount": "40"
+},
+{
+"DocCount": "340",
+"BibAuthor": "Wilson J. E. M. Costa",
+"BibYear": "2007",
+"MatCitSpecimenCount": "340"
+},
+{
+"DocCount": "17",
+"BibAuthor": "Xu Li",
+"BibYear": "2007",
+"MatCitSpecimenCount": "17"
+},
+{
+"DocCount": "4",
+"BibAuthor": "Yamane, S.",
+"BibYear": "2007",
+"MatCitSpecimenCount": "4"
+},
+{
+"DocCount": "2",
+"BibAuthor": "Yoshimura, M.",
+"BibYear": "2007",
+"MatCitSpecimenCount": "2"
+},
+{
+"DocCount": "313",
+"BibAuthor": "Alfred W. Thomson",
+"BibYear": "2006",
+"MatCitSpecimenCount": "313"
+},
+{
+"DocCount": "9",
+"BibAuthor": "Aline R. Alencar",
+"BibYear": "2006",
+"MatCitSpecimenCount": "9"
+},
+{
+"DocCount": "2",
+"BibAuthor": "Anthony C. Gill",
+"BibYear": "2006",
+"MatCitSpecimenCount": "2"
+},
+{
+"DocCount": "340",
+"BibAuthor": "Brett A. Human",
+"BibYear": "2006",
+"MatCitSpecimenCount": "340"
+},
+{
+"DocCount": "65",
+"BibAuthor": "Carlos David de Santana",
+"BibYear": "2006",
+"MatCitSpecimenCount": "65"
+},
+{
+"DocCount": "18",
+"BibAuthor": "Charlie Huveneers",
+"BibYear": "2006",
+"MatCitSpecimenCount": "18"
+},
+{
+"DocCount": "2",
+"BibAuthor": "Dermir, Hakan",
+"BibYear": "2006",
+"MatCitSpecimenCount": "2"
+},
+{
+"DocCount": "8",
+"BibAuthor": "Diane L. Haas",
+"BibYear": "2006",
+"MatCitSpecimenCount": "8"
+},
+{
+"DocCount": "67",
+"BibAuthor": "Donald C. Taphorn B.",
+"BibYear": "2006",
+"MatCitSpecimenCount": "67"
+},
+{
+"DocCount": "5",
+"BibAuthor": "Donoso, D. A.",
+"BibYear": "2006",
+"MatCitSpecimenCount": "5"
+},
+{
+"DocCount": "31",
+"BibAuthor": "Edward O. Murdy",
+"BibYear": "2006",
+"MatCitSpecimenCount": "31"
+},
+{
+"DocCount": "38",
+"BibAuthor": "Eguchi, K.",
+"BibYear": "2006",
+"MatCitSpecimenCount": "38"
+},
+{
+"DocCount": "69",
+"BibAuthor": "E Zhang",
+"BibYear": "2006",
+"MatCitSpecimenCount": "69"
+},
+{
+"DocCount": "36",
+"BibAuthor": "Fernando C. Jerep",
+"BibYear": "2006",
+"MatCitSpecimenCount": "36"
+},
+{
+"DocCount": "7",
+"BibAuthor": "Francisco Provenzano",
+"BibYear": "2006",
+"MatCitSpecimenCount": "7"
+},
+{
+"DocCount": "22",
+"BibAuthor": "Geraldo Mendes dos Santos",
+"BibYear": "2006",
+"MatCitSpecimenCount": "22"
+},
+{
+"DocCount": "34",
+"BibAuthor": "Gordon K. Yearsley",
+"BibYear": "2006",
+"MatCitSpecimenCount": "34"
+},
+{
+"DocCount": "119",
+"BibAuthor": "Güsten, R.",
+"BibYear": "2006",
+"MatCitSpecimenCount": "119"
+},
+{
+"DocCount": "144",
+"BibAuthor": "Heok Hee Ng",
+"BibYear": "2006",
+"MatCitSpecimenCount": "144"
+},
+{
+"DocCount": "87",
+"BibAuthor": "H. H. Tan",
+"BibYear": "2006",
+"MatCitSpecimenCount": "87"
+},
+{
+"DocCount": "33",
+"BibAuthor": "Horácio Mori",
+"BibYear": "2006",
+"MatCitSpecimenCount": "33"
+},
+{
+"DocCount": "81",
+"BibAuthor": "James Wilder Orr",
+"BibYear": "2006",
+"MatCitSpecimenCount": "81"
+},
+{
+"DocCount": "11",
+"BibAuthor": "Jayna A. Schaaf-da Silva",
+"BibYear": "2006",
+"MatCitSpecimenCount": "11"
+},
+{
+"DocCount": "33",
+"BibAuthor": "J. M. Mirande",
+"BibYear": "2006",
+"MatCitSpecimenCount": "33"
+},
+{
+"DocCount": "6",
+"BibAuthor": "John P. Friel",
+"BibYear": "2006",
+"MatCitSpecimenCount": "6"
+},
+{
+"DocCount": "7",
+"BibAuthor": "Jørgen G. Nielsen",
+"BibYear": "2006",
+"MatCitSpecimenCount": "7"
+},
+{
+"DocCount": "9",
+"BibAuthor": "José L. Blanco",
+"BibYear": "2006",
+"MatCitSpecimenCount": "9"
+},
+{
+"DocCount": "16",
+"BibAuthor": "Kimberly L. Quaranta",
+"BibYear": "2006",
+"MatCitSpecimenCount": "16"
+},
+{
+"DocCount": "16",
+"BibAuthor": "LaPolla, J. S.",
+"BibYear": "2006",
+"MatCitSpecimenCount": "16"
+},
+{
+"DocCount": "8",
+"BibAuthor": "Leandro Villa-Verde",
+"BibYear": "2006",
+"MatCitSpecimenCount": "8"
+},
+{
+"DocCount": "17",
+"BibAuthor": "Lewis A. K. Barnett",
+"BibYear": "2006",
+"MatCitSpecimenCount": "17"
+},
+{
+"DocCount": "5",
+"BibAuthor": "Liu J.",
+"BibYear": "2006",
+"MatCitSpecimenCount": "5"
+},
+{
+"DocCount": "173",
+"BibAuthor": "Longino, J. T.",
+"BibYear": "2006",
+"MatCitSpecimenCount": "173"
+},
+{
+"DocCount": "27",
+"BibAuthor": "Lucila C. Protogino",
+"BibYear": "2006",
+"MatCitSpecimenCount": "27"
+},
+{
+"DocCount": "2",
+"BibAuthor": "Lynne R. Parenti",
+"BibYear": "2006",
+"MatCitSpecimenCount": "2"
+},
+{
+"DocCount": "2",
+"BibAuthor": "Margaría, C. B.",
+"BibYear": "2006",
+"MatCitSpecimenCount": "2"
+},
+{
+"DocCount": "46",
+"BibAuthor": "M. Eric Anderson",
+"BibYear": "2006",
+"MatCitSpecimenCount": "46"
+},
+{
+"DocCount": "30",
+"BibAuthor": "Michael E. Retzer",
+"BibYear": "2006",
+"MatCitSpecimenCount": "30"
+},
+{
+"DocCount": "6",
+"BibAuthor": "Murat Bilecenoglu",
+"BibYear": "2006",
+"MatCitSpecimenCount": "6"
+},
+{
+"DocCount": "3",
+"BibAuthor": "Oscar M. Lasso-Alcalá",
+"BibYear": "2006",
+"MatCitSpecimenCount": "3"
+},
+{
+"DocCount": "5",
+"BibAuthor": "Paulo H. F. Lucinda",
+"BibYear": "2006",
+"MatCitSpecimenCount": "5"
+},
+{
+"DocCount": "39",
+"BibAuthor": "Paul V. Loiselle",
+"BibYear": "2006",
+"MatCitSpecimenCount": "39"
+},
+{
+"DocCount": "21",
+"BibAuthor": "Peter R. Last",
+"BibYear": "2006",
+"MatCitSpecimenCount": "21"
+},
+{
+"DocCount": "44",
+"BibAuthor": "Peter R. Møller",
+"BibYear": "2006",
+"MatCitSpecimenCount": "44"
+},
+{
+"DocCount": "18",
+"BibAuthor": "Prosanta Chakrabarty",
+"BibYear": "2006",
+"MatCitSpecimenCount": "18"
+},
+{
+"DocCount": "6",
+"BibAuthor": "Rainer Sonnenberg",
+"BibYear": "2006",
+"MatCitSpecimenCount": "6"
+},
+{
+"DocCount": "5",
+"BibAuthor": "Ricardo Betancur-R.",
+"BibYear": "2006",
+"MatCitSpecimenCount": "5"
+},
+{
+"DocCount": "25",
+"BibAuthor": "Richard Winterbottom",
+"BibYear": "2006",
+"MatCitSpecimenCount": "25"
+},
+{
+"DocCount": "27",
+"BibAuthor": "Robert E. Schmidt",
+"BibYear": "2006",
+"MatCitSpecimenCount": "27"
+},
+{
+"DocCount": "35",
+"BibAuthor": "Rui Wang",
+"BibYear": "2006",
+"MatCitSpecimenCount": "35"
+},
+{
+"DocCount": "4",
+"BibAuthor": "Shattuck, S. O.",
+"BibYear": "2006",
+"MatCitSpecimenCount": "4"
+},
+{
+"DocCount": "4",
+"BibAuthor": "Sinaseli M. Tshibwabwa",
+"BibYear": "2006",
+"MatCitSpecimenCount": "4"
+},
+{
+"DocCount": "12",
+"BibAuthor": "Ulisses L. Gomes",
+"BibYear": "2006",
+"MatCitSpecimenCount": "12"
+},
+{
+"DocCount": "68",
+"BibAuthor": "Ulrich K. Schliewen",
+"BibYear": "2006",
+"MatCitSpecimenCount": "68"
+},
+{
+"DocCount": "1",
+"BibAuthor": "Varghese, T.",
+"BibYear": "2006",
+"MatCitSpecimenCount": "1"
+},
+{
+"DocCount": "16",
+"BibAuthor": "Vinicius A. Bertaco",
+"BibYear": "2006",
+"MatCitSpecimenCount": "16"
+},
+{
+"DocCount": "6",
+"BibAuthor": "Weigmann, G.",
+"BibYear": "2006",
+"MatCitSpecimenCount": "6"
+},
+{
+"DocCount": "3",
+"BibAuthor": "W. H. Suijker",
+"BibYear": "2006",
+"MatCitSpecimenCount": "3"
+},
+{
+"DocCount": "8",
+"BibAuthor": "Wild, A. L.",
+"BibYear": "2006",
+"MatCitSpecimenCount": "8"
+},
+{
+"DocCount": "351",
+"BibAuthor": "Wilson J. E. M. Costa",
+"BibYear": "2006",
+"MatCitSpecimenCount": "351"
+},
+{
+"DocCount": "49",
+"BibAuthor": "Yukio Iwatsuki",
+"BibYear": "2006",
+"MatCitSpecimenCount": "49"
+},
+{
+"DocCount": "26",
+"BibAuthor": "Anton Lamboj",
+"BibYear": "2005",
+"MatCitSpecimenCount": "26"
+},
+{
+"DocCount": "43",
+"BibAuthor": "Barry Chernoff",
+"BibYear": "2005",
+"MatCitSpecimenCount": "43"
+},
+{
+"DocCount": "19",
+"BibAuthor": "Brent E. Hendrixson",
+"BibYear": "2005",
+"MatCitSpecimenCount": "19"
+},
+{
+"DocCount": "26",
+"BibAuthor": "Carlos Donascimiento",
+"BibYear": "2005",
+"MatCitSpecimenCount": "26"
+},
+{
+"DocCount": "19",
+"BibAuthor": "C. Richard Robins",
+"BibYear": "2005",
+"MatCitSpecimenCount": "19"
+},
+{
+"DocCount": "29",
+"BibAuthor": "Douglass F. Hoese",
+"BibYear": "2005",
+"MatCitSpecimenCount": "29"
+},
+{
+"DocCount": "92",
+"BibAuthor": "Duane E. Stevenson",
+"BibYear": "2005",
+"MatCitSpecimenCount": "92"
+},
+{
+"DocCount": "25",
+"BibAuthor": "Flora M. C. Fernandes",
+"BibYear": "2005",
+"MatCitSpecimenCount": "25"
+},
+{
+"DocCount": "7",
+"BibAuthor": "Frans B. M. Vermeulen",
+"BibYear": "2005",
+"MatCitSpecimenCount": "7"
+},
+{
+"DocCount": "24",
+"BibAuthor": "Gastón Aguilera",
+"BibYear": "2005",
+"MatCitSpecimenCount": "24"
+},
+{
+"DocCount": "192",
+"BibAuthor": "Heok Hee Ng",
+"BibYear": "2005",
+"MatCitSpecimenCount": "192"
+},
+{
+"DocCount": "16",
+"BibAuthor": "Hiroyuki Motomura",
+"BibYear": "2005",
+"MatCitSpecimenCount": "16"
+},
+{
+"DocCount": "161",
+"BibAuthor": "Hovenkamp PH",
+"BibYear": "2005",
+"MatCitSpecimenCount": "161"
+},
+{
+"DocCount": "9",
+"BibAuthor": "Jie Li",
+"BibYear": "2005",
+"MatCitSpecimenCount": "9"
+},
+{
+"DocCount": "43",
+"BibAuthor": "John E. McCosker",
+"BibYear": "2005",
+"MatCitSpecimenCount": "43"
+},
+{
+"DocCount": "57",
+"BibAuthor": "John P. Sullivan",
+"BibYear": "2005",
+"MatCitSpecimenCount": "57"
+},
+{
+"DocCount": "11",
+"BibAuthor": "John S. Sparks",
+"BibYear": "2005",
+"MatCitSpecimenCount": "11"
+},
+{
+"DocCount": "46",
+"BibAuthor": "Jonathan W. Armbruster",
+"BibYear": "2005",
+"MatCitSpecimenCount": "46"
+},
+{
+"DocCount": "335",
+"BibAuthor": "Lilian Casatti",
+"BibYear": "2005",
+"MatCitSpecimenCount": "335"
+},
+{
+"DocCount": "24",
+"BibAuthor": "Marshal Hedin",
+"BibYear": "2005",
+"MatCitSpecimenCount": "196"
+},
+{
+"DocCount": "15",
+"BibAuthor": "M. E. Anderson",
+"BibYear": "2005",
+"MatCitSpecimenCount": "15"
+},
+{
+"DocCount": "20",
+"BibAuthor": "M. Eric Anderson",
+"BibYear": "2005",
+"MatCitSpecimenCount": "20"
+},
+{
+"DocCount": "31",
+"BibAuthor": "Michael E. Retzer",
+"BibYear": "2005",
+"MatCitSpecimenCount": "31"
+},
+{
+"DocCount": "65",
+"BibAuthor": "Mónica S. Rodríguez",
+"BibYear": "2005",
+"MatCitSpecimenCount": "65"
+},
+{
+"DocCount": "74",
+"BibAuthor": "Oscar Akio Shibatta",
+"BibYear": "2005",
+"MatCitSpecimenCount": "74"
+},
+{
+"DocCount": "58",
+"BibAuthor": "Peter R. Last",
+"BibYear": "2005",
+"MatCitSpecimenCount": "58"
+},
+{
+"DocCount": "31",
+"BibAuthor": "Prosanta Chakrabarty",
+"BibYear": "2005",
+"MatCitSpecimenCount": "31"
+},
+{
+"DocCount": "31",
+"BibAuthor": "Ricardo Betancur-R.",
+"BibYear": "2005",
+"MatCitSpecimenCount": "31"
+},
+{
+"DocCount": "29",
+"BibAuthor": "Robert J. Raven",
+"BibYear": "2005",
+"MatCitSpecimenCount": "29"
+},
+{
+"DocCount": "30",
+"BibAuthor": "Rocío Rodiles-Hernández",
+"BibYear": "2005",
+"MatCitSpecimenCount": "30"
+},
+{
+"DocCount": "3",
+"BibAuthor": "Schmelz. R. M.",
+"BibYear": "2005",
+"MatCitSpecimenCount": "3"
+},
+{
+"DocCount": "20",
+"BibAuthor": "Shattuck, S. O.",
+"BibYear": "2005",
+"MatCitSpecimenCount": "20"
+},
+{
+"DocCount": "278",
+"BibAuthor": "Thomas H. Fraser",
+"BibYear": "2005",
+"MatCitSpecimenCount": "278"
+},
+{
+"DocCount": "22",
+"BibAuthor": "Ward, P. S.",
+"BibYear": "2005",
+"MatCitSpecimenCount": "22"
+},
+{
+"DocCount": "187",
+"BibAuthor": "Wild, A. L.",
+"BibYear": "2005",
+"MatCitSpecimenCount": "187"
+},
+{
+"DocCount": "3",
+"BibAuthor": "William F. Smith-Vaniz",
+"BibYear": "2005",
+"MatCitSpecimenCount": "3"
+},
+{
+"DocCount": "43",
+"BibAuthor": "William T. White",
+"BibYear": "2005",
+"MatCitSpecimenCount": "43"
+},
+{
+"DocCount": "79",
+"BibAuthor": "Wilson J. E. M. Costa",
+"BibYear": "2005",
+"MatCitSpecimenCount": "79"
+},
+{
+"DocCount": "7",
+"BibAuthor": "Wolmar B. Wosiacki",
+"BibYear": "2005",
+"MatCitSpecimenCount": "7"
+},
+{
+"DocCount": "6",
+"BibAuthor": "Aline R. Alencar",
+"BibYear": "2004",
+"MatCitSpecimenCount": "6"
+},
+{
+"DocCount": "7",
+"BibAuthor": "Anthony C. Gill",
+"BibYear": "2004",
+"MatCitSpecimenCount": "7"
+},
+{
+"DocCount": "52",
+"BibAuthor": "Anton Lamboj",
+"BibYear": "2004",
+"MatCitSpecimenCount": "52"
+},
+{
+"DocCount": "6",
+"BibAuthor": "Brent E. Hendrixson",
+"BibYear": "2004",
+"MatCitSpecimenCount": "6"
+},
+{
+"DocCount": "26",
+"BibAuthor": "Carl J. Ferraris, Jr.",
+"BibYear": "2004",
+"MatCitSpecimenCount": "26"
+},
+{
+"DocCount": "117",
+"BibAuthor": "Carlos David de Santana",
+"BibYear": "2004",
+"MatCitSpecimenCount": "117"
+},
+{
+"DocCount": "7",
+"BibAuthor": "Dubovikov, D. A.",
+"BibYear": "2004",
+"MatCitSpecimenCount": "7"
+},
+{
+"DocCount": "25",
+"BibAuthor": "Francisco Langeani",
+"BibYear": "2004",
+"MatCitSpecimenCount": "25"
+},
+{
+"DocCount": "8",
+"BibAuthor": "Gerald R. Allen",
+"BibYear": "2004",
+"MatCitSpecimenCount": "8"
+},
+{
+"DocCount": "106",
+"BibAuthor": "Heok Hee Ng",
+"BibYear": "2004",
+"MatCitSpecimenCount": "106"
+},
+{
+"DocCount": "22",
+"BibAuthor": "Hernan López-Fernández",
+"BibYear": "2004",
+"MatCitSpecimenCount": "22"
+},
+{
+"DocCount": "3",
+"BibAuthor": "Hugo Ricardo Secioso Santos",
+"BibYear": "2004",
+"MatCitSpecimenCount": "3"
+},
+{
+"DocCount": "16",
+"BibAuthor": "James L. Van Tassell",
+"BibYear": "2004",
+"MatCitSpecimenCount": "16"
+},
+{
+"DocCount": "2",
+"BibAuthor": "Javier A. Maldonado-Ocampo",
+"BibYear": "2004",
+"MatCitSpecimenCount": "2"
+},
+{
+"DocCount": "2",
+"BibAuthor": "Jeffrey T. Williams",
+"BibYear": "2004",
+"MatCitSpecimenCount": "2"
+},
+{
+"DocCount": "4",
+"BibAuthor": "John S. Sparks",
+"BibYear": "2004",
+"MatCitSpecimenCount": "4"
+},
+{
+"DocCount": "2",
+"BibAuthor": "Jonathan S. Ready",
+"BibYear": "2004",
+"MatCitSpecimenCount": "2"
+},
+{
+"DocCount": "4",
+"BibAuthor": "Jonathan W. Armbruster",
+"BibYear": "2004",
+"MatCitSpecimenCount": "4"
+},
+{
+"DocCount": "8",
+"BibAuthor": "Jules M. R. Soto",
+"BibYear": "2004",
+"MatCitSpecimenCount": "8"
+},
+{
+"DocCount": "21",
+"BibAuthor": "Lacau, S.",
+"BibYear": "2004",
+"MatCitSpecimenCount": "21"
+},
+{
+"DocCount": "7",
+"BibAuthor": "Longino, J. T.",
+"BibYear": "2004",
+"MatCitSpecimenCount": "7"
+},
+{
+"DocCount": "13",
+"BibAuthor": "Maurice Kottelat",
+"BibYear": "2004",
+"MatCitSpecimenCount": "13"
+},
+{
+"DocCount": "1",
+"BibAuthor": "M. C. Oddone",
+"BibYear": "2004",
+"MatCitSpecimenCount": "1"
+},
+{
+"DocCount": "2",
+"BibAuthor": "Phillip C. Heemstra",
+"BibYear": "2004",
+"MatCitSpecimenCount": "2"
+},
+{
+"DocCount": "31",
+"BibAuthor": "Randall D. Mooi",
+"BibYear": "2004",
+"MatCitSpecimenCount": "31"
+},
+{
+"DocCount": "50",
+"BibAuthor": "Ricardo Betancur-R.",
+"BibYear": "2004",
+"MatCitSpecimenCount": "50"
+},
+{
+"DocCount": "5",
+"BibAuthor": "Ricardo Z. P. Guimarães",
+"BibYear": "2004",
+"MatCitSpecimenCount": "5"
+},
+{
+"DocCount": "10",
+"BibAuthor": "Robert E. Schmidt",
+"BibYear": "2004",
+"MatCitSpecimenCount": "10"
+},
+{
+"DocCount": "3",
+"BibAuthor": "Sergio M. Q. Lima",
+"BibYear": "2004",
+"MatCitSpecimenCount": "3"
+},
+{
+"DocCount": "36",
+"BibAuthor": "Victor G. Springer",
+"BibYear": "2004",
+"MatCitSpecimenCount": "36"
+},
+{
+"DocCount": "38",
+"BibAuthor": "Waichert, C.",
+"BibYear": "2004",
+"MatCitSpecimenCount": "38"
+},
+{
+"DocCount": "31",
+"BibAuthor": "Wilson J. E. M. Costa",
+"BibYear": "2004",
+"MatCitSpecimenCount": "31"
+},
+{
+"DocCount": "8",
+"BibAuthor": "Wolmar Benjamin Wosiacki",
+"BibYear": "2004",
+"MatCitSpecimenCount": "8"
+},
+{
+"DocCount": "2",
+"BibAuthor": "Zacharias, M.",
+"BibYear": "2004",
+"MatCitSpecimenCount": "2"
+}
+]
+}

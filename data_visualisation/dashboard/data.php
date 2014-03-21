@@ -34,7 +34,7 @@ function get_specimens() {
     return $data;
 }
 
-function get_data_from_url($url, $timeout = 5) {
+function get_json_from_url($url, $timeout = 5) {
     if (!hasCurl())
         exit("Error: CURL is not enabled in PHP.");
 
@@ -47,7 +47,7 @@ function get_data_from_url($url, $timeout = 5) {
     curl_setopt($curl_handle, CURLOPT_URL, $url);
     $result = curl_exec($curl_handle);
     curl_close($curl_handle);
-    return $result;
+    return json_decode($result, true);
 }
 
 /**
@@ -75,166 +75,63 @@ function get_data_from_url($url, $timeout = 5) {
  *      output. The remaining series are put in series "Other".
  *
  */
-function get_citations_from_file($filename, $delimiter=',', $maxseries = 10) {
+function get_citations_from_json($url, $filename, $maxseries = 10) {
     $header = NULL;
     $data = array();
     $authors = array("Other" => array());
     $authors_outher = array();
     $years = array();
     $nseries = 0;
-    if (($handle = fopen($filename, 'r')) !== FALSE)
-    {
-        while (($row = fgetcsv($handle, 0, $delimiter)) !== FALSE)
-        {
-            if(!$header)
-                $header = $row;
-            else {
-                $row = array_combine($header, $row);
-                $author = $row['BibAuthor'];
-                $year = $row['BibYear'];
-                $specimen_count = intval($row['MatCitSpecimenCount']);
 
-                // Create an array for each author.
-                if (!in_array($author, $authors)) {
-                    if ($nseries < $maxseries) {
-                        $authors[$author] = array();
-                        $nseries++;
-                    }
-                    // When we've reached the series limit, add remaining
-                    // authors to the group "Others".
-                    else if ( !in_array($author, $authors_outher) ) {
-                        $authors_outher[] = $author;
-                    }
-                }
-                // Keep a list of the years in the dataset.
-                if (!in_array($year, $years)) {
-                    $years[] = $year;
-                }
-                // Group selected authors in "Other".
-                if ( in_array($author, $authors_outher) ) {
-                    $author = "Other";
-                }
-                // Add the author and citation count per year.
-                if ( in_array($year, $authors[$author]) )
-                    $authors[$author][$year] += $specimen_count;
-                else
-                    $authors[$author][$year] = $specimen_count;
-            }
-        }
+    if ($url) {
+        $citations = get_json_from_url($url);
+    }
+    else if ( $filename and ($handle = fopen($filename, 'r')) !== FALSE ) {
+        $citations = file_get_contents($filename);
+        $citations = json_decode($citations, true);
         fclose($handle);
     }
     else {
-        exit("Failed to open file.\n");
+        exit("Error: No valid URL or file specified.");
     }
 
-    // Construct data in the proper format for use with jqPlot.
-    sort($years);
-    ksort($authors);
+    //print_r($citations);
+    //exit();
 
-    /// Set the series (authors).
-    $data['series'] = array();
-    foreach ($authors as $author => $val) {
-        $data['series'][] = array("label" => $author);
-    }
+    if (!count($citations['data']) > 1)
+        exit("Expected more data.\n");
 
-    /// Set the citation counts per author per year.
-    $data['data'] = array();
-    foreach ($authors as $author => $val) {
+    foreach ($citations['data'] as $row)
+    {
+        $author = $row['BibAuthor'];
+        $year = $row['BibYear'];
+        $specimen_count = intval($row['MatCitSpecimenCount']);
+
+        // Create an array for each author.
+        if (!in_array($author, $authors)) {
+            if ($nseries < $maxseries) {
+                $authors[$author] = array();
+                $nseries++;
+            }
+            // When we've reached the series limit, add remaining
+            // authors to the group "Others".
+            else if ( !in_array($author, $authors_outher) ) {
+                $authors_outher[] = $author;
+            }
+        }
+        // Keep a list of the years in the dataset.
+        if (!in_array($year, $years)) {
+            $years[] = $year;
+        }
+        // Group selected authors in "Other".
         if ( in_array($author, $authors_outher) ) {
             $author = "Other";
         }
-        $citations = array();
-        foreach ($years as $year) {
-            $citations[] = isset($authors[$author][$year]) ? $authors[$author][$year] : 0;
-        }
-        $data['data'][] = $citations;
-    }
-
-    /// Set the X-axis labels.
-    $data['xlabels'] = $years;
-
-    return $data;
-}
-
-/**
- * Get citations data from a CSV file and output as JSON.
- *
- * JSON is outputted in the format,
- *
- *  {
- *      "data": [
- *          [2, 6, 7, 10],
- *          [7, 5, 3, 4],
- *          [14, 9, 3, 8]
- *      ],
- *      "series": {
- *          ["label": "Author 1"],
- *          ["label": "Author 2"],
- *          ["label": "Author 3"]
- *      },
- *      "xlabels": ["2010", "2011", "2012", "2013"]
- *  }
- *
- * @param string $filename Path to CSV file.
- * @param string $delimiter Delimiter for reading CSV file.
- * @param string $maxseries Maximum number of series (i.e. authors) to
- *      output. The remaining series are put in series "Other".
- *
- */
-function get_citations_from_url($url, $delimiter=',', $maxseries = 10) {
-    $header = NULL;
-    $data = array();
-    $authors = array("Other" => array());
-    $authors_outher = array();
-    $years = array();
-    $nseries = 0;
-    $citations = get_data_from_url($url);
-    $citations = explode(PHP_EOL, $citations);
-
-    if (!count($citations) > 1)
-        exit("Expected more data.\n");
-
-    foreach ($citations as $row)
-    {
-        $row = str_getcsv($row, $delimiter);
-
-        if (!$header)
-            $header = $row;
-        else {
-            if ( count($row) != count($header) )
-                continue;
-
-            $row = array_combine($header, $row);
-            $author = $row['BibAuthor'];
-            $year = $row['BibYear'];
-            $specimen_count = intval($row['MatCitSpecimenCount']);
-
-            // Create an array for each author.
-            if (!in_array($author, $authors)) {
-                if ($nseries < $maxseries) {
-                    $authors[$author] = array();
-                    $nseries++;
-                }
-                // When we've reached the series limit, add remaining
-                // authors to the group "Others".
-                else if ( !in_array($author, $authors_outher) ) {
-                    $authors_outher[] = $author;
-                }
-            }
-            // Keep a list of the years in the dataset.
-            if (!in_array($year, $years)) {
-                $years[] = $year;
-            }
-            // Group selected authors in "Other".
-            if ( in_array($author, $authors_outher) ) {
-                $author = "Other";
-            }
-            // Add the author and citation count per year.
-            if ( in_array($year, $authors[$author]) )
-                $authors[$author][$year] += $specimen_count;
-            else
-                $authors[$author][$year] = $specimen_count;
-        }
+        // Add the author and citation count per year.
+        if ( in_array($year, $authors[$author]) )
+            $authors[$author][$year] += $specimen_count;
+        else
+            $authors[$author][$year] = $specimen_count;
     }
 
     // Construct data in the proper format for use with jqPlot.
@@ -290,9 +187,11 @@ foreach ($_GET as $key => $value) {
         $data[$key] = get_specimens();
     }
     else if ( $key == 'citations') {
-        //$data[$key] = get_citations_from_file("citations.csv", ',', $maxseries);
-        $url = "http://plazi.cs.umb.edu/GgServer/srsStats/stats?outputFields=bib.author+bib.year+matCit.specimenCount&FP-bib.year=2004-2010&groupingFields=bib.author+bib.year&orderingFields=bib.year&format=csv";
-        $data[$key] = get_citations_from_url($url, ',', $maxseries);
+        $url = "http://plazi.cs.umb.edu/GgServer/srsStats/stats?outputFields=bib.author+bib.year+matCit.specimenCount&FP-bib.year=2004-2010&groupingFields=bib.author+bib.year&orderingFields=bib.year&format=json";
+        $data[$key] = get_citations_from_json($url, null, $maxseries);
+        //$data[$key] = get_citations_from_json("http://hacking.localhost/citations.json", null, $maxseries);
+        //$data[$key] = get_citations_from_json(null, "citations.json", $maxseries);
+
     }
     else if ( $key == 'georef') {
         $data[$key] = get_georef();
