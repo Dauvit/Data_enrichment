@@ -8,13 +8,13 @@ function get_institutions() {
     $a = rand(0, 50);
     $b = rand(0, 50);
     $c = 100 - $a + $b;
-    $data = [
-        [
-            ["Institution 1", $a],
-            ["Institution 2", $b],
-            ["Institution 3", $c]
-        ]
-    ];
+    $data = array(
+        array(
+            array("Institution 1", $a),
+            array("Institution 2", $b),
+            array("Institution 3", $c)
+        )
+    );
     return $data;
 }
 
@@ -22,21 +22,21 @@ function get_species() {
     $a = rand(0, 50);
     $b = rand(0, 50);
     $c = 100 - $a + $b;
-    $data = [
-        [
-            ["Adult male", $a],
-            ["Adult female", $b],
-            ["Other", $c]
-        ]
-    ];
+    $data = array(
+        array(
+            array("Adult male", $a),
+            array("Adult female", $b),
+            array("Other", $c)
+        )
+    );
     return $data;
 }
 
 function get_specimens() {
-    $data = [
-        "ticks" => ["2009", "2010", "2011", "2012", "2013", "2014"],
-        "data" => [ [rand(4148, 5148), rand(500, 1000), rand(10, 64), 0, 2, 0] ]
-    ];
+    $data = array(
+        "ticks" => array("2009", "2010", "2011", "2012", "2013", "2014"),
+        "data" => array( array(rand(4148, 5148), rand(500, 1000), rand(10, 64), 0, 2, 0) )
+    );
     return $data;
 }
 
@@ -170,11 +170,11 @@ function get_citations_from_json($url, $filename, $maxseries = 10) {
 }
 
 function get_georef() {
-    $data = [
-        ["latLng" => [52.50, 13.39], "name" => "Citation 1"],
-        ["latLng" => [53.56, 10.00], "name" => "Citation 2"],
-        ["latLng" => [48.13, 11.56], "name" => "Citation 3"]
-    ];
+    $data = array(
+        array("latLng" => array(52.50, 13.39), "name" => "Citation 1"),
+        array("latLng" => array(53.56, 10.00), "name" => "Citation 2"),
+        array("latLng" => array(48.13, 11.56), "name" => "Citation 3")
+    );
     return $data;
 }
 
