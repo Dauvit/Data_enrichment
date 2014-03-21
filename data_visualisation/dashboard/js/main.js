@@ -2,7 +2,7 @@ jQuery.jqplot.config.enablePlugins = true;
 
 jQuery(document).ready(function($){
 
-    var data_url_base = "http://hacking.localhost/data.php?f=json&";
+    var data_url_base = "data.php?f=json&";
 
     function ajaxGetData(url) {
         var ret = null;
@@ -123,7 +123,6 @@ jQuery(document).ready(function($){
                         },
                     },
                     yaxis: {
-                        //renderer: $.jqplot.LogAxisRenderer,
                         // Don't pad out the bottom of the data range.  By default,
                         // axes scaled as if data extended 10% above and below the
                         // actual range to prevent data points right on grid boundaries.
@@ -205,15 +204,9 @@ jQuery(document).ready(function($){
         // Get JSON data from a URL.
         data = ajaxGetData(data_url_base + form_get);
 
-        //$("#request-data").attr('src', data_url_base + form_get).ready(function(){
-        //    console.log("Got data..." + data);
-        //});
-
+        // Update plots.
         if (data) {
-            // Update plots.
-            console.log("Refreshing plots...");
             drawPlots(data);
         }
     });
-
 });

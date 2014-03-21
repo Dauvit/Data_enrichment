@@ -5,22 +5,28 @@ function hasCurl(){
 }
 
 function get_institutions() {
+    $a = rand(0, 50);
+    $b = rand(0, 50);
+    $c = 100 - $a + $b;
     $data = [
         [
-            ["Institution 1", 9],
-            ["Institution 2", 8],
-            ["Institution 3", 7]
+            ["Institution 1", $a],
+            ["Institution 2", $b],
+            ["Institution 3", $c]
         ]
     ];
     return $data;
 }
 
 function get_species() {
+    $a = rand(0, 50);
+    $b = rand(0, 50);
+    $c = 100 - $a + $b;
     $data = [
         [
-            ["Adult male", 51],
-            ["Adult female", 46],
-            ["Other", 2]
+            ["Adult male", $a],
+            ["Adult female", $b],
+            ["Other", $c]
         ]
     ];
     return $data;
@@ -173,8 +179,8 @@ function get_georef() {
 }
 
 $data = array();
-
 $maxseries = isset($_GET['maxseries']) ? $_GET['maxseries'] : 10;
+$settings = array();
 
 foreach ($_GET as $key => $value) {
     if ( $key == 'institutions') {
@@ -187,7 +193,14 @@ foreach ($_GET as $key => $value) {
         $data[$key] = get_specimens();
     }
     else if ( $key == 'citations') {
-        $url = "http://plazi.cs.umb.edu/GgServer/srsStats/stats?outputFields=bib.author+bib.year+matCit.specimenCount&FP-bib.year=2004-2010&groupingFields=bib.author+bib.year&orderingFields=bib.year&format=json";
+        // Assemble settings array for the URL.
+        if ( !empty($_GET["FP-bib_year"]) ) {
+            $settings["FP-bib.year"] = $_GET["FP-bib_year"];
+        }
+
+        $url = "http://plazi.cs.umb.edu/GgServer/srsStats/stats?outputFields=bib.author+bib.year+matCit.specimenCount&groupingFields=bib.author+bib.year&orderingFields=bib.year&format=json";
+        $url .= "&" . http_build_query($settings);
+
         $data[$key] = get_citations_from_json($url, null, $maxseries);
         //$data[$key] = get_citations_from_json("http://hacking.localhost/citations.json", null, $maxseries);
         //$data[$key] = get_citations_from_json(null, "citations.json", $maxseries);
