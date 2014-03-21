@@ -4,6 +4,8 @@ This git repository is for the [data visualisation task’s](http://wiki.pro-ibi
 
 ## Folders ##
 
+**dashboard:** data visualisation component source code
+
 **use_case:** e-mail and files from Jeremy setting out the use case for this task
 
-**test_pages:** experiments with JQPlot
+**test_pages:** experiments with accessing remote javascript files
